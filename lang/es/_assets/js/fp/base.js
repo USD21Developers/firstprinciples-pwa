@@ -177,7 +177,12 @@ fp.phrase = phraseObj => {
       }
     }
     if (href.length > 0) {
-      changeHTMLAfter = '<a href="' + href + '" target="_blank" rel="noreferrer">' + changeHTMLAfter + '</a>';
+      const isLinkExternal = ((href.indexOf('http://')>=0) || (href.indexOf('https://')>=0));
+      if (isLinkExternal) {
+        changeHTMLAfter = '<a href="' + href + '" target="_blank" rel="noreferrer">' + changeHTMLAfter + '</a>';
+      } else {
+        changeHTMLAfter = '<a href="' + href + '">' + changeHTMLAfter + '</a>';
+      }
     }
     phraseHTML = phraseHTML.replace(changeHTMLBefore, changeHTMLAfter);
   }
