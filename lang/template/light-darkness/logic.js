@@ -214,13 +214,13 @@
                     <tr>
                       <td class="center">
                         <br>
-                        <i class="fas fa-cross fa-3x"></i><br>
+                        <i class="fa fa-cross fa-3x"></i><br>
                         ${phrase(70)}<br>
                         <br>
                       </td>
                       <td class="center">
                         <br>
-                        <i class="fas fa-cross fa-3x"></i><br>
+                        <i class="fa fa-cross fa-3x"></i><br>
                         ${phrase(73)}<br>
                         ${phrase(74)}<br>
                         <br>
@@ -229,8 +229,9 @@
                     <tr>
                       <td class="center">
                         <br>
-                        <i class="fas fa-share fa-3x fa-rotate-90"></i><br>
-                        <table class="brown light-darkness_baptism-earth" style="margin-top: 2px">
+                        <img src="../_assets/css/fontawesome-free-5.11.2-web/svgs/solid/share.svg" class="l-d-arrow l-d-arrow-down" />
+                        <div class="earth"></div>
+                        <table class="brown light-darkness_baptism-earth">
                           <tbody>
                             <tr>
                               <td class="center white-text">
@@ -243,8 +244,9 @@
                       </td>
                       <td class="center">
                         <br>
-                        <i class="fas fa-share fa-3x fa-rotate-90"></i><br>
-                        <table class="blue light-darkness_baptism-water" style="margin-top: 2px">
+                        <img src="../_assets/css/fontawesome-free-5.11.2-web/svgs/solid/share.svg" class="l-d-arrow l-d-arrow-down" />
+                        <div class="wave"></div>
+                        <table class="blue light-darkness_baptism-water">
                           <tbody>
                             <tr>
                               <td class="center white-text">
@@ -260,7 +262,8 @@
                       <td class="center" style="vertical-align: bottom">
                         <br>
                         ${phrase(72)}<br>
-                        <i class="fas fa-share fa-3x"></i><br>
+                        <img src="../_assets/css/fontawesome-free-5.11.2-web/svgs/solid/share.svg" class="l-d-arrow" />
+                        <div class="earth"></div>
                         <table class="brown light-darkness_baptism-earth">
                           <tbody>
                             <tr>
@@ -275,7 +278,8 @@
                       <td class="center" style="vertical-align: bottom">
                         <br>
                         ${phrase(76)}<br>
-                        <i class="fas fa-share fa-3x"></i><br>
+                        <img src="../_assets/css/fontawesome-free-5.11.2-web/svgs/solid/share.svg" class="l-d-arrow" />
+                        <div class="wave"></div>
                         <table class="blue light-darkness_baptism-water">
                           <tbody>
                             <tr>
@@ -327,7 +331,7 @@
                       </td>
                     </tr>
                     <tr>
-                      <td class="center">
+                      <td class="center" style="vertical-align: top">
                         ${phrase(88)}<br>
                         ${phrase(89)}<br>
                       </td>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="john-3-34-36" lang="pt" version="NVI-PT" edition="2000">
-	<passage title="" book="" title-en="John 3:34-36" book-en="John">
+	<passage title="João 3:34-36" book="João" title-en="John 3:34-36" book-en="John">
 		<chapter number="3" number-en="3">
 			<verse number="34" number-en="34">
-				
+				Pois aquele que Deus enviou fala as palavras de Deus, porque ele dá o Espírito sem limitações.
 			</verse>
 			<verse number="35" number-en="35">
-				
+				O Pai ama o Filho e entregou tudo em suas mãos.
 			</verse>
 			<verse number="36" number-en="36">
-				
+				Quem crê no Filho tem a vida eterna; já quem rejeita o Filho não verá a vida, mas a ira de Deus permanece sobre ele".
 			</verse>
 		</chapter>
 	</passage>

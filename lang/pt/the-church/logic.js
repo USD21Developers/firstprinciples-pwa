@@ -29,15 +29,15 @@
               <tbody>
                 <tr>
                   <td><div>${phrase(4)}</div></td>
-                  <td class="right"><div class="head"><i class="fas fa-long-arrow-alt-right fa-2x"></i></div></td>
+                  <td class="right"><div class="head"><i class="fa fa-long-arrow-alt-right fa-2x"></i></div></td>
                   <td rowspan="2"><img src="../_assets/img/body.png" width="86" height="187" class="responsive-img"></td>
-                  <td><div class="head"><i class="fas fa-long-arrow-alt-left fa-2x"></i></div></td>
+                  <td><div class="head"><i class="fa fa-long-arrow-alt-left fa-2x"></i></div></td>
                   <td><div class="head">${phrase(5)}</div></td>
                 </tr>
                 <tr>
                   <td><div class="body">${phrase(6)}</div></td>
-                  <td class="right"><div class="body"><i class="fas fa-long-arrow-alt-right fa-2x"></i></div></td>
-                  <td><div class="body"><i class="fas fa-long-arrow-alt-left fa-2x"></i></div></td>
+                  <td class="right"><div class="body"><i class="fa fa-long-arrow-alt-right fa-2x"></i></div></td>
+                  <td><div class="body"><i class="fa fa-long-arrow-alt-left fa-2x"></i></div></td>
                   <td><div class="body">${phrase(7)}</div></td>
                 </tr>
               </tbody>
@@ -74,7 +74,7 @@
                       </td>
                       <td>
                         <div class="center">
-                          <i class="fas fa-minus fa-2x god-christian-left"></i>
+                          <i class="fa fa-minus fa-2x god-christian-left"></i>
                         </div>
                       </td>
                       <td>
@@ -82,7 +82,7 @@
                       </td>
                       <td>
                         <div class="center">
-                          <i class="fas fa-minus fa-2x god-christian-right"></i>
+                          <i class="fa fa-minus fa-2x god-christian-right"></i>
                         </div>
                       </td>
                       <td>
@@ -98,7 +98,7 @@
                       </td>
                       <td>
                         <div class="center">
-                          <i class="fas fa-minus fa-2x"></i>
+                          <i class="fa fa-minus fa-2x"></i>
                         </div>
                       </td>
                       <td>
@@ -108,7 +108,7 @@
                       </td>
                       <td>
                         <div class="center">
-                          <i class="fas fa-minus fa-2x"></i>
+                          <i class="fa fa-minus fa-2x"></i>
                         </div>
                       </td>
                       <td>

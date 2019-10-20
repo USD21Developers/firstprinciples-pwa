@@ -1,12 +1,4 @@
-/* Custom Stylesheet */
-/**
- * Use this file to override Materialize files so you can update
- * the core Materialize files in the future
- *
- * Made By MaterializeCSS.com
- */
-
- body,
+body,
  #scriptureModal,
  .collection .collection-item {
   background-color: #efefef;
@@ -26,6 +18,10 @@
 
 strong {
   font-weight: bold;
+}
+
+.fp_pagehead {
+  font-weight: 700;
 }
 
 .fp_pagecontent {
@@ -93,6 +89,23 @@ ul.compact li {
   margin: 4px 18px;
   float: left;
   position: relative;
+  display: inline-block;
+  padding: 0;
+  width: 60px;
+  height: auto;
+  margin: 0;
+  text-align: center;
+  z-index: 100;
+}
+
+@media screen and (max-width: 600px) { 
+  .homeicon {
+    top: 3px;
+  }
+}
+
+.homeicon .fa-home {
+  height: auto;
 }
 
 span.jesuswords {
@@ -213,6 +226,11 @@ blockquote {
   position: absolute;
 }
 
+.page-footer {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 table.firstColNoWrap td:nth-child(1) {
   white-space: nowrap;
   vertical-align: top;
@@ -234,8 +252,13 @@ ul.showdiscs li {
   padding-left: 5px;
 }
 
-#install-button {
-  margin: .85rem .55rem;
-  float: right;
-  position: relative; 
+.fpmodule_footer {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#install-button-container {
+  display: none;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }

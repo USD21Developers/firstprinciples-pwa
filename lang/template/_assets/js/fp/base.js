@@ -45,6 +45,36 @@ fp.loadKeys = async fromKey => {
   });
 };
 
+fp.showFooter = (key, lang) => {
+  const urlPrefix = fp.getPath(key, lang);
+  const urlContent = urlPrefix + 'global/footer/content.xml';
+  const urlLogic = urlPrefix + 'global/footer/logic.js';
+  return new Promise((resolve, reject) => {
+    $.ajax({
+      url: urlContent,
+      error: err => {
+        console.error(err);
+        reject(error);
+      },
+      success: content => {
+        fp.view.footer = content;
+        $.ajax({
+          url: urlLogic,
+          dataType: 'script',
+          cache: true,
+          error: err => {
+            console.error(err);
+          },
+          success: () => {
+            $('.page-footer').removeClass('hide');
+            resolve();
+          }
+        });
+      }
+    });  
+  });
+};
+
 fp.showContent = (key, lang, selector) => {
   if (! selector) selector = '.fp_pagecontent';
   let urlPrefix = fp.getPath(key, lang);
@@ -73,13 +103,15 @@ fp.showContent = (key, lang, selector) => {
           console.error(err);
         },
         success: () => {
+          fp.showFooter(fp.view.key, fp.language.current).then(() => {
+            fp.enableInstall();
+            fp.onInstall();
+          });
           if (fp.view.key === 'light-darkness') {
-            console.log('Fixing "buried" graphic for light/darkness study');
             setTimeout(() => {
               $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
             }, 500);
           }
-          // fp.scripture.preloadScripturesOnPage();
         }
       });
     }
@@ -145,7 +177,7 @@ fp.phrase = phraseObj => {
       }
     }
     if (href.length > 0) {
-      changeHTMLAfter = '<a href="' + href + '">' + changeHTMLAfter + '</a>';
+      changeHTMLAfter = '<a href="' + href + '" target="_blank" rel="noreferrer">' + changeHTMLAfter + '</a>';
     }
     phraseHTML = phraseHTML.replace(changeHTMLBefore, changeHTMLAfter);
   }
@@ -271,6 +303,45 @@ fp.xml2Str = xmlNode => {
   return false;
 };
 
+fp.isMobileDevice = () => {
+  return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
+};
+
+fp.enableInstall = () => {
+  const isMobileDevice = fp.isMobileDevice();
+
+  window.addEventListener('beforeinstallprompt', e => {
+    e.preventDefault();
+    fp.installPromptEvent = event;
+    if (isMobileDevice) {
+      $('#install-button-container').show();
+    }
+  });
+
+  document.querySelector('#install-button').addEventListener('click', () => {
+    if (!! fp.installPromptEvent) fp.installPromptEvent.prompt();
+  });
+}
+
+fp.onInstall = () => {
+  window.addEventListener('appinstalled', (evt) => {
+    const installDate = new Date().toJSON();
+    localStorage.setItem('installDate', installDate);
+    $('#install-button-container').hide();
+  });
+}
+
+fp.registerServiceWorker = fromKey => {
+  const lang = fp.language.current;
+  const basePath = fp.getPath(fromKey, lang);
+  let pathToSW = basePath + 'sw.js';
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register(pathToSW).catch(error => {
+      console.error('Error in registering First Principles service worker:', error);
+    });
+  }  
+}
+
 fp.init = async fromKey => {
   window.fp = {};
   $.ajaxSetup({
@@ -288,4 +359,5 @@ fp.init = async fromKey => {
   fp.language.global.setExpandButton(fromKey, fp.language.current);
   await fp.showContent(fromKey, fp.language.current);
   fp.events.listeners.attach();
+  fp.registerServiceWorker(fromKey, fp.language.current);
 };

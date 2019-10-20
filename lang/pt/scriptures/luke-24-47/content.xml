@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="luke-24-47" lang="pt" version="NVI-PT" edition="2000">
-	<passage title="" book="" title-en="Luke 24:47" book-en="Luke">
+	<passage title="Lucas 24:47" book="Lucas" title-en="Luke 24:47" book-en="Luke">
 		<chapter number="24" number-en="24">
 			<verse number="47" number-en="47" jesuswords="true">
-				
+				<span class="jesuswords">e que em seu nome seria pregado o arrependimento para perdão de pecados a todas as nações, começando por Jerusalém.</span>
 			</verse>
 		</chapter>
 	</passage>

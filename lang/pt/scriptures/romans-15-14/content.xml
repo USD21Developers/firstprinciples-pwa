@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="romans-15-14" lang="pt" version="NVI-PT" edition="2000">
-	<passage title="" book="" title-en="Romans 15:14" book-en="Romans">
+	<passage title="Romanos 15:14" book="Romanos" title-en="Romans 15:14" book-en="Romans">
 		<chapter number="15" number-en="15">
 			<verse number="14" number-en="14">
-				
+				<p class="scripture-heading">
+					Paulo, Ministro dos Gentios
+				</p>
+				Meus irmãos, eu mesmo estou convencido de que vocês estão cheios de bondade e plenamente instruídos, sendo capazes de aconselhar-se uns aos outros.
 			</verse>
 		</chapter>
 	</passage>

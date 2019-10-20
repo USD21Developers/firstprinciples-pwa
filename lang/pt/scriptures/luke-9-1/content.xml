@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="luke-9-1" lang="pt" version="NVI-PT" edition="2000">
-	<passage title="" book="" title-en="Luke 9:1" book-en="Luke">
+	<passage title="Lucas 9:1" book="Lucas" title-en="Luke 9:1" book-en="Luke">
 		<chapter number="9" number-en="9">
 			<verse number="1" number-en="1">
-				
+				<p class="scripture-heading">
+					Jesus Envia os Doze
+				</p>
+				Reunindo os Doze, Jesus deu-lhes poder e autoridade para expulsar todos os demônios e curar doenças,
 			</verse>
 		</chapter>
 	</passage>

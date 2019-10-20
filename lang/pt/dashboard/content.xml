@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="dashboard" lang-original="en" lang-translated="" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="dashboard" lang-original="en" lang-translated="pt" last-updated="2019-02-18" last-updated-by="Waldir Caro" last-updated-by-email="edisone11.fc@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
 			First Principles
 		</original>
 		<translated>
-			
+			Princípios Básicos
 		</translated>
 	</phrase>
 
@@ -16,7 +16,7 @@
 			Introduction
 		</original>
 		<translated>
-			
+			Introdução
 		</translated>
 	</phrase>
 
@@ -25,7 +25,7 @@
 			Course Information
 		</original>
 		<translated>
-			
+			Informação dos Estudos
 		</translated>
 	</phrase>
 
@@ -34,7 +34,7 @@
 			The Book of John
 		</original>
 		<translated>
-			
+			O Livro de João
 		</translated>
 	</phrase>
 
@@ -43,7 +43,7 @@
 			Seeking God
 		</original>
 		<translated>
-			
+			Buscando a Deus
 		</translated>
 	</phrase>
 
@@ -52,7 +52,7 @@
 			The Word of God
 		</original>
 		<translated>
-			
+			A Palavra de Deus
 		</translated>
 	</phrase>
 
@@ -61,7 +61,7 @@
 			Discipleship
 		</original>
 		<translated>
-			
+			Discipulado
 		</translated>
 	</phrase>
 
@@ -70,7 +70,7 @@
 			The Coming of the Kingdom
 		</original>
 		<translated>
-			
+			A Vinda do Reino
 		</translated>
 	</phrase>
 
@@ -79,7 +79,7 @@
 			Light and Darkness
 		</original>
 		<translated>
-			
+			Luz e Trevas
 		</translated>
 	</phrase>
 
@@ -88,7 +88,7 @@
 			New Testament Conversion
 		</original>
 		<translated>
-			
+			Conversão do Novo Testamento
 		</translated>
 	</phrase>
 
@@ -97,7 +97,7 @@
 			The Cross
 		</original>
 		<translated>
-			
+			A Cruz
 		</translated>
 	</phrase>
 
@@ -106,7 +106,7 @@
 			The Medical Account of the Crucifixion of Christ
 		</original>
 		<translated>
-			
+			Relato Médico da Crucificação de Cristo
 		</translated>
 	</phrase>
 
@@ -115,7 +115,7 @@
 			Baptism with the Holy Spirit
 		</original>
 		<translated>
-			
+			Batismo com o Espírito Santo
 		</translated>
 	</phrase>
 
@@ -124,7 +124,7 @@
 			Miraculous Gifts of the Holy Spirit
 		</original>
 		<translated>
-			
+			Dons Milagrosos do Espírito Santo
 		</translated>
 	</phrase>
 
@@ -133,7 +133,7 @@
 			The Church
 		</original>
 		<translated>
-			
+			A Igreja
 		</translated>
 	</phrase>
 
@@ -142,7 +142,7 @@
 			The Book of Acts
 		</original>
 		<translated>
-			
+			O Livro de Atos
 		</translated>
 	</phrase>
 
@@ -151,7 +151,7 @@
 			After Baptism, Now What?
 		</original>
 		<translated>
-			
+			Fui Batizado, e Agora?
 		</translated>
 	</phrase>
 
@@ -160,7 +160,7 @@
 			Christ Is Your Life
 		</original>
 		<translated>
-			
+			Cristo é sua Vida?
 		</translated>
 	</phrase>
 
@@ -169,7 +169,7 @@
 			Best Friends of All Time
 		</original>
 		<translated>
-			
+			Melhores Amigos de Todos os Tempos
 		</translated>
 	</phrase>
 
@@ -178,7 +178,7 @@
 			The Mission
 		</original>
 		<translated>
-			
+			A Missão
 		</translated>
 	</phrase>
 
@@ -187,7 +187,7 @@
 			Persecution
 		</original>
 		<translated>
-			
+			Perseguição
 		</translated>
 	</phrase>
 
@@ -196,7 +196,7 @@
 			Memory Scriptures
 		</original>
 		<translated>
-			
+			Escrituras a Decorar
 		</translated>
 	</phrase>
 

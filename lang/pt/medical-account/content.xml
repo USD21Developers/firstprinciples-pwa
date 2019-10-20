@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="medical-account" lang-original="en" lang-translated="" last-updated="2018-09-28" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="medical-account" lang-original="en" lang-translated="pt" last-updated="2019-02-18" last-updated-by="Waldir Caro" last-updated-by-email="edisone11.fc@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
 			The Medical Account of the Crucifixion of Christ
 		</original>
 		<translated>
-			
+			O Sofrimento de Cristo Sob o Ponto de Vista Médico
 		</translated>
 	</phrase>
 
@@ -16,7 +16,7 @@
 			Dr. C. Truman Davis
 		</original>
 		<translated>
-			
+			(DAVIS, C. Trumman. A Paixão de Cristo sob o ponto de vista médico. Artigo resumido da revista Arizona Medicine, março/65)
 		</translated>
 	</phrase>
 
@@ -25,7 +25,7 @@
 			A Physician Analyzes the Crucifixion
 		</original>
 		<translated>
-			
+			Uma Médico Analiza a Crucificação
 		</translated>
 	</phrase>
 
@@ -34,7 +34,35 @@
 			In this paper, I shall discuss some of the physical aspects of the passion, or suffering, of Jesus Christ. We shall follow Him from Gethsemane, through His trial, His scourging, His path along the Via Dolorosa, to His last dying hours on the cross...
 		</original>
 		<translated>
-			
+			<p>Jesus Cristo é condenado à morte na cruz, e os preparativos para a crucificação se iniciam com a flagelação executada pelos soldados romanos. Como prisioneiro, Ele é despojado de suas vestes e tem as mãos acima a cabeça atadas a um poste. Depois de imobilizado, é açoitado com várias chicotadas. Os judeus tinham uma antiga lei que proibia flagelação com mais de 40 chicotadas e tomavam muito cuidado para que a lei fosse cumprida. Sendo esse uma norma criada pelos judeus, os soldados romanos não se preocupavam em segui-la. Por isso, o número de chicotadas foi ilimitado.</p>
+
+			<p>O soldado romano aproxima-se com o flagelo (chicote curto contendo várias correias de couro grosso, com duas pequenas bolas de chumbo atadas às extremidades de cada correia) e inicia o açoite. Com toda a força, o soldado surra as costas, os ombros e as pernas de Jesus. No início, as correias cortam somente a pele, porém, com o decorrer do açoite, essas atingem profundamente o tecido subcutâneo, provocando o rompimento dos vasos capilares. Com as chicotadas, os vasos provenientes do tecido muscular são rompidos, provocando intensa hemorragia. Finalmente, as costas do prisioneiro ficam irreconhecíveis. Os tecidos mais superficiais e os músculos se tornam, então, como tiras penduradas e misturadas com grande volume de sangue.</p>
+
+			<p>O centurião, após observar que o prisioneiro está quase desfalecido, cessa e tortura. Além da tortura, Jesus é motivo de chacota entre os judeus, pois sendo ele proveniente de uma cidade interiorana, fazia-se rei. Desse modo, colocando um manto “real” em seus ombros e um bastão na mão direita, procedem à irônica homenagem. Para finalizar, tecem uma coroa de espinhos contendo grandes espinhos e a colocam na cabeça de Jesus. Sendo a cabeça uma das áreas mais vascularizadas do corpo, mais uma vez, há uma grande perda de sangue.</p>
+
+			<div class="figure">
+				<img src="img/relato1.png" class="responsive-img" />
+			</div>
+
+			<p>Após ridicularizá-lo, dando socos no rosto, tiram-lhe o bastão e com ele batem na cabeça de Jesus, cravando-lhe os espinhos. Finalmente, retiram bruscamente o manto que estava colado às costas em carne viva, causando-lhe imensa dor. Novamente, há sangramento em grande quantidade.</p>
+
+			<p>Então, Jesus é levado para ser crucificado. O soldado romano acha a depressão no punho e atravessa-lhe um pesado prego, cravando-lhe em seguida na madeira. Rapidamente, repete a ação no outro braço, tomando todo o cuidado para que os braços fiquem flexionados e não totalmente esticados, o que lhe impediria os movimentos. De igual modo, colocam o pé esquerdo sobre o direito, deixando-os totalmente estendidos e, com os joelhos flexionados, atravessam o prego pelos pés, cravando-lhe na madeira. Então a vítima está crucificada, a cruz é levantada e posicionada no ponto mais alto daquela montanha.</p>
+
+			<div class="figure">
+				<img src="img/relato2.png" class="responsive-img" />
+			</div>
+
+			<p>Sobre a cabeça de Jesus havia uma pequena placa que dizia: “Jesus de Nazaré – Rei dos Judeus”. A dor é angustiante. Assim que Ele vai pendendo lentamente e colocando mais peso nos punhos, uma dor alucinante, que é sentida nas mãos, sobe pelos nervos médios desse membro. Quando Ele se coloca mais reto, na esperança de aliviar o tormento nos braços, todo o Seu peso é deslocado para o prego que fixa Seus pés. Novamente, uma dor agonizante sobe por Suas pernas, até Seu cérebro.</p>
+
+			<p>Com os braços cansados, grandes ondas de cãibras lhe causam profundas dores e O impedem de fazer movimentos para cima, o que lhe possibilitaria respirar. Pendurado pelos braços, os músculos peitorais estão paralisados e os intercostais não têm mais ação. A vítima não consegue mais puxar o ar dos pulmões, começando a se asfixiar pela paralisação do músculo responsável pela respiração, o diafragma.</p>
+
+			<p>Esporadicamente, Ele se puxa, tomando fôlego. E, após horas e horas de sofrimento, os músculos quase totalmente paralisados trazem-lhe uma parcial asfixia,além das fortes dores vindas de Suas costas quando estas são esfregadas contra a áspera madeira. Tudo isso lhe proporciona uma esmagadora dor no peito e, aos poucos, um aperto no coração, levando-O à morte.</p>
+
+			<div class="figure">
+				<img src="img/relato3.png" class="responsive-img" />
+			</div>
+
+			<strong>Conclusão:</strong> A resposta que Deus espera de nós perante a Cruz, é a total entrega de nossas vidas a Ele e à sua causa, movidos por uma profunda gratidão.
 		</translated>
 	</phrase>
 
@@ -444,14 +472,14 @@
 			From New Wine Magazine, April 1982. Originally published in Arizona Medicine, March 1965, Arizona Medical Association.
 		</original>
 		<translated>
-			
+			Artigo resumido da revista Arizona Medicine, Março 1965
 		</translated>
 		<change bold="true" italic="false" modal="false" href="./medical-account.pdf">
 			<original>
 				Arizona Medicine, March 1965
 			</original>
 			<translated>
-				
+				Arizona Medicine, Março 1965
 			</translated>
 		</change>
 	</phrase>

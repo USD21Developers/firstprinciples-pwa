@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="mark-3-31-35" lang="pt" version="NVI-PT" edition="2000">
-	<passage title="" book="" title-en="Mark 3:31-35" book-en="Mark">
+	<passage title="Marcos 3:31-35" book="Marcos" title-en="Mark 3:31-35" book-en="Mark">
 		<chapter number="3" number-en="3">
 			<verse number="31" number-en="31">
-				
+				<p class="scripture-heading">
+					A Mãe e os Irmãos de Jesus
+				</p>
+				Então chegaram a mãe e os irmãos de Jesus. Ficando do lado de fora, mandaram alguém chamá-lo.
 			</verse>
 			<verse number="32" number-en="32">
-				
+				Havia muita gente assentada ao seu redor; e lhe disseram: "Tua mãe e teus irmãos estão lá fora e te procuram".
 			</verse>
 			<verse number="33" number-en="33" jesuswords="true">
-				
+				<span class="jesuswords">"Quem é minha mãe, e quem são meus irmãos? "</span>, perguntou ele.
 			</verse>
 			<verse number="34" number-en="34" jesuswords="true">
-				
+				Então olhou para os que estavam assentados ao seu redor e disse: <span class="jesuswords">"Aqui estão minha mãe e meus irmãos!</span>
 			</verse>
 			<verse number="35" number-en="35" jesuswords="true">
-				
+				<span class="jesuswords">Quem faz a vontade de Deus, este é meu irmão, minha irmã e minha mãe".</span>
 			</verse>
 		</chapter>
 	</passage>

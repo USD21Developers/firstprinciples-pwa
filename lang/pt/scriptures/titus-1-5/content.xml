@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="titus-1-5" lang="pt" version="NVI-PT" edition="2000">
-	<passage title="" book="" title-en="Titus 1:5" book-en="Titus">
+	<passage title="Tito 1:5" book="Tito" title-en="Titus 1:5" book-en="Titus">
 		<chapter number="1" number-en="1">
 			<verse number="5" number-en="5">
-				
+				<p class="scripture-heading">
+					A Tarefa de Tito em Creta
+				</p>
+				A razão de tê-lo deixado em Creta foi para que você pusesse em ordem o que ainda faltava e constituísse presbíteros em cada cidade, como eu o instruí.
 			</verse>
 		</chapter>
 	</passage>

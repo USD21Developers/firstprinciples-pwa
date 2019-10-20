@@ -132,6 +132,7 @@
 .light-darkness_baptism {
   /* display: inline-block; */
   margin: 2rem 0;
+  font-size: .9rem;
 }
 
 .light-darkness_baptism tr {
@@ -165,10 +166,6 @@
   height: 5.5rem;
 }
 
-.light-darkness_baptism-earth {
-  border-top: 3px dotted #333; 
-}
-
 @media only screen and (max-width: 600px) {
   .light-darkness_baptism-earth,
   .light-darkness_baptism-water {
@@ -179,12 +176,43 @@
   }
 }
 
-.light-darkness_baptism-water {
-  border-top: 3px dotted aqua; 
-}
-
 .light-darkness_baptism-earth td,
 .light-darkness_baptism-water td {
   padding-left: 1rem;
   padding-right: 1rem;
+}
+
+.wave {
+  height: 0;
+  position: relative;
+  margin-top: 12px;
+}
+.wave::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-repeat: repeat;
+  height: 10px;
+  background-size: 20px 20px;
+  background-image:
+    radial-gradient(circle at 10px -5px, transparent 12px, #2196F3 13px);
+}
+
+.earth {
+  height: 6px;
+  margin-top: 6px;
+  background-color: #795548;
+  border-top: 2px dotted darkslategray;
+}
+
+
+.l-d-arrow {
+  width: 3.5em;
+  height: auto;
+}
+
+.l-d-arrow-down {
+  transform: rotate(90deg);
 }

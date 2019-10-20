@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="best-friends-all-time" lang-original="en" lang-translated="" last-updated="2018-09-29" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-29" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="best-friends-all-time" lang-original="en" lang-translated="pt" last-updated="2019-02-18" last-updated-by="Waldir Caro" last-updated-by-email="edisone11.fc@gmail.com" created="2018-09-29" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
 			Best Friends of All Time
 		</original>
 		<translated>
-			
+			Melhores amigos de todos os tempos
 		</translated>
 	</phrase>
 
@@ -16,7 +16,7 @@
 			Introduction
 		</original>
 		<translated>
-			
+			Introdução:
 		</translated>
 	</phrase>
 
@@ -25,7 +25,7 @@
 			Share about your closest relationships during your life — God and spiritual family in comparison to your physical family and old friends.
 		</original>
 		<translated>
-			
+			Compartilhe sobre os relacionamentos mais próximos que teve em sua vida – Deus e família espiritual em comparação à sua família física e amigos antigos;
 		</translated>
 	</phrase>
 
@@ -34,7 +34,7 @@
 			Ask the young Christian, "Who are your closest friends?"
 		</original>
 		<translated>
-			
+			Pergunte ao jovem cristão “quem são seus amigos mais próximos?”.
 		</translated>
 	</phrase>
 
@@ -43,7 +43,7 @@
 			One Another Scriptures
 		</original>
 		<translated>
-			
+			Escrituras sobre “uns aos outros”
 		</translated>
 	</phrase>
 
@@ -52,14 +52,14 @@
 			John 13:34-35: Love one another. Jesus teaches that Christians should have closer and better relationships than people in the world. Set your mind to make disciples your best friends.
 		</original>
 		<translated>
-			
+			João 13:34-35: Amem-se uns aos outros. Jesus ensina que cristãos devem ter relacionamentos mais próximos e melhores do que as pessoas do mundo. Foque sua mente em fazer dos discípulos os seus melhores amigos;
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="john-13-34-35">
 			<original>
 				John 13:34-35
 			</original>
 			<translated>
-				
+				João 13:34-35
 			</translated>
 		</change>
 	</phrase>
@@ -69,14 +69,14 @@
 			Hebrews 3:12-14: Daily encouragement of one another.
 		</original>
 		<translated>
-			
+			Hebreus 3:12-14: Encorajamento diário uns aos outros;
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="hebrews-3-12-14">
 			<original>
 				Hebrews 3:12-14
 			</original>
 			<translated>
-				
+				Hebreus 3:12-14
 			</translated>
 		</change>
 	</phrase>
@@ -86,14 +86,14 @@
 			Ephesians 5:19-20: Worship God with one another — sing out to God and each other with psalms, hymns and spiritual songs.
 		</original>
 		<translated>
-			
+			Efésios 5:19-20: Adorem a Deus entre si – cantem ao Senhor entre si com salmos, hinos e cânticos espirituais;
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="ephesians-5-19-20">
 			<original>
 				Ephesians 5:19-20
 			</original>
 			<translated>
-				
+				Efésios 5:19-20
 			</translated>
 		</change>
 	</phrase>
@@ -103,14 +103,14 @@
 			Colossians 1:28-29: Disciple one another. This is essential in God's plan to become mature. As we mature, we learn to instruct one another (Romans 15:14).
 		</original>
 		<translated>
-			
+			Colossenses 1:28-29: Discipulem um ao outro. Isto é essencial no plano de Deus para se tornar maduro. Ao amadurecermos, aprendemos a aconselhar uns aos outros (Romanos 15:14);
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-1-28-29">
 			<original>
 				Colossians 1:28-29
 			</original>
 			<translated>
-				
+				Colossenses 1:28-29
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="romans-15-14">
@@ -118,7 +118,7 @@
 				Romans 15:14
 			</original>
 			<translated>
-				
+				Romanos 15:14
 			</translated>
 		</change>
 	</phrase>
@@ -128,14 +128,14 @@
 			Galatians 6:1-2: Gently restore one another and bear one another's burdens.
 		</original>
 		<translated>
-			
+			Gálatas 6:1-2: Com mansidão, restaurem uns aos outros e carreguem os fardos uns dos outros;
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="galatians-6-1-2">
 			<original>
 				Galatians 6:1-2
 			</original>
 			<translated>
-				
+				Gálatas 6:1-2
 			</translated>
 		</change>
 	</phrase>
@@ -145,14 +145,14 @@
 			James 5:16: Confess sins to one another. Discuss openness and transparency, remembering that "openness breeds openness," so share your struggles.
 		</original>
 		<translated>
-			
+			Tiago 5:16: Confessem seus pecados uns aos outros. Discuta a franqueza e a transparência, lembrando que “franqueza gera franqueza”, portanto compartilhe suas lutas
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="james-5-16">
 			<original>
 				James 5:16
 			</original>
 			<translated>
-				
+				Tiago 5:16
 			</translated>
 		</change>
 	</phrase>
@@ -162,14 +162,14 @@
 			James 5:16-18: Pray for one another. It makes a difference!
 		</original>
 		<translated>
-			
+			Tiago 5:16-18: Orem uns pelos outros. Isto faz a diferença!
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="james-5-16-18">
 			<original>
 				James 5:16-18
 			</original>
 			<translated>
-				
+				Tiago 5:16-18
 			</translated>
 		</change>
 	</phrase>
@@ -179,14 +179,14 @@
 			Hebrews 12:14-15: Be holy and prevent "bad attitudes" in one another.
 		</original>
 		<translated>
-			
+			Hebreus 12:14-15: Sejam santos e previnam “atitudes ruins” uns dos outros;
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="hebrews-12-14-15">
 			<original>
 				Hebrews 12:14-15
 			</original>
 			<translated>
-				
+				Hebreus 12:14-15
 			</translated>
 		</change>
 	</phrase>
@@ -196,14 +196,14 @@
 			1 Thessalonians 5:12-14: Outlook toward one another.
 		</original>
 		<translated>
-			
+			1 Tessalonicenses 5:12-14: Vigiem-se uns aos outros;
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="1-thessalonians-5-12-14">
 			<original>
 				1 Thessalonians 5:12-14
 			</original>
 			<translated>
-				
+				1 Tessalonicenses 5:12-14
 			</translated>
 		</change>
 	</phrase>
@@ -213,14 +213,14 @@
 			John 17:20-23: The ultimate goal of love and unity — world evangelism!
 		</original>
 		<translated>
-			
+			João 17:20-23: O objetivo final de amor e união – evangelizar o mundo!
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="john-17-20-23">
 			<original>
 				John 17:20-23
 			</original>
 			<translated>
-				
+				João 17:20-23
 			</translated>
 		</change>
 	</phrase>
@@ -230,7 +230,7 @@
 			Date and marry only disciples
 		</original>
 		<translated>
-			
+			Namorar e casar somente com discípulos
 		</translated>
 	</phrase>
 
@@ -239,14 +239,14 @@
 			1 Corinthians 7:39: Marriage must only be in the Lord.
 		</original>
 		<translated>
-			
+			1 Coríntios 7:39: Casamento deve ser somente com alguém do Senhor;
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-7-39">
 			<original>
 				1 Corinthians 7:39
 			</original>
 			<translated>
-				
+				1 Coríntios 7:39
 			</translated>
 		</change>
 	</phrase>
@@ -256,14 +256,14 @@
 			2 Corinthians 6:14-7:1: Dating, as in marriage, is a partnership in which you are "yoked together." Disciples must separate from unbelievers to receive the promises of God.
 		</original>
 		<translated>
-			
+			2 Coríntios 6:14-7:1: Namoro, assim como casamento, é parceria, onde vocês estão “no mesmo jugo”. Discípulos precisam se separar de descrentes para receber as promessas de Deus;
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="2-corinthians-6-14-7-1">
 			<original>
 				2 Corinthians 6:14-7:1
 			</original>
 			<translated>
-				
+				2 Coríntios 6:14-7:1
 			</translated>
 		</change>
 	</phrase>
@@ -273,14 +273,14 @@
 			1 Kings 11:1-10; Nehemiah 13:23-27: Study this principle in the Old Testament. To date or marry outside of the faith is to be unfaithful to God. If you are single, have you gone on a Christian date?
 		</original>
 		<translated>
-			
+			1 Reis 11:1-10; Neemias 13:23-27: Estude este princípio no Antigo Testamento. Namorar ou casar fora do Reino é ser infiel a Deus. Se você é solteiro(a), você já foi a um encontro cristão?
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="1-kings-11-1-10">
 			<original>
 				1 Kings 11:1-10
 			</original>
 			<translated>
-				
+				1 Reis 11:1-10
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="nehemiah-13-23-27">
@@ -288,7 +288,7 @@
 				Nehemiah 13:23-27
 			</original>
 			<translated>
-				
+				Neemias 13:23-27
 			</translated>
 		</change>
 	</phrase>
@@ -298,14 +298,14 @@
 			1 Peter 3:1-7: If you are married, are you winning your spouse?
 		</original>
 		<translated>
-			
+			1 Pedro 3:1-7: Se você é casado(a), você está conquistando seu cônjuge?
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="1-peter-3-1-7">
 			<original>
 				1 Peter 3:1-7
 			</original>
 			<translated>
-				
+				1 Pedro 3:1-7
 			</translated>
 		</change>
 	</phrase>
@@ -315,7 +315,7 @@
 			Reconcile with one another
 		</original>
 		<translated>
-			
+			Reconciliem-se entre si
 		</translated>
 	</phrase>
 
@@ -324,14 +324,14 @@
 			Matthew 18:15-17: Christians will sin against each other. When someone sins against you, do not gossip by going to someone else. Talk to the person who hurt you, so you can win him/her over as a friend.
 		</original>
 		<translated>
-			
+			Mateus 18:15-17: Cristãos iram pecar contra os outros. Quando alguém peca contra você, não o(a) difame, contando a alguém. Fale com a pessoa que o(a) magoou, para que você o(a) ganhe como amigo(a);
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-18-15-17">
 			<original>
 				Matthew 18:15-17
 			</original>
 			<translated>
-				
+				Mateus 18:15-17
 			</translated>
 		</change>
 	</phrase>
@@ -341,7 +341,7 @@
 			Church discipline begins one-on-one and rarely should go to step 2, 3 and 4.
 		</original>
 		<translated>
-			
+			Disciplina na igreja começa um-a-um e raramente deve seguir para os passos 2, 3 e 4.
 		</translated>
 	</phrase>
 

@@ -1,5 +1,5 @@
 {
-  "name": "firstprinciples-pwa",
+  "name": "firstprinciples-materialdesign",
   "license": "SEE LICENSE IN license.txt",
   "version": "3.0.0",
   "author": {
@@ -8,10 +8,10 @@
   },
   "scripts": {
     "cors": true,
-    "start": "browser-sync --start --watch --no-notify"
+    "start": "browser-sync --start --no-notify"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.0"
+    "browser-sync": "^2.26.7"
   },
   "dependencies": {}
 }

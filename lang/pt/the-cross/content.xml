@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="the-cross" lang-original="en" lang-translated="" last-updated="2018-09-28" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="the-cross" lang-original="en" lang-translated="pt" last-updated="2019-02-18" last-updated-by="Waldir Caro" last-updated-by-email="edisone11.fc@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
 			The Cross
 		</original>
 		<translated>
-			
+			A Cruz
 		</translated>
 	</phrase>
 
@@ -16,7 +16,7 @@
 			Passion Account
 		</original>
 		<translated>
-			
+			Relato da Paixão
 		</translated>
 	</phrase>
 
@@ -25,14 +25,14 @@
 			Read Matthew 26:31-28:10
 		</original>
 		<translated>
-			
+			Leia Mateus 26:31-28:10
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-26-31-28-10">
 			<original>
 				Matthew 26:31-28:10
 			</original>
 			<translated>
-				
+				Mateus 26:31-28:10
 			</translated>
 		</change>
 	</phrase>
@@ -42,7 +42,7 @@
 			Suggested Reading Intervals:
 		</original>
 		<translated>
-			
+			Sugestão de leituras:
 		</translated>
 	</phrase>
 
@@ -51,7 +51,7 @@
 			26:31-35
 		</original>
 		<translated>
-			
+			26:31-35
 		</translated>
 	</phrase>
 
@@ -60,7 +60,7 @@
 			26:36-46
 		</original>
 		<translated>
-			
+			26:36-46
 		</translated>
 	</phrase>
 
@@ -69,7 +69,7 @@
 			26:47-56
 		</original>
 		<translated>
-			
+			26:47-56
 		</translated>
 	</phrase>
 
@@ -78,7 +78,7 @@
 			26:57-68
 		</original>
 		<translated>
-			
+			26:57-68
 		</translated>
 	</phrase>
 
@@ -87,7 +87,7 @@
 			26:69-75
 		</original>
 		<translated>
-			
+			26:69-75
 		</translated>
 	</phrase>
 
@@ -96,7 +96,7 @@
 			27:1-10
 		</original>
 		<translated>
-			
+			27:1-10
 		</translated>
 	</phrase>
 
@@ -105,7 +105,7 @@
 			27:11-26
 		</original>
 		<translated>
-			
+			27:11-26
 		</translated>
 	</phrase>
 
@@ -114,7 +114,7 @@
 			27:27-31
 		</original>
 		<translated>
-			
+			27:27-31
 		</translated>
 	</phrase>
 
@@ -123,7 +123,7 @@
 			27:32-44
 		</original>
 		<translated>
-			
+			27:32-44
 		</translated>
 	</phrase>
 
@@ -132,7 +132,7 @@
 			27:45-56
 		</original>
 		<translated>
-			
+			27:45-56
 		</translated>
 	</phrase>
 
@@ -141,7 +141,7 @@
 			27:57-61
 		</original>
 		<translated>
-			
+			27:57-61
 		</translated>
 	</phrase>
 
@@ -150,7 +150,7 @@
 			27:62-66
 		</original>
 		<translated>
-			
+			27:62-66
 		</translated>
 	</phrase>
 
@@ -159,7 +159,7 @@
 			28:1-10
 		</original>
 		<translated>
-			
+			28:1-10
 		</translated>
 	</phrase>
 
@@ -168,7 +168,7 @@
 			Physical Death
 		</original>
 		<translated>
-			
+			Morte Física
 		</translated>
 	</phrase>
 
@@ -177,14 +177,14 @@
 			Read the medical account of Jesus' physical death.
 		</original>
 		<translated>
-			
+			Leia o relato médico da morte física de Jesus.
 		</translated>
 		<change bold="true" italic="false" modal="false" href="../medical-account/">
 			<original>
 				medical account
 			</original>
 			<translated>
-				
+				relato médico
 			</translated>
 		</change>
 	</phrase>
@@ -194,7 +194,7 @@
 			Personal Responsibility
 		</original>
 		<translated>
-			
+			Responsabilidade Pessoal
 		</translated>
 	</phrase>
 
@@ -203,7 +203,7 @@
 			Remember that there were many others who died by crucifixion in the first century. It was not that Jesus was physically crucified that makes Him unique; it was that He was crucified for you, in your place. He died on the cross for you.
 		</original>
 		<translated>
-			
+			Lembre-se que muitos outros foram crucificados no primeiro século. Não é o fato de Jesus ter sido crucificado fisicamente o que O torna único, mas sim que Ele foi crucificado por você, no seu lugar. Ele morreu na cruz por você.
 		</translated>
 	</phrase>
 
@@ -212,14 +212,14 @@
 			Romans 3:23
 		</original>
 		<translated>
-			
+			Romanos 3:23
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="romans-3-23">
 			<original>
 				Romans 3:23
 			</original>
 			<translated>
-				
+				Romanos 3:23
 			</translated>
 		</change>
 	</phrase>
@@ -229,14 +229,14 @@
 			Isaiah 59:1-2
 		</original>
 		<translated>
-			
+			Isaías 59:1-2
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="isaiah-59-1-2">
 			<original>
 				Isaiah 59:1-2
 			</original>
 			<translated>
-				
+				Isaías 59:1-2
 			</translated>
 		</change>
 	</phrase>
@@ -246,14 +246,14 @@
 			Matthew 27:46
 		</original>
 		<translated>
-			
+			Mateus 27:46
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-27-46">
 			<original>
 				Matthew 27:46
 			</original>
 			<translated>
-				
+				Mateus 27:46
 			</translated>
 		</change>
 	</phrase>
@@ -263,7 +263,7 @@
 			Share the sins that you committed before being baptized and your feelings of being forgiven at baptism. Ask the person with whom you are studying to share and confess their sins.
 		</original>
 		<translated>
-			
+			Compartilhe os pecados que você cometeu antes de ser batizado e como você se sentiu tendo seus pecados perdoados no batismo. Peça à pessoa com quem você está estudando, que compartilhe e confesse seus pecados.
 		</translated>
 	</phrase>
 
@@ -272,14 +272,14 @@
 			Isaiah 53:4-6 (substitute your name).
 		</original>
 		<translated>
-			
+			Isaías 53:4-6 (substituir pelo seu nome)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="isaiah-53-4-6">
 			<original>
 				Isaiah 53:4-6
 			</original>
 			<translated>
-				
+				Isaías 53:4-6
 			</translated>
 		</change>
 	</phrase>
@@ -289,14 +289,14 @@
 			If possible immediately after this study watch either The Cross or The Passion video.
 		</original>
 		<translated>
-			
+			Se possível, imediatamente depois deste estudo, assista ao filme "A Cruz" ou "A Paixão de Cristo".
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
 				The Cross
 			</original>
 			<translated>
-				
+				"A Cruz"
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="false">
@@ -304,7 +304,7 @@
 				The Passion
 			</original>
 			<translated>
-				
+				"A Paixão de Cristo"
 			</translated>
 		</change>
 	</phrase>

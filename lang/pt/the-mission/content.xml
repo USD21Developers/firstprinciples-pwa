@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="the-mission" lang-original="en" lang-translated="" last-updated="2018-09-29" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-29" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="the-mission" lang-original="en" lang-translated="pt" last-updated="2019-02-18" last-updated-by="Waldir Caro" last-updated-by-email="edisone11.fc@gmail.com" created="2018-09-29" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
 			The Mission
 		</original>
 		<translated>
-			
+			A Missão
 		</translated>
 	</phrase>
 
@@ -16,7 +16,7 @@
 			Introduction
 		</original>
 		<translated>
-			
+			Introdução
 		</translated>
 	</phrase>
 
@@ -25,7 +25,7 @@
 			Share about the visitors you most recently brought to church or Bible Talk.
 		</original>
 		<translated>
-			
+			Compartilhe sobre os visitantes que você levou mais recentemente à igreja ou bate-papos;
 		</translated>
 	</phrase>
 
@@ -34,7 +34,7 @@
 			Ask the young disciple about their evangelism.
 		</original>
 		<translated>
-			
+			Pergunte ao jovem discípulo sobre seu evangelismo.
 		</translated>
 	</phrase>
 
@@ -43,7 +43,7 @@
 			Jesus' Mission
 		</original>
 		<translated>
-			
+			A Missão de Jesus
 		</translated>
 	</phrase>
 
@@ -52,14 +52,14 @@
 			Luke 19:10
 		</original>
 		<translated>
-			
+			Lucas 19:10
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="luke-19-10">
 			<original>
 				Luke 19:10
 			</original>
 			<translated>
-				
+				Lucas 19:10
 			</translated>
 		</change>
 	</phrase>
@@ -69,14 +69,14 @@
 			1 Timothy 1:15
 		</original>
 		<translated>
-			
+			1 Timóteo 1:15
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="1-timothy-1-15">
 			<original>
 				1 Timothy 1:15
 			</original>
 			<translated>
-				
+				1 Timóteo 1:15
 			</translated>
 		</change>
 	</phrase>
@@ -86,14 +86,14 @@
 			Matthew 28:19-20
 		</original>
 		<translated>
-			
+			Mateus 28:19-20
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-19-20">
 			<original>
 				Matthew 28:19-20
 			</original>
 			<translated>
-				
+				Mateus 28:19-20
 			</translated>
 		</change>
 	</phrase>
@@ -103,14 +103,14 @@
 			Acts 20:24
 		</original>
 		<translated>
-			
+			Atos 20:24
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-20-24">
 			<original>
 				Acts 20:24
 			</original>
 			<translated>
-				
+				Atos 20:24
 			</translated>
 		</change>
 	</phrase>
@@ -120,7 +120,7 @@
 			What was Jesus' mission?
 		</original>
 		<translated>
-			
+			Qual era a missão de Jesus?
 		</translated>
 	</phrase>
 
@@ -129,7 +129,7 @@
 			What is each disciple's mission?
 		</original>
 		<translated>
-			
+			Qual é a missão de cada discípulo?
 		</translated>
 	</phrase>
 
@@ -138,7 +138,7 @@
 			Disciples' Mission
 		</original>
 		<translated>
-			
+			A Missão dos Discípulos
 		</translated>
 	</phrase>
 
@@ -147,14 +147,14 @@
 			John 15:1-16
 		</original>
 		<translated>
-			
+			João 15:1-16
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="john-15-1-16">
 			<original>
 				John 15:1-16
 			</original>
 			<translated>
-				
+				João 15:1-16
 			</translated>
 		</change>
 	</phrase>
@@ -164,14 +164,14 @@
 			Glorifying God in John 15 is bearing the fruit of making disciples, not simply baptizing. (Matthew 28:19 commands us to "go and make disciples;" John 15:16 commands us to "go and bear fruit that will last."
 		</original>
 		<translated>
-			
+			Glorificar a Deus, em João 15, é o fruto de fazer discípulos, não simplesmente batizar. (Mateus 28:19 nos ordena a “ir e fazer discípulos”. João 15:16 nos ordena a “ir e dar fruto que permaneça”);
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="john-15">
 			<original>
 				John 15
 			</original>
 			<translated>
-				
+				João 15
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-19">
@@ -179,7 +179,7 @@
 				Matthew 28:19
 			</original>
 			<translated>
-				
+				Mateus 28:19
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="john-15-16">
@@ -187,7 +187,7 @@
 				John 15:16
 			</original>
 			<translated>
-				
+				João 15:16
 			</translated>
 		</change>
 	</phrase>
@@ -197,7 +197,7 @@
 			To bear fruit, one must be "in the vine," otherwise we will be cut off.
 		</original>
 		<translated>
-			
+			Para dar fruto, a pessoa precisa estar “na videira”, caso contrário, será cortada fora;
 		</translated>
 	</phrase>
 
@@ -206,7 +206,7 @@
 			Jesus is the perfect discipler, but He is also the perfect disciple of God.
 		</original>
 		<translated>
-			
+			Jesus é o discipulador perfeito, mas Ele também é um discípulo perfeito de Deus;
 		</translated>
 	</phrase>
 
@@ -215,14 +215,14 @@
 			To love God is to obey His commands. Discipling helps our hearts to want to obey His commands (Matthew 28:20). Therefore, we must love one another, even to the point of laying down our lives for each other.
 		</original>
 		<translated>
-			
+			Amar a Deus é obedecer aos Seus mandamentos. O discipulado ajuda nossos corações a querer obedecer aos Seus mandamentos. (Mateus 28:20) Portanto, nós precisamos amar uns aos outros, até o ponto de sacrificar nossas vidas pela vida de outrem.
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-20">
 			<original>
 				Matthew 28:20
 			</original>
 			<translated>
-				
+				Mateus 28:20
 			</translated>
 		</change>
 	</phrase>
@@ -232,7 +232,7 @@
 			The Book of Acts records the 30 years from the beginning of the church on the day of Pentecost to Paul's arrival in Rome — signaling that the gospel has gone to the known world. The church in the first century was a movement. Discuss the growth of the first century church when all Christians were striving to be fruitful — making disciples.
 		</original>
 		<translated>
-			
+			O livro de Atos registra os 30 anos desde o começo da igreja, no dia de Pentecostes, à chegada de Paulo em Roma – sinalizando que o evangelho foi ao mundo conhecido. A igreja no primeiro século foi um movimento. Discuta o crescimento da igreja do primeiro século quando todos os cristãos estavam se dedicando a ser frutíferos – fazer discípulos.
 		</translated>
 	</phrase>
 
@@ -241,14 +241,14 @@
 			Acts 2:41
 		</original>
 		<translated>
-			
+			Atos 2:41
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-41">
 			<original>
 				Acts 2:41
 			</original>
 			<translated>
-				
+				Atos 2:41
 			</translated>
 		</change>
 	</phrase>
@@ -258,14 +258,14 @@
 			Acts 2:47
 		</original>
 		<translated>
-			
+			Atos 2:47
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-47">
 			<original>
 				Acts 2:47
 			</original>
 			<translated>
-				
+				Atos 2:47
 			</translated>
 		</change>
 	</phrase>
@@ -275,14 +275,14 @@
 			Acts 4:4
 		</original>
 		<translated>
-			
+			Atos 4:4
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-4-4">
 			<original>
 				Acts 4:4
 			</original>
 			<translated>
-				
+				Atos 4:4
 			</translated>
 		</change>
 	</phrase>
@@ -292,14 +292,14 @@
 			Acts 5:14
 		</original>
 		<translated>
-			
+			Atos 5:14
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-5-14">
 			<original>
 				Acts 5:14
 			</original>
 			<translated>
-				
+				Atos 5:14
 			</translated>
 		</change>
 	</phrase>
@@ -309,14 +309,14 @@
 			Acts 6:1
 		</original>
 		<translated>
-			
+			Atos 6:1
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-6-1">
 			<original>
 				Acts 6:1
 			</original>
 			<translated>
-				
+				Atos 6:1
 			</translated>
 		</change>
 	</phrase>
@@ -326,14 +326,14 @@
 			Acts 6:7
 		</original>
 		<translated>
-			
+			Atos 6:7
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-6-7">
 			<original>
 				Acts 6:7
 			</original>
 			<translated>
-				
+				Atos 6:7
 			</translated>
 		</change>
 	</phrase>
@@ -343,14 +343,14 @@
 			Acts 8:4
 		</original>
 		<translated>
-			
+			Atos 8:4
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-8-4">
 			<original>
 				Acts 8:4
 			</original>
 			<translated>
-				
+				Atos 8:4
 			</translated>
 		</change>
 	</phrase>
@@ -360,14 +360,14 @@
 			Acts 9:31
 		</original>
 		<translated>
-			
+			Atos 9:31
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-9-31">
 			<original>
 				Acts 9:31
 			</original>
 			<translated>
-				
+				Atos 9:31
 			</translated>
 		</change>
 	</phrase>
@@ -377,14 +377,14 @@
 			Acts 11:21
 		</original>
 		<translated>
-			
+			Atos 11:21
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-11-21">
 			<original>
 				Acts 11:21
 			</original>
 			<translated>
-				
+				Atos 11:21
 			</translated>
 		</change>
 	</phrase>
@@ -394,14 +394,14 @@
 			Acts 12:24
 		</original>
 		<translated>
-			
+			Atos 12:24
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-12-24">
 			<original>
 				Acts 12:24
 			</original>
 			<translated>
-				
+				Atos 12:24
 			</translated>
 		</change>
 	</phrase>
@@ -411,14 +411,14 @@
 			Acts 13:49
 		</original>
 		<translated>
-			
+			Atos 13:49
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-13-49">
 			<original>
 				Acts 13:49
 			</original>
 			<translated>
-				
+				Atos 13:49
 			</translated>
 		</change>
 	</phrase>
@@ -428,14 +428,14 @@
 			Acts 14:1
 		</original>
 		<translated>
-			
+			Atos 14:1
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-14-1">
 			<original>
 				Acts 14:1
 			</original>
 			<translated>
-				
+				Atos 14:1
 			</translated>
 		</change>
 	</phrase>
@@ -445,14 +445,14 @@
 			Acts 14:21
 		</original>
 		<translated>
-			
+			Atos 14:21
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-14-21">
 			<original>
 				Acts 14:21
 			</original>
 			<translated>
-				
+				Atos 14:21
 			</translated>
 		</change>
 	</phrase>
@@ -462,14 +462,14 @@
 			Acts 16:5
 		</original>
 		<translated>
-			
+			Atos 16:5
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-16-5">
 			<original>
 				Acts 16:5
 			</original>
 			<translated>
-				
+				Atos 16:5
 			</translated>
 		</change>
 	</phrase>
@@ -479,14 +479,14 @@
 			Acts 17:4
 		</original>
 		<translated>
-			
+			Atos 17:4
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-17-4">
 			<original>
 				Acts 17:4
 			</original>
 			<translated>
-				
+				Atos 17:4
 			</translated>
 		</change>
 	</phrase>
@@ -496,14 +496,14 @@
 			Acts 17:6 (RSV): "These men who have turned the world upside-down have come here also..."
 		</original>
 		<translated>
-			
+			Atos 17:6 (RSV-Revised Standard Version em inglês) “Esses homens que têm virado o mundo de cabeça para baixo por todo o mundo, agora chegaram aqui...”;
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-17-6">
 			<original>
 				Acts 17:6
 			</original>
 			<translated>
-				
+				Atos 17:6
 			</translated>
 		</change>
 	</phrase>
@@ -513,14 +513,14 @@
 			Colossians 1:6, 23: The known world was evangelized by 61 A.D., in a generation! Paul is in prison when he writes Colossians — Acts 28. Therefore, Jesus' vision became a reality — "the evangelization of the nations in a generation!"
 		</original>
 		<translated>
-			
+			Colossenses 1:6, 23 O mundo conhecido foi evangelizado por volta de 61 D.C., em uma geração! (Paulo está na prisão quando escreve Colossenses - Atos 28). Portanto, a visão de Jesus se tornou realidade – “a evangelização das nações em uma geração!”.
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-1-6">
 			<original>
 				1:6
 			</original>
 			<translated>
-				
+				1:6
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-1-23">
@@ -528,7 +528,7 @@
 				23
 			</original>
 			<translated>
-				
+				23
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-28">
@@ -536,7 +536,7 @@
 				Acts 28
 			</original>
 			<translated>
-				
+				Atos 28
 			</translated>
 		</change>
 	</phrase>
@@ -546,7 +546,7 @@
 			Discuss and pray for:
 		</original>
 		<translated>
-			
+			Discuta e ore por:
 		</translated>
 	</phrase>
 
@@ -555,7 +555,7 @@
 			World Evangelism
 		</original>
 		<translated>
-			
+			Evangelismo do mundo
 		</translated>
 	</phrase>
 
@@ -564,7 +564,7 @@
 			Missions Teams
 		</original>
 		<translated>
-			
+			Equipes de Missão
 		</translated>
 	</phrase>
 
@@ -573,7 +573,7 @@
 			Your Kingdom dreams... how can you use your talents for God?
 		</original>
 		<translated>
-			
+			Seus sonhos no reino... como você pode usar seus talentos para Deus?
 		</translated>
 	</phrase>
 

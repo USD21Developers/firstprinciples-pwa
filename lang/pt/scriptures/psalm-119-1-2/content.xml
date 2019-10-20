@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="psalm-119-1-2" lang="pt" version="NVI-PT" edition="2000">
-	<passage title="" book="" title-en="Psalm 119:1-2" book-en="Psalm">
+	<passage title="Salmos 119:1-2" book="Salmos" title-en="Psalm 119:1-2" book-en="Psalm">
 		<chapter number="119" number-en="119">
 			<verse number="1" number-en="1">
-				
+				Como são felizes os que andam em caminhos irrepreensíveis, que vivem conforme a lei do Senhor!
 			</verse>
 			<verse number="2" number-en="2">
-				
+				Como são felizes os que obedecem aos seus estatutos e de todo o coração o buscam!
 			</verse>
 		</chapter>
 	</passage>

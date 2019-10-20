@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="mark-9-1" lang="pt" version="NVI-PT" edition="2000">
-	<passage title="" book="" title-en="Mark 9:1" book-en="Mark">
+	<passage title="Marcos 9:1" book="Marcos" title-en="Mark 9:1" book-en="Mark">
 		<chapter number="9" number-en="9">
 			<verse number="1" number-en="1" jesuswords="true">
-				
+				E lhes disse: <span class="jesuswords">"Garanto-lhes que alguns dos que aqui estão de modo nenhum experimentarão a morte, antes de verem o Reino de Deus vindo com poder".</span>
 			</verse>
 		</chapter>
 	</passage>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="matthew-27-46" lang="pt" version="NVI-PT" edition="2000">
-	<passage title="" book="" title-en="Matthew 27:46" book-en="Matthew">
+	<passage title="Mateus 27:46" book="Mateus" title-en="Matthew 27:46" book-en="Matthew">
 		<chapter number="27" number-en="27">
 			<verse number="46" number-en="46" jesuswords="true">
-				
+				Por volta das três horas da tarde, Jesus bradou em alta voz: <span class="jesuswords">"Eloí, Eloí, lamá sabactâni?"</span> que significa: "Meu Deus! Meu Deus! Por que me abandonaste? "
 			</verse>
 		</chapter>
 	</passage>

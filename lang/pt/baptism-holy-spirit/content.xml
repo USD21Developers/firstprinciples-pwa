@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="baptism-holy-spirit" lang-original="en" lang-translated="" last-updated="2018-09-28" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="baptism-holy-spirit" lang-original="en" lang-translated="pt" last-updated="2019-02-18" last-updated-by="Waldir Caro" last-updated-by-email="edisone11.fc@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
 			Baptism with the Holy Spirit
 		</original>
 		<translated>
-			
+			Batismo com o Espírito Santo
 		</translated>
 	</phrase>
 
@@ -16,14 +16,14 @@
 			Introduction: Jesus was given the Spirit in full measure (RSV), no limit. (John 3:34). There are three measures of the Holy Spirit: 
 		</original>
 		<translated>
-			
+			Introdução: Existem três medidas do Espírito Santo (João 3:34).
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
 				Introduction:
 			</original>
 			<translated>
-				
+				Introdução:
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="john-3-34-rsv">
@@ -31,7 +31,7 @@
 				John 3:34
 			</original>
 			<translated>
-				
+				João 3:34
 			</translated>
 		</change>
 	</phrase>
@@ -41,7 +41,7 @@
 			The Indwelling of the Holy Spirit
 		</original>
 		<translated>
-			
+			A habitação do Espírito Santo
 		</translated>
 	</phrase>
 
@@ -50,14 +50,14 @@
 			Terminology from Romans 8:9 (RSV)
 		</original>
 		<translated>
-			
+			Terminologia de Romanos 8:9
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="romans-8-9-rsv">
 			<original>
 				Romans 8:9
 			</original>
 			<translated>
-				
+				Romanos 8:9
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="false">
@@ -65,7 +65,7 @@
 				(RSV)
 			</original>
 			<translated>
-				
+				(NVI)
 			</translated>
 		</change>
 	</phrase>
@@ -75,14 +75,14 @@
 			Received at baptism (Acts 2:38)
 		</original>
 		<translated>
-			
+			Recebida no batismo (Atos 2:38)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
 			<original>
 				Acts 2:38
 			</original>
 			<translated>
-				
+				Atos 2:38
 			</translated>
 		</change>
 	</phrase>
@@ -92,7 +92,7 @@
 			The Baptism with the Holy Spirit
 		</original>
 		<translated>
-			
+			O batismo com o Espírito Santo
 		</translated>
 	</phrase>
 
@@ -101,14 +101,14 @@
 			Characteristics in Acts 2 and Acts 10
 		</original>
 		<translated>
-			
+			Características em Atos 2 e Atos 10
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2">
 			<original>
 				Acts 2
 			</original>
 			<translated>
-				
+				Atos 2
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-10">
@@ -116,7 +116,7 @@
 				Acts 10
 			</original>
 			<translated>
-				
+				Atos 10
 			</translated>
 		</change>
 	</phrase>
@@ -126,14 +126,14 @@
 			Promise (not command): Acts 1:4-5
 		</original>
 		<translated>
-			
+			Promessa (não mandamento): Atos 1:4-5
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-1-4-5">
 			<original>
 				Acts 1:4-5
 			</original>
 			<translated>
-				
+				Atos 1:4-5
 			</translated>
 		</change>
 	</phrase>
@@ -143,7 +143,7 @@
 			Predicted (prophesied)
 		</original>
 		<translated>
-			
+			Previsto (Profetizado)
 		</translated>
 	</phrase>
 
@@ -152,7 +152,7 @@
 			Came without warning. (People were not specifically praying for it.)
 		</original>
 		<translated>
-			
+			Veio sem aviso (As pessoas não estavam orando especificamente por ele)
 		</translated>
 	</phrase>
 
@@ -161,7 +161,7 @@
 			Languages
 		</original>
 		<translated>
-			
+			Línguas
 		</translated>
 	</phrase>
 
@@ -170,14 +170,14 @@
 			Purpose: to usher in the Kingdom with power (Mark 9:1), (Acts 1:8) 
 		</original>
 		<translated>
-			
+			Propósito: Para trazer o Reino com poder. (Marcos 9:1, Atos 1:8)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="mark-9-1">
 			<original>
 				Mark 9:1
 			</original>
 			<translated>
-				
+				Marcos 9:1
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-1-8">
@@ -185,7 +185,7 @@
 				Acts 1:8
 			</original>
 			<translated>
-				
+				Atos 1:8
 			</translated>
 		</change>
 	</phrase>
@@ -195,7 +195,7 @@
 			Accounts of the Baptism with the Holy Spirit 
 		</original>
 		<translated>
-			
+			Relatos do batismo com o Espírito Santo
 		</translated>
 	</phrase>
 
@@ -204,14 +204,14 @@
 			To the Jews — in Jerusalem (Acts 2)
 		</original>
 		<translated>
-			
+			Para os judeus em Jerusalém (Atos 2)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2">
 			<original>
 				Acts 2
 			</original>
 			<translated>
-				
+				Atos 2
 			</translated>
 		</change>
 	</phrase>
@@ -221,14 +221,14 @@
 			To the Gentiles — begins with Cornelius (Acts 10) 
 		</original>
 		<translated>
-			
+			Aos gentios — começa com Cornélio (Atos 10)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-10">
 			<original>
 				Acts 10
 			</original>
 			<translated>
-				
+				Atos 10
 			</translated>
 		</change>
 	</phrase>
@@ -238,14 +238,14 @@
 			Note: Cornelius and his household were water baptized in Acts 10:48, saved at baptism.
 		</original>
 		<translated>
-			
+			Nota: Cornélio e sua família foram batizados na água no v. 48, salvos no batismo.
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-10-48">
 			<original>
 				Acts 10:48
 			</original>
 			<translated>
-				
+				Atos 10:48
 			</translated>
 		</change>
 	</phrase>
@@ -255,14 +255,14 @@
 			Peter explained actions to the Jews. (Acts 11:1-18)
 		</original>
 		<translated>
-			
+			Pedro explicou as suas ações para o judeus (Atos 11:1-18)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-11-1-18">
 			<original>
 				Acts 11:1-18
 			</original>
 			<translated>
-				
+				Atos 11:1-18
 			</translated>
 		</change>
 	</phrase>
@@ -272,14 +272,14 @@
 			"At the beginning" (Acts 11:15)
 		</original>
 		<translated>
-			
+			"No início" (Atos 11:15)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-11-15">
 			<original>
 				Acts 11:15
 			</original>
 			<translated>
-				
+				Atos 11:15
 			</translated>
 		</change>
 	</phrase>
@@ -289,7 +289,7 @@
 			Peter gives the "keys to the Kingdom" to both Jews and Gentiles.
 		</original>
 		<translated>
-			
+			Pedro dá as "chaves do Reino" tanto aos judeus como aos gentios.
 		</translated>
 	</phrase>
 
@@ -298,14 +298,14 @@
 			Does the Baptism with the Holy Spirit still exist today? Ephesians 4:4-6: There is one baptism — which one? (Written about 60-62 A.D.). There are three options: 
 		</original>
 		<translated>
-			
+			O Batismo com o Espírito Santo ainda existe nos dias de hoje? Efésios 4:4-6: Há um só batismo - Qual? (Escrito por volta de 60-62 d.C). Há três opções:
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="ephesians-4-4-6">
 			<original>
 				Ephesians 4:4-6
 			</original>
 			<translated>
-				
+				Efésios 4:4-6
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="false">
@@ -313,7 +313,7 @@
 				60-62 A.D.
 			</original>
 			<translated>
-				
+				60-62 d.C
 			</translated>
 		</change>
 	</phrase>
@@ -323,14 +323,14 @@
 			John's baptism — Passed when the new covenant began. (Acts 19:1-5)
 		</original>
 		<translated>
-			
+			O batismo de João - Passado quando a nova aliança começou. (Atos 19:1-5);
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-19-1-5">
 			<original>
 				Acts 19:1-5
 			</original>
 			<translated>
-				
+				Atos 19:1-5
 			</translated>
 		</change>
 	</phrase>
@@ -340,14 +340,14 @@
 			The Baptism with the Holy Spirit (Acts 2 and Acts 10) — is no longer present as it was a prophecy/promise that has been fulfilled. It was never a general command for all Christians.
 		</original>
 		<translated>
-			
+			O batismo com o Espírito Santo (Atos 2 e Atos 10) - não está mais presente, uma vez que a profecia/promessa já foi cumprida. Nunca foi um mandamento geral para todos os cristãos;
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
 				Acts 2 and Acts 10
 			</original>
 			<translated>
-				
+				Atos 2 e Atos 10
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2">
@@ -355,7 +355,7 @@
 				Acts 2
 			</original>
 			<translated>
-				
+				Atos 2
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-10">
@@ -363,7 +363,7 @@
 				Acts 10
 			</original>
 			<translated>
-				
+				Atos 10
 			</translated>
 		</change>
 	</phrase>
@@ -373,7 +373,7 @@
 			Baptism with water in the name of Jesus Christ for the forgiveness of sins to receive the indwelling of the Holy Spirit. 
 		</original>
 		<translated>
-			
+			Batismo com água em nome de Jesus Cristo pelo perdão dos pecados para receber a morada do Espírito Santo
 		</translated>
 	</phrase>
 
@@ -382,14 +382,14 @@
 			Jesus commanded this baptism. (Matthew 28:18-20)
 		</original>
 		<translated>
-			
+			Jesus ordenou esse batismo (Mateus 28:18-20)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-18-20">
 			<original>
 				Matthew 28:18-20
 			</original>
 			<translated>
-				
+				Mateus 28:18-20
 			</translated>
 		</change>
 	</phrase>
@@ -399,14 +399,14 @@
 			This baptism is recorded all the way through the book of Acts and the Epistles. In fact, Peter was present for all the baptisms: John's baptism, both accounts of the Baptism of the Holy Spirit, and preached water baptism in the name of Jesus in Acts 2 (33 A.D.) and in 1 Peter 3:18-21 (written around 64 A.D.), well after all the events of the book of Acts.
 		</original>
 		<translated>
-			
+			Esse batismo é registrado através do livro de Atos e das cartas. 1 Pedro 3:18-21 (escrito por volta de 64 d.C), faz referência ao batismo nas águas que trazem salvação
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
 				33 A.D.
 			</original>
 			<translated>
-				
+				33 d.C
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="1-peter-3-18-21">
@@ -414,7 +414,7 @@
 				1 Peter 3:18-21
 			</original>
 			<translated>
-				
+				1 Pedro 3:18-21
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="false">
@@ -422,7 +422,7 @@
 				64 A.D.
 			</original>
 			<translated>
-				
+				64 d.C
 			</translated>
 		</change>
 	</phrase>
@@ -432,14 +432,14 @@
 			It had to be the one baptism of Ephesians 4:4-6 as it was the only one practiced by 60-62 A.D. when Ephesians was written.
 		</original>
 		<translated>
-			
+			Tinha que ser o único batismo em Efésios 4:4-6 como era o único praticado em 60-62 d.C quando Efésios foi escrito.
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="ephesians-4-4-6">
 			<original>
 				Ephesians 4:4-6
 			</original>
 			<translated>
-				
+				Efésios 4:4-6
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="false">
@@ -447,7 +447,7 @@
 				60-62 A.D.
 			</original>
 			<translated>
-				
+				60-62 d.C
 			</translated>
 		</change>
 	</phrase>
@@ -457,14 +457,14 @@
 			The miraculous gifts of the Holy Spirit (next lesson) 
 		</original>
 		<translated>
-			
+			Os dons milagrosos do Espírito Santo (próxima lição)
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
 				The miraculous gifts of the Holy Spirit
 			</original>
 			<translated>
-				
+				Os dons milagrosos do Espírito Santo
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="false" href="../miraculous-gifts-holy-spirit/">
@@ -472,7 +472,7 @@
 				miraculous gifts of the Holy Spirit
 			</original>
 			<translated>
-				
+				dons milagrosos do Espírito Santo
 			</translated>
 		</change>
 	</phrase>
@@ -482,7 +482,7 @@
 			Received by the apostles' laying on of hands
 		</original>
 		<translated>
-			
+			Recebido pelos apóstolos — imposição das mãos
 		</translated>
 	</phrase>
 
@@ -491,7 +491,7 @@
 			No longer present today
 		</original>
 		<translated>
-			
+			Não mais presente nos dias de hoje
 		</translated>
 	</phrase>
 	

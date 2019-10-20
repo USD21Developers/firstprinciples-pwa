@@ -31,10 +31,10 @@
 
 	<phrase id="4" desc="">
 		<original>
-			Install
+			
 		</original>
 		<translated>
-			Installer
+			
 		</translated>
 	</phrase>
 
@@ -53,6 +53,24 @@
 		</original>
 		<translated>
 			Une connexion Internet est nécessaire pour regarder cette vidéo. Veuillez vous connecter à Internet, puis réessayez.
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			A Bible study from the International Christian Churches
+		</original>
+		<translated>
+			Une étude biblique des églises chrétiennes internationales
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			A Bible study series from the International Christian Churches
+		</original>
+		<translated>
+			Une série d'études bibliques des églises chrétiennes internationales
 		</translated>
 	</phrase>
 

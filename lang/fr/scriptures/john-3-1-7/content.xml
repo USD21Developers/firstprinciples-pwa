@@ -22,10 +22,10 @@
 				Jésus répondit: <span class="jesuswords">«En vérité, en vérité, je te le dis, à moins de naître d'eau et d'Esprit, on ne peut entrer dans le royaume de Dieu.</span>
 			</verse>
 			<verse number="6" number-en="6" jesuswords="true">
-				Ce qui est né de parents humains est humain et ce qui est né de l'Esprit est Esprit.
+				<span class="jesuswords">Ce qui est né de parents humains est humain et ce qui est né de l'Esprit est Esprit.</span>
 			</verse>
 			<verse number="7" number-en="7" jesuswords="true">
-				Ne t'étonne pas que je t'aie dit: ‘Il faut que vous naissiez de nouveau.’
+				<span class="jesuswords">Ne t'étonne pas que je t'aie dit: ‘Il faut que vous naissiez de nouveau.’</span> 
 			</verse>
 		</chapter>
 	</passage>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="christ-is-your-life" lang-original="en" lang-translated="" last-updated="2018-09-29" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-29" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="christ-is-your-life" lang-original="en" lang-translated="pt" last-updated="2019-02-18" last-updated-by="Waldir Caro" last-updated-by-email="edisone11.fc@gmail.com" created="2018-09-29" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
 			Christ Is Your Life
 		</original>
 		<translated>
-			
+			Cristo é sua vida
 		</translated>
 	</phrase>
 
@@ -16,7 +16,7 @@
 			Introduction
 		</original>
 		<translated>
-			
+			Introdução
 		</translated>
 	</phrase>
 
@@ -25,7 +25,7 @@
 			Discuss:
 		</original>
 		<translated>
-			
+			Discuta:
 		</translated>
 	</phrase>
 
@@ -34,7 +34,7 @@
 			Did you have daily quiet times this past week?
 		</original>
 		<translated>
-			
+			Você teve tempos com Deus diariamente durante a semana que passou?
 		</translated>
 	</phrase>
 
@@ -43,7 +43,7 @@
 			Who did you share with and invite?
 		</original>
 		<translated>
-			
+			Com quem você compartilhou e a quem você convidou?
 		</translated>
 	</phrase>
 
@@ -52,7 +52,7 @@
 			Discuss the impact of communion on Sunday.
 		</original>
 		<translated>
-			
+			Discuta o impacto da santa ceia no domingo.
 		</translated>
 	</phrase>
 
@@ -61,14 +61,14 @@
 			Colossians 3:1-4: Raised to a new life
 		</original>
 		<translated>
-			
+			Colossenses 3:1-4: Ressuscitado para uma vida nova
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-3-1-4">
 			<original>
 				Colossians 3:1-4
 			</original>
 			<translated>
-				
+				Colossenses 3:1-4
 			</translated>
 		</change>
 	</phrase>
@@ -78,14 +78,14 @@
 			Raised with Christ in baptism (Colossians 2:12).
 		</original>
 		<translated>
-			
+			Ressuscitado com Cristo no batismo (Colossenses 2:12);
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-2-12">
 			<original>
 				Colossians 2:12
 			</original>
 			<translated>
-				
+				Colossenses 2:12
 			</translated>
 		</change>
 	</phrase>
@@ -95,7 +95,7 @@
 			The Holy Spirit, received at baptism, gives you the power to set your mind (thoughts) and set your heart (emotions) on things above.
 		</original>
 		<translated>
-			
+			O Espírito Santo, recebido no batismo, lhe dá o poder de fixar sua mente (pensamentos) e seu coração (emoções) em coisas do alto;
 		</translated>
 	</phrase>
 
@@ -104,7 +104,7 @@
 			Christ is your life.
 		</original>
 		<translated>
-			
+			Cristo é sua vida.
 		</translated>
 	</phrase>
 
@@ -113,14 +113,14 @@
 			Colossians 3:5-11: Put to death
 		</original>
 		<translated>
-			
+			Colossenses 3:5-11: Faça morrer
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-3-5-11">
 			<original>
 				Colossians 3:5-11
 			</original>
 			<translated>
-				
+				Colossenses 3:5-11
 			</translated>
 		</change>
 	</phrase>
@@ -130,7 +130,7 @@
 			Discuss and be open about your struggles this week.
 		</original>
 		<translated>
-			
+			Discuta e seja aberto quanto às suas lutas durante a semana que passou;
 		</translated>
 	</phrase>
 
@@ -139,7 +139,7 @@
 			Discuss any financial challenges — pledge to God, rent, bills, salary, etc...
 		</original>
 		<translated>
-			
+			Discuta quaisquer desafios financeiros – oferta a Deus, aluguel, contas, salário, etc.
 		</translated>
 	</phrase>
 
@@ -148,7 +148,7 @@
 			Discuss practical ways to crucify your sinful nature.
 		</original>
 		<translated>
-			
+			Discuta maneiras práticas de crucificar sua natureza pecaminosa.
 		</translated>
 	</phrase>
 
@@ -157,14 +157,14 @@
 			Colossians 3:12-14: Put on — clothe yourself
 		</original>
 		<translated>
-			
+			Colossenses 3:12-14: Revista-se de:
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-3-12-14">
 			<original>
 				Colossians 3:12-14
 			</original>
 			<translated>
-				
+				Colossenses 3:12-14
 			</translated>
 		</change>
 	</phrase>
@@ -174,7 +174,7 @@
 			Compassion
 		</original>
 		<translated>
-			
+			Compaixão
 		</translated>
 	</phrase>
 
@@ -183,7 +183,7 @@
 			Kindness
 		</original>
 		<translated>
-			
+			Bondade
 		</translated>
 	</phrase>
 
@@ -192,7 +192,7 @@
 			Humility
 		</original>
 		<translated>
-			
+			Humildade
 		</translated>
 	</phrase>
 
@@ -201,7 +201,7 @@
 			Gentleness
 		</original>
 		<translated>
-			
+			Mansidão
 		</translated>
 	</phrase>
 
@@ -210,7 +210,7 @@
 			Patience
 		</original>
 		<translated>
-			
+			Paciência
 		</translated>
 	</phrase>
 
@@ -219,7 +219,7 @@
 			Forgiveness
 		</original>
 		<translated>
-			
+			Perdão
 		</translated>
 	</phrase>
 
@@ -228,14 +228,14 @@
 			Colossians 3:15-24: New attitudes
 		</original>
 		<translated>
-			
+			Colossenses 3:15-24: Novas atitudes
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-3-15-24">
 			<original>
 				Colossians 3:15-24
 			</original>
 			<translated>
-				
+				Colossenses 3:15-24
 			</translated>
 		</change>
 	</phrase>
@@ -245,7 +245,7 @@
 			Peace
 		</original>
 		<translated>
-			
+			Paz
 		</translated>
 	</phrase>
 
@@ -254,7 +254,7 @@
 			Thankful
 		</original>
 		<translated>
-			
+			Gratidão
 		</translated>
 	</phrase>
 
@@ -263,7 +263,7 @@
 			Wholehearted
 		</original>
 		<translated>
-			
+			Dedicar-se incondicionalmente
 		</translated>
 	</phrase>
 
@@ -272,14 +272,14 @@
 			Family Interactions (v. 18-21)
 		</original>
 		<translated>
-			
+			Interações familiares (v. 18-21)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-3-18-21">
 			<original>
 				v. 18-21
 			</original>
 			<translated>
-				
+				v. 18-21
 			</translated>
 		</change>
 	</phrase>
@@ -289,14 +289,14 @@
 			Employer/employee relationships (v. 22-24)
 		</original>
 		<translated>
-			
+			Empregador – relação com seus empregados (v. 22-24)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-3-22-24">
 			<original>
 				v. 22-24
 			</original>
 			<translated>
-				
+				v. 22-24
 			</translated>
 		</change>
 	</phrase>
@@ -306,14 +306,14 @@
 			Teacher/student relationships (v. 22-24)
 		</original>
 		<translated>
-			
+			Aluno – relação com professores (v. 22-24)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-3-22-24">
 			<original>
 				v. 22-24
 			</original>
 			<translated>
-				
+				v. 22-24
 			</translated>
 		</change>
 	</phrase>

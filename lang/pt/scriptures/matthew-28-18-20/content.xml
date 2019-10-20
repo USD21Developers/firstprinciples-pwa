@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="matthew-28-18-20" lang="pt" version="NVI-PT" edition="2000">
-	<passage title="" book="" title-en="Matthew 28:18-20" book-en="Matthew">
+	<passage title="Mateus 28:18-20" book="Mateus" title-en="Matthew 28:18-20" book-en="Matthew">
 		<chapter number="28" number-en="28">
 			<verse number="18" number-en="18" jesuswords="true">
-				
+				Então, Jesus aproximou-se deles e disse: <span class="jesuswords">"Foi-me dada toda a autoridade no céu e na terra.</span>
 			</verse>
 			<verse number="19" number-en="19" jesuswords="true">
-				
+				<span class="jesuswords">Portanto, vão e façam discípulos de todas as nações, batizando-os em nome do Pai e do Filho e do Espírito Santo,</span>
 			</verse>
 			<verse number="20" number-en="20" jesuswords="true">
-				
+				<span class="jesuswords">ensinando-os a obedecer a tudo o que eu lhes ordenei. E eu estarei sempre com vocês, até o fim dos tempos".</span>
 			</verse>
 		</chapter>
 	</passage>

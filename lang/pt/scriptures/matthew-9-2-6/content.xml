@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="matthew-9-2-6" lang="pt" version="NVI-PT" edition="2000">
-	<passage title="" book="" title-en="Matthew 9:2-6" book-en="Matthew">
+	<passage title="Mateus 9:2-6" book="Mateus" title-en="Matthew 9:2-6" book-en="Matthew">
 		<chapter number="9" number-en="9">
 			<verse number="2" number-en="2" jesuswords="true">
-				
+				Alguns homens trouxeram-lhe um paralítico, deitado numa cama. Vendo a fé que eles tinham, Jesus disse ao paralítico: <span class="jesuswords">"Tenha bom ânimo, filho; os seus pecados estão perdoados".</span>
 			</verse>
 			<verse number="3" number-en="3">
-				
+				Diante disso, alguns mestres da lei disseram a si mesmos: "Este homem está blasfemando! "
 			</verse>
 			<verse number="4" number-en="4" jesuswords="true">
-				
+				Conhecendo Jesus seus pensamentos, disse-lhes: <span class="jesuswords">"Por que vocês pensam maldosamente em seus corações?</span>
 			</verse>
 			<verse number="5" number-en="5" jesuswords="true">
-				
+				<span class="jesuswords">Que é mais fácil dizer: ‘Os seus pecados estão perdoados’, ou: ‘Levante-se e ande’?</span>
 			</verse>
 			<verse number="6" number-en="6" jesuswords="true">
-				
+				<span class="jesuswords">Mas, para que vocês saibam que o Filho do homem tem na terra autoridade para perdoar pecados" — disse ao paralítico: "Levante-se, pegue a sua maca e vá para casa".</span>
 			</verse>
 		</chapter>
 	</passage>
