@@ -3,6 +3,6 @@ module.exports = {
   "globPatterns": [
     "**/*.{css,js,txt,woff,woff2,png,xml,html,json,pdf}"
   ],
-  "globIgnores": ['**/splashscreens/*', '**/fontawesome-free-5.11.2-web/**'],
+  "globIgnores": ['**/splashscreens/*'],
   "swDest": "sw.js"
 };
