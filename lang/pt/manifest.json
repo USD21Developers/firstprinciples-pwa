@@ -3,7 +3,7 @@
   "short_name": "Princípios Básicos",
   "theme_color": "#0d47a1",
   "background_color": "#333333",
-  "display": "browser",
+  "display": "standalone",
   "start_url": "./",
   "icons": [
     {
