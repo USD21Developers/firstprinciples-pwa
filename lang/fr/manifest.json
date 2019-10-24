@@ -17,13 +17,13 @@
       "type": "image/png"
     },
     {
-      "src": "_assets/img/icons/launch/adaptive/icon-512.png",
+      "src": "_assets/img/icons/launch/adaptive/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "_assets/img/icons/launch/adaptive/icon-192.png",
+      "src": "_assets/img/icons/launch/adaptive/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable any"
