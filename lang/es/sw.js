@@ -26,140 +26,12 @@ self.addEventListener('message', (event) => {
  */
 self.__precacheManifest = [
   {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/css/all.css",
-    "revision": "42b8897772b8f90a5a1b7190deda7b3c"
-  },
-  {
     "url": "_assets/css/fontawesome-free-5.11.2-web/css/all.min.css",
     "revision": "41d394990448b2c2b1afe840e837dc8e"
   },
   {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/css/brands.css",
-    "revision": "9d7cf4e0a0423fabce86d63522d689e5"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/css/brands.min.css",
-    "revision": "e795f38c14047658b58ac571fea771e5"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/css/fontawesome.css",
-    "revision": "f2a13b66448854bbe47047bf88941bf9"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/css/fontawesome.min.css",
-    "revision": "69ab1ff3d3f05a13c5fc7a94a974a156"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/css/regular.css",
-    "revision": "ae9b00c12cab3413d0c0ce5e834101eb"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/css/regular.min.css",
-    "revision": "47797840dc7abda23eca47440611adcd"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/css/solid.css",
-    "revision": "d370a230905746e9359cef844a4482c6"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/css/solid.min.css",
-    "revision": "aa0c3dc5cf4eaac195fe9f5073fa1582"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/css/svg-with-js.css",
-    "revision": "5ce9cf6872b6bc49e3cf5a4321ce1913"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/css/svg-with-js.min.css",
-    "revision": "477db6464f9ec25ace773c7f62a33470"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/css/v4-shims.css",
-    "revision": "acaa165c969713334419ee7df88a3fe9"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/css/v4-shims.min.css",
-    "revision": "77971cdc3e2fe959ab710a0041c3d79f"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/all.js",
-    "revision": "18592082cdb7ca610dfacc5b183051bd"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/all.min.js",
-    "revision": "62ab3c508a8eae18978cb3bfbd1002eb"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/brands.js",
-    "revision": "2765617f4ce430429b497860067a5b6f"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/brands.min.js",
-    "revision": "a7bf301614b6470aaaa3e44c511e6455"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/conflict-detection.js",
-    "revision": "3e4cf1a4b889946db883bbe61dec92d1"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/conflict-detection.min.js",
-    "revision": "55808cf6179c648f81d9dffcbd07f9c9"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/fontawesome.js",
-    "revision": "efc5d53fe03fb8eb620d6202e1c441d9"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/fontawesome.min.js",
-    "revision": "c194744865b7375ab9c8bd30962f8815"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/regular.js",
-    "revision": "d9833f5a96b43cb2faabd7c5b32c2528"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/regular.min.js",
-    "revision": "dd9b7820c07f3563eef1ebd1eaf3f4f8"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/solid.js",
-    "revision": "042b6643eafd9aae050ed55f9b69f37e"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/solid.min.js",
-    "revision": "83050de48f5da77f6729164a485629be"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/v4-shims.js",
-    "revision": "523db7412b1f69cc3bd7f6b0f093ea64"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/js/v4-shims.min.js",
-    "revision": "ae37ebc0d9426b624204853656683db0"
-  },
-  {
     "url": "_assets/css/fontawesome-free-5.11.2-web/LICENSE.txt",
     "revision": "2e3494502db283e8891d4886fe445912"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/metadata/shims.json",
-    "revision": "d30314bd45ab4710f0aa3c972adc2cbd"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/webfonts/fa-brands-400.woff",
-    "revision": "c5e0f14f88a828261ba01558ce2bf26f"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/webfonts/fa-brands-400.woff2",
-    "revision": "cccc9d29470e879e40eb70249d9a2705"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/webfonts/fa-regular-400.woff",
-    "revision": "c4f508e7c4f01a9eeba7f08155cde04e"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.11.2-web/webfonts/fa-regular-400.woff2",
-    "revision": "f5f2566b93e89391da4db79462b8078b"
   },
   {
     "url": "_assets/css/fontawesome-free-5.11.2-web/webfonts/fa-solid-900.woff",
@@ -184,14 +56,6 @@ self.__precacheManifest = [
   {
     "url": "_assets/css/the-church.css",
     "revision": "4ff3843cf295d1944c8bee4ace95bd2a"
-  },
-  {
-    "url": "_assets/font/home.woff",
-    "revision": "926a17462a873cb754c8319040459acf"
-  },
-  {
-    "url": "_assets/font/home.woff2",
-    "revision": "d8521629f0d22adc1dbcc314b724c245"
   },
   {
     "url": "_assets/img/body.png",
@@ -427,7 +291,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.json",
-    "revision": "ee75f0d41a8d3fd10c3be1cb02b5450a"
+    "revision": "0a60371cf358d119c923a031bcf1572f"
   },
   {
     "url": "medical-account/content.xml",
