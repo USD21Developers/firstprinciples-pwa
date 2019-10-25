@@ -1223,7 +1223,7 @@ self.__precacheManifest = [
   },
   {
     "url": "scriptures/romans-15-14/content.xml",
-    "revision": "96b1fe97ac0420acd244faf1ff99f186"
+    "revision": "89377e112c4e0b317f8dcdb73974ecdd"
   },
   {
     "url": "scriptures/romans-3-23-25/content.xml",
@@ -1335,7 +1335,7 @@ self.__precacheManifest = [
   },
   {
     "url": "workbox-config.js",
-    "revision": "1f9b827910a9f71bb1ddc3d62f047a8a"
+    "revision": "54e58749315fc513f4892ef580b367c0"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
