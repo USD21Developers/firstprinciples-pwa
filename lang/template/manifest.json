@@ -2,7 +2,7 @@
   "name": "",
   "short_name": "",
   "theme_color": "#0d47a1",
-  "background_color": "#efefef",
+  "background_color": "#333333",
   "display": "standalone",
   "start_url": "./",
   "icons": [

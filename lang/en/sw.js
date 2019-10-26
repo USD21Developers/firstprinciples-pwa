@@ -291,7 +291,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.json",
-    "revision": "0ddb9258677dd402a36f8540840c1c56"
+    "revision": "acb84b1100199eb95995f4aa534e948c"
   },
   {
     "url": "medical-account/content.xml",
@@ -1335,7 +1335,7 @@ self.__precacheManifest = [
   },
   {
     "url": "workbox-config.js",
-    "revision": "0b0335077e7279943e7ccc5c1069ce01"
+    "revision": "54e58749315fc513f4892ef580b367c0"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
