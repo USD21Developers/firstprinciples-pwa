@@ -51,7 +51,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/css/style.css",
-    "revision": "1fd2c9358a39a04fcb0ff46b9d48f8e0"
+    "revision": "f97c399c4769992e759768750492dd74"
   },
   {
     "url": "_assets/css/the-church.css",
@@ -291,7 +291,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.json",
-    "revision": "acb84b1100199eb95995f4aa534e948c"
+    "revision": "0ddb9258677dd402a36f8540840c1c56"
   },
   {
     "url": "medical-account/content.xml",
