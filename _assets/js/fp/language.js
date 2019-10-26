@@ -97,7 +97,7 @@ fp.language = {
           const $data = $(data);
           const appTitle = $data.find('phrase[id=1] translated')[0].innerHTML.trim();
           const pageTitle = $data.find('phrase[id=3] translated')[0].innerHTML.trim();
-          $('title').text(pageTitle);
+          $('title').text(appTitle);
           $('.brand-logo').html(appTitle);
           $('.fp_pagehead').html(pageTitle);
         }
