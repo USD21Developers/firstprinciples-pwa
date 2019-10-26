@@ -95,27 +95,27 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/img/icons/launch/normal/apple-icon-120.png",
-    "revision": "cbf3e84e99f7f678408b5d6a0bbe9f3f"
+    "revision": "ed10fb1c50a2870b4cd46889c753af57"
   },
   {
     "url": "_assets/img/icons/launch/normal/apple-icon-152.png",
-    "revision": "ac70d958305b9c416d726b8c1f6f8ddf"
+    "revision": "32a88f948dc6162dc7e0c4dc5b2e35b7"
   },
   {
     "url": "_assets/img/icons/launch/normal/apple-icon-167.png",
-    "revision": "42c814f7ab913171b46cf1d57cbf764a"
+    "revision": "fdbc5cac6ab2371436d63c2806907c30"
   },
   {
     "url": "_assets/img/icons/launch/normal/apple-icon-180.png",
-    "revision": "c4c6ad674d8f7348fd13d6a0bcf7e7f4"
+    "revision": "b1bf5daf5a21dd56dddf1bf2d1ef87f5"
   },
   {
     "url": "_assets/img/icons/launch/normal/manifest-icon-192.png",
-    "revision": "d37d1e68655baa73e023d18786d97c5a"
+    "revision": "986946589f29ad5bcb50247cf6450038"
   },
   {
     "url": "_assets/img/icons/launch/normal/manifest-icon-512.png",
-    "revision": "64720160cf372f96ff64c2a0070c2d0a"
+    "revision": "17f86fa4f1bcbd0b0df452155e666de2"
   },
   {
     "url": "_assets/js/fp/base.js",
