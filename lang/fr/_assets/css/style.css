@@ -18,7 +18,7 @@ body,
 .fpmodule_dashboard .collection a.collection-item {
   color: black;
   font-weight: 400;
-  font-size: 1rem;
+  font-size: 1.2rem;
   background-color: #fff;
 }
 
@@ -28,6 +28,7 @@ strong {
 
 .fp_pagehead {
   font-weight: 700;
+  text-overflow: ellipsis;
 }
 
 .fp_pagecontent {
@@ -143,6 +144,7 @@ span.scripturequote {
 }
 
 nav .brand-logo {
+  font-weight: bold;
   font-size: 1.3rem;
   min-width: 300px;
   overflow: hidden;
@@ -158,6 +160,7 @@ audio {
   font-size: 1.2rem;
   white-space: nowrap;
   overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .scripture {
@@ -230,6 +233,7 @@ blockquote {
   clear: both;
   width: 100%;
   position: absolute;
+  text-overflow: ellipsis;
 }
 
 .page-footer {
