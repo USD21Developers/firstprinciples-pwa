@@ -1319,7 +1319,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-mission/index.html",
-    "revision": "2434c8d687660666e0822be61298c348"
+    "revision": "6c7d46f1e3cf11b1d44bce89a3c0ee82"
   },
   {
     "url": "the-mission/logic.js",

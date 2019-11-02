@@ -319,7 +319,7 @@ self.__precacheManifest = [
   },
   {
     "url": "persecution/index.html",
-    "revision": "32b9e9c7630e0e166ce29a12501b1368"
+    "revision": "c80f73c0654b11112236a9ecb955da30"
   },
   {
     "url": "persecution/logic.js",
