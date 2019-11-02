@@ -62,38 +62,6 @@ self.__precacheManifest = [
     "revision": "e6306fcce46e83649d86e4726ad73dc7"
   },
   {
-    "url": "_assets/img/icons/launch/maskable/icon-128x128.png",
-    "revision": "6f42067836c2915c4769069cb873bbf8"
-  },
-  {
-    "url": "_assets/img/icons/launch/maskable/icon-144x144.png",
-    "revision": "319d1863b59dbff63b18115556ad2481"
-  },
-  {
-    "url": "_assets/img/icons/launch/maskable/icon-152x152.png",
-    "revision": "702baadd3f55cbeb400b045744b906df"
-  },
-  {
-    "url": "_assets/img/icons/launch/maskable/icon-192x192.png",
-    "revision": "eab2d392f742a6163ff7a639332eb0a7"
-  },
-  {
-    "url": "_assets/img/icons/launch/maskable/icon-384x384.png",
-    "revision": "d2a3ffa66e63aa39bd926d397c98b72f"
-  },
-  {
-    "url": "_assets/img/icons/launch/maskable/icon-512x512.png",
-    "revision": "1e5cbe66b29622b12d77c2bad03586ec"
-  },
-  {
-    "url": "_assets/img/icons/launch/maskable/icon-72x72.png",
-    "revision": "9c448f4ec994471d8bd0b601e2c0d001"
-  },
-  {
-    "url": "_assets/img/icons/launch/maskable/icon-96x96.png",
-    "revision": "6923a8da3063fffdc7441e5c693b41df"
-  },
-  {
     "url": "_assets/img/icons/launch/normal/apple-icon-120.png",
     "revision": "ed10fb1c50a2870b4cd46889c753af57"
   },
@@ -111,15 +79,15 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/img/icons/launch/normal/manifest-icon-192.png",
-    "revision": "8bc3fa9dab3bb57b1fa9d708ac33dda0"
+    "revision": "390cdcb2df3e041b5ce60a5e6ccefe6c"
   },
   {
     "url": "_assets/img/icons/launch/normal/manifest-icon-384.png",
-    "revision": "13845a42ab502339b91a68f7db3b139c"
+    "revision": "2b6bb1a58245f06ed7f89c64f73ab152"
   },
   {
     "url": "_assets/img/icons/launch/normal/manifest-icon-512.png",
-    "revision": "fad6e501867a29b8b459b2f96c5c6ad8"
+    "revision": "eae5daf51d39057ee1ca8472fd0dba0d"
   },
   {
     "url": "_assets/js/fp/base.js",
@@ -295,7 +263,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.json",
-    "revision": "24061881b0e1895d15142ddc7c141140"
+    "revision": "1e2cc4edd707326bd1fdfab0579cf0d7"
   },
   {
     "url": "medical-account/content.xml",
