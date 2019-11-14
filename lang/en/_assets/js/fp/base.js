@@ -106,6 +106,7 @@ fp.showContent = (key, lang, selector) => {
           fp.showFooter(fp.view.key, fp.language.current).then(() => {
             fp.enableInstall();
             fp.onInstall();
+            fp.enableShare();
           });
           if (fp.view.key === 'light-darkness') {
             setTimeout(() => {
@@ -334,6 +335,38 @@ fp.onInstall = () => {
     localStorage.setItem('installDate', installDate);
     $('#install-button-container').hide();
   });
+}
+
+fp.enableShare = () => {
+  const shareButtonContainer = document.querySelector('#share-button-container');
+  const shareButton = document.querySelector('#share-button');
+  if (navigator.share) {
+    shareButtonContainer.style.display = 'block';
+    shareButton.addEventListener('click', fp.onShare, false);
+  }
+}
+
+fp.onShare = () => {
+  let appTitle = document.querySelector('.brand-logo').innerText;
+  let appURL = 'https://firstprinciples.mobi/';
+  if (document.location.host === 'firstprinciples-materialdesign.herokuapp.com') {
+    appURL = 'https://firstprinciples-materialdesign.herokuapp.com/';
+  }
+  let hasHighASCIICharacters = false;
+  const appTitleCheck = appTitle.split('').map(character => {
+    const characterCode = character.charCodeAt(0);
+    if ((characterCode < 32) || (characterCode > 127)) {
+      hasHighASCIICharacters = true;
+    }
+  });
+  if (hasHighASCIICharacters) {
+    appTitle = appTitle.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+  }
+  navigator.share({
+    url: appURL,
+    text: appTitle + '\n',
+    title: appTitle
+  }).then(() => console.log('fp.onShare')).catch(error => console.error(error));
 }
 
 fp.registerServiceWorker = fromKey => {

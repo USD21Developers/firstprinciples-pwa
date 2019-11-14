@@ -51,7 +51,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/css/style.css",
-    "revision": "9243fd28b4d3878745ce030afcb8832f"
+    "revision": "8ebe7acb1b4a9734e71f801cc470ae71"
   },
   {
     "url": "_assets/css/the-church.css",
@@ -91,7 +91,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/js/fp/base.js",
-    "revision": "99cf20386372942f6851dd7684725143"
+    "revision": "58484dcc4a70a9af32dbb56e72fa7126"
   },
   {
     "url": "_assets/js/fp/language.js",
@@ -219,19 +219,19 @@ self.__precacheManifest = [
   },
   {
     "url": "global/content.xml",
-    "revision": "35ef70190c2fde29eafcce1c287734cf"
+    "revision": "5a5aa61f52121de2fc94b8081ae0b4d1"
   },
   {
     "url": "global/footer/content.xml",
-    "revision": "58c294435d722b2e0724eaf5ba01f606"
+    "revision": "191a9aae5bb2296cdc631f2cca3bd184"
   },
   {
     "url": "global/footer/logic.js",
-    "revision": "a35c296a1ea52f5126f6726b5c4c2e45"
+    "revision": "3f7aad24d70e98d4be9d708cb1d1624a"
   },
   {
     "url": "index.html",
-    "revision": "80828068d936a4834df4c48c175572ff"
+    "revision": "fc519c562f26417eb00273badb9c7d1c"
   },
   {
     "url": "introduction/content.xml",

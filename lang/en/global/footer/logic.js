@@ -13,7 +13,17 @@
 
           <p align="center" id="install-button-container">
             <button class="waves-effect waves-light btn light-blue darken-1" id="install-button">
+              <i class="fas fa-home"></i>
+              &nbsp;
               ${phrase(1)}
+            </button>
+          </p>
+
+          <p align="center" id="share-button-container" style="display: none">
+            <button id="share-button" class="waves-effect waves-light btn light-blue darken-1">
+              <i class="fas fa-share-alt"></i>
+              &nbsp;
+              ${phrase(4)}
             </button>
           </p>
 
@@ -26,5 +36,7 @@
       </div>
     </div>
   `;
+
   $('footer').html(html);
+
 })();

@@ -243,11 +243,35 @@ fp.media = mediaObj => {
   return mediaHTML;
 };
 
+fp.onShare = () => {
+  let appTitle = document.querySelector('.brand-logo').innerText;
+  let appURL = 'https://firstprinciples.mobi/';
+  if (document.location.host === 'firstprinciples-materialdesign.herokuapp.com') {
+    appURL = 'https://firstprinciples-materialdesign.herokuapp.com/';
+  }
+  let hasHighASCIICharacters = false;
+  const appTitleCheck = appTitle.split('').map(character => {
+    const characterCode = character.charCodeAt(0);
+    if ((characterCode < 32) || (characterCode > 127)) {
+      hasHighASCIICharacters = true;
+    }
+  });
+  if (hasHighASCIICharacters) {
+    appTitle = appTitle.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+  }
+  navigator.share({
+    url: appURL,
+    text: appTitle + '\n',
+    title: appTitle
+  }).then(() => console.log('fp.onShare')).catch(error => console.error(error));
+}
+
 fp.events = {
   listeners: {
     attach: function() {
       fp.scripture.onScriptureClicked();
       fp.scripture.onScriptureExpandButtonClicked();
+      fp.onShare();
     }
   }
 };
