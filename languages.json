@@ -4,27 +4,31 @@
     "name": {
       "native": "English",
       "en": "English"
-    }
+    },
+    "dir": "ltr"
   },
   {
     "iso": "es",
     "name": {
       "native": "Español",
       "en": "Spanish"
-    }
+    },
+    "dir": "ltr"
   },
   {
     "iso": "fr",
     "name": {
       "native": "Français",
       "en": "French"
-    }
+    },
+    "dir": "ltr"
   },
   {
     "iso": "pt",
     "name": {
       "native": "Português",
       "en": "Portuguese"
-    }
+    },
+    "dir": "ltr"
   }
 ]
