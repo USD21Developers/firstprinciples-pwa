@@ -203,7 +203,7 @@ self.__precacheManifest = [
   },
   {
     "url": "dashboard/logic.js",
-    "revision": "930760643e8c09411d4bb733b3da0c17"
+    "revision": "2d3a76926640ba4ce24ffbe5b881b733"
   },
   {
     "url": "discipleship/content.xml",
