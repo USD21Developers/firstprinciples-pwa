@@ -40,6 +40,6 @@
   $('title').text(title);
   $(fp.view.containers.title, 'title').html(title);
   $(fp.view.containers.content).html(html);
-  $('nav[role="name"]').addClass('hide');
+  $('nav[role="name"').addClass('hide');
 
 })();
