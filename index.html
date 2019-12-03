@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit: cover">
     <meta name="google" content="notranslate">
     <meta name="theme-color" content="#0d47a1"/>
+    <link rel="manifest" href="./manifest.json">
     <link type="text/css" rel="stylesheet" href="./_assets/css/materialize.min.css"  media="screen,projection">
     <link type="text/css" rel="stylesheet" href="./_assets/css/style.css" media="screen,projection">
     <link type="text/css" rel="stylesheet" href="./_assets/css/fontawesome-free-5.11.2-web/css/all.min.css">
@@ -66,12 +67,15 @@
 
     <!--  Scripts -->
     <script src="./_assets/js/jquery-2.1.1.min.js"></script>
-    <script src="./_assets/js/localforage.min.js"></script>
     <script src="./_assets/js/materialize.min.js"></script>
     <script src="./_assets/js/fp/base.js"></script>
     <script src="./_assets/js/fp/language.js"></script>
-    <script src="./_assets/js/fp/scripture.js"></script>
     <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('./sw.js').catch(error => {
+          console.error('Error in registering First Principles service worker:', error);
+        });
+      }  
       fp.init('index');
       M.AutoInit();
     </script>

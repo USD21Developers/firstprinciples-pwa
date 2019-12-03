@@ -318,7 +318,7 @@ fp.enableInstall = () => {
 
   window.addEventListener('beforeinstallprompt', e => {
     e.preventDefault();
-    fp.installPromptEvent = event;
+    fp.installPromptEvent = e;
     if (isMobileDevice) {
       $('#install-button-container').show();
     }

@@ -266,12 +266,28 @@ fp.onShare = () => {
   }).then(() => console.log('fp.onShare')).catch(error => console.error(error));
 }
 
+fp.enableInstall = () => {
+  window.addEventListener('beforeinstallprompt', e => {
+    e.preventDefault();
+  });
+}
+
+fp.onInstall = () => {
+  window.addEventListener('appinstalled', (evt) => {
+    const installDate = new Date().toJSON();
+    localStorage.setItem('installDate', installDate);
+    $('#install-button-container').hide();
+  });
+}
+
 fp.events = {
   listeners: {
     attach: function() {
       fp.scripture.onScriptureClicked();
       fp.scripture.onScriptureExpandButtonClicked();
       fp.onShare();
+      fp.enableInstall();
+      fp.onInstall();
     }
   }
 };
