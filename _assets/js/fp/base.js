@@ -314,13 +314,15 @@ fp.prePopulateTitles = () => {
   let appTitle = 'First Principles';
   let pageTitle = 'Select Language';
   const appTitleContainer = document.querySelector('.brand-logo');
-  const pageTitleContainer = document.querySelector('title');
+  const pageTitleContainer = document.querySelector('.fp_pagehead');
+  const htmlTitleTag = document.querySelector('title');
   const appTitleSaved = localStorage.getItem('indexAppTitle');
   const pageTitleSaved = localStorage.getItem('indexPageTitle');
   if (appTitleSaved) appTitle = appTitleSaved;
   if (pageTitleSaved) pageTitle = pageTitleSaved;
   appTitleContainer.innerText = appTitle;
   pageTitleContainer.innerText = pageTitle;
+  htmlTitleTag.innerText = appTitle;
 };
 
 fp.init = async fromKey => {
