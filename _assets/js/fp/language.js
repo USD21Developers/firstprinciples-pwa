@@ -61,6 +61,7 @@ fp.language = {
             let $data = $(data);
             let text = {
               appTitle: $data.find('phrase[id=1] translated')[0].textContent.trim(),
+              pageTitle: $data.find('phrase[id=3] translated')[0].textContent.trim(),
               expandButton: $data.find('phrase[id=2] translated')[0].textContent.trim()
             };
             fp.$global = $data;
@@ -68,6 +69,8 @@ fp.language = {
               .find('.brand-logo').text(text.appTitle).end()
               .find('title').text(text.appTitle).end()
             ;
+            localStorage.setItem('indexAppTitle', text.appTitle);
+            localStorage.setItem('indexPageTitle', text.pageTitle);
           }
         })
       });
@@ -82,7 +85,6 @@ fp.language = {
   },
 
   indexPage: {
-
     loadTitle: function() {
       fromKey = 'index';
       lang = fp.language.current;
@@ -100,6 +102,8 @@ fp.language = {
           $('title').text(appTitle);
           $('.brand-logo').html(appTitle);
           $('.fp_pagehead').html(pageTitle);
+          localStorage.setItem('indexAppTitle', appTitle);
+          localStorage.setItem('indexPageTitle', pageTitle);
         }
       });
     },

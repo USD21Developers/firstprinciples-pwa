@@ -310,11 +310,25 @@ fp.xml2Str = xmlNode => {
   return false;
 };
 
+fp.prePopulateTitles = () => {
+  let appTitle = 'First Principles';
+  let pageTitle = 'Select Language';
+  const appTitleContainer = document.querySelector('.brand-logo');
+  const pageTitleContainer = document.querySelector('title');
+  const appTitleSaved = localStorage.getItem('indexAppTitle');
+  const pageTitleSaved = localStorage.getItem('indexPageTitle');
+  if (appTitleSaved) appTitle = appTitleSaved;
+  if (pageTitleSaved) pageTitle = pageTitleSaved;
+  appTitleContainer.innerText = appTitle;
+  pageTitleContainer.innerText = pageTitle;
+};
+
 fp.init = async fromKey => {
   window.fp = {};
   $.ajaxSetup({
     cache: true
   });
+  fp.prePopulateTitles();
   await $.ajax({
     url: '../../../languages.json',
     fileType: 'json',
