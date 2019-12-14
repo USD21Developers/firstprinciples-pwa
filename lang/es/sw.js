@@ -34,6 +34,14 @@ self.__precacheManifest = [
     "revision": "2e3494502db283e8891d4886fe445912"
   },
   {
+    "url": "_assets/css/fontawesome-free-5.11.2-web/svgs/solid/share-alt.svg",
+    "revision": "e1687b6439ed47f1280e6e8044a1b6fa"
+  },
+  {
+    "url": "_assets/css/fontawesome-free-5.11.2-web/svgs/solid/share.svg",
+    "revision": "aaa018a562a6839cb0ab8d1bb1ace056"
+  },
+  {
     "url": "_assets/css/fontawesome-free-5.11.2-web/webfonts/fa-solid-900.woff",
     "revision": "333bae208dc363746961b234ff6c2500"
   },
@@ -1307,7 +1315,7 @@ self.__precacheManifest = [
   },
   {
     "url": "workbox-config.js",
-    "revision": "54e58749315fc513f4892ef580b367c0"
+    "revision": "640773e9f4b1951b2e0b246bfffe9e09"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
