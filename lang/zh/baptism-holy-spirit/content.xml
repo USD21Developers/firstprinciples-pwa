@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="baptism-holy-spirit" lang-original="en" lang-translated="zh" last-updated="2020-02-07" last-updated-by="Dean Lam" last-updated-by-email="dean-lin_zh@hotmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			Baptism with the Holy Spirit
+		</original>
+		<translated>
+			圣灵洗礼
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			Introduction: Jesus was given the Spirit in full measure (RSV), no limit. (John 3:34). There are three measures of the Holy Spirit: 
+		</original>
+		<translated>
+			引言: 神把圣灵无限地赐给耶稣。（约翰福音 3:34) 圣灵有三个度量:
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Introduction:
+			</original>
+			<translated>
+				引言: 
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="john-3-34-rsv">
+			<original>
+				John 3:34
+			</original>
+			<translated>
+				约翰福音 3:34
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			The Indwelling of the Holy Spirit
+		</original>
+		<translated>
+			圣灵内住
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Terminology from Romans 8:9 (RSV)
+		</original>
+		<translated>
+			罗马书 8:9 的术语 
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-8-9-rsv">
+			<original>
+				Romans 8:9
+			</original>
+			<translated>
+				罗马书 8:9
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				(RSV)
+			</original>
+			<translated>
+				CNVS
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			Received at baptism (Acts 2:38)
+		</original>
+		<translated>
+			在受洗时领受的 （使徒行传 2:38）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
+			<original>
+				Acts 2:38
+			</original>
+			<translated>
+				使徒行传 2:38
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			The Baptism with the Holy Spirit
+		</original>
+		<translated>
+			圣灵洗礼
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			Characteristics in Acts 2 and Acts 10
+		</original>
+		<translated>
+			在使徒行传 2和使徒行传 10所表现的特征
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2">
+			<original>
+				Acts 2
+			</original>
+			<translated>
+				使徒行传 2
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-10">
+			<original>
+				Acts 10
+			</original>
+			<translated>
+				使徒行传 10
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			Promise (not command): Acts 1:4-5
+		</original>
+		<translated>
+			承诺 （而不是命令）: 使徒行传 1:4-5
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-1-4-5">
+			<original>
+				Acts 1:4-5
+			</original>
+			<translated>
+				使徒行传 1:4-5
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			Predicted (prophesied)
+		</original>
+		<translated>
+			预测地 （被预言地）
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			Came without warning. (People were not specifically praying for it.)
+		</original>
+		<translated>
+			到来时没有征兆。 （人们没有专门为此祈祷。）
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			Languages
+		</original>
+		<translated>
+			别种的语言
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			Purpose: to usher in the Kingdom with power (Mark 9:1), (Acts 1:8) 
+		</original>
+		<translated>
+			目的: 大有能力的迎接神的国。 （马可福音 9:1）， （使徒行传 1:8）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="mark-9-1">
+			<original>
+				Mark 9:1
+			</original>
+			<translated>
+				马可福音 9:1
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-1-8">
+			<original>
+				Acts 1:8
+			</original>
+			<translated>
+				使徒行传 1:8
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			Accounts of the Baptism with the Holy Spirit 
+		</original>
+		<translated>
+			圣灵洗礼的记载
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			To the Jews — in Jerusalem (Acts 2)
+		</original>
+		<translated>
+			向犹太人 — 在耶路撒冷 （使徒行传 2）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2">
+			<original>
+				Acts 2
+			</original>
+			<translated>
+				使徒行传 2
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			To the Gentiles — begins with Cornelius (Acts 10) 
+		</original>
+		<translated>
+			向外邦人 — 从哥尼流开始 （使徒行传 10）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-10">
+			<original>
+				Acts 10
+			</original>
+			<translated>
+				使徒行传 10
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			Note: Cornelius and his household were water baptized in Acts 10:48, saved at baptism.
+		</original>
+		<translated>
+			注意: 哥尼流和他一家人受洗（使徒行传 10：48），在洗礼中得救。 
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-10-48">
+			<original>
+				Acts 10:48
+			</original>
+			<translated>
+				使徒行传 10:48
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			Peter explained actions to the Jews. (Acts 11:1-18)
+		</original>
+		<translated>
+			彼得向犹太人解释他的行为。（使徒行传 11:1-18）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-11-1-18">
+			<original>
+				Acts 11:1-18
+			</original>
+			<translated>
+				使徒行传 11:1-18
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			"At the beginning" (Acts 11:15)
+		</original>
+		<translated>
+			“当初” （使徒行传 11:15）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-11-15">
+			<original>
+				Acts 11:15
+			</original>
+			<translated>
+				使徒行传 11:15
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			Peter gives the "keys to the Kingdom" to both Jews and Gentiles.
+		</original>
+		<translated>
+			彼得把 “天国的钥匙” 给了犹太人和外邦人。 
+		</translated>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			Does the Baptism with the Holy Spirit still exist today? Ephesians 4:4-6: There is one baptism — which one? (Written about 60-62 A.D.). There are three options: 
+		</original>
+		<translated>
+			圣灵洗礼今天还存在吗？ 以弗所书 4:4-6: 洗礼只有一种 — 哪一种？ （大约在公元60—62年所写）。 有三种可能性: 
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-4-4-6">
+			<original>
+				Ephesians 4:4-6
+			</original>
+			<translated>
+				以弗所书 4:4-6
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				60-62 A.D.
+			</original>
+			<translated>
+				公元60-62年
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			John's baptism — Passed when the new covenant began. (Acts 19:1-5)
+		</original>
+		<translated>
+			施洗约翰的洗礼 — 新约开始时已经失效。 （使徒行传 19:1-5）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-19-1-5">
+			<original>
+				Acts 19:1-5
+			</original>
+			<translated>
+				使徒行传 19:1-5
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			The Baptism with the Holy Spirit (Acts 2 and Acts 10) — is no longer present as it was a prophecy/promise that has been fulfilled. It was never a general command for all Christians.
+		</original>
+		<translated>
+			圣灵的洗礼 （使徒行传 2和使徒行传 10） — 不再存在， 因为这是一个已经实现了的预言/承诺。 这并不是对所有基督徒的命令。
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Acts 2 and Acts 10
+			</original>
+			<translated>
+				使徒行传 2 和 使徒行传 10
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2">
+			<original>
+				Acts 2
+			</original>
+			<translated>
+				使徒行传 2
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-10">
+			<original>
+				Acts 10
+			</original>
+			<translated>
+				使徒行传 10
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="23" desc="">
+		<original>
+			Baptism with water in the name of Jesus Christ for the forgiveness of sins to receive the indwelling of the Holy Spirit. 
+		</original>
+		<translated>
+			奉耶稣基督之名水的洗礼， 使罪得赦且得圣灵内住。
+		</translated>
+	</phrase>
+
+	<phrase id="24" desc="">
+		<original>
+			Jesus commanded this baptism. (Matthew 28:18-20)
+		</original>
+		<translated>
+			这个洗礼是耶稣的命令。 （马太福音 28:18-20）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-18-20">
+			<original>
+				Matthew 28:18-20
+			</original>
+			<translated>
+				马太福音 28:18-20
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="25" desc="">
+		<original>
+			This baptism is recorded all the way through the book of Acts and the Epistles. In fact, Peter was present for all the baptisms: John's baptism, both accounts of the Baptism of the Holy Spirit, and preached water baptism in the name of Jesus in Acts 2 (33 A.D.) and in 1 Peter 3:18-21 (written around 64 A.D.), well after all the events of the book of Acts.
+		</original>
+		<translated>
+			水的洗礼记录贯穿在使徒行传和其他书信中。 事实上，彼得经历了所有的洗礼: 施洗约翰的洗礼，两次圣灵洗礼，他所传的洗礼却是使徒行传第2章 （公元33年），彼得前书 3:18-21 （公元64年）中谈到的水的洗礼。
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				33 A.D.
+			</original>
+			<translated>
+				公元33年
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="1-peter-3-18-21">
+			<original>
+				1 Peter 3:18-21
+			</original>
+			<translated>
+				彼得前书 3:18-21
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				64 A.D.
+			</original>
+			<translated>
+				公元64年
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="26" desc="">
+		<original>
+			It had to be the one baptism of Ephesians 4:4-6 as it was the only one practiced by 60-62 A.D. when Ephesians was written.
+		</original>
+		<translated>
+			以弗所书 4:4-6 提到的洗礼只能是水的洗礼， 因为以弗所书是在公元60-62年写的， 而那时，唯一还在被实践的洗礼是水的洗礼。
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-4-4-6">
+			<original>
+				Ephesians 4:4-6
+			</original>
+			<translated>
+				以弗所书 4:4-6
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				60-62 A.D.
+			</original>
+			<translated>
+				公元60-62年 
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="27" desc="">
+		<original>
+			The miraculous gifts of the Holy Spirit (next lesson) 
+		</original>
+		<translated>
+			圣灵的恩赐 （下一课）
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				The miraculous gifts of the Holy Spirit
+			</original>
+			<translated>
+				圣灵的恩赐
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false" href="../miraculous-gifts-holy-spirit/">
+			<original>
+				miraculous gifts of the Holy Spirit
+			</original>
+			<translated>
+				圣灵的恩赐
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="28" desc="">
+		<original>
+			Received by the apostles' laying on of hands
+		</original>
+		<translated>
+			通过使徒按手而获得
+		</translated>
+	</phrase>
+
+	<phrase id="29" desc="">
+		<original>
+			No longer present today
+		</original>
+		<translated>
+			今天不再存在
+		</translated>
+	</phrase>
+	
+	<!--
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

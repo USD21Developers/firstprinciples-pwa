@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-11-25-26" lang="zh" version="cnvs" edition="2001">
+	<passage title="使徒行传 11:25-26" book="使徒行传" title-en="Acts 11:25-26" book-en="Acts">
+		<chapter number="11" number-en="11">
+			<verse number="25" number-en="25">
+				后来他到大数去找扫罗，
+			</verse>
+			<verse number="26" number-en="26">
+				找到了，就带他来安提阿。足足有一年，他们一同在教会聚集，教导了许多人。门徒称为基督徒，是从安提阿开始的。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

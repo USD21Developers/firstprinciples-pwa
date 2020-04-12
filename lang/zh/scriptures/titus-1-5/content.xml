@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="titus-1-5" lang="zh" version="cnvs" edition="2001">
+	<passage title="提多书 1:5" book="提多书" title-en="Titus 1:5" book-en="Titus">
+		<chapter number="1" number-en="1">
+			<verse number="5" number-en="5">
+				我从前留你在克里特岛，是要你办好没有办完的事，并且照我所吩咐的，在各城设立长老。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

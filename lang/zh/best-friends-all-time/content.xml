@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="best-friends-all-time" lang-original="en" lang-translated="zh" last-updated="2020-02-07" last-updated-by="Dean Lam" last-updated-by-email="dean-lin_zh@hotmail.com" created="2018-09-29" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			Best Friends of All Time
+		</original>
+		<translated>
+			一世最好的朋友
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			Introduction
+		</original>
+		<translated>
+			引言
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Share about your closest relationships during your life — God and spiritual family in comparison to your physical family and old friends.
+		</original>
+		<translated>
+			分享你生命中最亲密的关系 — 把神和属灵的家人与你的亲朋好友做对比。
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Ask the young Christian, "Who are your closest friends?"
+		</original>
+		<translated>
+			问刚受洗的基督徒， “谁是你最亲近的朋友？”
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			One Another Scriptures
+		</original>
+		<translated>
+			关于彼此的经文
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			John 13:34-35: Love one another. Jesus teaches that Christians should have closer and better relationships than people in the world. Set your mind to make disciples your best friends.
+		</original>
+		<translated>
+			约翰福音 13:34-35: 彼此相爱。 根据耶稣教导， 比起属世的人， 基督徒之间应该拥有更好更亲近的关系。 下定决心让门徒成为你最好的朋友。
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-13-34-35">
+			<original>
+				John 13:34-35
+			</original>
+			<translated>
+				约翰福音 13:34-35
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			Hebrews 3:12-14: Daily encouragement of one another.
+		</original>
+		<translated>
+			希伯来书 3:12-14: 天天相互劝勉。
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-3-12-14">
+			<original>
+				Hebrews 3:12-14
+			</original>
+			<translated>
+				希伯来书 3:12-14 
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			Ephesians 5:19-20: Worship God with one another — sing out to God and each other with psalms, hymns and spiritual songs.
+		</original>
+		<translated>
+			以弗所书 5:19-20: 一起崇拜神 — 彼此用诗章、圣诗、灵歌口唱心和的赞美主。
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-5-19-20">
+			<original>
+				Ephesians 5:19-20
+			</original>
+			<translated>
+				以弗所书 5:19-20
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			Colossians 1:28-29: Disciple one another. This is essential in God's plan to become mature. As we mature, we learn to instruct one another (Romans 15:14).
+		</original>
+		<translated>
+			歌罗西书 1:28-29: 相互劝诫教导遵守。 在神的计划里， 这是我们在基督里得到完全的关键。 随着我们的成长，我们学会如何去相互指导 （罗马书 15:14）。  
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-1-28-29">
+			<original>
+				Colossians 1:28-29
+			</original>
+			<translated>
+				歌罗西书 1:28-29
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-15-14">
+			<original>
+				Romans 15:14
+			</original>
+			<translated>
+				罗马书 15:14
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			Galatians 6:1-2: Gently restore one another and bear one another's burdens.
+		</original>
+		<translated>
+			加拉太书 6:1-2: 用温柔的心使相互回转过来， 并且相互担当个人的重担。
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="galatians-6-1-2">
+			<original>
+				Galatians 6:1-2
+			</original>
+			<translated>
+				加拉太书 6:1-2
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			James 5:16: Confess sins to one another. Discuss openness and transparency, remembering that "openness breeds openness," so share your struggles.
+		</original>
+		<translated>
+			雅各书 5:16: 彼此认罪。 谈论诚实坦率的重要性。 我们要记得， 当我们诚实坦率时， 也会鼓励其他人打开心扉， 因此， 分享你的挣扎。
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="james-5-16">
+			<original>
+				James 5:16
+			</original>
+			<translated>
+				雅各书 5:16
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			James 5:16-18: Pray for one another. It makes a difference!
+		</original>
+		<translated>
+			雅各书 5:16-18: 相互祈祷。 祈祷会带来很大的区别！
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="james-5-16-18">
+			<original>
+				James 5:16-18
+			</original>
+			<translated>
+				雅各书 5:16-18
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			Hebrews 12:14-15: Be holy and prevent "bad attitudes" in one another.
+		</original>
+		<translated>
+			希伯来书 12:14-15: 追求圣洁， 避免相互之间有苦根和不好的态度。 
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-12-14-15">
+			<original>
+				Hebrews 12:14-15
+			</original>
+			<translated>
+				希伯来书 12:14-15
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			1 Thessalonians 5:12-14: Outlook toward one another.
+		</original>
+		<translated>
+			帖撒罗尼迦前书 5:12-14: 彼此相互照顾。
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-thessalonians-5-12-14">
+			<original>
+				1 Thessalonians 5:12-14
+			</original>
+			<translated>
+				帖撒罗尼迦前书 5:12-14
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			John 17:20-23: The ultimate goal of love and unity — world evangelism!
+		</original>
+		<translated>
+			约翰福音 17:20-23: 爱与团结的最终目的 — 使福音传遍世界！
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-17-20-23">
+			<original>
+				John 17:20-23
+			</original>
+			<translated>
+				约翰福音 17:20-23
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			Date and marry only disciples
+		</original>
+		<translated>
+			只和门徒交往和结婚
+		</translated>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			1 Corinthians 7:39: Marriage must only be in the Lord.
+		</original>
+		<translated>
+			哥林多前书 7:39: 只和主里的人结婚。
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-7-39">
+			<original>
+				1 Corinthians 7:39
+			</original>
+			<translated>
+				哥林多前书 7:39
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			2 Corinthians 6:14-7:1: Dating, as in marriage, is a partnership in which you are "yoked together." Disciples must separate from unbelievers to receive the promises of God.
+		</original>
+		<translated>
+			哥林多后书 6:14-7:1: 交往， 或者结婚， 是在 “同负一轭” 的关系里。作为基督徒， 我们必须和不信者分开来得到神的应许。
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="2-corinthians-6-14-7-1">
+			<original>
+				2 Corinthians 6:14-7:1
+			</original>
+			<translated>
+				哥林多后书 6:14-7:1
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			1 Kings 11:1-10; Nehemiah 13:23-27: Study this principle in the Old Testament. To date or marry outside of the faith is to be unfaithful to God. If you are single, have you gone on a Christian date?
+		</original>
+		<translated>
+			列王纪上 11:1-10； 尼希米记 13:23-27: 在旧约里圣经向我们阐释了这个道理。 在信仰之外交往或者结婚是不忠于神的行为。 如果你是单身的话， 你有去过王国约会吗？ 
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-kings-11-1-10">
+			<original>
+				1 Kings 11:1-10
+			</original>
+			<translated>
+				列王纪上 11:1-10
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="nehemiah-13-23-27">
+			<original>
+				Nehemiah 13:23-27
+			</original>
+			<translated>
+				尼希米记 13:23-27
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			1 Peter 3:1-7: If you are married, are you winning your spouse?
+		</original>
+		<translated>
+			彼得前书 3:1-7: 如果你已经结婚了， 你是否赢得了你伴侣的心。
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-peter-3-1-7">
+			<original>
+				1 Peter 3:1-7
+			</original>
+			<translated>
+				彼得前书 3:1-7
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			Reconcile with one another
+		</original>
+		<translated>
+			相互和解
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			Matthew 18:15-17: Christians will sin against each other. When someone sins against you, do not gossip by going to someone else. Talk to the person who hurt you, so you can win him/her over as a friend.
+		</original>
+		<translated>
+			马太福音 18:15-17: 基督徒将相互犯罪。 当别人对你犯罪时， 不要去八卦或者诽谤。 该和伤害到你的人沟通， 以朋友的身份赢得他/她的心。
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-18-15-17">
+			<original>
+				Matthew 18:15-17
+			</original>
+			<translated>
+				马太福音 18:15-17
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="23" desc="">
+		<original>
+			Church discipline begins one-on-one and rarely should go to step 2, 3 and 4.
+		</original>
+		<translated>
+			教会纪律从一对一开始， 很少应该去到第二步， 第三步和第四步。
+		</translated>
+	</phrase>
+
+	<!--
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	-->
+
+</content>

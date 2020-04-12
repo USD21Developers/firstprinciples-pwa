@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-peter-3-4" lang="zh" version="cnvs" edition="2001">
+	<passage title="彼得前书 3:4" book="彼得前书" title-en="1 Peter 3:4" book-en="1 Peter">
+		<chapter number="3" number-en="3">
+			<verse number="4" number-en="4">
+				却要在里面存着温柔安静的心灵，作不能毁坏的装饰，这在　神面前是极宝贵的。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

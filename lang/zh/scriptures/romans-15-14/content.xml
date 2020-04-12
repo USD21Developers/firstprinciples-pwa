@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="romans-15-14" lang="zh" version="cnvs" edition="2001">
+	<passage title="罗马书 15:14" book="罗马书" title-en="Romans 15:14" book-en="Romans">
+		<chapter number="15" number-en="15">
+			<verse number="14" number-en="14">
+				我的弟兄们，我个人深信你们自己也满有良善，充满丰富的知识，也能够彼此劝导。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

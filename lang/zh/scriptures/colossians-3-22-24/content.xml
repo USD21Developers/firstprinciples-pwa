@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-3-22-24" lang="zh" version="cnvs" edition="2001">
+	<passage title="歌罗西书 3:22-24" book="歌罗西书" title-en="Colossians 3:22-24" book-en="Colossians">
+		<chapter number="3" number-en="3">
+			<verse number="22" number-en="22">
+				你们作仆人的，要凡事听从世上的主人，作事不要只作给人看，像那些讨人欢心的一样，却要以真诚的心敬畏主。
+			</verse>
+			<verse number="23" number-en="23">
+				无论你们作甚么，都要从心里去作，像是为主作的，不是为人作的，
+			</verse>
+			<verse number="24" number-en="24">
+				因为你们知道，你们一定会从主那里得到基业为赏赐。你们应当服事主基督，
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

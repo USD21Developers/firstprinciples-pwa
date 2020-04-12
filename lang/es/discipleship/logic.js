@@ -186,14 +186,24 @@
               <td>${phrase(52)}</td>
               <td>${phrase(53)}</td>
             </tr>
+            <tr>
+              <td>${phrase(54)}</td>
+              <td>${phrase(55)}</td>
+              <td>${phrase(56)}</td>
+            </tr>
           </tbody>
         </table>
 
         <br>
 
         <p>
-          ${phrase(54)}
+          ${phrase(57)}
         </p>
+
+        <ol>
+          <li>${phrase(58)}</li>
+          <li>${phrase(59)}</li>
+        </ol>
         
       </div>
     </div>

@@ -1147,7 +1147,7 @@ self.__precacheManifest = [
   },
   {
     "url": "scriptures/matthew-5-10-12/content.xml",
-    "revision": "f84c59ee2ea73e77bd6991652a9334e2"
+    "revision": "b9bde284cabea2b6515ff77914cbc4a5"
   },
   {
     "url": "scriptures/matthew-6-25-34/content.xml",
@@ -1235,7 +1235,7 @@ self.__precacheManifest = [
   },
   {
     "url": "scriptures/romans-8-9-rsv/content.xml",
-    "revision": "15e7037970ab3f5cfb33f19a648d39e8"
+    "revision": "99c280944e4b99021fc056f3045f33a5"
   },
   {
     "url": "scriptures/titus-1-5/content.xml",

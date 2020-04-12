@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="the-word" lang-original="en" lang-translated="es" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="the-word" lang-original="en" lang-translated="es" last-updated="2020-02-15" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
@@ -16,14 +16,14 @@
 			2 Timothy 3:16-17
 		</original>
 		<translated>
-			II Timoteo 3:16-17
+			2 Timoteo 3:16-17
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="2-timothy-3-16-17">
 			<original>
 				2 Timothy 3:16-17
 			</original>
 			<translated>
-				II Timoteo 3:16-17
+				2 Timoteo 3:16-17
 			</translated>
 		</change>
 	</phrase>
@@ -33,7 +33,7 @@
 			All Scripture is inspired by God
 		</original>
 		<translated>
-			Toda la escritura está inspirada por Dios.
+			Toda la Escritura es inspirada por Dios.
 		</translated>
 	</phrase>
 
@@ -68,7 +68,7 @@
 			The Word is relevant
 		</original>
 		<translated>
-			La Palabra es aplicable hoy.
+			La Palabra es aplicable.
 		</translated>
 	</phrase>
 
@@ -86,7 +86,7 @@
 			Learn that it is good to be "cut," because a scalpel (God's Word) "cuts" the cancer (sin) out!
 		</original>
 		<translated>
-			¡Es bueno ser cortado porque se extrae el cáncer (el pecado)!
+			Es bueno ser “cortado”, porque así como un bisturí “corta” el cáncer, la Palabra de Dios “corta” el pecado.
 		</translated>
 	</phrase>
 
@@ -95,14 +95,14 @@
 			2 Peter 1:20-21
 		</original>
 		<translated>
-			II Pedro 1:20-21
+			2 Pedro 1:20-21
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="2-peter-1-20-21">
 			<original>
 				2 Peter 1:20-21
 			</original>
 			<translated>
-				II Pedro 1:20-21
+				2 Pedro 1:20-21
 			</translated>
 		</change>
 	</phrase>
@@ -112,7 +112,7 @@
 			There is no private interpretation of the Bible
 		</original>
 		<translated>
-			No hay interpretación privada de la Biblia.
+			No hay una interpretación privada de la Biblia.
 		</translated>
 	</phrase>
 
@@ -147,7 +147,7 @@
 			Intellectual belief is not enough — nor can we go by our feelings
 		</original>
 		<translated>
-			No es suficiente la creencia intelectual, tampoco podemos actuar por meros sentimientos.
+			El hecho de creer intelectualmente no es suficiente. Tampoco podemos ser guiados por nuestros sentimientos.
 		</translated>
 	</phrase>
 
@@ -156,7 +156,7 @@
 			Everyone must hold on to and follow the teachings of Jesus to be a true disciple
 		</original>
 		<translated>
-			Todos deben obedecer y seguir las enseñanzas de Jesús para ser verdaderos discípulos.
+			Todos debemos obedecer y seguir las enseñanzas de Jesús para ser verdaderos discípulos.
 		</translated>
 	</phrase>
 
@@ -165,7 +165,7 @@
 			Sincerity does not equal truth
 		</original>
 		<translated>
-			La sinceridad no se puede confundir con la verdad.
+			La sinceridad no equivale a la verdad.
 		</translated>
 	</phrase>
 
@@ -200,7 +200,7 @@
 			Do not go by traditions or creeds
 		</original>
 		<translated>
-			No debes dejarte guiar por tradiciones ó credos hechos por hombres.
+			No te guíes por tradiciones o credos.
 		</translated>
 	</phrase>
 
@@ -209,7 +209,7 @@
 			Worship by traditions — those which contradict the Word of God — is worship in vain
 		</original>
 		<translated>
-			Adorar por tradiciones (las cuales contradicen la palabra de Dios) es adorar en vano.
+			Adorar por tradiciones, las cuales contradicen la Palabra de Dios, es adorar en vano.
 		</translated>
 	</phrase>
 
@@ -218,14 +218,14 @@
 			1 Timothy 4:16
 		</original>
 		<translated>
-			I Timoteo 4:16
+			1 Timoteo 4:16
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="1-timothy-4-16">
 			<original>
 				1 Timothy 4:16
 			</original>
 			<translated>
-				I Timoteo 4:16
+				1 Timoteo 4:16
 			</translated>
 		</change>
 	</phrase>
@@ -235,7 +235,7 @@
 			Watch your life and doctrine closely — they are inseparable
 		</original>
 		<translated>
-			Ten cuidado de tu manera de vivir (vida) y de lo que enseñas a otros (doctrina) -- éstas son inseparables.
+			Cuida tu manera de vivir y tu doctrina. ¡Estás son inseparables!
 		</translated>
 	</phrase>
 
@@ -244,7 +244,7 @@
 			Which is more important: life or doctrine? Neither — an airplane with only one wing cannot fly
 		</original>
 		<translated>
-			¿Cuál es más importante, la vida o la doctrina? Ninguna - un avión con solamente una ala no puede volar.
+			Qué es más importante: ¿La vida o la doctrina? ¡Ambas son igual de importantes! Un avión con sólo un ala no puede volar.
 		</translated>
 	</phrase>
 
@@ -253,7 +253,7 @@
 			Why is it so important to learn and to teach and to live the right doctrine? To save yourself and those who hear you.
 		</original>
 		<translated>
-			¿Porqué es tan importante aprender, enseñar y vivir la doctrina correcta? Para salvarte a tí mismo y a los que te escuchan.
+			¿Por qué es importante aprender, enseñar y vivir la doctrina correcta? Porque así te salvarás a ti mismo y a los que te escuchen.
 		</translated>
 	</phrase>
 
@@ -279,7 +279,7 @@
 			A noble character in God's eyes: great eagerness in receiving the message; examine Scriptures; daily; and believe — make decisions based on the Scriptures.
 		</original>
 		<translated>
-			Un carácter noble a los ojos de Dios: gran afán de recibir el mensaje; examinar las Escrituras; diario; y cree - toma decisiones basadas en las Escrituras.
+			Un carácter noble ante Dios es: Recibir el mensaje con avidez, examinar las Escrituras todos los días y tomar decisiones basadas en la Palabra.
 		</translated>
 	</phrase>
 
@@ -288,7 +288,7 @@
 			Must check what religious leaders say
 		</original>
 		<translated>
-			Debes examinar lo que enseñan los lideres religiosos.
+			Debemos verificar con las Escrituras lo que enseñan los líderes religiosos.
 		</translated>
 	</phrase>
 
@@ -297,7 +297,7 @@
 			Your challenge: Read and study the Bible every day!
 		</original>
 		<translated>
-			Tu reto: ¡Lee y estudia tu Biblia todos los días!
+			Tu desafío: Leer y estudiar la Biblia todos los días.
 		</translated>
 	</phrase>
 
@@ -332,7 +332,7 @@
 			Do not forget what you see — "do what it says"
 		</original>
 		<translated>
-			No te olvides de lo que ves - "¡haz lo que dice!"
+			No te olvides de lo que ves. ¡Haz lo que la Biblia dice!
 		</translated>
 	</phrase>
 
@@ -358,7 +358,7 @@
 			Why study the Bible? The Word will judge us
 		</original>
 		<translated>
-			¿Porqué estudiar la Biblia? ¡Porque la Palabra nos juzgará!
+			¿Por qué estudiar la Biblia? ¡Porque la Palabra nos juzgará!
 		</translated>
 	</phrase>
 
@@ -367,14 +367,14 @@
 			Decision: Will I live by the Bible? Or will I live by my feelings, traditions, desires, etc.?
 		</original>
 		<translated>
-			Decisión: ¿Viviré por la Biblia ó por lo que dicten mis sentimientos, tradiciones, necesidades, etc...?
+			Decisión: ¿Estás dispuesto a vivir por la Biblia y no por tus sentimientos, tradiciones, deseos, etc.?
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
-				Decision
+				Decision: Will I live by the Bible? Or will I live by my feelings, traditions, desires, etc.?
 			</original>
 			<translated>
-				Decisión
+				Decisión: ¿Estás dispuesto a vivir por la Biblia y no por tus sentimientos, tradiciones, deseos, etc.?
 			</translated>
 		</change>
 	</phrase>

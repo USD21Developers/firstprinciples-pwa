@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-41" lang="zh" version="cnvs" edition="2001">
+	<passage title="使徒行传 2:41" book="使徒行传" title-en="Acts 2:41" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="41" number-en="41">
+				于是接受他话的人都受了洗，那一天门徒增加了约三千人。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

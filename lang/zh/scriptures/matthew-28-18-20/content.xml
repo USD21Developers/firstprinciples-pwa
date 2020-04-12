@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-28-18-20" lang="zh" version="cnvs" edition="2001">
+	<passage title="马太福音 28:18-20" book="马太福音" title-en="Matthew 28:18-20" book-en="Matthew">
+		<chapter number="28" number-en="28">
+			<verse number="18" number-en="18" jesuswords="true">
+				耶稣上前来，对他们说:<span class="jesuswords">“天上地上一切权柄都赐给我了。</span>
+			</verse>
+			<verse number="19" number-en="19" jesuswords="true">
+				<span class="jesuswords">所以，你们要去使万民作我的门徒，奉父子圣灵的名，给他们施洗，</span>
+			</verse>
+			<verse number="20" number-en="20" jesuswords="true">
+				<span class="jesuswords">我吩咐你们的一切，都要教导他们遵守。这样，我就常常与你们同在，直到这世代的终结。”</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-6-33" lang="zh" version="cnvs" edition="2001">
+	<passage title="马太福音 6:33" book="马太福音" title-en="Matthew 6:33" book-en="Matthew">
+		<chapter number="6" number-en="6">
+			<verse number="33" number-en="33" jesuswords="true">
+				<span class="jesuswords">你们要先求他的国和他的义，这一切都必加给你们。</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

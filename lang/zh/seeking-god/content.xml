@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<content key="seeking-god" lang-original="en" lang-translated="zh" last-updated="2020-02-03" last-updated-by="Dean Lam" last-updated-by-email="Dean-lin_zh@hotmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			Seeking God
+		</original>
+		<translated>
+			寻求神
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			Psalm 119:1-2
+		</original>
+		<translated>
+			诗篇 119:1-2
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="psalm-119-1-2">
+			<original>
+				Psalm 119:1-2
+			</original>
+			<translated>
+				诗篇 119:1-2
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Blessed means happy (superlatively happy)
+		</original>
+		<translated>
+			有福意即 “快乐” （极乐）
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Happiness is not the goal of one who seeks God but the "by-product"
+		</original>
+		<translated>
+			快乐并不是寻求神的目标，而是在寻找神的过程里得到的 “副产品”
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			To seek God you must do it with all your heart
+		</original>
+		<translated>
+			寻求神必须全心全意
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			Seeking God means to "keep His statutes"
+		</original>
+		<translated>
+			寻求神意即 “遵守他的法度”
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			Matthew 6:25-34
+		</original>
+		<translated>
+			马太福音 6:25-34
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-6-25-34">
+			<original>
+				Matthew 6:25-34
+			</original>
+			<translated>
+				马太福音 6:25-34
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			Do not worry — ironic — can not add a single hour to your life
+		</original>
+		<translated>
+			不要忧虑，忧虑无法使我们的生命添加一刻
+		</translated>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			God knows your needs
+		</original>
+		<translated>
+			神知道我们的需求
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			Seek first His kingdom and righteousness
+		</original>
+		<translated>
+			我们要先求他的国和他的义
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			Then God will give you everything you need
+		</original>
+		<translated>
+			我们需要的东西神都将赐予我们
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			Acts 17:26-28
+		</original>
+		<translated>
+			使徒行传 17:26-28
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-17-26-28">
+			<original>
+				Acts 17:26-28
+			</original>
+			<translated>
+				使徒行传 17:26-28
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			God determines the times and places each person lives
+		</original>
+		<translated>
+			神预先定下每个人的年限和疆界
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			He does this so men will seek Him, reach out for Him and find Him
+		</original>
+		<translated>
+			神这么做是为了让每个人都能寻求他，或许能找到他
+		</translated>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			He is not far from anyone
+		</original>
+		<translated>
+			神离我们每个人都不远
+		</translated>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			A Christian meeting you is not by chance — but of God.
+		</original>
+		<translated>
+			基督徒遇到你并不是偶然，而是神的安排
+		</translated>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			John 4:23-24
+		</original>
+		<translated>
+			约翰福音 4:23-24
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-4-23-24">
+			<original>
+				John 4:23-24
+			</original>
+			<translated>
+				约翰福音 4:23-24
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			God seeks men (Acts 17 taught men must seek God)
+		</original>
+		<translated>
+			神在寻找真正的敬拜者 (使徒行传17章教导我们人必须寻求神）
+		</translated>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			Men who want to worship Him in spirit and in truth
+		</original>
+		<translated>
+			真正的敬拜者要用心灵按真理去敬拜他
+		</translated>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			Acts 17:10-12
+		</original>
+		<translated>
+			使徒行传 17:10-12
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-17-10-12">
+			<original>
+				Acts 17:10-12
+			</original>
+			<translated>
+				使徒行传 17:10-12
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			Read and study the Bible for your own convictions
+		</original>
+		<translated>
+			每天读经和学习圣经来建立你的信仰
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			Study daily
+		</original>
+		<translated>
+			每天学习
+		</translated>
+	</phrase>
+
+	<phrase id="23" desc="">
+		<original>
+			Jeremiah 29:11-14
+		</original>
+		<translated>
+			耶利米书 29:11-14
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="jeremiah-29-11-14">
+			<original>
+				Jeremiah 29:11-14
+			</original>
+			<translated>
+				耶利米书 29:11-14
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="24" desc="">
+		<original>
+			God has an individual plan for your life
+		</original>
+		<translated>
+			神对每个人都有计划
+		</translated>
+	</phrase>
+
+	<phrase id="25" desc="">
+		<original>
+			A plan to prosper you — with hope and a future
+		</original>
+		<translated>
+			神的计划要赐福给我们，要使我们未来充满希望
+		</translated>
+	</phrase>
+
+	<phrase id="26" desc="">
+		<original>
+			You will find God when you seek Him with all your heart
+		</original>
+		<translated>
+			神承诺，当我们全心寻求他，就必寻见他
+		</translated>
+	</phrase>
+
+	<phrase id="27" desc="">
+		<original>
+			Acts 8:26-39
+		</original>
+		<translated>
+			使徒行传 8:26-39
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-8-26-39">
+			<original>
+				Acts 8:26-39
+			</original>
+			<translated>
+				使徒行传 8:26-39
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="28" desc="">
+		<original>
+			The angels and the Holy Spirit are helping to get you to God
+		</original>
+		<translated>
+			天使和圣灵会帮助你寻求神
+		</translated>
+	</phrase>
+
+	<phrase id="29" desc="">
+		<original>
+			Do not be afraid to ask questions about life or the Bible — be humble
+		</original>
+		<translated>
+			对圣经有疑问的地方要谦虚询问
+		</translated>
+	</phrase>
+
+	<phrase id="30" desc="">
+		<original>
+			You need someone to explain the Bible to you
+		</original>
+		<translated>
+			你需要他人为你讲解圣经
+		</translated>
+	</phrase>
+
+	<phrase id="31" desc="">
+		<original>
+			You will be "rejoicing" when you find God
+		</original>
+		<translated>
+			若你寻见神时，你会“满心欢喜”
+		</translated>
+	</phrase>
+
+	<phrase id="32" desc="">
+		<original>
+			Matthew 7:7-8
+		</original>
+		<translated>
+			马太福音 7:7-8
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-7-7-8">
+			<original>
+				Matthew 7:7-8
+			</original>
+			<translated>
+				马太福音 7:7-8
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="33" desc="">
+		<original>
+			Seek and God guarantees you will find Him
+		</original>
+		<translated>
+			寻找，神必让你寻见
+		</translated>
+	</phrase>
+
+	<phrase id="34" desc="">
+		<original>
+			Ask God for help
+		</original>
+		<translated>
+			向神寻求帮助
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="false" italic="false" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

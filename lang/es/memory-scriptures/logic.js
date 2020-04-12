@@ -21,78 +21,85 @@
           ${mediaHTML}
         </div>
 
-        ${phrase(2)}<br>
-        ${phrase(3)}
-        <hr>
-
-        ${phrase(4)}<br>
+        <blockquote>
+          ${phrase(2)}<br>
+          <div align="right"><em><strong>${phrase(3)}</strong></em></div>
+        </blockquote>
+        <br>
+ 
+        <h5>${phrase(4)}</h5>
         ${phrase(5)}
+        <div align="right"><em><strong>${phrase(6)}</strong></em></div>
         <hr>
-
-        ${phrase(6)}<br>
-        ${phrase(7)}
-        <hr>
-
-        ${phrase(8)}<br>
-        ${phrase(9)}
-        <hr>
-
+        ${phrase(7)}<br>
+        <div align="right"><em><strong>${phrase(8)}</strong></em></div>
+        <br>
+ 
+        <h5>${phrase(9)}</h5>
         ${phrase(10)}<br>
-        ${phrase(11)}
+        <div align="right"><em><strong>${phrase(11)}</strong></em></div>
         <hr>
-
         ${phrase(12)}<br>
-        ${phrase(13)}
+        <div align="right"><em><strong>${phrase(13)}</strong></em></div>
+        <br>
+ 
+        <h5>${phrase(14)}</h5>
+        ${phrase(15)}<br>
+        <div align="right"><em><strong>${phrase(16)}</strong></em></div>
         <hr>
-
-        ${phrase(14)}<br>
-        ${phrase(15)}
-        <hr>
-
-        ${phrase(16)}<br>
-        ${phrase(17)}
-        <hr>
-
-        ${phrase(18)}<br>
-        ${phrase(19)}
-        <hr>
-
+        ${phrase(17)}<br>
+        <div align="right"><em><strong>${phrase(18)}</strong></em></div>
+        <br>
+ 
+        <h5>${phrase(19)}</h5>
         ${phrase(20)}<br>
-        ${phrase(21)}
+        <div align="right"><em><strong>${phrase(21)}</strong></em></div>
         <hr>
-
         ${phrase(22)}<br>
-        ${phrase(23)}
+        <div align="right"><em><strong>${phrase(23)}</strong></em></div>
+        <br>
+ 
+        <h5>${phrase(24)}</h5>
+        ${phrase(25)}<br>
+        <div align="right"><em><strong>${phrase(26)}</strong></em></div>
         <hr>
-
-        ${phrase(24)}<br>
-        ${phrase(25)}
-        <hr>
-
-        ${phrase(26)}<br>
-        ${phrase(27)}
-        <hr>
-
-        ${phrase(28)}<br>
-        ${phrase(29)}
-        <hr>
-
+        ${phrase(27)}<br>
+        <div align="right"><em><strong>${phrase(28)}</strong></em></div>
+        <br>
+ 
+        <h5>${phrase(29)}</h5>
         ${phrase(30)}<br>
-        ${phrase(31)}
+        <div align="right"><em><strong>${phrase(31)}</strong></em></div>
         <hr>
-
         ${phrase(32)}<br>
-        ${phrase(33)}
+        <div align="right"><em><strong>${phrase(33)}</strong></em></div>
+        <br>
+ 
+        <h5>${phrase(34)}</h5>
+        ${phrase(35)}<br>
+        <div align="right"><em><strong>${phrase(36)}</strong></em></div>
         <hr>
-
-        ${phrase(34)}<br>
-        ${phrase(35)}
+        ${phrase(37)}<br>
+        <div align="right"><em><strong>${phrase(38)}</strong></em></div>
+        <br>
+ 
+        <h5>${phrase(39)}</h5>
+        ${phrase(40)}<br>
+        <div align="right"><em><strong>${phrase(41)}</strong></em></div>
         <hr>
-
-        ${phrase(36)}<br>
-        ${phrase(37)}
-
-      </div>
+        ${phrase(42)}<br>
+        <div align="right"><em><strong>${phrase(43)}</strong></em></div>
+        <br>
+ 
+        <h5>${phrase(44)}</h5>
+        ${phrase(45)}<br>
+        <div align="right"><em><strong>${phrase(46)}</strong></em></div>
+        <hr>
+        ${phrase(47)}<br>
+        <div align="right"><em><strong>${phrase(48)}</strong></em></div>
+        <br>
+ 
+       </div>
     </div>
   `;
   $('title').text(title);

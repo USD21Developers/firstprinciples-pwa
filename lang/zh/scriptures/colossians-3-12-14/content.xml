@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-3-12-14" lang="zh" version="cnvs" edition="2001">
+	<passage title="歌罗西书 3:12-14" book="歌罗西书" title-en="Colossians 3:12-14" book-en="Colossians">
+		<chapter number="3" number-en="3">
+			<verse number="12" number-en="12">
+				所以，你们既然是　神所拣选的，是圣洁、蒙爱的人，就要存怜悯的心肠、恩慈、谦卑、温柔和忍耐。
+			</verse>
+			<verse number="13" number-en="13">
+				如果有人对别人有嫌隙，总要彼此宽容，互相饶恕；主怎样饶恕了你们，你们也要照样饶恕人。
+			</verse>
+			<verse number="14" number-en="14">
+				在这一切之上，还要有爱心，爱心是联系全德的。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

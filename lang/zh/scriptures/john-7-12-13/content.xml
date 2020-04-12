@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-7-12-13" lang="zh" version="cnvs" edition="2001">
+	<passage title="约翰福音 7:12-13" book="约翰福音" title-en="John 7:12-13" book-en="John">
+		<chapter number="7" number-en="7">
+			<verse number="12" number-en="12">
+				群众因他纷纷议论，有的说:“他是好人。”有的说:“不，他是欺骗众人的。”
+			</verse>
+			<verse number="13" number-en="13">
+				但没有人敢公开讲论他，因为怕犹太人。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

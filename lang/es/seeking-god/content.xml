@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="seeking-god" lang-original="en" lang-translated="es" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="seeking-god" lang-original="en" lang-translated="es" last-updated="2020-02-15" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
@@ -33,8 +33,24 @@
 			Blessed means happy (superlatively happy)
 		</original>
 		<translated>
-			Dichoso quiere decir feliz (mucho, muy feliz)
+			La palabra dichoso significa feliz o plenamente satisfecho.
 		</translated>
+		<change bold="false" italic="true" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+				dichoso
+			</translated>
+		</change>
+		<change bold="false" italic="true" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+				feliz
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="4" desc="">
@@ -42,7 +58,7 @@
 			Happiness is not the goal of one who seeks God but the "by-product"
 		</original>
 		<translated>
-			La Felicidad no es el objetivo del que busca a Dios pero sí es el resultado.
+			La felicidad no es el objetivo de quien busca a Dios, sino que es el resultado.
 		</translated>
 	</phrase>
 
@@ -51,7 +67,7 @@
 			To seek God you must do it with all your heart
 		</original>
 		<translated>
-			Para buscar a Dios debes hacerlo con todo el corazón.
+			Para encontrar a Dios debes buscarlo con todo tu corazón.
 		</translated>
 	</phrase>
 
@@ -60,7 +76,7 @@
 			Seeking God means to "keep His statutes"
 		</original>
 		<translated>
-			Buscar a Dios quiere decir guardar sus estatutos.
+			Buscar a Dios significa guardar sus estatutos.
 		</translated>
 	</phrase>
 
@@ -86,7 +102,7 @@
 			Do not worry — ironic — can not add a single hour to your life
 		</original>
 		<translated>
-			No se preocupen – irónico – no se puede agregar ni una hora al curso de tu vida.
+			No te preocupes (dicho con ironía). No puedes añadir una sola hora al curso de tu vida.
 		</translated>
 	</phrase>
 
@@ -95,7 +111,7 @@
 			God knows your needs
 		</original>
 		<translated>
-			Dios sabe tus necesidades.
+			Dios conoce tus necesidades.
 		</translated>
 	</phrase>
 
@@ -104,7 +120,7 @@
 			Seek first His kingdom and righteousness
 		</original>
 		<translated>
-			Busca primero el Reino de Dios y Su justicia
+			Busca primeramente el Reino de Dios y su justicia.
 		</translated>
 	</phrase>
 
@@ -113,7 +129,7 @@
 			Then God will give you everything you need
 		</original>
 		<translated>
-			Y entonces Dios te dará todo lo que necesites
+			De esta manera Dios te dará todo lo que necesitas.
 		</translated>
 	</phrase>
 
@@ -139,7 +155,7 @@
 			God determines the times and places each person lives
 		</original>
 		<translated>
-			Dios determina el lugar y el tiempo en que una persona vive
+			Dios determina los tiempos y los lugares en los que cada persona vive.
 		</translated>
 	</phrase>
 
@@ -148,7 +164,7 @@
 			He does this so men will seek Him, reach out for Him and find Him
 		</original>
 		<translated>
-			El hace esto para que todo hombre lo busque, búscalo y encuéntralo.
+			Él hace todo esto para que los hombres lo busquen, se acerquen y lo encuentren.
 		</translated>
 	</phrase>
 
@@ -157,7 +173,7 @@
 			He is not far from anyone
 		</original>
 		<translated>
-			El no está lejos de ninguno de nosotros.
+			Él no está lejos de ninguno de nosotros.
 		</translated>
 	</phrase>
 
@@ -166,7 +182,7 @@
 			A Christian meeting you is not by chance — but of God.
 		</original>
 		<translated>
-			Que te conozca un cristiano no es casualidad – Es Dios
+			Que un discípulo te haya conocido no es por casualidad, es por Dios.
 		</translated>
 	</phrase>
 
@@ -192,7 +208,7 @@
 			God seeks men (Acts 17 taught men must seek God)
 		</original>
 		<translated>
-			Dios busca al hombre
+			Dios busca a los hombres (Hechos 17 nos enseñó que los hombres deben buscar a Dios).
 		</translated>
 	</phrase>
 
@@ -201,7 +217,7 @@
 			Men who want to worship Him in spirit and in truth
 		</original>
 		<translated>
-			Hombres que lo adoren en Espíritu y en Verdad
+			Dios está buscando hombres y mujeres que lo adoren en espíritu y en verdad.
 		</translated>
 	</phrase>
 
@@ -227,7 +243,7 @@
 			Read and study the Bible for your own convictions
 		</original>
 		<translated>
-			Lee y estudia La Biblia para tener tus propias convicciones
+			Lee y estudia la Biblia para tener tus propias convicciones.
 		</translated>
 	</phrase>
 
@@ -236,7 +252,7 @@
 			Study daily
 		</original>
 		<translated>
-			Estudia todos los días
+			Estudia la Biblia todos los días.
 		</translated>
 	</phrase>
 
@@ -245,14 +261,14 @@
 			Jeremiah 29:11-14
 		</original>
 		<translated>
-			Jeremias 29:11-14
+			Jeremías 29:11-14
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="jeremiah-29-11-14">
 			<original>
 				Jeremiah 29:11-14
 			</original>
 			<translated>
-				Jeremias 29:11-14
+				Jeremías 29:11-14
 			</translated>
 		</change>
 	</phrase>
@@ -262,7 +278,7 @@
 			God has an individual plan for your life
 		</original>
 		<translated>
-			Dios tiene un plan personal para tu vida
+			Dios tiene un plan único para tu vida.
 		</translated>
 	</phrase>
 
@@ -271,7 +287,7 @@
 			A plan to prosper you — with hope and a future
 		</original>
 		<translated>
-			Un plan de prosperidad - con un futuro y una esperanza
+			Planes de bienestar, con un futuro y una esperanza.
 		</translated>
 	</phrase>
 
@@ -280,7 +296,7 @@
 			You will find God when you seek Him with all your heart
 		</original>
 		<translated>
-			Tú encontrarás a Dios cuando lo busques de todo corazón
+			Encontrarás a Dios cuando lo busques con todo tu corazón.
 		</translated>
 	</phrase>
 
@@ -306,7 +322,7 @@
 			The angels and the Holy Spirit are helping to get you to God
 		</original>
 		<translated>
-			Los ángeles y El Espíritu Santo están ayudando para que llegues a Dios
+			Los ángeles y el Espíritu Santo te están ayudando para acercarte a Dios.
 		</translated>
 	</phrase>
 
@@ -315,7 +331,7 @@
 			Do not be afraid to ask questions about life or the Bible — be humble
 		</original>
 		<translated>
-			No tengas miedo de hacer preguntas acerca de la vida o la Biblia – sé humilde
+			No tengas miedo de hacer preguntas sobre la Biblia o acerca de la vida. Sé humilde.
 		</translated>
 	</phrase>
 
@@ -324,7 +340,7 @@
 			You need someone to explain the Bible to you
 		</original>
 		<translated>
-			Tú necesitas alguien que te explique la Biblia
+			Todos necesitamos que alguien nos explique la Biblia.
 		</translated>
 	</phrase>
 
@@ -333,7 +349,7 @@
 			You will be "rejoicing" when you find God
 		</original>
 		<translated>
-			Tú estarás muy alegre cuando encuentres a Dios
+			Serás “dichoso” y estarás “plenamente satisfecho” cuando encuentres a Dios.
 		</translated>
 	</phrase>
 
@@ -359,7 +375,7 @@
 			Seek and God guarantees you will find Him
 		</original>
 		<translated>
-			Búscalo y Dios te garantiza que lo encontrarás
+			Busca a Dios y Él te garantiza que lo encontrarás.
 		</translated>
 	</phrase>
 
@@ -368,7 +384,7 @@
 			Ask God for help
 		</original>
 		<translated>
-			Pídele ayuda a Dios
+			Pídele ayuda a Dios.
 		</translated>
 	</phrase>
 
@@ -396,7 +412,7 @@
 				
 			</original>
 			<translated>
-
+				
 			</translated>
 		</change>
 	</phrase>

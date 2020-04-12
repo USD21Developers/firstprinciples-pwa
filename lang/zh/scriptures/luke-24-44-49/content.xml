@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-24-44-49" lang="zh" version="cnvs" edition="2001">
+	<passage title="路加福音 24:44-49" book="路加福音" title-en="Luke 24:44-49" book-en="Luke">
+		<chapter number="24" number-en="24">
+			<verse number="44" number-en="44" jesuswords="true">
+				主对他们说:<span class="jesuswords">“这就是我从前与你们同在的时候，对你们说过的话:摩西的律法、先知书和诗篇上所记关于我的一切事，都必定应验。”</span>
+			</verse>
+			<verse number="45" number-en="45">
+				于是他开他们的心窍，使他们明白圣经；
+			</verse>
+			<verse number="46" number-en="46" jesuswords="true">
+				又说:<span class="jesuswords">“经上这样记着:基督必须受害，第三天从死人中复活。</span>
+			</verse>
+			<verse number="47" number-en="47" jesuswords="true">
+				<span class="jesuswords">人要奉他的名，传讲悔改与赦罪的道，从耶路撒冷起，直传到万国。</span>
+			</verse>
+			<verse number="48" number-en="48" jesuswords="true">
+				<span class="jesuswords">你们就是这些事的见证。</span>
+			</verse>
+			<verse number="49" number-en="49" jesuswords="true">
+				<span class="jesuswords">我要使我父的应许临到你们身上，你们当在城里等候，直到得着从上面来的能力。”</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

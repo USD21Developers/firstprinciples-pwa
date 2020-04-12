@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="ephesians-5-18-20" lang="zh" version="cnvs" edition="2001">
+	<passage title="以弗所书 5:18-20" book="以弗所书" title-en="Ephesians 5:18-20" book-en="Ephesians">
+		<chapter number="5" number-en="5">
+			<verse number="18" number-en="18">
+				不要醉酒，醉酒能使人放荡乱性，却要让圣灵充满。
+			</verse>
+			<verse number="19" number-en="19">
+				应当用诗章、圣诗、灵歌，彼此呼应，口唱心和地赞美主。
+			</verse>
+			<verse number="20" number-en="20">
+				凡事要奉我们主耶稣基督的名，常常感谢父　神， 21 还要存敬畏基督的心，彼此顺服。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

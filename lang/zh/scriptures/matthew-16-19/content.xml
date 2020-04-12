@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-16-19" lang="zh" version="cnvs" edition="2001">
+	<passage title="马太福音 16:19" book="马太福音" title-en="Matthew 16:19" book-en="Matthew">
+		<chapter number="16" number-en="16">
+			<verse number="19" number-en="19" jesuswords="true">
+				<span class="jesuswords">我要把天国的钥匙给你，你在地上捆绑的，在天上也被捆绑；你在地上释放的，在天上也被释放。</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

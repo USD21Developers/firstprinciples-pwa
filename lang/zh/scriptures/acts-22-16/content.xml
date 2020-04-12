@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-22-16" lang="zh" version="cnvs" edition="2001">
+	<passage title="使徒行传 22:16" book="使徒行传" title-en="Acts 22:16" book-en="Acts">
+		<chapter number="22" number-en="22">
+			<verse number="16" number-en="16">
+				现在你为甚么还耽搁呢？起来受洗，求告他的名，洗净你的罪吧。’
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

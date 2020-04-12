@@ -30,5 +30,13 @@
       "en": "Portuguese"
     },
     "dir": "ltr"
+  },
+  {
+    "iso": "zh",
+    "name": {
+      "native": "汉语",
+      "en": "Chinese (simplified)"
+    },
+    "dir": "ltr"
   }
 ]

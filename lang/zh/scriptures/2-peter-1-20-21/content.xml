@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="2-peter-1-20-21" lang="zh" version="cnvs" edition="2001">
+	<passage title="彼得后书 1:20-21" book="彼得后书" title-en="2 Peter 1:20-21" book-en="2 Peter">
+		<chapter number="1" number-en="1">
+			<verse number="20" number-en="20">
+				 最要紧的，你们应当知道:圣经所有的预言，都不是先知自己的见解，
+			</verse>
+			<verse number="21" number-en="21">
+				因为预言不是出于人意的，而是人受圣灵的感动，说出从　神而来的话。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

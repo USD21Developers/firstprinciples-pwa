@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-peter-4-3-4" lang="zh" version="cnvs" edition="2001">
+	<passage title="彼得前书 4:3-4" book="彼得前书" title-en="1 Peter 4:3-4" book-en="1 Peter">
+		<chapter number="4" number-en="4">
+			<verse number="3" number-en="3">
+				因为你们过去随从教外人的心意，行邪淫、私欲、醉酒、荒宴、狂饮和可憎拜偶像的事，时候已经够了。
+			</verse>
+			<verse number="4" number-en="4">
+				他们见你们不再与他们同奔那纵情放荡的路，就觉得奇怪，毁谤你们。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

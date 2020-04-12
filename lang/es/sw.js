@@ -195,7 +195,7 @@ self.__precacheManifest = [
   },
   {
     "url": "course-information/content.xml",
-    "revision": "4aadce99d9e99bcbd34a4ce33293d448"
+    "revision": "aa9834c5ef1d199c36896c1bb41e7b41"
   },
   {
     "url": "course-information/index.html",
@@ -203,7 +203,7 @@ self.__precacheManifest = [
   },
   {
     "url": "course-information/logic.js",
-    "revision": "944d3f490d46428afb4c9ca24b3fc4d4"
+    "revision": "e4d51af9361300c75338a8de0b4aab58"
   },
   {
     "url": "dashboard/content.xml",
@@ -215,7 +215,7 @@ self.__precacheManifest = [
   },
   {
     "url": "discipleship/content.xml",
-    "revision": "107b77403ccc9aa28e0f55960d33ddd9"
+    "revision": "5d2ba57590ad9c3564bdc2d6b38354df"
   },
   {
     "url": "discipleship/index.html",
@@ -223,7 +223,7 @@ self.__precacheManifest = [
   },
   {
     "url": "discipleship/logic.js",
-    "revision": "59a71ccdfb77198ed9ccf3ed9648f10d"
+    "revision": "2eac2fbcbcf0d3742a05dfc9d6211a79"
   },
   {
     "url": "global/content.xml",
@@ -243,7 +243,7 @@ self.__precacheManifest = [
   },
   {
     "url": "introduction/content.xml",
-    "revision": "6586855d40de206086b75f4c62338485"
+    "revision": "0e6d127473c02e8910ba30d2a9501a03"
   },
   {
     "url": "introduction/index.html",
@@ -287,7 +287,7 @@ self.__precacheManifest = [
   },
   {
     "url": "memory-scriptures/content.xml",
-    "revision": "e5f9af1014ad38354f39e34a88f6f07c"
+    "revision": "5b97dc6942ea59e233a2bec967ce3064"
   },
   {
     "url": "memory-scriptures/index.html",
@@ -295,7 +295,7 @@ self.__precacheManifest = [
   },
   {
     "url": "memory-scriptures/logic.js",
-    "revision": "a62ab2eee9c28ed9dc6d0fe68c3ce3ad"
+    "revision": "e514890f1b437a51c5bdc444ec23abee"
   },
   {
     "url": "miraculous-gifts-holy-spirit/content.xml",
@@ -1243,7 +1243,7 @@ self.__precacheManifest = [
   },
   {
     "url": "seeking-god/content.xml",
-    "revision": "7760dd11ef86989d4b6af2d97364b34c"
+    "revision": "08d03877c83bd7432404cef3a94a6716"
   },
   {
     "url": "seeking-god/index.html",
@@ -1303,7 +1303,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-word/content.xml",
-    "revision": "072f09ddc6ed3b36002cafc1b61571a6"
+    "revision": "7b0a263186f8155ddcc75efb9f4bc187"
   },
   {
     "url": "the-word/index.html",

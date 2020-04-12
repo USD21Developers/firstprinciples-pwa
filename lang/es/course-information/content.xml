@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="course-information" lang-original="en" lang-translated="es" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Victor Gonzalez Sr." created-by-email="">
+<content key="course-information" lang-original="en" lang-translated="es" last-updated="2020-02-15" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
 			Course Information
 		</original>
 		<translated>
-			Información del Curso
+			Información General
 		</translated>
 	</phrase>
 
@@ -16,7 +16,7 @@
 			This course should take a high priority in your day as it is geared to help you grasp a firmer hold on God's Word and to deepen your understanding of His will for your life.
 		</original>
 		<translated>
-			Este curso debe tomar una prioridad cada día, ya que está diseñado para ayudarte a tener una mas firme convicción de la Palabra de Dios y profundizar tu entendimiento de Su voluntad para tu vida.
+			Esta serie de estudios deberá tener una alta prioridad en tu día, pues está diseñada para ayudarte a tener una convicción más firme en la Palabra de Dios y a comprender más profundamente su voluntad para tu vida.
 		</translated>
 	</phrase>
 
@@ -25,7 +25,7 @@
 			Each session two new Scriptures should be memorized for a quiz at the beginning of each class.
 		</original>
 		<translated>
-			En cada sesión se deberán memorizar dos nuevas escrituras para tener un examen oral o escrito al principio de cada clase.
+			En cada sesión de la serie se deberán memorizar dos Escrituras nuevas de las cuales se hará un examen al comienzo de cada nueva clase.
 		</translated>
 	</phrase>
 
@@ -34,7 +34,7 @@
 			Each study's content and order of Scriptures should also be memorized for the quiz.
 		</original>
 		<translated>
-			Cada estudio y el orden de las escrituras también deberá ser memorizado para el examen.
+			El contenido de cada estudio y el orden de las Escrituras también deberán ser memorizadas para cada examen.
 		</translated>
 	</phrase>
 
@@ -43,7 +43,7 @@
 			Each student is required to memorize the names of all the books of the Bible.
 		</original>
 		<translated>
-			Cada estudiante deberá también memorizar los nombres de todos los libros de la Biblia.
+			Cada alumno deberá memorizar el orden y los nombres de todos los libros de la Biblia.
 		</translated>
 	</phrase>
 
@@ -52,14 +52,14 @@
 			Sign up for the Good News Emails at CAICC.net by Session 2.
 		</original>
 		<translated>
-			
+			Inscríbete para recibir “Las buenas noticias por email” en la página www.caicc.net.
 		</translated>
 		<change bold="true" italic="false" modal="false" href="http://eepurl.com/iyjz2">
 			<original>
 				Sign up
 			</original>
 			<translated>
-
+				Inscríbete
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="false" href="http://www.caicc.net/">
@@ -67,7 +67,7 @@
 				CAICC.net
 			</original>
 			<translated>
-
+				www.caicc.net
 			</translated>
 		</change>
 	</phrase>
@@ -77,14 +77,14 @@
 			Read Ron Harding's History of the Spread of Christianity in Modern Times (KipMcKean.com) by Session 8.
 		</original>
 		<translated>
-			
+			Para la sesión 8 cada alumno debe haber leído la historia de la “Propagación del cristianismo en tiempos modernos” de Ron Harding (KipMcKean.com).
 		</translated>
-		<change bold="true" italic="false" modal="false" href="http://www.caicc.net/">
+		<change bold="true" italic="false" modal="false" href="http://www.kipmckean.com/">
 			<original>
 				KipMcKean.com
 			</original>
 			<translated>
-
+				KipMcKean.com
 			</translated>
 		</change>
 	</phrase>
@@ -94,7 +94,7 @@
 			An outline of the book of Acts will be turned in by Session 11. Each student is required to memorize two points from each chapter in the book of Acts.
 		</original>
 		<translated>
-			Un bosquejo del libro de los Hechos se entregará antes de la sesión 11. Cada estudiante tiene como requisito de memorizar dos puntos de cada capítulo del libro de los Hechos.
+			Cada alumno debe entregar un bosquejo del Libro de los Hechos en la sesión 11 que incluya  dos puntos de cada capítulo que deben ser memorizados.
 		</translated>
 	</phrase>
 
@@ -103,7 +103,7 @@
 			Outline of Classes
 		</original>
 		<translated>
-			Bosquejo de Las Clases
+			Contenido
 		</translated>
 	</phrase>
 
@@ -193,7 +193,7 @@
 			Light and Darkness
 		</original>
 		<translated>
-			La Luz y La Oscuridad
+			La Oscuridad y la Luz
 		</translated>
 	</phrase>
 
@@ -211,7 +211,7 @@
 			New Testament Conversion
 		</original>
 		<translated>
-			Las Conversiones en el Nuevo Testamento
+			Las Conversiones del Nuevo Testamento
 		</translated>
 	</phrase>
 
@@ -247,7 +247,7 @@
 			The Baptism of the Holy Spirit
 		</original>
 		<translated>
-			El Bautismo del Espíritu Santo
+			El Espíritu Santo
 		</translated>
 	</phrase>
 
@@ -265,7 +265,7 @@
 			The Miraculous Gifts of the Holy Spirit
 		</original>
 		<translated>
-			Los Dones del Espíritu Santo
+			Los Dones Milagrosos del Espíritu Santo
 		</translated>
 	</phrase>
 
@@ -301,7 +301,7 @@
 			Acts 1 - 8
 		</original>
 		<translated>
-			Hechos 1 - 8
+			Hechos 1-8
 		</translated>
 	</phrase>
 
@@ -319,7 +319,7 @@
 			Acts 9 - 15
 		</original>
 		<translated>
-			Hechos 9 - 15
+			Hechos 9-15
 		</translated>
 	</phrase>
 
@@ -337,7 +337,7 @@
 			Acts 16 - 21
 		</original>
 		<translated>
-			Hechos 16 - 21
+			Hechos 16-21
 		</translated>
 	</phrase>
 
@@ -355,7 +355,7 @@
 			Acts 22 - 28
 		</original>
 		<translated>
-			Hechos 22 - 28
+			Hechos 22-28
 		</translated>
 	</phrase>
 
@@ -368,91 +368,169 @@
 		</translated>
 	</phrase>
 
+	<phrase id="39" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			Los siguientes libros son recomendados como herramientas informativas, que invitan a la reflexión y son útiles para entender la Palabra de Dios. De ninguna manera se sugiere que sean bíblicamente correctos en todos los aspectos doctrinales.
+		</translated>
+	</phrase>
+
 	<phrase id="40" desc="">
 		<original>
 			
 		</original>
 		<translated>
-			Los siguientes libros son recomendados como herramientas informativas y para hacerte pensar, y útiles para entender la Palabra de Dios. De ninguna manera se sugiere que tengan enseñanzas bíblicas en todos los aspectos de la doctrina. 
+			Los Cinco Lenguajes del Amor
 		</translated>
+		<change bold="true" italic="false" modal="false" href="http://a.co/d/5TjolCa">
+			<original>
+				
+			</original>
+			<translated>
+				Los Cinco Lenguajes del Amor
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="41" desc="">
 		<original>
-			Chapman
+			
 		</original>
 		<translated>
-			Chapman
+			de Gary Chapman
 		</translated>
 	</phrase>
 
 	<phrase id="42" desc="">
 		<original>
-			The Five Love Languages
+			
 		</original>
 		<translated>
-			Los 5 lenguajes del amor
+			El Plan Supremo de Evangelización
 		</translated>
-		<change bold="true" italic="false" modal="false" href="http://a.co/d/5TjolCa">
+		<change bold="true" italic="false" modal="false" href="https://amzn.to/37xcC8G">
 			<original>
-				The Five Love Languages
+				
 			</original>
 			<translated>
-				Los 5 lenguajes del amor
+				El Plan Supremo de Evangelización
 			</translated>
 		</change>
 	</phrase>
 
 	<phrase id="43" desc="">
 		<original>
-			Coleman
+			
 		</original>
 		<translated>
-			Coleman
+			de Robert E. Coleman
 		</translated>
 	</phrase>
 
 	<phrase id="44" desc="">
 		<original>
-			The Master Plan of Evangelism
+			
 		</original>
 		<translated>
-			El Plan Maestro del Evangelismo
+			Perfil de Tres Monarcas
 		</translated>
-		<change bold="true" italic="false" modal="false" href="http://a.co/d/iY3P7KB">
+		<change bold="true" italic="false" modal="false" href="https://amzn.to/39GbYY2">
 			<original>
-				The Master Plan of Evangelism
+				
 			</original>
 			<translated>
-				El Plan Maestro del Evangelismo
+				Perfil de Tres Monarcas
 			</translated>
 		</change>
 	</phrase>
 
 	<phrase id="45" desc="">
 		<original>
-			Taylor
+			
 		</original>
 		<translated>
-			Taylor
+			de Gene Edwards
 		</translated>
 	</phrase>
 
 	<phrase id="46" desc="">
 		<original>
-			The Disciplined Life
+			
 		</original>
 		<translated>
-			La Vida Disiplinada
+			Una Voz en el Viento
 		</translated>
-		<change bold="true" italic="false" modal="false" href="http://a.co/d/1RY5oWz">
+		<change bold="true" italic="false" modal="false" href="https://amzn.to/2wmCzLh">
 			<original>
-				The Disciplined Life
+				
 			</original>
 			<translated>
-				La Vida Disiplinada
+				Una Voz en el Viento
 			</translated>
 		</change>
+	</phrase>
+
+	<phrase id="47" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			de Francine Rivers
+		</translated>
+	</phrase>
+
+	<phrase id="48" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			La Vida Disciplinada
+		</translated>
+		<change bold="true" italic="false" modal="false" href="https://amzn.to/2Hor5sX">
+			<original>
+				
+			</original>
+			<translated>
+				La Vida Disciplinada
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="49" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			de Richard Shelley Taylor
+		</translated>
+	</phrase>
+
+	<phrase id="50" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			Elévate
+		</translated>
+		<change bold="true" italic="false" modal="false" href="https://amzn.to/2u6TuAM">
+			<original>
+				
+			</original>
+			<translated>
+				Elévate
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="51" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			de Dra. Elena Garcia McKean
+		</translated>
 	</phrase>
 
 	<!--

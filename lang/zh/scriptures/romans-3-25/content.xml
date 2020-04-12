@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="romans-3-25" lang="zh" version="cnvs" edition="2001">
+	<passage title="罗马书 3:25" book="罗马书" title-en="Romans 3:25" book-en="Romans">
+		<chapter number="3" number-en="3">
+			<verse number="25" number-en="25">
+				　神设立了耶稣为赎罪祭（“赎罪祭”直译作“赎罪或使　神息怒之法”），是凭着他的血，借着人的信，为的是要显明　神的义；因为　神用忍耐的心宽容了人从前所犯的罪，
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

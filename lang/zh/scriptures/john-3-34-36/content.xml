@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-3-34-36" lang="zh" version="cnvs" edition="2001">
+	<passage title="约翰福音 3:34-36" book="约翰福音" title-en="John 3:34-36" book-en="John">
+		<chapter number="3" number-en="3">
+			<verse number="34" number-en="34">
+				　神所差来的那一位讲　神的话，因为　神把圣灵无限地赐给他。
+			</verse>
+			<verse number="35" number-en="35">
+				父爱子，已经把万有交在他手里。
+			</verse>
+			<verse number="36" number-en="36">
+				信子的，有永生；不信从子的，必不得见永生，　神的震怒却常在他身上。”
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

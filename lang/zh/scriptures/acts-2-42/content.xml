@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-42" lang="zh" version="cnvs" edition="2001">
+	<passage title="使徒行传 2:42" book="使徒行传" title-en="Acts 2:42" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="42" number-en="42">
+				他们恒心遵守使徒的教训，彼此相通、擘饼和祈祷。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

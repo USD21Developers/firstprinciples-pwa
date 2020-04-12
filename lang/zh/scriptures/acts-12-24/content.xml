@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-12-24" lang="zh" version="cnvs" edition="2001">
+	<passage title="使徒行传 12:24" book="使徒行传" title-en="Acts 12:24" book-en="Acts">
+		<chapter number="12" number-en="12">
+			<verse number="24" number-en="24">
+				　神的道日渐兴旺，越发广传。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

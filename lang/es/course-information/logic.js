@@ -160,6 +160,35 @@
           </tbody>
         </table>
 
+        <h5>
+          ${phrase(38)}
+        </h5>
+
+        <p>
+          ${phrase(39)}
+        </p>
+
+        <ul class="showdiscs">
+          <li>
+            <em>${phrase(40)}</em> ${phrase(41)}
+          </li>
+          <li>
+            <em>${phrase(42)}</em> ${phrase(43)}
+          </li>
+          <li>
+          <em>${phrase(44)}</em> ${phrase(45)}
+          </li>
+          <li>
+            <em>${phrase(46)}</em> ${phrase(47)}
+          </li>
+          <li>
+            <em>${phrase(48)}</em> ${phrase(49)}
+          </li>
+          <li>
+            <em>${phrase(50)}</em> ${phrase(51)}
+          </li>
+        </ul>
+
       </div>
     </div>
   `;

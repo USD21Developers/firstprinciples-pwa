@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-2-12" lang="zh" version="cnvs" edition="2001">
+	<passage title="歌罗西书 2:12" book="歌罗西书" title-en="Colossians 2:12" book-en="Colossians">
+		<chapter number="2" number-en="2">
+			<verse number="12" number-en="12">
+				你们在洗礼中已经与他一同埋葬，也在洗礼中，因信那使基督从死人中复活的　神所运行的动力，与他一同复活了。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="discipleship" lang-original="en" lang-translated="es" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="discipleship" lang-original="en" lang-translated="es" last-updated="2020-02-15" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
@@ -16,14 +16,14 @@
 			Introduction: Matthew 28:18-20
 		</original>
 		<translated>
-			Introducción: Mateo 28:18 - 20
+			Introducción: Mateo 28:18-20
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
-				Introduction:
+				Introduction: Matthew 28:18-20
 			</original>
 			<translated>
-				Introducción:
+				Introducción: Mateo 28:18-20
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-18-20">
@@ -31,7 +31,7 @@
 				Matthew 28:18-20
 			</original>
 			<translated>
-				Mateo 28:18 - 20
+				Mateo 28:18-20
 			</translated>
 		</change>
 	</phrase>
@@ -41,7 +41,7 @@
 			What does Jesus want everybody to become?
 		</original>
 		<translated>
-			¿Qué quiere Jesús que todos seamos?
+			¿Qué es lo que Jesús quiere que todos lleguemos a ser? Respuesta: sus discípulos.
 		</translated>
 	</phrase>
 
@@ -50,7 +50,8 @@
 			Which is the more popular term — "Disciple" or "Christian?" The word "Christian" only appears three times in the New Testament. It is the name those in the world gave the disciples, seven years after the church began (Acts 11:19-26). The word "Disciple" occurs over 270 times in the New Testament.
 		</original>
 		<translated>
-			¿Cuál es la palabra más común — discípulo ó cristiano? La palabra "cristiano" aparece solamente 3 veces en el Nuevo Testamento. Fue el nombre que el mundo le dio a los discípulos, siete años después de comenzar la Iglesia (Hechos 11:19-26). La palabra "discípulo" aparece más que 270 veces en el Nuevo Testamento.
+			¿Cuál es el término más popular hoy en día: discípulo o cristiano? Respuesta: cristiano.
+			La palabra “cristiano” sólo aparece tres veces en el Nuevo Testamento. Es el nombre que el mundo le dio a los discípulos, siete años después de que la iglesia comenzó (Hechos 11:19-26). En contraste la palabra “discípulo” aparece más de 270 veces en el Nuevo Testamento.
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-11-19-26">
 			<original>
@@ -67,7 +68,7 @@
 			SAVED = CHRISTIAN = DISCIPLE
 		</original>
 		<translated>
-			SALVO = CRISTIANO = DISCÍPULO
+			DISCÍPULO = SALVO = CRISTIANO.
 		</translated>
 	</phrase>
 
@@ -76,7 +77,7 @@
 			Jesus came to make disciples. Only baptized disciples will be saved.
 		</original>
 		<translated>
-			Jesús vino a hacer discípulos. Solo los discípulos bautizados serán salvos.
+			Jesús vino a hacer discípulos. Sólo los discípulos bautizados serán salvos.
 		</translated>
 	</phrase>
 
@@ -85,8 +86,16 @@
 			Let's have Jesus define disciple, thus defining who is a true Christian.
 		</original>
 		<translated>
-			Dejemos que Jesús defina que es un discípulo, para poder definir quien es un verdadero cristiano.
+			Dejemos que Jesús defina quién es un discípulo y de esta manera se defina quién es un verdadero cristiano.
 		</translated>
+		<change bold="false" italic="true" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+				discípulo
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="8" desc="">
@@ -111,7 +120,7 @@
 			Calling of the first disciples
 		</original>
 		<translated>
-			Llamado de los primeros discípulos.
+			Este es el llamado de los primeros discípulos.
 		</translated>
 	</phrase>
 
@@ -120,7 +129,7 @@
 			Come follow me (Christ)
 		</original>
 		<translated>
-			Vengan y Síganme (Cristo).
+			Jesús les dice: Vengan y síganme.
 		</translated>
 	</phrase>
 
@@ -129,7 +138,7 @@
 			Fishers of men — Jesus gave these first disciples the real purpose for living
 		</original>
 		<translated>
-			Pescadores de hombres — Jesús les dio a los primeros discípulos el verdadero propósito para vivir
+			Los haré pescadores de hombres (Jesús les dio a los discípulos el verdadero propósito para vivir).
 		</translated>
 	</phrase>
 
@@ -138,7 +147,7 @@
 			Immediately
 		</original>
 		<translated>
-			De inmediato
+			Ellos respondieron inmediatamente.
 		</translated>
 	</phrase>
 
@@ -164,7 +173,7 @@
 			If any man...
 		</original>
 		<translated>
-			Si alguno .... (aplicable a todos)
+			Si alguno... (es aplicable a todos).
 		</translated>
 	</phrase>
 
@@ -173,7 +182,7 @@
 			Deny self. Notice Christ in the garden (Matthew 26:36-39, "Not my will, but your will"). Do not give in to moods.
 		</original>
 		<translated>
-			Negarse a si mismo. Observa a Jesús en Getsemaní (Mateo 26:36-39) — "...pero que no se haga lo que yo quiero, sino lo que quieres tú." No te dejes llevar por tus emociones.
+			Negarse a sí mismo. Observa a Jesús en Getsemaní (Mateo 26:36-39. “Pero no sea lo que yo quiero, sino lo que quieres tú”). No cedas ante las emociones.
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-26-36-39">
 			<original>
@@ -183,6 +192,14 @@
 				Mateo 26:36-39
 			</translated>
 		</change>
+		<change bold="false" italic="true" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+				“Pero no sea lo que yo quiero, sino lo que quieres tú”
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="16" desc="">
@@ -190,7 +207,7 @@
 			Carry the cross — daily
 		</original>
 		<translated>
-			Cargar con tu cruz — diariamente
+			Carga con tu cruz... ¡Diariamente!
 		</translated>
 	</phrase>
 
@@ -199,7 +216,7 @@
 			Gain the world ... forfeit soul. Lose your life for Jesus ... save it
 		</original>
 		<translated>
-			Ganas el mundo ... pierdes tu alma. Pierdes tu vida por Jesús ... la vas a salvar
+			Al ganar el mundo... ¡Pierdes tu alma! Al perder tu vida por causa de Jesús... ¡La salvas!
 		</translated>
 	</phrase>
 
@@ -225,7 +242,7 @@
 			If any man...
 		</original>
 		<translated>
-			Si alguno... (se aplica a todos)
+			Si alguno... (es aplicable a todos).
 		</translated>
 	</phrase>
 
@@ -234,7 +251,7 @@
 			Count the cost (v. 28-30)
 		</original>
 		<translated>
-			Cuenta el costo (v 26-28)
+			Cuenta el costo (vv.28-30).
 		</translated>
 	</phrase>
 
@@ -243,7 +260,7 @@
 			Consider the alternatives (v. 31-32)
 		</original>
 		<translated>
-			Considera a las alternativas (v 31-32)
+			Considera las alternativas (vv.31-32).
 		</translated>
 	</phrase>
 
@@ -252,7 +269,7 @@
 			Love Christ more than any person (v. 26)
 		</original>
 		<translated>
-			Amar a Cristo más que a cualquier persona (v 26).
+			Ama a Cristo más que a cualquier persona (v.26).
 		</translated>
 	</phrase>
 
@@ -261,7 +278,7 @@
 			Persecutions (v. 27)
 		</original>
 		<translated>
-			Las persecucciones (v 27).
+			Serás perseguido (v.27).
 		</translated>
 	</phrase>
 
@@ -270,7 +287,7 @@
 			Everything, not just anything (v. 33)
 		</original>
 		<translated>
-			Todo, no solo cualquier cosa (v 33).
+			“Todo” significa todo, no sólo algunas cosas (v.33).
 		</translated>
 	</phrase>
 
@@ -296,7 +313,7 @@
 			Must learn to pray — disciples saw the strength Jesus received from the Father
 		</original>
 		<translated>
-			Debes aprender a orar — los discípulos se dieron cuenta del poder que Jesús recibía de su Padre.
+			Debemos aprender a orar como Jesús lo hacía. Era evidente para los discípulos la fortaleza que Jesús recibía del Padre.
 		</translated>
 	</phrase>
 
@@ -305,7 +322,7 @@
 			Daily personal relationship with God (v. 3); daily prayer.
 		</original>
 		<translated>
-			Una relación personal con Dios (v3) orar diario
+			Tener una relación personal con Dios (v.3) implica orar diariamente.
 		</translated>
 	</phrase>
 
@@ -331,7 +348,7 @@
 			Love one another
 		</original>
 		<translated>
-			Amarse los unos a los otros.
+			Ámense unos a otros.
 		</translated>
 	</phrase>
 
@@ -340,7 +357,7 @@
 			Be an active part of the fellowship
 		</original>
 		<translated>
-			Debes ser una parte activa de la confraternidad.
+			Sé parte activa de la confraternidad.
 		</translated>
 	</phrase>
 
@@ -366,7 +383,7 @@
 			Command — make disciples (given to all)
 		</original>
 		<translated>
-			Mandamiento — hacer discípulos (dado a todos).
+			El mandamiento (dado a todos) es hacer discípulos.
 		</translated>
 	</phrase>
 
@@ -384,7 +401,7 @@
 			You need someone to disciple you to maturity in Christ
 		</original>
 		<translated>
-			Necesitas alguien que te discipule hacia la madurez en Cristo.
+			Todos necesitamos que alguien nos “discipule” y nos guíe hacia la madurez en Cristo.
 		</translated>
 	</phrase>
 
@@ -393,7 +410,7 @@
 			This is the only way to save the world!
 		</original>
 		<translated>
-			¡Ésta es la única manera de salvar el mundo!
+			¡Esta es la única manera para salvar el mundo!
 		</translated>
 	</phrase>
 
@@ -534,19 +551,19 @@
 
 	<phrase id="51" desc="">
 		<original>
-			33
+			32
 		</original>
 		<translated>
-			33
+			32
 		</translated>
 	</phrase>
 
 	<phrase id="52" desc="">
 		<original>
-			12,045
+			11,680
 		</original>
 		<translated>
-			12,045
+			11,680
 		</translated>
 	</phrase>
 
@@ -555,23 +572,84 @@
 			the world, 10 billion plus
 		</original>
 		<translated>
-			Más de 8 mil millones - ¡el mundo entero!
+			4.2 billones (aproximadamente la mitad de la población actual)
 		</translated>
 	</phrase>
 
 	<phrase id="54" desc="">
 		<original>
-			Conclusion Question: Am I a disciple? Am I a Christian? Am I saved? What do I need to do to become a disciple?
+			33
 		</original>
 		<translated>
-			Preguntas de Conclusión: ¿Soy un discípulo? ¿Soy un Cristiano? ¿Qué necesito hacer para ser un discípulo?
+			33
+		</translated>
+	</phrase>
+
+	<phrase id="55" desc="">
+		<original>
+			12,045
+		</original>
+		<translated>
+			12,045
+		</translated>
+	</phrase>
+
+	<phrase id="56" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			Más de 8 billones… ¡El mundo entero!
+		</translated>
+	</phrase>
+
+	<phrase id="57" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			Preguntas de conclusión:
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
 				Conclusion Question:
 			</original>
 			<translated>
-				Preguntas de Conclusión:
+				Preguntas de conclusión:
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="58" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			¿Soy un discípulo? ¿Soy un cristiano? ¿Soy salvo?
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+				¿Soy un discípulo? ¿Soy un cristiano? ¿Soy salvo?
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="59" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			¿Qué necesito hacer para convertirme en un discípulo?
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+				¿Qué necesito hacer para convertirme en un discípulo?
 			</translated>
 		</change>
 	</phrase>

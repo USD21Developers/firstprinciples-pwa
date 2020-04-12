@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-11-1-4" lang="zh" version="cnvs" edition="2001">
+	<passage title="路加福音 11:1-4" book="路加福音" title-en="Luke 11:1-4" book-en="Luke">
+		<chapter number="11" number-en="11">
+			<verse number="1" number-en="1">
+				有一天，耶稣在一个地方祈祷，祈祷完了，有一个门徒对他说:“主啊，求你教导我们祷告，像约翰教导他的门徒一样。”
+			</verse>
+			<verse number="2" number-en="2" jesuswords="true">
+				<span class="jesuswords">
+					耶稣说:“你们祷告的时候，要说:
+					‘父啊，愿你的名被尊为圣，
+					愿你的国降临；
+				</span>
+			</verse>
+			<verse number="3" number-en="3" jesuswords="true">
+				<span class="jesuswords">
+					我们需用的食物，
+					求你每天赐给我们；
+				</span>
+			</verse>
+			<verse number="4" number-en="4" jesuswords="true">
+				<span class="jesuswords">
+					赦免我们的罪，
+					因为我们也饶恕所有亏负我们的人；
+					不要让我们陷入试探。’”
+				</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

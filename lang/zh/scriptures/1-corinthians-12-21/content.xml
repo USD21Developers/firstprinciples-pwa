@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-12-21" lang="zh" version="cnvs" edition="2001">
+	<passage title="哥林多前书 12:21" book="哥林多前书" title-en="1 Corinthians 12:21" book-en="1 Corinthians">
+		<chapter number="12" number-en="12">
+			<verse number="21" number-en="21">
+				眼睛不能对手说:“我不需要你。”头也不能对脚说:“我不需要你们。” 
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->
