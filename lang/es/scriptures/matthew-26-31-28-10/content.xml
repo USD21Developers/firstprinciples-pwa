@@ -19,7 +19,7 @@
 				—Aunque todos te abandonen —declaró Pedro—, yo jamás lo haré.
 			</verse>
 			<verse number="34" number-en="34" jesuswords="true">
-				—Te aseguro —le contestó Jesús— que esta misma noche, antes de que cante el gallo, me negarás tres veces.
+				<span class="jesuswords">—Te aseguro</span> —le contestó Jesús— <span class="jesuswords">que esta misma noche, antes de que cante el gallo, me negarás tres veces.</span>
 			</verse>
 			<verse number="35" number-en="35">
 				—Aunque tenga que morir contigo —insistió Pedro—, jamás te negaré.
@@ -88,10 +88,10 @@
 				<span class="jesuswords">—Guarda tu espada</span> —le dijo Jesús—, <span class="jesuswords">porque los que a hierro matan, a hierro mueren.</span>
 			</verse>
 			<verse number="53" number-en="53" jesuswords="true">
-				¿Crees que no puedo acudir a mi Padre, y al instante pondría a mi disposición más de doce batallones de ángeles?
+				<span class="jesuswords">¿Crees que no puedo acudir a mi Padre, y al instante pondría a mi disposición más de doce batallones de ángeles?</span>
 			</verse>
 			<verse number="54" number-en="54" jesuswords="true">
-				Pero, entonces, ¿cómo se cumplirían las Escrituras que dicen que así tiene que suceder?
+				<span class="jesuswords">Pero, entonces, ¿cómo se cumplirían las Escrituras que dicen que así tiene que suceder?</span>
 			</verse>
 			<verse number="55" number-en="55" jesuswords="true">
 				Y de inmediato dijo a la turba:
@@ -470,7 +470,7 @@
 			<verse number="8" number-en="8">
 				Así que las mujeres se alejaron a toda prisa del sepulcro, asustadas pero muy alegres, y corrieron a dar la noticia a los discípulos.
 			</verse>
-			<verse number="9" number-en="9" jesuswords="true">
+			<verse number="9" number-en="9">
 				En eso Jesús les salió al encuentro y las saludó. Ellas se le acercaron, le abrazaron los pies y lo adoraron.
 			</verse>
 			<verse number="10" number-en="10" jesuswords="true">

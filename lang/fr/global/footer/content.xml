@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="footer" lang-original="en" lang-translated="en" last-updated="2019-10-22" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2019-10-22" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="footer" lang-original="en" lang-translated="fr" last-updated="2019-10-22" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2019-10-22" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 
 	<phrase id="1" desc="Install button">
 		<original>
@@ -25,7 +25,7 @@
 			(SoldOut Discipling Movement)
 		</original>
 		<translated>
-			
+			-
 		</translated>
 	</phrase>
 

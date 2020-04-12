@@ -4,7 +4,7 @@
 	<passage title="Atos 1:8" book="Atos" title-en="Acts 1:8" book-en="Acts">
 		<chapter number="1" number-en="1">
 			<verse number="8" number-en="8" jesuswords="true">
-				Mas receberão poder quando o Espírito Santo descer sobre vocês, e serão minhas testemunhas em Jerusalém, em toda a Judéia e Samaria, e até os confins da terra”.
+				<span class="jesuswords">Mas receberão poder quando o Espírito Santo descer sobre vocês, e serão minhas testemunhas em Jerusalém, em toda a Judéia e Samaria, e até os confins da terra”.</span>
 			</verse>
 		</chapter>
 	</passage>
