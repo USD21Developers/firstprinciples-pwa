@@ -88,13 +88,7 @@
 
         <p>${phrase(34)}</p>
 
-        <p>${phrase(35)}</p>
-
-        <p>${phrase(36)}</p>
-
-        <p>${phrase(37)}</p>
-
-        <p><em>${phrase(38)}</em></p>
+        <p><em>${phrase(35)}</em></p>
 
       </div>
     </div>

@@ -26,144 +26,165 @@
           <strong>${phrase(2)}</strong>
         </p>
 
+        <table>
+          <tr>
+            <td rowspan="3" style="vertical-align: top">
+              ${phrase(3)}
+            </td>
+            <td>
+              ${phrase(4)}
+            </td>
+          </tr>
+          <tr>
+            <td>
+              ${phrase(5)}
+            </td>
+          </tr>
+          <tr>
+            <td>
+              ${phrase(6)}
+            </td>
+          </tr>
+        </table>
+
         <p>
-          ${phrase(3)}
+          ${phrase(7)}
         </p>
 
         <table class="light-darkness_fourcorners">
           <tbody>
             <tr>
               <td>
-                ${phrase(4)}<br>
-                ${phrase(5)}<br>
-                ${phrase(6)}<br>
-              </td>
-              <td>
-                ${phrase(7)}<br>
                 ${phrase(8)}<br>
                 ${phrase(9)}<br>
+                ${phrase(10)}<br>
+              </td>
+              <td>
+                ${phrase(11)}<br>
+                ${phrase(12)}<br>
+                ${phrase(13)}<br>
               </td>
             </tr>
             <tr>
               <td>
-                ${phrase(10)}<br>
-                ${phrase(11)}<br>
-                ${phrase(12)}<br>
-              </td>
-              <td>
-                ${phrase(13)}<br>
                 ${phrase(14)}<br>
                 ${phrase(15)}<br>
+                ${phrase(16)}<br>
+              </td>
+              <td>
+                ${phrase(17)}<br>
+                ${phrase(18)}<br>
+                ${phrase(19)}<br>
               </td>
             </tr>
           </tbody>
         </table>
 
         <ol>
-          <li>${phrase(16)}</li>
-          <li>${phrase(17)}</li>
+          <li>${phrase(20)}</li>
+          <li>${phrase(21)}</li>
         </ol>
 
         <br>
 
         <ol>
-          <li><strong>${phrase(18)}</strong>
+          <li><strong>${phrase(22)}</strong>
             <ol>
-              <li>${phrase(19)}
+              <li>${phrase(23)}
                 <ol>
                   <li>
-                    ${phrase(20)}
+                    ${phrase(24)}
 
                       <table class="wall-of-sin">
                         <thead>
                           <tr>
                             <th colspan="3">
-                              ${phrase(21)}
+                              ${phrase(25)}
                             </th>
                           </tr>
                         </thead>
                         <tbody>
                           <tr>
                             <td>
-                              ${phrase(22)}<br>
+                              ${phrase(26)}<br>
                               <br>
-                              ${phrase(23)}<br>
+                              ${phrase(27)}<br>
                             </td>
                             <td>
-                              ${phrase(24)}<br>
+                              ${phrase(28)}<br>
                               <br>
-                              ${phrase(25)}<br>
+                              ${phrase(29)}<br>
                             </td>
                           </tr>
                         </tbody>
                         <tfoot>
                           <tr>
                             <th colspan="3">
-                              ${phrase(26)}
+                              ${phrase(30)}
                             </th>
                           </tr>
                         </tfoot>
                       </table>
                   </li>
-                  <li>${phrase(27)}</li>
-                  <li>${phrase(28)}</li>
+                  <li>${phrase(31)}</li>
+                  <li>${phrase(32)}</li>
                 </ol>
               </li>
-              <li>${phrase(29)}
+              <li>${phrase(33)}
                 <ol>
                   <li>
-                    ${phrase(30)}
+                    ${phrase(34)}
                     <table class="pile-of-sin">
                       <tbody>
                         <tr>
                           <td class="center">
-                            ${phrase(31)}<br>
+                            ${phrase(35)}<br>
                             <div class="pile-of-sin_pile pile-of-sin_person-a"></div>
                           </td>
                           <td class="center">
-                            ${phrase(32)}<br>
+                            ${phrase(36)}<br>
                             <div class="pile-of-sin_pile pile-of-sin_person-b"></div>
                           </td>
                           <td class="center">
-                            ${phrase(33)}<br>
+                            ${phrase(37)}<br>
                             <div class="pile-of-sin_pile pile-of-sin_person-c"></div>
                           </td>
                         </tr>
                         <tr>
-                          <td class="center">${phrase(34)}</td>
-                          <td class="center">${phrase(35)}</td>
-                          <td class="center">${phrase(36)}</td>
+                          <td class="center">${phrase(38)}</td>
+                          <td class="center">${phrase(39)}</td>
+                          <td class="center">${phrase(40)}</td>
                         </tr>
                       </tbody>
                     </table>
                   </li>
-                  <li>${phrase(37)}</li>
-                  <li>${phrase(38)}</li>
-                </ol>
-              </li>
-              <li>${phrase(39)}
-                <ol>
-                  <li>${phrase(40)}</li>
                   <li>${phrase(41)}</li>
                   <li>${phrase(42)}</li>
+                </ol>
               </li>
               <li>${phrase(43)}
+                <ol>
+                  <li>${phrase(44)}</li>
+                  <li>${phrase(45)}</li>
+                  <li>${phrase(46)}</li>
+              </li>
+              <li>${phrase(47)}
                 <table class="light-darkness_fourcorners">
                   <tbody>
                     <tr>
-                      <td>${phrase(44)}</td>
-                      <td>${phrase(45)}</td>
+                      <td>${phrase(48)}</td>
+                      <td>${phrase(49)}</td>
                     </tr>
                     <tr>
                       <td>
-                        ${phrase(46)}<br>
-                        ${phrase(47)}<br>
-                        ${phrase(48)}<br>
-                      </td>
-                      <td>
-                        ${phrase(49)}<br>
                         ${phrase(50)}<br>
                         ${phrase(51)}<br>
+                        ${phrase(52)}<br>
+                      </td>
+                      <td>
+                        ${phrase(53)}<br>
+                        ${phrase(54)}<br>
+                        ${phrase(55)}<br>
                       </td>
                     </tr>
                   </tbody>
@@ -173,41 +194,41 @@
           </li>
         </ol>
       </li>
-      <li><strong>${phrase(52)}</strong>
+      <li><strong>${phrase(56)}</strong>
         <ol>
-          <li>${phrase(53)}</li>
-          <li>${phrase(54)}</li>
-          <li>${phrase(55)}
-            <ol>
-              <li>${phrase(56)}</li>
-              <li>${phrase(57)}</li>
-              <li>${phrase(58)}</li>
-            </ol>
-          </li>
+          <li>${phrase(57)}</li>
+          <li>${phrase(58)}</li>
           <li>${phrase(59)}
             <ol>
               <li>${phrase(60)}</li>
               <li>${phrase(61)}</li>
+              <li>${phrase(62)}</li>
             </ol>
           </li>
-          <li>${phrase(62)}
+          <li>${phrase(63)}
             <ol>
-              <li>${phrase(63)}</li>
-              <li>${phrase(64)}
+              <li>${phrase(64)}</li>
+              <li>${phrase(65)}</li>
+            </ol>
+          </li>
+          <li>${phrase(66)}
+            <ol>
+              <li>${phrase(67)}</li>
+              <li>${phrase(68)}
                 <ol>
-                  <li>${phrase(65)}</li>
-                  <li>${phrase(66)}</li>
+                  <li>${phrase(69)}</li>
+                  <li>${phrase(70)}</li>
                 </ol>
               </li>
               <li>
-                ${phrase(67)}<br>
-                ${phrase(68)}
+                ${phrase(71)}<br>
+                ${phrase(72)}
                 <br>
                 <table class="light-darkness_baptism">
                   <thead>
                     <tr>
-                      <th class="center"><span style="text-transform:uppercase">${phrase(69)}</span></th>
-                      <th class="center"><span style="text-transform:uppercase">${phrase(15)}</span></th>
+                      <th class="center"><span style="text-transform:uppercase">${phrase(73)}</span></th>
+                      <th class="center"><span style="text-transform:uppercase">${phrase(19)}</span></th>
                     </tr>
                   </thead>
                   <tbody>
@@ -215,14 +236,14 @@
                       <td class="center">
                         <br>
                         <i class="fa fa-cross fa-3x"></i><br>
-                        ${phrase(70)}<br>
+                        ${phrase(74)}<br>
                         <br>
                       </td>
                       <td class="center">
                         <br>
                         <i class="fa fa-cross fa-3x"></i><br>
-                        ${phrase(73)}<br>
-                        ${phrase(74)}<br>
+                        ${phrase(77)}<br>
+                        ${phrase(78)}<br>
                         <br>
                       </td>
                     </tr>
@@ -235,7 +256,7 @@
                           <tbody>
                             <tr>
                               <td class="center white-text">
-                                <strong>${phrase(71)}</strong>
+                                <strong>${phrase(75)}</strong>
                               </td>
                             </tr>
                           </tbody>
@@ -250,7 +271,7 @@
                           <tbody>
                             <tr>
                               <td class="center white-text">
-                                <strong>${phrase(75)}</strong>
+                                <strong>${phrase(79)}</strong>
                               </td>
                             </tr>
                           </tbody>
@@ -261,7 +282,7 @@
                     <tr>
                       <td class="center" style="vertical-align: bottom">
                         <br>
-                        ${phrase(72)}<br>
+                        ${phrase(76)}<br>
                         <img src="../_assets/css/fontawesome-free-5.11.2-web/svgs/solid/share.svg" class="l-d-arrow" />
                         <div class="earth"></div>
                         <table class="brown light-darkness_baptism-earth">
@@ -277,7 +298,7 @@
                       </td>
                       <td class="center" style="vertical-align: bottom">
                         <br>
-                        ${phrase(76)}<br>
+                        ${phrase(80)}<br>
                         <img src="../_assets/css/fontawesome-free-5.11.2-web/svgs/solid/share.svg" class="l-d-arrow" />
                         <div class="wave"></div>
                         <table class="blue light-darkness_baptism-water">
@@ -301,24 +322,14 @@
                   <thead>
                     <tr>
                       <th class="center" width="50%">
-                        ${phrase(77)}
+                        ${phrase(81)}
                       </th>
                       <th class="center" width="50%">
-                        ${phrase(78)}
+                        ${phrase(82)}
                       </th>
                     </tr>
                   </thead>
                   <tbody>
-                    <tr>
-                      <td class="center">
-                        ${phrase(79)}<br>
-                        ${phrase(80)}<br>
-                      </td>
-                      <td class="center">
-                        ${phrase(81)}<br>
-                        ${phrase(82)}<br>
-                      </td>
-                    </tr>
                     <tr>
                       <td class="center">
                         ${phrase(83)}<br>
@@ -327,16 +338,26 @@
                       <td class="center">
                         ${phrase(85)}<br>
                         ${phrase(86)}<br>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="center">
                         ${phrase(87)}<br>
+                        ${phrase(88)}<br>
+                      </td>
+                      <td class="center">
+                        ${phrase(89)}<br>
+                        ${phrase(90)}<br>
+                        ${phrase(91)}<br>
                       </td>
                     </tr>
                     <tr>
                       <td class="center" style="vertical-align: top">
-                        ${phrase(88)}<br>
-                        ${phrase(89)}<br>
+                        ${phrase(92)}<br>
+                        ${phrase(93)}<br>
                       </td>
                       <td class="center">
-                        ${phrase(90)}<br>
+                        ${phrase(94)}<br>
                       </td>
                     </tr>
                   </tbody>
@@ -348,31 +369,31 @@
           </li>
         </ol>
       </li>
-      <li><strong>${phrase(91)}</strong>
+      <li><strong>${phrase(95)}</strong>
         <ol>
-          <li>${phrase(92)}
+          <li>${phrase(96)}
             <ol>
-              <li>${phrase(93)}</li>
-              <li>${phrase(94)}</li>
-              <li>${phrase(95)}
+              <li>${phrase(97)}</li>
+              <li>${phrase(98)}</li>
+              <li>${phrase(99)}
                 <ol>
-                  <li>${phrase(96)}</li>
-                  <li>${phrase(97)}</li>
+                  <li>${phrase(100)}</li>
+                  <li>${phrase(101)}</li>
                 </ol>
               </li>
             </ol>
           </li>
-          <li>${phrase(98)}
+          <li>${phrase(102)}
             <ol>
-              <li>${phrase(99)}</li>
-              <li>${phrase(100)}</li>
+              <li>${phrase(103)}</li>
+              <li>${phrase(104)}</li>
             </ol>
           </li>
         </ol>
       </li>
-      <li><strong>${phrase(101)}</strong>
+      <li><strong>${phrase(105)}</strong>
         <p>
-          ${phrase(102)}
+          ${phrase(106)}
         </p>
       </li>
     </ol>

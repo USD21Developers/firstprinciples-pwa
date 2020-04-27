@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="the-cross" lang-original="en" lang-translated="es" last-updated="2018-09-28" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="the-cross" lang-original="en" lang-translated="es" last-updated="2020-04-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
@@ -16,7 +16,7 @@
 			Passion Account
 		</original>
 		<translated>
-			El Relato de la Pasión
+			El Relato de la Pasión.
 		</translated>
 	</phrase>
 
@@ -25,7 +25,7 @@
 			Read Matthew 26:31-28:10
 		</original>
 		<translated>
-			Mateo 26:31 - 28:10
+			Lee Mateo 26:31 - 28:10.
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-26-31-28-10">
 			<original>
@@ -42,7 +42,7 @@
 			Suggested Reading Intervals:
 		</original>
 		<translated>
-			Lectura Sugerida:
+			Intervalos de lectura sugeridos:
 		</translated>
 	</phrase>
 
@@ -168,7 +168,7 @@
 			Physical Death
 		</original>
 		<translated>
-			La Muerte Física
+			La Muerte Física.
 		</translated>
 	</phrase>
 
@@ -177,14 +177,14 @@
 			Read the medical account of Jesus' physical death.
 		</original>
 		<translated>
-			Lee el relato médico de la muerte física de Jesús.
+			Lee la Pasión de Cristo desde un punto de vista médico.
 		</translated>
 		<change bold="true" italic="false" modal="false" href="../medical-account/">
 			<original>
 				medical account
 			</original>
 			<translated>
-				relato médico
+				Pasión de Cristo desde un punto de vista médico
 			</translated>
 		</change>
 	</phrase>
@@ -194,7 +194,7 @@
 			Personal Responsibility
 		</original>
 		<translated>
-			La Responsabilidad Personal
+			La Responsabilidad Personal.
 		</translated>
 	</phrase>
 
@@ -203,7 +203,7 @@
 			Remember that there were many others who died by crucifixion in the first century. It was not that Jesus was physically crucified that makes Him unique; it was that He was crucified for you, in your place. He died on the cross for you.
 		</original>
 		<translated>
-			Recuerda que muchos otros murieron por crucifixión en el primer siglo. No le hace único a Jesús el haber sido crucificado físicamente en la cruz; pero sí el que El fue crucificado por ti, en tu lugar. El murió en la cruz por ti.
+			Recuerda que hubo muchos otros que murieron crucificados en el primer siglo. Haber sido crucificado físicamente no fue lo que hizo único a Jesús; fue haber sido crucificado por ti, en tu lugar. ¡Él murió en la cruz por ti!
 		</translated>
 	</phrase>
 
@@ -212,7 +212,7 @@
 			Romans 3:23
 		</original>
 		<translated>
-			Romanos 3:23
+			Romanos 3:23.
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="romans-3-23">
 			<original>
@@ -229,7 +229,7 @@
 			Isaiah 59:1-2
 		</original>
 		<translated>
-			Isaías 59:1-2
+			Isaías 59:1-2.
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="isaiah-59-1-2">
 			<original>
@@ -246,7 +246,7 @@
 			Matthew 27:46
 		</original>
 		<translated>
-			Mateo 27:46
+			Mateo 27:46.
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-27-46">
 			<original>
@@ -263,7 +263,7 @@
 			Share the sins that you committed before being baptized and your feelings of being forgiven at baptism. Ask the person with whom you are studying to share and confess their sins.
 		</original>
 		<translated>
-			Comparte los pecados que tu cometiste antes de bautizarte y como te sentiste al ser perdonado cuando te bautizaste. Pídele a la persona con la cual estás estudiando que comparta y confiese sus pecados.
+			Comparte los pecados que cometiste antes de ser bautizado y cómo te sentiste al ser perdonado en el bautismo. Pídele a la persona con la que estás estudiando que comparta y confiese sus pecados.
 		</translated>
 	</phrase>
 
@@ -272,7 +272,7 @@
 			Isaiah 53:4-6 (substitute your name).
 		</original>
 		<translated>
-			Isaías 53:4-6 (substituye tu nombre).
+			Isaías 53:4-6 (sustituye su nombre).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="isaiah-53-4-6">
 			<original>
@@ -289,7 +289,7 @@
 			If possible immediately after this study watch either The Cross or The Passion video.
 		</original>
 		<translated>
-			Al ser posible, inmediatemente después del estudio, vean o el video de La Cruz o de La Pasión del Cristo.
+			Si es posible, inmediatamente después de este estudio, vean la película de La Pasión de Cristo.
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
@@ -304,7 +304,7 @@
 				The Passion
 			</original>
 			<translated>
-				La Pasión del Cristo
+				La Pasión de Cristo
 			</translated>
 		</change>
 	</phrase>

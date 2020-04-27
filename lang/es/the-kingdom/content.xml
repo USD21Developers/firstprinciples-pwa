@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="the-kingdom" lang-original="en" lang-translated="es" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="the-kingdom" lang-original="en" lang-translated="es" last-updated="2020-04-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
@@ -16,7 +16,7 @@
 			In this study you will see the continuity of the Old and New Testaments. 
 		</original>
 		<translated>
-			En este estudio verás la continuidad del Antiguo y el Nuevo Testamento
+			En este estudio verás la continuidad del Antiguo y del Nuevo Testamento.
 		</translated>
 	</phrase>
 
@@ -25,7 +25,7 @@
 			Questions: What is the Kingdom of God? When did it come?
 		</original>
 		<translated>
-			Preguntas: ¿Qué es el Reino de Dios? ¿Cuándo vino?
+			Preguntas: ¿Qué es el Reino de Dios? ¿Cuándo llegó?
 		</translated>
 	</phrase>
 
@@ -34,7 +34,7 @@
 			Old Testament Predictions of the Kingdom (the height of Israel's glory was under the kingship of David, approximately 1000 B.C.)
 		</original>
 		<translated>
-			Predicciones acerca del Reino en el Antiguo Testamento (el apogeo de de la gloria de Israel fue bajo el reinado de David en aproximadamente 1,000 A.C.)
+			Predicciones acerca del Reino en el Antiguo Testamento (El momento cumbre de la gloria de Israel fue bajo el reinado de David, aproximadamente en el año 1.000 a.C.)
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
@@ -51,7 +51,7 @@
 			Isaiah 2:1-4 (750 B.C.)
 		</original>
 		<translated>
-			Isaías 2:1-4 (750 A.C.)
+			Isaías 2:1-4 (750 a.C.)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="isaiah-2-1-4">
 			<original>
@@ -66,7 +66,7 @@
 				(750 B.C.)
 			</original>
 			<translated>
-				(750 A.C.)
+				(750 a.C.)
 			</translated>
 		</change>
 	</phrase>
@@ -76,7 +76,7 @@
 			Last days
 		</original>
 		<translated>
-			Los últimos días
+			Los últimos días.
 		</translated>
 	</phrase>
 
@@ -85,7 +85,7 @@
 			Mountains (Symbolizes kingdoms): Mountain of the Lord, chief of the mountains
 		</original>
 		<translated>
-			Montes (símbolos de reinos): Monte del Señor, El principal de los montes.
+			Montes (símbolos de reinos). El monte del Señor será el monte principal.
 		</translated>
 	</phrase>
 
@@ -94,7 +94,7 @@
 			All nations
 		</original>
 		<translated>
-			Todas las Naciones
+			Todas las naciones (vendrán a él).
 		</translated>
 	</phrase>
 
@@ -103,7 +103,7 @@
 			Jerusalem
 		</original>
 		<translated>
-			Jerusalén
+			Jerusalén (lugar).
 		</translated>
 	</phrase>
 
@@ -112,7 +112,7 @@
 			Daniel 2:31-45 (550 B.C.)
 		</original>
 		<translated>
-			Daniel 2:31-45 (550 A.C.)
+			Daniel 2:31-45 (550 a.C.)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="daniel-2-31-45">
 			<original>
@@ -127,7 +127,7 @@
 				(550 B.C.)
 			</original>
 			<translated>
-				(550 A.C.)
+				(550 a.C.)
 			</translated>
 		</change>
 	</phrase>
@@ -137,7 +137,7 @@
 			Set up this passage by explaining that earlier in Daniel 2 King Nebuchadnezzar threatens death to all his astrologers and dream interpreters if they do not first tell him his dream, then interpret it.
 		</original>
 		<translated>
-			Prepare este pasaje explicando que anteriormente en Daniel 2, el rey Nabucodonosor amenaza la muerte de todos sus astrólogos e intérpretes de sueños si no le cuentan su sueño y luego lo interpretan.
+			Plantea este pasaje explicando que al principio de Daniel capítulo 2, el rey Nabucodonosor amenazó de muerte a todos sus astrólogos e intérpretes de sueños si no podían decirle primero lo que había soñado y después interpretarlo.
 		</translated>
 	</phrase>
 
@@ -146,7 +146,7 @@
 			Daniel interprets King Nebuchadnezzar's dream
 		</original>
 		<translated>
-			Daniel interpreta el sueño del Rey Nabucodonozor
+			Daniel logra interpretar el sueño del rey Nabucodonosor por el poder de Dios.
 		</translated>
 	</phrase>
 
@@ -155,7 +155,7 @@
 			Empires
 		</original>
 		<translated>
-			Imperios
+			Imperios:
 		</translated>
 	</phrase>
 
@@ -164,7 +164,7 @@
 			Babylonian: gold
 		</original>
 		<translated>
-			Babilonia: El oro
+			Babilónico, el oro (la cabeza de oro).
 		</translated>
 	</phrase>
 
@@ -173,7 +173,7 @@
 			Medo-Persian: silver
 		</original>
 		<translated>
-			Medo-Persa: La plata
+			Medo-Persa, la plata (el pecho de plata).
 		</translated>
 	</phrase>
 
@@ -182,7 +182,7 @@
 			Alexander the Great: bronze
 		</original>
 		<translated>
-			Alejandro Magno: El bronce
+			Griego — Alejandro el Grande, el bronce (la cintura y los muslos de bronce).
 		</translated>
 	</phrase>
 
@@ -191,7 +191,7 @@
 			Roman: iron (iron and clay)
 		</original>
 		<translated>
-			Roma: El hierro (El hierro y el barro)
+			Romano, el hierro (los pies y los dedos de hierro y barro mezclados).
 		</translated>
 	</phrase>
 
@@ -200,7 +200,7 @@
 			Rock — cut out not by human hands (therefore God)
 		</original>
 		<translated>
-			Una roca que nadie desprendió (fue Dios)
+			Una roca que nadie desprendió (fue Dios v.45).
 		</translated>
 	</phrase>
 
@@ -209,7 +209,7 @@
 			Rock becomes huge mountain — filled the whole earth
 		</original>
 		<translated>
-			Una roca que se convirtió en una gran montaña, cubrió toda la tierra.
+			Una roca que se convirtió en una montaña enorme o reino que llenó toda la tierra (Evangelismo mundial v.35)
 		</translated>
 	</phrase>
 
@@ -218,7 +218,7 @@
 			Kingdom that will never be destroyed (v. 44)
 		</original>
 		<translated>
-			Un reino que jamás será destruido. (v. 44)
+			Un reino que jamás será destruido, un reino eterno (v.44).
 		</translated>
 	</phrase>
 
@@ -227,7 +227,7 @@
 			New Testament Predictions of the Kingdom
 		</original>
 		<translated>
-			Predicciones acerca del Reino en el Nuevo Testamento.
+			Predicciones acerca del Reino en el Nuevo Testamento
 		</translated>
 	</phrase>
 
@@ -253,7 +253,7 @@
 			Kingdom is near (Matthew 3:1-6)
 		</original>
 		<translated>
-			El Reino está cerca (Mateo 3:1-6)
+			El Reino está cerca (Mateo 3:1-6).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-3-1-6">
 			<original>
@@ -287,7 +287,7 @@
 			Kingdom is near (Matthew 4:17)
 		</original>
 		<translated>
-			El Reino está cerca (Mateo 4:17)
+			El Reino está cerca (Mateo 4:17).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-4-17">
 			<original>
@@ -304,7 +304,7 @@
 			Kingdom will come in the lifetime of some of the disciples (Mark 9:1)
 		</original>
 		<translated>
-			El Reino llegará durante el transcurso de la vida de algunos de los discípulos. (Marcos 9:1)
+			El Reino vendrá durante el transcurso de la vida de algunos de los discípulos (Marcos 9:1).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="mark-9-1">
 			<original>
@@ -321,7 +321,7 @@
 			Kingdom will come with power (Mark 9:1)
 		</original>
 		<translated>
-			El Reino vendrá con Poder. (Marcos 9:1)
+			El Reino vendrá con poder (Marcos 9:1).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="mark-9-1">
 			<original>
@@ -338,7 +338,7 @@
 			Kingdom entered by new birth — by water and the Spirit (John 3:1-7)
 		</original>
 		<translated>
-			Un nacimiento nuevo es necesario para entrar al Reino. (Juan 3:1-7)
+			Un nuevo nacimiento es necesario para entrar en el Reino (Juan 3:1-7).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="john-3-1-7">
 			<original>
@@ -355,7 +355,7 @@
 			Kingdom is within you (Luke 17:20-21)
 		</original>
 		<translated>
-			El Reino está entre ustedes. (Lucas 17:20-21)
+			El Reino está entre ustedes (Lucas 17:20-21).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="luke-17-20-21">
 			<original>
@@ -372,7 +372,7 @@
 			Peter has the keys (Matthew 16:13-19). Church and the Kingdom are the same and will be built on the truth that Jesus is the Christ (1 Corinthians 3:11).
 		</original>
 		<translated>
-			Pedro tiene las llaves (Mateo 16:13-19). La iglesia y el Reino son lo mismo y será construido sobre la verdad que Jesús es el Cristo (1 Corintios 3:11).
+			Pedro tiene las llaves (Mateo 16:13-19). La Iglesia y el Reino son lo mismo y será construido sobre la verdad que Jesús es el Cristo (1 Corintios 3:11).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-16-13-19">
 			<original>
@@ -397,7 +397,7 @@
 			Joseph of Arimathea was still waiting for the Kingdom when Jesus died. (Luke 23:50-52)
 		</original>
 		<translated>
-			José de Arimatéa todavía esperaba el Reino aún después de la muerte de Jesús. (Lucas 23:50-52)
+			José de Arimatea aún estaba esperando el Reino cuando Jesús murió (Lucas 23:50-52).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="luke-23-50-52">
 			<original>
@@ -414,7 +414,7 @@
 			Repentance and forgiveness of sins will be preached first in Jerusalem to all nations (Luke 24:44-49).
 		</original>
 		<translated>
-			Comenzando desde Jerusalén, se anunciará a todas las naciones el arrepentimiento y el perdón de los pecados. (Lucas 24:44-49)
+			Se predicarán el arrepentimiento y el perdón de pecados a todas las naciones, comenzando por Jerusalén (Lucas 24:44-49).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="luke-24-44-49">
 			<original>
@@ -431,14 +431,14 @@
 			Fulfillment of the Old and New Testament Predictions, Acts 1-2 (33 A.D.)
 		</original>
 		<translated>
-			Cumplimiento de las Predicciones del Antiguo y Nuevo Testamento Hechos 1-2 (33 d.C.)
+			Cumplimiento de las predicciones del Antiguo y del Nuevo Testamento. Lee Hechos capítulos 1 y 2 mientras vas señalando cada profecía cumplida (33 d.C.). Evidencia del cumplimiento de las profecías:
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-1-1-2-47">
 			<original>
 				Acts 1-2
 			</original>
 			<translated>
-				Hechos 1-2
+				Hechos capítulos 1 y 2
 			</translated>
 		</change>
 	</phrase>
@@ -448,7 +448,7 @@
 			Last days (Acts 2:17) 
 		</original>
 		<translated>
-			Los últimos días (Hechos 2:17)
+			Los últimos días (Hechos 2:17).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-17">
 			<original>
@@ -482,7 +482,7 @@
 			All nations (Acts 2:5) 
 		</original>
 		<translated>
-			Todas las naciones (Hechos 2:5)
+			Todas las naciones (Hechos 2:5).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-5">
 			<original>
@@ -533,7 +533,7 @@
 			Jerusalem (Acts 2:5) 
 		</original>
 		<translated>
-			Jerusalén (Hechos 2:5)
+			Jerusalén (Hechos 2:5).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-5">
 			<original>
@@ -584,7 +584,7 @@
 			Eternal kingdom (Acts 2:37-42) 
 		</original>
 		<translated>
-			Un reino eterno (Hechos 2:37-42)
+			Un reino eterno (Hechos 2:37-42).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-37-42">
 			<original>
@@ -618,7 +618,7 @@
 			Date of coming approximately 33 A.D. (Acts 1-2) 
 		</original>
 		<translated>
-			Fecha aproximada de la llegada del Reino 33 d.C. (Hechos 1-2)
+			Fecha aproximada de la llegada del Reino: 33 d.C. (Hechos 1-2).
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
@@ -643,7 +643,7 @@
 			Old Testament prophecy
 		</original>
 		<translated>
-			La profecía del Antiguo Testamento
+			La profecía del Antiguo Testamento.
 		</translated>
 	</phrase>
 
@@ -652,7 +652,7 @@
 			John the Baptist — "is near" (Matthew 3:1-2)
 		</original>
 		<translated>
-			Juan el Bautista - "Está cerca" (Mateo 3:1-2)
+			Juan el Bautista: “Está cerca” (Mateo 3:1-2).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-3-1-2">
 			<original>
@@ -669,7 +669,7 @@
 			Jesus — "is near" (Matthew 4:17)
 		</original>
 		<translated>
-			Jesús - "Esta cerca" (Mateo 4:17)
+			Jesús: “Está cerca” (Mateo 4:17).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-4-17">
 			<original>
@@ -683,17 +683,17 @@
 
 	<phrase id="48" desc="">
 		<original>
-			Lifetime (Acts 2:14) 
+			
 		</original>
 		<translated>
-			Jesús - "Esta cerca" (Mateo 4:17)
+			Durante la vida de algunos discípulos (Hechos 2:14).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-14">
 			<original>
-				Acts 2:14
+				
 			</original>
 			<translated>
-				Mateo 4:17
+				Hechos 2:14
 			</translated>
 		</change>
 	</phrase>
@@ -720,7 +720,7 @@
 			"Some" — Judas died (Acts 1:18-19)
 		</original>
 		<translated>
-			"Algunos" - Judas murió (Hechos 1:18-19)
+			“Algunos” ─ Judas murió (Hechos 1:18-19).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-1-18-19">
 			<original>
@@ -737,7 +737,7 @@
 			Power (Acts 1:8, Acts 2:1-4) 
 		</original>
 		<translated>
-			Poder (Hechos 1:8, Hechos 2:1-4)
+			Poder (Hechos 1:8, Hechos 2:1-4).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-1-8">
 			<original>
@@ -779,7 +779,7 @@
 			New birth (Acts 2:38)
 		</original>
 		<translated>
-			Nuevo Nacimiento (Hechos 2:38)
+			Nuevo Nacimiento (Hechos 2:38).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
 			<original>
@@ -796,7 +796,7 @@
 			Water and Spirit (John 3:1-7)
 		</original>
 		<translated>
-			Agua y Espíritu (Juan 3:1-7)
+			Agua y Espíritu (Juan 3:1-7).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="john-3-1-7">
 			<original>
@@ -813,7 +813,7 @@
 			Kingdom within (Acts 2:37) 
 		</original>
 		<translated>
-			Reino entre/dentro (Hechos 2:37)
+			Reino dentro de ustedes (Hechos 2:37).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-37">
 			<original>
@@ -847,7 +847,7 @@
 			Peter with the keys (Acts 2:14, Acts 2:38) 
 		</original>
 		<translated>
-			Pedro con las llaves (Hechos 2:14, Hechos 2:38)
+			Pedro con las llaves (Hechos 2:14, 38).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-14">
 			<original>
@@ -862,7 +862,7 @@
 				Acts 2:38
 			</original>
 			<translated>
-				Hechos 2:38
+				38
 			</translated>
 		</change>
 	</phrase>
@@ -889,7 +889,7 @@
 			Repentance and forgiveness of sin (Acts 2:38) 
 		</original>
 		<translated>
-			El arrepentimiento y el perdón de pecados (Hechos 2:38)
+			El arrepentimiento y el perdón de pecados (Hechos 2:38).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
 			<original>
@@ -923,7 +923,7 @@
 			Conclusion
 		</original>
 		<translated>
-			Conclusión
+			Conclusión.
 		</translated>
 	</phrase>
 
@@ -932,7 +932,7 @@
 			The church is the Kingdom of God on earth, established in approximately 33 A.D.
 		</original>
 		<translated>
-			La Iglesia es el Reino de Dios en la tierra establecida aproximadamente en el año 33 d.C.
+			La iglesia es el Reino de Dios en la tierra, establecido aproximadamente en el año 33 d.C.
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
@@ -949,7 +949,7 @@
 			Acts 2:42: As citizens of the Kingdom and members of the body (the church), we must be devoted to:
 		</original>
 		<translated>
-			Hechos 2:42: Como ciudadanos del Reino y miembros del Cuerpo (La Iglesia) debemos ser devotos a:
+			Hechos 2:42. Como ciudadanos del Reino y miembros del cuerpo (la iglesia) debemos estar dedicados a:
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-42">
 			<original>
@@ -966,7 +966,7 @@
 			Doctrine
 		</original>
 		<translated>
-			La doctrina
+			La doctrina (la enseñanza de los apóstoles).
 		</translated>
 	</phrase>
 
@@ -975,7 +975,7 @@
 			Fellowship
 		</original>
 		<translated>
-			La confraternidad
+			La comunión (la confraternidad, los servicios y las reuniones).
 		</translated>
 	</phrase>
 
@@ -984,7 +984,7 @@
 			Breaking Bread
 		</original>
 		<translated>
-			El partimiento del pan
+			El partimiento del pan (santa cena).
 		</translated>
 	</phrase>
 
@@ -993,7 +993,7 @@
 			Prayer
 		</original>
 		<translated>
-			La oración
+			La oración.
 		</translated>
 	</phrase>
 
@@ -1002,7 +1002,7 @@
 			Matthew 6:33: We must seek His Kingdom first. Ask them to commit themselves to at least Sunday services and Midweek services.
 		</original>
 		<translated>
-			Mateo 6:33: El Reino debe ser nuestra prioridad. Pídele que se comprometa a ir la la reunión dominical y a las reuniones de entre-semana.
+			Mateo 6:33. Debes buscar primeramente el Reino de Dios. Como ciudadanos del Reino debemos comprometernos a asistir a todos los servicios del Domingo, a las reuniones de entre semana, charlas bíblicas y devocionales especiales.
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-6-33">
 			<original>

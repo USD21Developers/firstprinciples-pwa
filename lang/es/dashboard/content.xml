@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="dashboard" lang-original="en" lang-translated="es" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="dashboard" lang-original="en" lang-translated="es" last-updated="2020-04-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
@@ -79,7 +79,7 @@
 			Light and Darkness
 		</original>
 		<translated>
-			La Luz y La Oscuridad
+			La Oscuridad y La Luz
 		</translated>
 	</phrase>
 
@@ -88,7 +88,7 @@
 			New Testament Conversion
 		</original>
 		<translated>
-			La Conversiones en el Nuevo Testamento
+			Las Conversiones en el Nuevo Testamento
 		</translated>
 	</phrase>
 
@@ -106,7 +106,7 @@
 			The Medical Account of the Crucifixion of Christ
 		</original>
 		<translated>
-			La Pasión de Cristo desde un Punto de Vista Médico
+			La Pasión de Cristo desde un punto de vista médico
 		</translated>
 	</phrase>
 
