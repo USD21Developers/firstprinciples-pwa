@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="mark-3-31-35" lang="es" version="nvi" edition="2015">
+	<passage title="Marcos 3:31-35" book="Marcos" title-en="Mark 3:31-35" book-en="Mark">
+		<chapter number="3" number-en="3">
+			<verse number="31" number-en="31">
+				<p class="scripture-heading">
+					La madre y los hermanos de Jesús
+				</p>
+				En eso llegaron la madre y los hermanos de Jesús. Se quedaron afuera y enviaron a alguien a llamarlo,
+			</verse>
+			<verse number="32" number-en="32">
+				pues había mucha gente sentada alrededor de él.
+				<br />
+				<br />—Mira, tu madre y tus hermanos están afuera y te buscan —le dijeron.
+			</verse>
+			<verse number="33" number-en="33" jesuswords="true">
+				<span class="jesuswords">—¿Quiénes son mi madre y mis hermanos?</span> —replicó Jesús.
+			</verse>
+			<verse number="34" number-en="34" jesuswords="true">
+				Luego echó una mirada a los que estaban sentados alrededor de él y añadió:
+				<br />
+				<br /><span class="jesuswords">—Aquí tienen a mi madre y a mis hermanos.</span>
+			</verse>
+			<verse number="35" number-en="35" jesuswords="true">
+				<span class="jesuswords">Cualquiera que hace la voluntad de Dios es mi hermano, mi hermana y mi madre.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

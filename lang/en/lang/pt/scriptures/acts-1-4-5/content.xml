@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-1-4-5" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 1:4-5" book="Atos" title-en="Acts 1:4-5" book-en="Acts">
+		<chapter number="1" number-en="1">
+			<verse number="4" number-en="4" jesuswords="true">
+				Certa ocasião, enquanto comia com eles, deu-lhes esta ordem: <span class="jesuswords">“Não saiam de Jerusalém, mas esperem pela promessa de meu Pai, da qual lhes falei.</span>
+			</verse>
+			<verse number="5" number-en="5" jesuswords="true">
+				<span class="jesuswords">Pois João batizou com água, mas dentro de poucos dias vocês serão batizados com o Espírito Santo”.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

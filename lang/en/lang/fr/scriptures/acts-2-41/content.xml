@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-41" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 2:41" book="Actes" title-en="Acts 2:41" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="41" number-en="41">
+				Ceux qui acceptèrent sa parole furent donc baptisés et, ce jour-là, le nombre des disciples augmenta d’environ 3000 personnes.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

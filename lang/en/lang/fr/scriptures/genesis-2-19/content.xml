@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="genesis-2-19" lang="fr" version="SG21" edition="2007">
+	<passage title="Genèse 2:19" book="Genèse" title-en="Genesis 2:19" book-en="Genesis">
+		<chapter number="2" number-en="2">
+			<verse number="19" number-en="19">
+				L'Eternel Dieu façonna à partir de la terre tous les animaux sauvages et tous les oiseaux du ciel, puis il les fit venir vers l'homme pour voir comment il les appellerait. Il voulait que tout être vivant porte le nom que l'homme lui donnerait.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

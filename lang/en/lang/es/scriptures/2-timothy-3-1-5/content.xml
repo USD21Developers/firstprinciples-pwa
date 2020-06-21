@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="2-timothy-3-1-5" lang="es" version="nvi" edition="2015">
+	<passage title="2 Timoteo 3:1-5" book="2 Timoteo" title-en="2 Timothy 3:1-5" book-en="2 Timothy">
+		<chapter number="3" number-en="3">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					La impiedad en los últimos días
+				</p>
+				Ahora bien, ten en cuenta que en los últimos días vendrán tiempos difíciles.
+			</verse>
+			<verse number="2" number-en="2">
+				La gente estará llena de egoísmo y avaricia; serán jactanciosos, arrogantes, blasfemos, desobedientes a los padres, ingratos, impíos,
+			</verse>
+			<verse number="3" number-en="3">
+				insensibles, implacables, calumniadores, libertinos, despiadados, enemigos de todo lo bueno,
+			</verse>
+			<verse number="4" number-en="4">
+				 traicioneros, impetuosos, vanidosos y más amigos del placer que de Dios.
+			</verse>
+			<verse number="5" number-en="5">
+				Aparentarán ser piadosos, pero su conducta desmentirá el poder de la piedad. ¡Con esa gente ni te metas!
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

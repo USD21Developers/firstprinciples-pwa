@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="ephesians-4-4-6" lang="fr" version="SG21" edition="2007">
+	<passage title="Éphésiens 4:4-6" book="Éphésiens" title-en="Ephesians 4:4-6" book-en="Ephesians">
+		<chapter number="4" number-en="4">
+			<verse number="4" number-en="4">
+				Il y a un seul corps et un seul Esprit, de même que vous avez été appelés à une seule espérance par votre vocation.
+			</verse>
+			<verse number="5" number-en="5">
+				Il y a un seul Seigneur, une seule foi, un seul baptême,
+			</verse>
+			<verse number="6" number-en="6">
+				un seul Dieu et Père de tous. Il est au-dessus de tous, agit à travers tous et habite en [nous] tous.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

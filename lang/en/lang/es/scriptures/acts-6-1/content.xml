@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-6-1" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 6:1" book="Hechos" title-en="Acts 6:1" book-en="Acts">
+		<chapter number="6" number-en="6">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					Elección de los siete
+				</p>
+				En aquellos días, al aumentar el número de los discípulos, se quejaron los judíos de habla griega contra los de habla aramea de que sus viudas eran desatendidas en la distribución diaria de los alimentos.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

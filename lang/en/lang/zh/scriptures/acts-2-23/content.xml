@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-23" lang="zh" version="cnvs" edition="2001">
+	<passage title="使徒行传 2:23" book="使徒行传" title-en="Acts 2:23" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="23" number-en="23">
+				他照着　神的定旨和预知被交了出去，你们就藉不法之徒的手，把他钉死了。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

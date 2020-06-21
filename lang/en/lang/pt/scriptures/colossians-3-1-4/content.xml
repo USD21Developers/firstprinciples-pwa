@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-3-1-4" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Colossenses 3:1-4" book="Colossenses" title-en="Colossians 3:1-4" book-en="Colossians">
+		<chapter number="3" number-en="3">
+			<verse number="1" number-en="1">
+				Portanto, já que vocês ressuscitaram com Cristo, procurem as coisas que são do alto, onde Cristo está assentado à direita de Deus.
+			</verse>
+			<verse number="2" number-en="2">
+				Mantenham o pensamento nas coisas do alto, e não nas coisas terrenas.
+			</verse>
+			<verse number="3" number-en="3">
+				Pois vocês morreram, e agora a sua vida está escondida com Cristo em Deus.
+			</verse>
+			<verse number="4" number-en="4">
+				Quando Cristo, que é a sua vida, for manifestado, então vocês também serão manifestados com ele em glória.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-peter-4-12-16" lang="fr" version="SG21" edition="2007">
+	<passage title="1 Pierre 4:12-16" book="1 Pierre" title-en="1 Peter 4:12-16" book-en="1 Peter">
+		<chapter number="4" number-en="4">
+			<verse number="12" number-en="12">
+				Mes bien-aimés, ne soyez pas surpris de la fournaise qui sévit parmi vous pour vous éprouver, comme s'il vous arrivait quelque chose d'étrange.
+			</verse>
+			<verse number="13" number-en="13">
+				Réjouissez-vous, au contraire, de la part que vous prenez aux souffrances de Christ, afin d’être aussi dans la joie et dans l'allégresse lorsque sa gloire sera dévoilée.
+			</verse>
+			<verse number="14" number-en="14">
+				Si vous êtes insultés à cause du nom de Christ, vous êtes heureux, parce que l'Esprit de gloire, l'Esprit de Dieu, repose sur vous. [Eux, ils blasphèment l'Esprit, tandis que vous, vous lui rendez gloire.]
+			</verse>
+			<verse number="15" number-en="15">
+				Que personne parmi vous n’ait à souffrir pour avoir tué, volé, fait le mal ou pour s’être mêlé des affaires d'autrui.
+			</verse>
+			<verse number="16" number-en="16">
+				Mais si quelqu'un souffre parce qu’il est chrétien, qu'il n'en ait pas honte. Au contraire, qu'il rende gloire à Dieu dans cette situation.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

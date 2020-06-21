@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-5-17-18" lang="zh" version="cnvs" edition="2001">
+	<passage title="使徒行传 5:17-18" book="使徒行传" title-en="Acts 5:17-18" book-en="Acts">
+		<chapter number="5" number-en="5">
+			<verse number="17" number-en="17">
+				大祭司和他的同党撒都该人都起来，满心忌恨，
+			</verse>
+			<verse number="18" number-en="18">
+				于是下手拿住使徒，把他们押在公共拘留所里。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

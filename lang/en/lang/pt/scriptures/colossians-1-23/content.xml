@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-1-23" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Colossenses 1:23" book="Colossenses" title-en="Colossians 1:23" book-en="Colossians">
+		<chapter number="1" number-en="1">
+			<verse number="23" number-en="23">
+				desde que continuem alicerçados e firmes na fé, sem se afastarem da esperança do evangelho, que vocês ouviram e que tem sido proclamado a todos os que estão debaixo do céu. Esse é o evangelho do qual eu, Paulo, me tornei ministro.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

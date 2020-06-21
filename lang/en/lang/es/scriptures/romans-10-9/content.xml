@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="romans-10-9" lang="es" version="nvi" edition="2015">
+	<passage title="Romanos 10:9" book="Romanos" title-en="Romans 10:9" book-en="Romans">
+		<chapter number="10" number-en="10">
+			<verse number="9" number-en="9">
+				que, si confiesas con tu boca que Jesús es el Señor y crees en tu corazón que Dios lo levantó de entre los muertos, serás salvo.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

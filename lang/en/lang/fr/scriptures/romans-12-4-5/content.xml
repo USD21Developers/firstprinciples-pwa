@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="romans-12-4-5" lang="fr" version="SG21" edition="2007">
+	<passage title="Romains 12:4-5" book="Romains" title-en="Romans 12:4-5" book-en="Romans">
+		<chapter number="12" number-en="12">
+			<verse number="4" number-en="4">
+				En effet, de même que nous avons plusieurs membres dans un seul corps et que tous les membres n'ont pas la même fonction,
+			</verse>
+			<verse number="5" number-en="5">
+				de même, nous qui sommes plusieurs, nous formons un seul corps en Christ et nous sommes tous membres les uns des autres, chacun pour sa part.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

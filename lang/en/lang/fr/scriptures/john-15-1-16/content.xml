@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-15-1-16" lang="fr" version="SG21" edition="2007">
+	<passage title="Jean 15:1-16" book="Jean" title-en="John 15:1-16" book-en="John">
+		<chapter number="15" number-en="15">
+			<verse number="1" number-en="1" jesuswords="true">
+				<p class="scripture-heading">
+					Le cep et les sarments
+				</p>
+				<span class="jesuswords">»C’est moi qui suis le vrai cep, et mon Père est le vigneron.</span>
+			</verse>
+			<verse number="2" number-en="2" jesuswords="true">
+				<span class="jesuswords">Tout sarment qui est en moi et qui ne porte pas de fruit, il l’enlève; et tout sarment qui porte du fruit, il le taille afin qu'il porte encore plus de fruit.</span>
+			</verse>
+			<verse number="3" number-en="3" jesuswords="true">
+				<span class="jesuswords">Déjà vous êtes purs à cause de la parole que je vous ai annoncée.</span>
+			</verse>
+			<verse number="4" number-en="4" jesuswords="true">
+				<span class="jesuswords">Demeurez en moi et je demeurerai en vous. Le sarment ne peut pas porter de fruit par lui-même, sans rester attaché au cep; il en va de même pour vous si vous ne demeurez pas en moi.</span>
+			</verse>
+			<verse number="5" number-en="5" jesuswords="true">
+				<span class="jesuswords">Je suis le cep, vous êtes les sarments. Celui qui demeure en moi et en qui je demeure porte beaucoup de fruit, car sans moi vous ne pouvez rien faire.</span>
+			</verse>
+			<verse number="6" number-en="6" jesuswords="true">
+				<span class="jesuswords">Si quelqu'un ne demeure pas en moi, il est jeté dehors comme le sarment et il sèche; puis on ramasse les sarments, on les jette au feu et ils brûlent.</span>
+			</verse>
+			<verse number="7" number-en="7" jesuswords="true">
+				<span class="jesuswords">Si vous demeurez en moi et que mes paroles demeurent en vous, vous demanderez ce que vous voudrez et cela vous sera accordé.</span>
+			</verse>
+			<verse number="8" number-en="8" jesuswords="true">
+				<span class="jesuswords">Ce qui manifeste la gloire de mon Père, c'est que vous portiez beaucoup de fruit. Vous serez alors vraiment mes disciples.</span>
+			</verse>
+			<verse number="9" number-en="9" jesuswords="true">
+				<span class="jesuswords">»Tout comme le Père m'a aimé, moi aussi, je vous ai aimés. Demeurez dans mon amour.</span>
+			</verse>
+			<verse number="10" number-en="10" jesuswords="true">
+				<span class="jesuswords">Si vous gardez mes commandements, vous demeurerez dans mon amour, de même que j'ai gardé les commandements de mon Père et que je demeure dans son amour.</span>
+			</verse>
+			<verse number="11" number-en="11" jesuswords="true">
+				<span class="jesuswords">Je vous ai dit cela afin que ma joie demeure en vous et que votre joie soit complète.</span>
+			</verse>
+			<verse number="12" number-en="12" jesuswords="true">
+				<span class="jesuswords">»Voici mon commandement: aimez-vous les uns les autres comme je vous ai aimés.</span>
+			</verse>
+			<verse number="13" number-en="13" jesuswords="true">
+				<span class="jesuswords">Il n'y a pas de plus grand amour que de donner votre vie pour vos amis.</span>
+			</verse>
+			<verse number="14" number-en="14" jesuswords="true">
+				<span class="jesuswords">Vous êtes mes amis si vous faites ce que je vous commande.</span>
+			</verse>
+			<verse number="15" number-en="15" jesuswords="true">
+				<span class="jesuswords">Je ne vous appelle plus serviteurs parce que le serviteur ne sait pas ce que fait son seigneur, mais je vous ai appelés amis parce que je vous ai fait connaître tout ce que j'ai appris de mon Père.</span>
+			</verse>
+			<verse number="16" number-en="16" jesuswords="true">
+				<span class="jesuswords">Ce n'est pas vous qui m'avez choisi, mais c'est moi qui vous ai choisis, et je vous ai établis afin que vous alliez, que vous portiez du fruit et que votre fruit demeure. Alors, ce que vous demanderez au Père en mon nom, il vous le donnera.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

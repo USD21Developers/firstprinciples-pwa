@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-4-12-13" lang="es" version="nvi" edition="2015">
+	<passage title="Hebreos 4:12-13" book="Hebreos" title-en="Hebrews 4:12-13" book-en="Hebrews">
+		<chapter number="4" number-en="4">
+			<verse number="12" number-en="12">
+				Ciertamente, la palabra de Dios es viva y poderosa, y más cortante que cualquier espada de dos filos. Penetra hasta lo más profundo del alma y del espíritu, hasta la médula de los huesos, y juzga los pensamientos y las intenciones del corazón.
+			</verse>
+			<verse number="13" number-en="13">
+				Ninguna cosa creada escapa a la vista de Dios. Todo está al descubierto, expuesto a los ojos de aquel a quien hemos de rendir cuentas.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

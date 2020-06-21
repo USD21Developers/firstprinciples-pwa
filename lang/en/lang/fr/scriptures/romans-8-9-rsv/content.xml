@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="romans-8-9-rsv" lang="fr" version="SG21" edition="2007">
+	<passage title="Romains 8:9" book="Romains" title-en="Romans 8:9" book-en="Romans">
+		<chapter number="8" number-en="8">
+			<verse number="9" number-en="9">
+				Quant à vous, vous n’êtes pas animés par votre nature propre mais par l'Esprit, si du moins l'Esprit de Dieu habite en vous. Si quelqu'un n'a pas l'Esprit de Christ, il ne lui appartient pas.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-1-10-17" lang="es" version="nvi" edition="2015">
+	<passage title="1 Corintios 1:10-17" book="1 Corintios" title-en="1 Corinthians 1:10-17" book-en="1 Corinthians">
+		<chapter number="1" number-en="1">
+			<verse number="10" number-en="10">
+				<p class="scripture-heading">
+					Divisiones en la iglesia
+				</p>
+				Les suplico, hermanos, en el nombre de nuestro Señor Jesucristo, que todos vivan en armonía y que no haya divisiones entre ustedes, sino que se mantengan unidos en un mismo pensar y en un mismo propósito. 
+			</verse>
+			<verse number="11" number-en="11">
+				Digo esto, hermanos míos, porque algunos de la familia de Cloé me han informado que hay rivalidades entre ustedes.
+			</verse>
+			<verse number="12" number-en="12">
+				Me refiero a que unos dicen: «Yo sigo a Pablo»; otros afirman: «Yo, a Apolos»; otros: «Yo, a Cefas»; y otros: «Yo, a Cristo».
+			</verse>
+			<verse number="13" number-en="13">
+				¡Cómo! ¿Está dividido Cristo? ¿Acaso Pablo fue crucificado por ustedes? ¿O es que fueron bautizados en el nombre de Pablo?
+			</verse>
+			<verse number="14" number-en="14">
+				Gracias a Dios que no bauticé a ninguno de ustedes, excepto a Crispo y a Gayo, 
+			</verse>
+			<verse number="15" number-en="15">
+				de modo que nadie puede decir que fue bautizado en mi nombre. 
+			</verse>
+			<verse number="16" number-en="16">
+				Bueno, también bauticé a la familia de Estéfanas; fuera de estos, no recuerdo haber bautizado a ningún otro.
+			</verse>
+			<verse number="17" number-en="17">
+				Pues Cristo no me envió a bautizar, sino a predicar el evangelio, y eso sin discursos de sabiduría humana, para que la cruz de Cristo no perdiera su eficacia.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-1-4-5" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 1:4-5" book="Hechos" title-en="Acts 1:4-5" book-en="Acts">
+		<chapter number="1" number-en="1">
+			<verse number="4" number-en="4" jesuswords="true">
+				Una vez, mientras comía con ellos, les ordenó: 
+				<br />
+				<br /><span class="jesuswords">—No se alejen de Jerusalén, sino esperen la promesa del Padre, de la cual les he hablado:</span>
+			</verse>
+			<verse number="5" number-en="5" jesuswords="true">
+				<span class="jesuswords">Juan bautizó con agua, pero dentro de pocos días ustedes serán bautizados con el Espíritu Santo.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

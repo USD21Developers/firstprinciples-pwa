@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-timothy-4-16" lang="fr" version="SG21" edition="2007">
+	<passage title="1 Timothée 4:16" book="1 Timothée" title-en="1 Timothy 4:16" book-en="1 Timothy">
+		<chapter number="4" number-en="4">
+			<verse number="16" number-en="16">
+				Veille sur toi-même et sur ton enseignement. Mets-y de la persévérance, car en agissant ainsi, tu te sauveras toi-même ainsi que ceux qui t'écoutent.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

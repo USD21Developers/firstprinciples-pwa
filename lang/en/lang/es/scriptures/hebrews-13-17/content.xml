@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-13-17" lang="es" version="nvi" edition="2015">
+	<passage title="Hebreos 13:17" book="Hebreos" title-en="Hebrews 13:17" book-en="Hebrews">
+		<chapter number="13" number-en="13">
+			<verse number="17" number-en="17">
+				Obedezcan a sus dirigentes y sométanse a ellos, pues cuidan de ustedes como quienes tienen que rendir cuentas. Obedézcanlos a fin de que ellos cumplan su tarea con alegría y sin quejarse, pues el quejarse no les trae ningún provecho.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

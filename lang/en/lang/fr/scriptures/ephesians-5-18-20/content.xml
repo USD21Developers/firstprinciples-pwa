@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="ephesians-5-18-20" lang="fr" version="SG21" edition="2007">
+	<passage title="Éphésiens 5:18-20" book="Éphésiens" title-en="Ephesians 5:18-20" book-en="Ephesians">
+		<chapter number="5" number-en="5">
+			<verse number="18" number-en="18">
+				<p class="scripture-heading">
+					Les relations mutuelles
+				</p>
+				Ne vous enivrez pas de vin: cela mène à la débauche. Soyez au contraire remplis de l'Esprit:
+			</verse>
+			<verse number="19" number-en="19">
+				dites-vous des psaumes, des hymnes et des cantiques spirituels; chantez et célébrez de tout votre cœur les louanges du Seigneur; 
+			</verse>
+			<verse number="20" number-en="20">
+				remerciez constamment Dieu le Père pour tout, au nom de notre Seigneur Jésus-Christ;
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

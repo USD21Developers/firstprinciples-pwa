@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-10-48" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 10:48" book="Atos" title-en="Acts 10:48" book-en="Acts">
+		<chapter number="10" number-en="10">
+			<verse number="48" number-en="48">
+				Então ordenou que fossem batizados em nome de Jesus Cristo. Depois pediram a Pedro que ficasse com eles alguns dias.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

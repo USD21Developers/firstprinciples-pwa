@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-10-24" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Hebreus 10:24" book="Hebreus" title-en="Hebrews 10:24" book-en="Hebrews">
+		<chapter number="10" number-en="10">
+			<verse number="24" number-en="24">
+				E consideremo-nos uns aos outros para incentivar-nos ao amor e às boas obras.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

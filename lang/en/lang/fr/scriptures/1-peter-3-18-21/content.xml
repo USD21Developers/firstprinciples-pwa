@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-peter-3-18-21" lang="fr" version="SG21" edition="2007">
+	<passage title="1 Pierre 3:18-21" book="1 Pierre" title-en="1 Peter 3:18-21" book-en="1 Peter">
+		<chapter number="3" number-en="3">
+			<verse number="18" number-en="18">
+				<p class="scripture-heading">
+					Christ, un exemple dans la souffrance
+				</p>
+				Christ aussi a souffert, et ce une fois pour toutes, pour les péchés. Lui le juste, il a souffert pour des injustes afin de vous conduire à Dieu. Il a souffert une mort humaine, mais il a été rendu à la vie par l'Esprit.
+			</verse>
+			<verse number="19" number-en="19">
+				C'est alors aussi qu'il est allé faire une proclamation aux esprits en prison,
+			</verse>
+			<verse number="20" number-en="20">
+				ceux-là mêmes qui avaient été rebelles autrefois, lorsque la patience de Dieu se prolongeait à l’époque de Noé, pendant la construction de l'arche. Un petit nombre de personnes, à savoir huit, sont entrées dans ce bateau et ont été sauvées à travers l'eau.
+			</verse>
+			<verse number="21" number-en="21">
+				C'était une figure: nous aussi maintenant, nous sommes sauvés par un baptême qui ne consiste pas dans la purification d’une impureté physique, mais dans l'engagement d'une bonne conscience envers Dieu. Il nous sauve à travers la résurrection de Jésus-Christ
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-1-18-19" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 1:18-19" book="Actes" title-en="Acts 1:18-19" book-en="Acts">
+		<chapter number="1" number-en="1">
+			<verse number="18" number-en="18">
+				Cet homme a acheté un champ avec le salaire du crime; il y est tombé en avant, s'est éventré et toutes ses entrailles sont sorties.
+			</verse>
+			<verse number="19" number-en="19">
+				Tous les habitants de Jérusalem l'ont appris, c'est pourquoi ce champ a été appelé dans leur langue ‘Hakeldama’, c'est-à-dire ‘le champ du sang’.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="isaiah-2-3" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Isaías 2:3" book="Isaías" title-en="Isaiah 2:3" book-en="Isaiah">
+		<chapter number="2" number-en="2">
+			<verse number="3" number-en="3">
+				Virão muitos povos e dirão: 
+				"Venham, subamos ao monte do Senhor, 
+				    ao templo do Deus de Jacó, 
+				para que ele nos ensine os seus caminhos, 
+				    e assim andemos em suas veredas". 
+				Pois, a lei sairá de Sião, 
+				    de Jerusalém virá a palavra do Senhor.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

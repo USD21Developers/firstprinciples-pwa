@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-42" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 2:42" book="Hechos" title-en="Acts 2:42" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="42" number-en="42">
+				Se mantenían firmes en la enseñanza de los apóstoles, en la comunión, en el partimiento del pan y en la oración.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

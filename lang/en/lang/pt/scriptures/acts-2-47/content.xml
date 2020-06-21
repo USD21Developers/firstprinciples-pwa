@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-47" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 2:47" book="Atos" title-en="Acts 2:47" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="47" number-en="47">
+				louvando a Deus e tendo a simpatia de todo o povo. E o Senhor lhes acrescentava diariamente os que iam sendo salvos.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

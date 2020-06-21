@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="dashboard" lang-original="en" lang-translated="fr" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			First Principles
+		</original>
+		<translated>
+			Principes Fondamentaux
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			Introduction
+		</original>
+		<translated>
+			Introduction
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Course Information
+		</original>
+		<translated>
+			Informations sur le cours
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			The Book of John
+		</original>
+		<translated>
+			Le livre de Jean
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			Seeking God
+		</original>
+		<translated>
+			Chercher Dieu
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			The Word of God
+		</original>
+		<translated>
+			La Parole de Dieu
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			Discipleship
+		</original>
+		<translated>
+			Disciple
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			The Coming of the Kingdom
+		</original>
+		<translated>
+			L’avènement du Royaume de Dieu
+		</translated>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			Light and Darkness
+		</original>
+		<translated>
+			Lumière et ténèbres
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			New Testament Conversion
+		</original>
+		<translated>
+			Conversion dans le Nouveau Testament
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			The Cross
+		</original>
+		<translated>
+			La Croix
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			The Medical Account of the Crucifixion of Christ
+		</original>
+		<translated>
+			Récit médical de la passion de Christ
+		</translated>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			Baptism with the Holy Spirit
+		</original>
+		<translated>
+			Le Baptême du Saint-Esprit
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			Miraculous Gifts of the Holy Spirit
+		</original>
+		<translated>
+			Les dons miraculeux du Saint-Esprit
+		</translated>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			The Church
+		</original>
+		<translated>
+			L’Église
+		</translated>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			The Book of Acts
+		</original>
+		<translated>
+			Sommaire des Actes des Apôtres
+		</translated>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			After Baptism, Now What?
+		</original>
+		<translated>
+			Après le baptême...
+		</translated>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			Christ Is Your Life
+		</original>
+		<translated>
+			Christ est ta Vie
+		</translated>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			Best Friends of All Time
+		</original>
+		<translated>
+			Les meilleurs amis de tous les temps
+		</translated>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			The Mission
+		</original>
+		<translated>
+			La mission
+		</translated>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			Persecution
+		</original>
+		<translated>
+			La persécution
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			Memory Scriptures
+		</original>
+		<translated>
+			Écritures à apprendre par cœur
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="false" italic="false" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+	
+</content>

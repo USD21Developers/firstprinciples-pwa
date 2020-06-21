@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="james-5-16" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Tiago 5:16" book="Tiago" title-en="James 5:16" book-en="James">
+		<chapter number="5" number-en="5">
+			<verse number="16" number-en="16">
+				Portanto, confessem os seus pecados uns aos outros e orem uns pelos outros para serem curados. A oração de um justo é poderosa e eficaz.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

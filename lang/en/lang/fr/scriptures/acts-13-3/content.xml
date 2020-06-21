@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-13-3" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 13:3" book="Actes" title-en="Acts 13:3" book-en="Acts">
+		<chapter number="13" number-en="13">
+			<verse number="3" number-en="3">
+				Alors, après avoir jeûné, prié et posé les mains sur eux, ils les laissèrent partir.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

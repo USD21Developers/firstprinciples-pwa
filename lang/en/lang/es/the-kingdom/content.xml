@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="the-kingdom" lang-original="en" lang-translated="es" last-updated="2020-04-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			The Coming of the Kingdom
+		</original>
+		<translated>
+			La Venida del Reino
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			In this study you will see the continuity of the Old and New Testaments. 
+		</original>
+		<translated>
+			En este estudio verás la continuidad del Antiguo y del Nuevo Testamento.
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Questions: What is the Kingdom of God? When did it come?
+		</original>
+		<translated>
+			Preguntas: ¿Qué es el Reino de Dios? ¿Cuándo llegó?
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Old Testament Predictions of the Kingdom (the height of Israel's glory was under the kingship of David, approximately 1000 B.C.)
+		</original>
+		<translated>
+			Predicciones acerca del Reino en el Antiguo Testamento (El momento cumbre de la gloria de Israel fue bajo el reinado de David, aproximadamente en el año 1.000 a.C.)
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Old Testament Predictions of the Kingdom
+			</original>
+			<translated>
+				Predicciones acerca del Reino en el Antiguo Testamento
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			Isaiah 2:1-4 (750 B.C.)
+		</original>
+		<translated>
+			Isaías 2:1-4 (750 a.C.)
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="isaiah-2-1-4">
+			<original>
+				Isaiah 2:1-4
+			</original>
+			<translated>
+				Isaías 2:1-4
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				(750 B.C.)
+			</original>
+			<translated>
+				(750 a.C.)
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			Last days
+		</original>
+		<translated>
+			Los últimos días.
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			Mountains (Symbolizes kingdoms): Mountain of the Lord, chief of the mountains
+		</original>
+		<translated>
+			Montes (símbolos de reinos). El monte del Señor será el monte principal.
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			All nations
+		</original>
+		<translated>
+			Todas las naciones (vendrán a él).
+		</translated>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			Jerusalem
+		</original>
+		<translated>
+			Jerusalén (lugar).
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			Daniel 2:31-45 (550 B.C.)
+		</original>
+		<translated>
+			Daniel 2:31-45 (550 a.C.)
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="daniel-2-31-45">
+			<original>
+				Daniel 2:31-45
+			</original>
+			<translated>
+				Daniel 2:31-45
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				(550 B.C.)
+			</original>
+			<translated>
+				(550 a.C.)
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			Set up this passage by explaining that earlier in Daniel 2 King Nebuchadnezzar threatens death to all his astrologers and dream interpreters if they do not first tell him his dream, then interpret it.
+		</original>
+		<translated>
+			Plantea este pasaje explicando que al principio de Daniel capítulo 2, el rey Nabucodonosor amenazó de muerte a todos sus astrólogos e intérpretes de sueños si no podían decirle primero lo que había soñado y después interpretarlo.
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			Daniel interprets King Nebuchadnezzar's dream
+		</original>
+		<translated>
+			Daniel logra interpretar el sueño del rey Nabucodonosor por el poder de Dios.
+		</translated>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			Empires
+		</original>
+		<translated>
+			Imperios:
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			Babylonian: gold
+		</original>
+		<translated>
+			Babilónico, el oro (la cabeza de oro).
+		</translated>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			Medo-Persian: silver
+		</original>
+		<translated>
+			Medo-Persa, la plata (el pecho de plata).
+		</translated>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			Alexander the Great: bronze
+		</original>
+		<translated>
+			Griego — Alejandro el Grande, el bronce (la cintura y los muslos de bronce).
+		</translated>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			Roman: iron (iron and clay)
+		</original>
+		<translated>
+			Romano, el hierro (los pies y los dedos de hierro y barro mezclados).
+		</translated>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			Rock — cut out not by human hands (therefore God)
+		</original>
+		<translated>
+			Una roca que nadie desprendió (fue Dios v.45).
+		</translated>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			Rock becomes huge mountain — filled the whole earth
+		</original>
+		<translated>
+			Una roca que se convirtió en una montaña enorme o reino que llenó toda la tierra (Evangelismo mundial v.35)
+		</translated>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			Kingdom that will never be destroyed (v. 44)
+		</original>
+		<translated>
+			Un reino que jamás será destruido, un reino eterno (v.44).
+		</translated>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			New Testament Predictions of the Kingdom
+		</original>
+		<translated>
+			Predicciones acerca del Reino en el Nuevo Testamento
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			John the Baptist (25 A.D.) 
+		</original>
+		<translated>
+			Juan el Bautista (25 d.C.)
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				25 A.D.
+			</original>
+			<translated>
+				25 d.C.
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="23" desc="">
+		<original>
+			Kingdom is near (Matthew 3:1-6)
+		</original>
+		<translated>
+			El Reino está cerca (Mateo 3:1-6).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-3-1-6">
+			<original>
+				Matthew 3:1-6
+			</original>
+			<translated>
+				Mateo 3:1-6
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="24" desc="">
+		<original>
+			Jesus (30 A.D.)
+		</original>
+		<translated>
+			Jesús (30 d.C.)
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				30 A.D.
+			</original>
+			<translated>
+				30 d.C.
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="25" desc="">
+		<original>
+			Kingdom is near (Matthew 4:17)
+		</original>
+		<translated>
+			El Reino está cerca (Mateo 4:17).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-4-17">
+			<original>
+				Matthew 4:17
+			</original>
+			<translated>
+				Mateo 4:17
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="26" desc="">
+		<original>
+			Kingdom will come in the lifetime of some of the disciples (Mark 9:1)
+		</original>
+		<translated>
+			El Reino vendrá durante el transcurso de la vida de algunos de los discípulos (Marcos 9:1).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="mark-9-1">
+			<original>
+				Mark 9:1
+			</original>
+			<translated>
+				Marcos 9:1
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="27" desc="">
+		<original>
+			Kingdom will come with power (Mark 9:1)
+		</original>
+		<translated>
+			El Reino vendrá con poder (Marcos 9:1).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="mark-9-1">
+			<original>
+				Mark 9:1
+			</original>
+			<translated>
+				Marcos 9:1
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="28" desc="">
+		<original>
+			Kingdom entered by new birth — by water and the Spirit (John 3:1-7)
+		</original>
+		<translated>
+			Un nuevo nacimiento es necesario para entrar en el Reino (Juan 3:1-7).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-3-1-7">
+			<original>
+				John 3:1-7
+			</original>
+			<translated>
+				Juan 3:1-7
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="29" desc="">
+		<original>
+			Kingdom is within you (Luke 17:20-21)
+		</original>
+		<translated>
+			El Reino está entre ustedes (Lucas 17:20-21).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="luke-17-20-21">
+			<original>
+				Luke 17:20-21
+			</original>
+			<translated>
+				Lucas 17:20-21
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="30" desc="">
+		<original>
+			Peter has the keys (Matthew 16:13-19). Church and the Kingdom are the same and will be built on the truth that Jesus is the Christ (1 Corinthians 3:11).
+		</original>
+		<translated>
+			Pedro tiene las llaves (Mateo 16:13-19). La Iglesia y el Reino son lo mismo y será construido sobre la verdad que Jesús es el Cristo (1 Corintios 3:11).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-16-13-19">
+			<original>
+				Matthew 16:13-19
+			</original>
+			<translated>
+				Mateo 16:13-19
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-3-11">
+			<original>
+				1 Corinthians 3:11
+			</original>
+			<translated>
+				1 Corintios 3:11
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="31" desc="">
+		<original>
+			Joseph of Arimathea was still waiting for the Kingdom when Jesus died. (Luke 23:50-52)
+		</original>
+		<translated>
+			José de Arimatea aún estaba esperando el Reino cuando Jesús murió (Lucas 23:50-52).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="luke-23-50-52">
+			<original>
+				Luke 23:50-52
+			</original>
+			<translated>
+				Lucas 23:50-52
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="32" desc="">
+		<original>
+			Repentance and forgiveness of sins will be preached first in Jerusalem to all nations (Luke 24:44-49).
+		</original>
+		<translated>
+			Se predicarán el arrepentimiento y el perdón de pecados a todas las naciones, comenzando por Jerusalén (Lucas 24:44-49).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="luke-24-44-49">
+			<original>
+				Luke 24:44-49
+			</original>
+			<translated>
+				Lucas 24:44-49
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="33" desc="">
+		<original>
+			Fulfillment of the Old and New Testament Predictions, Acts 1-2 (33 A.D.)
+		</original>
+		<translated>
+			Cumplimiento de las predicciones del Antiguo y del Nuevo Testamento. Lee Hechos capítulos 1 y 2 mientras vas señalando cada profecía cumplida (33 d.C.). Evidencia del cumplimiento de las profecías:
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-1-1-2-47">
+			<original>
+				Acts 1-2
+			</original>
+			<translated>
+				Hechos capítulos 1 y 2
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="34" desc="">
+		<original>
+			Last days (Acts 2:17) 
+		</original>
+		<translated>
+			Los últimos días (Hechos 2:17).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-17">
+			<original>
+				Acts 2:17
+			</original>
+			<translated>
+				Hechos 2:17
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="35" desc="">
+		<original>
+			Isaiah 2:2
+		</original>
+		<translated>
+			Isaías 2:2
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="isaiah-2-2">
+			<original>
+				Isaiah 2:2
+			</original>
+			<translated>
+				Isaías 2:2
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="36" desc="">
+		<original>
+			All nations (Acts 2:5) 
+		</original>
+		<translated>
+			Todas las naciones (Hechos 2:5).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-5">
+			<original>
+				Acts 2:5
+			</original>
+			<translated>
+				Hechos 2:5
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="37" desc="">
+		<original>
+			Isaiah 2:2
+		</original>
+		<translated>
+			Isaías 2:2
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="isaiah-2-2">
+			<original>
+				Isaiah 2:2
+			</original>
+			<translated>
+				Isaías 2:2
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="38" desc="">
+		<original>
+			Luke 24:47
+		</original>
+		<translated>
+			Lucas 24:47
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="luke-24-47">
+			<original>
+				Luke 24:47
+			</original>
+			<translated>
+				Lucas 24:47
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="39" desc="">
+		<original>
+			Jerusalem (Acts 2:5) 
+		</original>
+		<translated>
+			Jerusalén (Hechos 2:5).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-5">
+			<original>
+				Acts 2:5
+			</original>
+			<translated>
+				Hechos 2:5
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="40" desc="">
+		<original>
+			Isaiah 2:3
+		</original>
+		<translated>
+			Isaías 2:3
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="isaiah-2-3">
+			<original>
+				Isaiah 2:3
+			</original>
+			<translated>
+				Isaías 2:3
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="41" desc="">
+		<original>
+			Luke 24:44-49
+		</original>
+		<translated>
+			Lucas 24:44-49
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="luke-24-44-49">
+			<original>
+				Luke 24:44-49
+			</original>
+			<translated>
+				Lucas 24:44-49
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="42" desc="">
+		<original>
+			Eternal kingdom (Acts 2:37-42) 
+		</original>
+		<translated>
+			Un reino eterno (Hechos 2:37-42).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-37-42">
+			<original>
+				Acts 2:37-42
+			</original>
+			<translated>
+				Hechos 2:37-42
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="43" desc="">
+		<original>
+			Daniel 2:31-45
+		</original>
+		<translated>
+			Daniel 2:31-45
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="daniel-2-31-45">
+			<original>
+				Daniel 2:31-45
+			</original>
+			<translated>
+				Daniel 2:31-45
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="44" desc="">
+		<original>
+			Date of coming approximately 33 A.D. (Acts 1-2) 
+		</original>
+		<translated>
+			Fecha aproximada de la llegada del Reino: 33 d.C. (Hechos 1-2).
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				33 A.D.
+			</original>
+			<translated>
+				33 d.C.
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-1-1-2-47">
+			<original>
+				Acts 1-2
+			</original>
+			<translated>
+				Hechos 1-2
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="45" desc="">
+		<original>
+			Old Testament prophecy
+		</original>
+		<translated>
+			La profecía del Antiguo Testamento.
+		</translated>
+	</phrase>
+
+	<phrase id="46" desc="">
+		<original>
+			John the Baptist — "is near" (Matthew 3:1-2)
+		</original>
+		<translated>
+			Juan el Bautista: “Está cerca” (Mateo 3:1-2).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-3-1-2">
+			<original>
+				Matthew 3:1-2
+			</original>
+			<translated>
+				Mateo 3:1-2
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="47" desc="">
+		<original>
+			Jesus — "is near" (Matthew 4:17)
+		</original>
+		<translated>
+			Jesús: “Está cerca” (Mateo 4:17).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-4-17">
+			<original>
+				Matthew 4:17
+			</original>
+			<translated>
+				Mateo 4:17
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="48" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			Durante la vida de algunos discípulos (Hechos 2:14).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-14">
+			<original>
+				
+			</original>
+			<translated>
+				Hechos 2:14
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="49" desc="">
+		<original>
+			Mark 9:1
+		</original>
+		<translated>
+			Marcos 9:1
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="mark-9-1">
+			<original>
+				Mark 9:1
+			</original>
+			<translated>
+				Marcos 9:1
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="50" desc="">
+		<original>
+			"Some" — Judas died (Acts 1:18-19)
+		</original>
+		<translated>
+			“Algunos” ─ Judas murió (Hechos 1:18-19).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-1-18-19">
+			<original>
+				Acts 1:18-19
+			</original>
+			<translated>
+				Hechos 1:18-19
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="51" desc="">
+		<original>
+			Power (Acts 1:8, Acts 2:1-4) 
+		</original>
+		<translated>
+			Poder (Hechos 1:8, Hechos 2:1-4).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-1-8">
+			<original>
+				Acts 1:8
+			</original>
+			<translated>
+				Hechos 1:8
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-1-4">
+			<original>
+				Acts 2:1-4
+			</original>
+			<translated>
+				Hechos 2:1-4
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="52" desc="">
+		<original>
+			Mark 9:1
+		</original>
+		<translated>
+			Marcos 9:1
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="mark-9-1">
+			<original>
+				Mark 9:1
+			</original>
+			<translated>
+				Marcos 9:1
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="53" desc="">
+		<original>
+			New birth (Acts 2:38)
+		</original>
+		<translated>
+			Nuevo Nacimiento (Hechos 2:38).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
+			<original>
+				Acts 2:38
+			</original>
+			<translated>
+				Hechos 2:38
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="54" desc="">
+		<original>
+			Water and Spirit (John 3:1-7)
+		</original>
+		<translated>
+			Agua y Espíritu (Juan 3:1-7).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-3-1-7">
+			<original>
+				John 3:1-7
+			</original>
+			<translated>
+				Juan 3:1-7
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="55" desc="">
+		<original>
+			Kingdom within (Acts 2:37) 
+		</original>
+		<translated>
+			Reino dentro de ustedes (Hechos 2:37).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-37">
+			<original>
+				Acts 2:37
+			</original>
+			<translated>
+				Hechos 2:37
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="56" desc="">
+		<original>
+			Luke 17:20-21
+		</original>
+		<translated>
+			Lucas 17:20-21
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="luke-17-20-21">
+			<original>
+				Luke 17:20-21
+			</original>
+			<translated>
+				Lucas 17:20-21
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="57" desc="">
+		<original>
+			Peter with the keys (Acts 2:14, Acts 2:38) 
+		</original>
+		<translated>
+			Pedro con las llaves (Hechos 2:14, 38).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-14">
+			<original>
+				Acts 2:14
+			</original>
+			<translated>
+				Hechos 2:14
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
+			<original>
+				Acts 2:38
+			</original>
+			<translated>
+				38
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="58" desc="">
+		<original>
+			Matthew 16:19
+		</original>
+		<translated>
+			Mateo 16:19
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-16-19">
+			<original>
+				Matthew 16:19
+			</original>
+			<translated>
+				Mateo 16:19
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="59" desc="">
+		<original>
+			Repentance and forgiveness of sin (Acts 2:38) 
+		</original>
+		<translated>
+			El arrepentimiento y el perdón de pecados (Hechos 2:38).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
+			<original>
+				Acts 2:38
+			</original>
+			<translated>
+				Hechos 2:38
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="60" desc="">
+		<original>
+			Luke 24:44-49
+		</original>
+		<translated>
+			Lucas 24:44-49
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="luke-24-44-49">
+			<original>
+				Luke 24:44-49
+			</original>
+			<translated>
+				Lucas 24:44-49
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="61" desc="">
+		<original>
+			Conclusion
+		</original>
+		<translated>
+			Conclusión.
+		</translated>
+	</phrase>
+
+	<phrase id="62" desc="">
+		<original>
+			The church is the Kingdom of God on earth, established in approximately 33 A.D.
+		</original>
+		<translated>
+			La iglesia es el Reino de Dios en la tierra, establecido aproximadamente en el año 33 d.C.
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				33 A.D.
+			</original>
+			<translated>
+				33 d.C.
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="63" desc="">
+		<original>
+			Acts 2:42: As citizens of the Kingdom and members of the body (the church), we must be devoted to:
+		</original>
+		<translated>
+			Hechos 2:42. Como ciudadanos del Reino y miembros del cuerpo (la iglesia) debemos estar dedicados a:
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-42">
+			<original>
+				Acts 2:42
+			</original>
+			<translated>
+				Hechos 2:42
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="64" desc="">
+		<original>
+			Doctrine
+		</original>
+		<translated>
+			La doctrina (la enseñanza de los apóstoles).
+		</translated>
+	</phrase>
+
+	<phrase id="65" desc="">
+		<original>
+			Fellowship
+		</original>
+		<translated>
+			La comunión (la confraternidad, los servicios y las reuniones).
+		</translated>
+	</phrase>
+
+	<phrase id="66" desc="">
+		<original>
+			Breaking Bread
+		</original>
+		<translated>
+			El partimiento del pan (santa cena).
+		</translated>
+	</phrase>
+
+	<phrase id="67" desc="">
+		<original>
+			Prayer
+		</original>
+		<translated>
+			La oración.
+		</translated>
+	</phrase>
+
+	<phrase id="68" desc="">
+		<original>
+			Matthew 6:33: We must seek His Kingdom first. Ask them to commit themselves to at least Sunday services and Midweek services.
+		</original>
+		<translated>
+			Mateo 6:33. Debes buscar primeramente el Reino de Dios. Como ciudadanos del Reino debemos comprometernos a asistir a todos los servicios del Domingo, a las reuniones de entre semana, charlas bíblicas y devocionales especiales.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-6-33">
+			<original>
+				Matthew 6:33
+			</original>
+			<translated>
+				Mateo 6:33
+			</translated>
+		</change>
+	</phrase>
+	
+	<!--
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	-->
+
+</content>

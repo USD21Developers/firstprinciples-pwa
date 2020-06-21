@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-3-18-21" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Colossenses 3:18-21" book="Colossenses" title-en="Colossians 3:18-21" book-en="Colossians">
+		<chapter number="3" number-en="3">
+			<verse number="18" number-en="18">
+				Mulheres, sujeitem-se a seus maridos, como convém a quem está no Senhor.
+			</verse>
+			<verse number="19" number-en="19">
+				Maridos, amem suas mulheres e não as tratem com amargura.
+			</verse>
+			<verse number="20" number-en="20">
+				Filhos, obedeçam a seus pais em tudo, pois isso agrada ao Senhor.
+			</verse>
+			<verse number="21" number-en="21">
+				Pais, não irritem seus filhos, para que eles não se desanimem.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

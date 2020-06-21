@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-7-12-13" lang="fr" version="SG21" edition="2007">
+	<passage title="Jean 7:12-13" book="Jean" title-en="John 7:12-13" book-en="John">
+		<chapter number="7" number-en="7">
+			<verse number="12" number-en="12">
+				Dans la foule, on murmurait beaucoup à son sujet. Les uns disaient: «C'est un homme bien.» D'autres disaient: «Non, au contraire, il égare le peuple.» 
+			</verse>
+			<verse number="13" number-en="13">
+				Personne, toutefois, ne parlait ouvertement de lui, par crainte des chefs juifs.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

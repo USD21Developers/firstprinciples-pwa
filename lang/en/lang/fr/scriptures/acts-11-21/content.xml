@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-11-21" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 11:21" book="Actes" title-en="Acts 11:21" book-en="Acts">
+		<chapter number="11" number-en="11">
+			<verse number="21" number-en="21">
+				La main du Seigneur était avec eux et un grand nombre de personnes crurent et se tournèrent vers le Seigneur.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="romans-8-9-rsv" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Romanos 8:9" book="Romanos" title-en="Romans 8:9" book-en="Romans">
+		<chapter number="8" number-en="8">
+			<verse number="9" number-en="9">
+				Entretanto, vocês não estão sob o domínio da carne, mas do Espírito, se de fato o Espírito de Deus habita em vocês. E, se alguém não tem o Espírito de Cristo, não pertence a Cristo.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

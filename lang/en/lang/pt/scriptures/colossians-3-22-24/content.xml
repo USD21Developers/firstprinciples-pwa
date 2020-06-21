@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-3-22-24" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Colossenses 3:22-24" book="Colossenses" title-en="Colossians 3:22-24" book-en="Colossians">
+		<chapter number="3" number-en="3">
+			<verse number="22" number-en="22">
+				Escravos, obedeçam em tudo a seus senhores terrenos, não somente para agradar os homens quando eles estão observando, mas com sinceridade de coração, pelo fato de vocês temerem ao Senhor.
+			</verse>
+			<verse number="23" number-en="23">
+				Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens,
+			</verse>
+			<verse number="24" number-en="24">
+				sabendo que receberão do Senhor a recompensa da herança. É a Cristo, o Senhor, que vocês estão servindo.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

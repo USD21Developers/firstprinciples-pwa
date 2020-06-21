@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-3-1-6" lang="es" version="nvi" edition="2015">
+	<passage title="Mateo 3:1-6" book="Mateo" title-en="Matthew 3:1-6" book-en="Matthew">
+		<chapter number="3" number-en="3">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					Juan el Bautista prepara el camino
+				</p>
+				En aquellos días se presentó Juan el Bautista predicando en el desierto de Judea. 
+			</verse>
+			<verse number="2" number-en="2">
+				Decía: «Arrepiéntanse, porque el reino de los cielos está cerca».
+			</verse>
+			<verse number="3" number-en="3" scripturequote="true">
+				Juan era aquel de quien había escrito el profeta Isaías:
+				<br />
+				<br /><span class="scripturequote">«Voz de uno que grita en el desierto:
+				<br />“Preparen el camino para el Señor,
+					<br />háganle sendas derechas”».</span>
+			</verse>
+			<verse number="4" number-en="4">
+				La ropa de Juan estaba hecha de pelo de camello. Llevaba puesto un cinturón de cuero y se alimentaba de langostas y miel silvestre.
+			</verse>
+			<verse number="5" number-en="5">
+				Acudía a él la gente de Jerusalén, de toda Judea y de toda la región del Jordán. 
+			</verse>
+			<verse number="6" number-en="6">
+				Cuando confesaban sus pecados, él los bautizaba en el río Jordán.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-10-23" lang="fr" version="SG21" edition="2007">
+	<passage title="Hébreux 10:23" book="Hébreux" title-en="Hebrews 10:23" book-en="Hebrews">
+		<chapter number="10" number-en="10">
+			<verse number="23" number-en="23">
+				<p class="scripture-heading">
+					Persévérer dans l’espérance
+				</p>
+				Retenons fermement l'espérance que nous proclamons, car celui qui a fait la promesse est fidèle.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

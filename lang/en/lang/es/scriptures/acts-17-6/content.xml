@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-17-6" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 17:6" book="Hechos" title-en="Acts 17:6" book-en="Acts">
+		<chapter number="17" number-en="17">
+			<verse number="6" number-en="6">
+				Pero, como no los encontraron, arrastraron a Jasón y a algunos otros hermanos ante las autoridades de la ciudad, gritando: «¡Estos que han trastornado el mundo entero han venido también acá,
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

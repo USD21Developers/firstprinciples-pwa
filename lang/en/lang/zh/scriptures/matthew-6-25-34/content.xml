@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-6-25-34" lang="zh" version="cnvs" edition="2001">
+	<passage title="马太福音 6:25-34" book="马太福音" title-en="Matthew 6:25-34" book-en="Matthew">
+		<chapter number="6" number-en="6">
+			<verse number="25" number-en="25" jesuswords="true">
+				<span class="jesuswords">所以我告诉你们，不要为生命忧虑吃甚么喝甚么，也不要为身体忧虑穿甚么。难道生命不比食物重要吗？身体不比衣服重要吗？</span>
+			</verse>
+			<verse number="26" number-en="26" jesuswords="true">
+				<span class="jesuswords">你们看天空的飞鸟:牠们不撒种，不收割，也不收进仓里，你们的天父尚且养活牠们；难道你们不比牠们更宝贵吗？</span>
+			</verse>
+			<verse number="27" number-en="27" jesuswords="true">
+				<span class="jesuswords">你们中间谁能用忧虑使自己的寿命延长一刻呢？</span>
+			</verse>
+			<verse number="28" number-en="28" jesuswords="true">
+				<span class="jesuswords">何必为衣服忧虑呢？试想田野的百合花怎样生长，它们不劳苦，也不纺织。</span>
+			</verse>
+			<verse number="29" number-en="29" jesuswords="true">
+				<span class="jesuswords">但我告诉你们，就是所罗门最威荣的时候所穿的，也比不上这花中的一朵。</span>
+			</verse>
+			<verse number="30" number-en="30" jesuswords="true">
+				<span class="jesuswords">田野的草，今天还在，明天就投进炉里，　神尚且这样妆扮它们；小信的人哪，何况你们呢？ </span>
+			</verse>
+			<verse number="31" number-en="31" jesuswords="true">
+				<span class="jesuswords">所以不要忧虑，说:‘我们该吃甚么？喝甚么？穿甚么？’</span>
+			</verse>
+			<verse number="32" number-en="32" jesuswords="true">
+				<span class="jesuswords">这些都是教外人所寻求的，你们的天父原知道你们需要这一切。</span>
+			</verse>
+			<verse number="33" number-en="33" jesuswords="true">
+				<span class="jesuswords">你们要先求他的国和他的义，这一切都必加给你们。</span>
+			</verse>
+			<verse number="34" number-en="34" jesuswords="true">
+				<span class="jesuswords">所以不要为明天忧虑，因为明天自有明天的忧虑，一天的难处一天当就够了。</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

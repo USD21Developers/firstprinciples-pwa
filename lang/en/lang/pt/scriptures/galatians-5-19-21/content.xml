@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="galatians-5-19-21" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Gálatas 5:19-21" book="Gálatas" title-en="Galatians 5:19-21" book-en="Galatians">
+		<chapter number="5" number-en="5">
+			<verse number="19" number-en="19">
+				Ora, as obras da carne são manifestas: imoralidade sexual, impureza e libertinagem;
+			</verse>
+			<verse number="20" number-en="20">
+				idolatria e feitiçaria; ódio, discórdia, ciúmes, ira, egoísmo, dissensões, facções
+			</verse>
+			<verse number="21" number-en="21">
+				e inveja; embriaguez, orgias e coisas semelhantes. Eu os advirto, como antes já os adverti, que os que praticam essas coisas não herdarão o Reino de Deus.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

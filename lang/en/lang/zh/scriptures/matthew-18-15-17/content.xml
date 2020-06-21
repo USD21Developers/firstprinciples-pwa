@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-18-15-17" lang="zh" version="cnvs" edition="2001">
+	<passage title="马太福音 18:15-17" book="马太福音" title-en="Matthew 18:15-17" book-en="Matthew">
+		<chapter number="18" number-en="18">
+			<verse number="15" number-en="15" jesuswords="true">
+				<span class="jesuswords">如果你的弟兄犯了罪，你趁着和他单独在一起的时候，要去指出他的过失来。如果他肯听，你就得着你的弟兄。</span>
+			</verse>
+			<verse number="16" number-en="16" jesuswords="true" scripturequote="true">
+				<span class="jesuswords">
+					如果他不肯听，就另外带一两个人同去，
+					<span class="scripturequote">
+						好使一切话，凭两三个证人的口，可以确定。
+					</span>
+				</span>
+			</verse>
+			<verse number="17" number-en="17" jesuswords="true">
+				<span class="jesuswords">如果他再不听，就告诉教会；如果连教会他也不听，就把他看作教外人和税吏吧。</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

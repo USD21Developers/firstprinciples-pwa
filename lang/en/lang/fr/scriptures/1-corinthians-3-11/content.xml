@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-3-11" lang="fr" version="SG21" edition="2007">
+	<passage title="1 Corinthiens 3:11" book="1 Corinthiens" title-en="1 Corinthians 3:11" book-en="1 Corinthians">
+		<chapter number="3" number-en="3">
+			<verse number="11" number-en="11">
+				car personne ne peut poser un autre fondement que celui qui a été posé, à savoir Jésus-Christ.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

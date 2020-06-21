@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="isaiah-59-1-2" lang="fr" version="SG21" edition="2007">
+	<passage title="Ésaïe 59:1-2" book="Ésaïe" title-en="Isaiah 59:1-2" book-en="Isaiah">
+		<chapter number="59" number-en="59">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					Crimes et jugement de Juda
+				</p>
+				Non, le bras de l'Eternel n'est pas devenu trop court pour sauver, ni son oreille trop dure pour entendre,
+			</verse>
+			<verse number="2" number-en="2">
+				mais ce sont vos fautes qui ont fait séparation entre vous et votre Dieu, ce sont vos péchés qui vous l’ont caché et l'ont empêché de vous écouter.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

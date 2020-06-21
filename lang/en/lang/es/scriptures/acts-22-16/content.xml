@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-22-16" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 22:16" book="Hechos" title-en="Acts 22:16" book-en="Acts">
+		<chapter number="22" number-en="22">
+			<verse number="16" number-en="16">
+				Y ahora, ¿qué esperas? Levántate, bautízate y lávate de tus pecados, invocando su nombre”.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

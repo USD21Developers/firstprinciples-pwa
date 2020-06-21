@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-47" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 2:47" book="Hechos" title-en="Acts 2:47" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="47" number-en="47">
+				alabando a Dios y disfrutando de la estimación general del pueblo. Y cada día el Señor añadía al grupo los que iban siendo salvos.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

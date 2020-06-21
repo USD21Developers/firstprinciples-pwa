@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-12-51-53" lang="zh" version="cnvs" edition="2001">
+	<passage title="路加福音 12:51-53" book="路加福音" title-en="Luke 12:51-53" book-en="Luke">
+		<chapter number="12" number-en="12">
+			<verse number="51" number-en="51" jesuswords="true">
+				<span class="jesuswords">你们以为我来是要地上有和平吗？不是的，我告诉你们，是要有纷争。</span>
+			</verse>
+			<verse number="52" number-en="52" jesuswords="true">
+				<span class="jesuswords">从今以后，一家五口将起纷争，三个反对两个，两个反对三个。</span>
+			</verse>
+			<verse number="53" number-en="53" jesuswords="true">
+				<span class="jesuswords">
+					他们将起纷争:
+					父亲反对儿子，
+					儿子反对父亲，
+					母亲反对女儿，
+					女儿反对母亲，
+					婆婆反对媳妇，
+					媳妇反对婆婆。
+				</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

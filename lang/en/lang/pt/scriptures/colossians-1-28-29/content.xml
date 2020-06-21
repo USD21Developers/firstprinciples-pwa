@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-1-28-29" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Colossenses 1:28-29" book="Colossenses" title-en="Colossians 1:28-29" book-en="Colossians">
+		<chapter number="1" number-en="1">
+			<verse number="28" number-en="28">
+				Nós o proclamamos, advertindo e ensinando a cada um com toda a sabedoria, para que apresentemos todo homem perfeito em Cristo.
+			</verse>
+			<verse number="29" number-en="29">
+				Para isso eu me esforço, lutando conforme a sua força, que atua poderosamente em mim.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

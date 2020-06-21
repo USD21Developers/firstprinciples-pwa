@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="ephesians-2-8" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Efésios 2:8" book="Efésios" title-en="Ephesians 2:8" book-en="Ephesians">
+		<chapter number="2" number-en="2">
+			<verse number="8" number-en="8">
+				Pois vocês são salvos pela graça, por meio da fé, e isto não vem de vocês, é dom de Deus;
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

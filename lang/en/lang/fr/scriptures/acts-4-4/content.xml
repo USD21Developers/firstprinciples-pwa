@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-4-4" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 4:4" book="Actes" title-en="Acts 4:4" book-en="Acts">
+		<chapter number="4" number-en="4">
+			<verse number="4" number-en="4">
+				Cependant, beaucoup de ceux qui avaient entendu la parole crurent, ce qui porta le nombre des hommes à 5000 environ.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

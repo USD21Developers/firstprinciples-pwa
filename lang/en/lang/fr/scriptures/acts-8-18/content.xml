@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-8-18" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 8:18" book="Actes" title-en="Acts 8:18" book-en="Acts">
+		<chapter number="8" number-en="8">
+			<verse number="18" number-en="18">
+				Voyant que l’Esprit [saint] était donné lorsque les apôtres posaient les mains sur les gens, Simon leur offrit de l'argent
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

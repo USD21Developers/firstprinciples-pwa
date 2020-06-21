@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-9-17-18" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 9:17-18" book="Actes" title-en="Acts 9:17-18" book-en="Acts">
+		<chapter number="9" number-en="9">
+			<verse number="17" number-en="17">
+				Ananias partit. Une fois entré dans la maison, il posa les mains sur Saul en disant: «Saul mon frère, le Seigneur, [le Jésus] qui t'est apparu sur le chemin par lequel tu venais, m'a envoyé pour que tu retrouves la vue et que tu sois rempli du Saint-Esprit.»
+			</verse>
+			<verse number="18" number-en="18">
+				Aussitôt il tomba comme des écailles de ses yeux et il retrouva la vue. Il se leva et fut baptisé;
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

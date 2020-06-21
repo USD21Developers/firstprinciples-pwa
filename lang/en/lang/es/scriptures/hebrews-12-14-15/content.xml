@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-12-14-15" lang="es" version="nvi" edition="2015">
+	<passage title="Hebreos 12:14-15" book="Hebreos" title-en="Hebrews 12:14-15" book-en="Hebrews">
+		<chapter number="12" number-en="12">
+			<verse number="14" number-en="14">
+				<p class="scripture-heading">
+					Advertencia a los que rechazan a Dios
+				</p>
+				Busquen la paz con todos, y la santidad, sin la cual nadie verá al Señor.
+			</verse>
+			<verse number="15" number-en="15">
+				Asegúrense de que nadie deje de alcanzar la gracia de Dios; de que ninguna raíz amarga brote y cause dificultades y corrompa a muchos;
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

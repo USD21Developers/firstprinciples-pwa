@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-4-12-13" lang="fr" version="SG21" edition="2007">
+	<passage title="Hébreux 4:12-13" book="Hébreux" title-en="Hebrews 4:12-13" book-en="Hebrews">
+		<chapter number="4" number-en="4">
+			<verse number="12" number-en="12">
+				En effet, la parole de Dieu est vivante et efficace, plus tranchante que toute épée à deux tranchants, pénétrante jusqu’à séparer âme et esprit, jointures et moelles; elle juge les sentiments et les pensées du cœur.
+			</verse>
+			<verse number="13" number-en="13">
+				Aucune créature n’est cachée devant lui: tout est nu et découvert aux yeux de celui à qui nous devons rendre compte.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

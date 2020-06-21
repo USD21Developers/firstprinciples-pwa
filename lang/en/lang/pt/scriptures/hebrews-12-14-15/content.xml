@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-12-14-15" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Hebreus 12:14-15" book="Hebreus" title-en="Hebrews 12:14-15" book-en="Hebrews">
+		<chapter number="12" number-en="12">
+			<verse number="14" number-en="14">
+				Esforcem-se para viver em paz com todos e para serem santos; sem santidade ninguém verá o Senhor.
+			</verse>
+			<verse number="15" number-en="15">
+				Cuidem que ninguém se exclua da graça de Deus. Que nenhuma raiz de amargura brote e cause perturbação, contaminando a muitos.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

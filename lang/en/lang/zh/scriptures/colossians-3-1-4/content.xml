@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-3-1-4" lang="zh" version="cnvs" edition="2001">
+	<passage title="歌罗西书 3:1-4" book="歌罗西书" title-en="Colossians 3:1-4" book-en="Colossians">
+		<chapter number="3" number-en="3">
+			<verse number="1" number-en="1">
+				所以，你们既然与基督一同复活，就应当寻求天上的事，那里有基督坐在　神的右边。
+			</verse>
+			<verse number="2" number-en="2">
+				你们要思念的，是天上的事，不是地上的事。
+			</verse>
+			<verse number="3" number-en="3">
+				因为你们已经死了，你们的生命与基督一同隐藏在　神里面。
+			</verse>
+			<verse number="4" number-en="4">
+				基督就是你们的生命，他显现的时候，你们也要和他一同在荣耀里显现。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

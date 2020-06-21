@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-14-20-22" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="1 Coríntios 14:20-22" book="1 Coríntios" title-en="1 Corinthians 14:20-22" book-en="1 Corinthians">
+		<chapter number="14" number-en="14">
+			<verse number="20" number-en="20">
+				Irmãos, deixem de pensar como crianças. Com respeito ao mal, sejam crianças; mas, quanto ao modo de pensar, sejam adultos.
+			</verse>
+			<verse number="21" number-en="21" scripturequote="true">
+				Pois está escrito na Lei:
+
+				<span class="scripturequote">“Por meio de homens
+				    de outras línguas
+				e por meio de lábios
+				    de estrangeiros
+				falarei a este povo,
+				mas, mesmo assim,
+				    eles não me ouvirão”,
+				diz o Senhor.</span>
+			</verse>
+			<verse number="22" number-en="22">
+				Portanto, as línguas são um sinal para os descrentes, e não para os que crêem; a profecia, porém, é para os que crêem, não para os descrentes.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

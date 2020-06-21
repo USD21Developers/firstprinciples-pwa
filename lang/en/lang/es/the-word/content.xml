@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="the-word" lang-original="en" lang-translated="es" last-updated="2020-02-15" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			The Word of God
+		</original>
+		<translated>
+			La Palabra de Dios
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			2 Timothy 3:16-17
+		</original>
+		<translated>
+			2 Timoteo 3:16-17
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="2-timothy-3-16-17">
+			<original>
+				2 Timothy 3:16-17
+			</original>
+			<translated>
+				2 Timoteo 3:16-17
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			All Scripture is inspired by God
+		</original>
+		<translated>
+			Toda la Escritura es inspirada por Dios.
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			It is to be applied to our lives
+		</original>
+		<translated>
+			Debe ser aplicada a nuestras vidas.
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			Hebrews 4:12-13
+		</original>
+		<translated>
+			Hebreos 4:12-13
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-4-12-13">
+			<original>
+				Hebrews 4:12-13
+			</original>
+			<translated>
+				Hebreos 4:12-13
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			The Word is relevant
+		</original>
+		<translated>
+			La Palabra es aplicable.
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			The Word cuts (hurts)
+		</original>
+		<translated>
+			La Palabra corta (hiere).
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			Learn that it is good to be "cut," because a scalpel (God's Word) "cuts" the cancer (sin) out!
+		</original>
+		<translated>
+			Es bueno ser “cortado”, porque así como un bisturí “corta” el cáncer, la Palabra de Dios “corta” el pecado.
+		</translated>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			2 Peter 1:20-21
+		</original>
+		<translated>
+			2 Pedro 1:20-21
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="2-peter-1-20-21">
+			<original>
+				2 Peter 1:20-21
+			</original>
+			<translated>
+				2 Pedro 1:20-21
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			There is no private interpretation of the Bible
+		</original>
+		<translated>
+			No hay una interpretación privada de la Biblia.
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			The Holy Spirit inspired the men who wrote the books of the Bible
+		</original>
+		<translated>
+			El Espíritu Santo inspiró a los hombres que escribieron los libros de la Biblia.
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			John 8:31-32
+		</original>
+		<translated>
+			Juan 8:31-32
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-8-31-32">
+			<original>
+				John 8:31-32
+			</original>
+			<translated>
+				Juan 8:31-32
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			Intellectual belief is not enough — nor can we go by our feelings
+		</original>
+		<translated>
+			El hecho de creer intelectualmente no es suficiente. Tampoco podemos ser guiados por nuestros sentimientos.
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			Everyone must hold on to and follow the teachings of Jesus to be a true disciple
+		</original>
+		<translated>
+			Todos debemos obedecer y seguir las enseñanzas de Jesús para ser verdaderos discípulos.
+		</translated>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			Sincerity does not equal truth
+		</original>
+		<translated>
+			La sinceridad no equivale a la verdad.
+		</translated>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			Religious people can be wrong
+		</original>
+		<translated>
+			La gente religiosa puede estar equivocada.
+		</translated>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			Matthew 15:1-9
+		</original>
+		<translated>
+			Mateo 15:1-9
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-15-1-9">
+			<original>
+				Matthew 15:1-9
+			</original>
+			<translated>
+				Mateo 15:1-9
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			Do not go by traditions or creeds
+		</original>
+		<translated>
+			No te guíes por tradiciones o credos.
+		</translated>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			Worship by traditions — those which contradict the Word of God — is worship in vain
+		</original>
+		<translated>
+			Adorar por tradiciones, las cuales contradicen la Palabra de Dios, es adorar en vano.
+		</translated>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			1 Timothy 4:16
+		</original>
+		<translated>
+			1 Timoteo 4:16
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-timothy-4-16">
+			<original>
+				1 Timothy 4:16
+			</original>
+			<translated>
+				1 Timoteo 4:16
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			Watch your life and doctrine closely — they are inseparable
+		</original>
+		<translated>
+			Cuida tu manera de vivir y tu doctrina. ¡Estás son inseparables!
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			Which is more important: life or doctrine? Neither — an airplane with only one wing cannot fly
+		</original>
+		<translated>
+			Qué es más importante: ¿La vida o la doctrina? ¡Ambas son igual de importantes! Un avión con sólo un ala no puede volar.
+		</translated>
+	</phrase>
+
+	<phrase id="23" desc="">
+		<original>
+			Why is it so important to learn and to teach and to live the right doctrine? To save yourself and those who hear you.
+		</original>
+		<translated>
+			¿Por qué es importante aprender, enseñar y vivir la doctrina correcta? Porque así te salvarás a ti mismo y a los que te escuchen.
+		</translated>
+	</phrase>
+
+	<phrase id="24" desc="">
+		<original>
+			Acts 17:10-12
+		</original>
+		<translated>
+			Hechos 17:10-12
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-17-10-12">
+			<original>
+				Acts 17:10-12
+			</original>
+			<translated>
+				Hechos 17:10-12
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="25" desc="">
+		<original>
+			A noble character in God's eyes: great eagerness in receiving the message; examine Scriptures; daily; and believe — make decisions based on the Scriptures.
+		</original>
+		<translated>
+			Un carácter noble ante Dios es: Recibir el mensaje con avidez, examinar las Escrituras todos los días y tomar decisiones basadas en la Palabra.
+		</translated>
+	</phrase>
+
+	<phrase id="26" desc="">
+		<original>
+			Must check what religious leaders say
+		</original>
+		<translated>
+			Debemos verificar con las Escrituras lo que enseñan los líderes religiosos.
+		</translated>
+	</phrase>
+
+	<phrase id="27" desc="">
+		<original>
+			Your challenge: Read and study the Bible every day!
+		</original>
+		<translated>
+			Tu desafío: Leer y estudiar la Biblia todos los días.
+		</translated>
+	</phrase>
+
+	<phrase id="28" desc="">
+		<original>
+			James 1:22-25
+		</original>
+		<translated>
+			Santiago 1:22-25
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="james-1-22-25">
+			<original>
+				James 1:22-25
+			</original>
+			<translated>
+				Santiago 1:22-25
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="29" desc="">
+		<original>
+			The Word of God is a mirror
+		</original>
+		<translated>
+			La Palabra de Dios es un espejo.
+		</translated>
+	</phrase>
+
+	<phrase id="30" desc="">
+		<original>
+			Do not forget what you see — "do what it says"
+		</original>
+		<translated>
+			No te olvides de lo que ves. ¡Haz lo que la Biblia dice!
+		</translated>
+	</phrase>
+
+	<phrase id="31" desc="">
+		<original>
+			John 12:48
+		</original>
+		<translated>
+			Juan 12:48
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-12-48">
+			<original>
+				John 12:48
+			</original>
+			<translated>
+				Juan 12:48
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="32" desc="">
+		<original>
+			Why study the Bible? The Word will judge us
+		</original>
+		<translated>
+			¿Por qué estudiar la Biblia? ¡Porque la Palabra nos juzgará!
+		</translated>
+	</phrase>
+
+	<phrase id="33" desc="">
+		<original>
+			Decision: Will I live by the Bible? Or will I live by my feelings, traditions, desires, etc.?
+		</original>
+		<translated>
+			Decisión: ¿Estás dispuesto a vivir por la Biblia y no por tus sentimientos, tradiciones, deseos, etc.?
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Decision: Will I live by the Bible? Or will I live by my feelings, traditions, desires, etc.?
+			</original>
+			<translated>
+				Decisión: ¿Estás dispuesto a vivir por la Biblia y no por tus sentimientos, tradiciones, deseos, etc.?
+			</translated>
+		</change>
+	</phrase>
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

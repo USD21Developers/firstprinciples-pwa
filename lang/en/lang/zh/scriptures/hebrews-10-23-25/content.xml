@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-10-23-25" lang="zh" version="cnvs" edition="2001">
+	<passage title="希伯来书 10:23-25" book="希伯来书" title-en="Hebrews 10:23-25" book-en="Hebrews">
+		<chapter number="10" number-en="10">
+			<verse number="23" number-en="23">
+				又应该坚持我们所宣认的盼望，毫不动摇，因为那应许我们的是信实的。
+			</verse>
+			<verse number="24" number-en="24">
+				我们又应该彼此关心，激发爱心，勉励行善。
+			</verse>
+			<verse number="25" number-en="25">
+				我们不可放弃聚会，好象有些人的习惯一样；却要互相劝勉。你们既然知道那日子临近，就更应该这样。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

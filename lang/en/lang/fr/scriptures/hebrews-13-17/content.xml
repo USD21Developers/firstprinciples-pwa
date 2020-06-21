@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-13-17" lang="fr" version="SG21" edition="2007">
+	<passage title="Hébreux 13:17" book="Hébreux" title-en="Hebrews 13:17" book-en="Hebrews">
+		<chapter number="13" number-en="13">
+			<verse number="17" number-en="17">
+				Obéissez à vos conducteurs et soumettez-vous à eux, car ils veillent sur votre âme en hommes qui devront rendre des comptes. Ils pourront ainsi le faire avec joie et non en soupirant, ce qui ne vous serait d'aucun avantage.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

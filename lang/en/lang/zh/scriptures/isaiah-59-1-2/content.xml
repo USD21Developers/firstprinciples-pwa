@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="isaiah-59-1-2" lang="zh" version="cnvs" edition="2001">
+	<passage title="以赛亚书 59:1-2" book="以赛亚书" title-en="Isaiah 59:1-2" book-en="Isaiah">
+		<chapter number="59" number-en="59">
+			<verse number="1" number-en="1">
+				看哪！耶和华的手不是缩短了，
+以致不能拯救；
+他的耳朵不是不灵，
+不能听见；
+			</verse>
+			<verse number="2" number-en="2">
+				而是你们的罪孽使你们与你们的　神隔绝；
+你们的罪恶使他掩面不顾你们，不听你们的祷告。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

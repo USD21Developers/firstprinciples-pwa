@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-9-1-22" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 9:1-22" book="Actes" title-en="Acts 9:1-22" book-en="Acts">
+		<chapter number="9" number-en="9">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					Conversion de Saul
+				</p>
+				Quant à Saul, il respirait toujours la menace et le meurtre contre les disciples du Seigneur. Il se rendit chez le grand-prêtre
+			</verse>
+			<verse number="2" number-en="2">
+				et lui demanda des lettres pour les synagogues de Damas afin de pouvoir arrêter et amener à Jérusalem les partisans de cet enseignement qu'il trouverait, hommes ou femmes.
+			</verse>
+			<verse number="3" number-en="3">
+				Comme il était en chemin et qu'il approchait de Damas, tout à coup, une lumière qui venait du ciel resplendit autour de lui.
+			</verse>
+			<verse number="4" number-en="4" jesuswords="true">
+				Il tomba par terre et entendit une voix lui dire: <span class="jesuswords">«Saul, Saul, pourquoi me persécutes-tu?»</span>
+			</verse>
+			<verse number="5" number-en="5" jesuswords="true">
+				Il répondit: «Qui es-tu, Seigneur?» Et le Seigneur dit: <span class="jesuswords">«Moi, je suis Jésus, celui que tu persécutes.</span>
+			</verse>
+			<verse number="6" number-en="6" jesuswords="true">
+				<span class="jesuswords">Lève-toi, entre dans la ville et on te dira ce que tu dois faire.»</span>
+			</verse>
+			<verse number="7" number-en="7">
+				Les hommes qui l'accompagnaient s'arrêtèrent, muets de stupeur; ils entendaient bien la voix, mais ils ne voyaient personne.
+			</verse>
+			<verse number="8" number-en="8">
+				Saul se releva de terre. Malgré ses yeux ouverts, il ne voyait rien; on le prit par la main pour le conduire à Damas.
+			</verse>
+			<verse number="9" number-en="9">
+				Il resta trois jours sans voir et il ne mangea ni ne but rien.
+			</verse>
+			<verse number="10" number-en="10" jesuswords="true">
+				Or, il y avait à Damas un disciple du nom d'Ananias. Le Seigneur lui dit dans une vision: <span class="jesuswords">«Ananias!»</span> Il répondit: «Me voici, Seigneur!»
+			</verse>
+			<verse number="11" number-en="11" jesuswords="true">
+				Le Seigneur lui dit alors: <span class="jesuswords">«Lève-toi, va dans la rue qu'on appelle la droite et, dans la maison de Judas, demande un dénommé Saul de Tarse. En effet, il prie</span>
+			</verse>
+			<verse number="12" number-en="12" jesuswords="true">
+				<span class="jesuswords">et il a vu en vision un homme appelé Ananias entrer et poser les mains sur lui afin qu'il retrouve la vue.»</span>
+			</verse>
+			<verse number="13" number-en="13">
+				Ananias répondit: «Seigneur, j'ai appris de beaucoup tout le mal que cet homme a fait à tes saints à Jérusalem,
+			</verse>
+			<verse number="14" number-en="14">
+				et ici il a pleins pouvoirs, de la part des chefs des prêtres, pour arrêter tous ceux qui font appel à toi.»
+			</verse>
+			<verse number="15" number-en="15" jesuswords="true">
+				Mais le Seigneur lui dit: <span class="jesuswords">«Vas-y, car cet homme est un instrument que j'ai choisi pour faire connaître mon nom aux non-Juifs, aux rois et aux Israélites.</span>
+			</verse>
+			<verse number="16" number-en="16" jesuswords="true">
+				<span class="jesuswords">Je lui montrerai tout ce qu'il doit souffrir pour moi.»</span>
+			</verse>
+			<verse number="17" number-en="17">
+				Ananias partit. Une fois entré dans la maison, il posa les mains sur Saul en disant: «Saul mon frère, le Seigneur, [le Jésus] qui t'est apparu sur le chemin par lequel tu venais, m'a envoyé pour que tu retrouves la vue et que tu sois rempli du Saint-Esprit.»
+			</verse>
+			<verse number="18" number-en="18">
+				Aussitôt il tomba comme des écailles de ses yeux et il retrouva la vue. Il se leva et fut baptisé;
+			</verse>
+			<verse number="19" number-en="19">
+				après avoir pris de la nourriture, il retrouva des forces. Il resta quelques jours avec les disciples qui étaient à Damas
+			</verse>
+			<verse number="20" number-en="20">
+				et se mit aussitôt à proclamer dans les synagogues que Jésus est le Fils de Dieu.
+			</verse>
+			<verse number="21" number-en="21">
+				Tous ceux qui l'entendaient étaient stupéfaits et disaient: «N'est-ce pas l'homme qui persécutait à Jérusalem ceux qui font appel à ce nom-là et n'est-il pas venu ici pour les arrêter et les conduire devant les chefs des prêtres?»
+			</verse>
+			<verse number="22" number-en="22">
+				Cependant Saul se fortifiait de plus en plus, et il confondait les Juifs qui habitaient Damas en démontrant que Jésus est le Messie.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

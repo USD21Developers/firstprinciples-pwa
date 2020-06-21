@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-peter-3-1-7" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="1 Pedro 3:1-7" book="1 Pedro" title-en="1 Peter 3:1-7" book-en="1 Peter">
+		<chapter number="3" number-en="3">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					Deveres Conjugais
+				</p>
+				Do mesmo modo, mulheres, sujeite-se cada uma a seu marido, a fim de que, se ele não obedece à palavra, seja ganho sem palavras, pelo procedimento de sua mulher,
+			</verse>
+			<verse number="2" number-en="2">
+				observando a conduta honesta e respeitosa de vocês.
+			</verse>
+			<verse number="3" number-en="3">
+				A beleza de vocês não deve estar nos enfeites exteriores, como cabelos trançados e jóias de ouro ou roupas finas.
+			</verse>
+			<verse number="4" number-en="4">
+				Ao contrário, esteja no ser interior, que não perece, beleza demonstrada num espírito dócil e tranqüilo, o que é de grande valor para Deus. 
+			</verse>
+			<verse number="5" number-en="5">
+				Pois era assim que também costumavam adornar-se as santas mulheres do passado, que colocavam sua esperança em Deus. Elas se sujeitavam cada uma a seu marido,
+			</verse>
+			<verse number="6" number-en="6">
+				como Sara, que obedecia a Abraão e o chamava senhor. Dela vocês serão filhas, se praticarem o bem e não derem lugar ao medo.
+			</verse>
+			<verse number="7" number-en="7">
+				Do mesmo modo vocês, maridos, sejam sábios no convívio com suas mulheres e tratem-nas com honra, como parte mais frágil e co-herdeiras do dom da graça da vida, de forma que não sejam interrompidas as suas orações.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

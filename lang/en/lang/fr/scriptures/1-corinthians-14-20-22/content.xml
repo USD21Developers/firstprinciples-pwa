@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-14-20-22" lang="fr" version="SG21" edition="2007">
+	<passage title="1 Corinthiens 14:20-22" book="1 Corinthiens" title-en="1 Corinthians 14:20-22" book-en="1 Corinthians">
+		<chapter number="14" number-en="14">
+			<verse number="20" number-en="20">
+				Frères et sœurs, ne raisonnez pas comme des enfants. Au contraire, pour le mal, soyez des bébés, mais par rapport au raisonnement, soyez des adultes.
+			</verse>
+			<verse number="21" number-en="21" scripturequote="true">
+				Il est écrit dans la loi: <span class="scripturequote">C'est par des hommes d'une autre langue et par des lèvres étrangères que je parlerai à ce peuple, et même ainsi, ils ne m'écouteront pas,</span> dit le Seigneur.
+			</verse>
+			<verse number="22" number-en="22">
+				Par conséquent, les langues sont un signe non pour les croyants, mais pour les non-croyants; la prophétie, quant à elle, est un signe non pour les non-croyants, mais pour les croyants.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

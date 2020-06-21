@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="mark-16-16-18" lang="zh" version="cnvs" edition="2001">
+	<passage title="马可福音 16:16-18" book="马可福音" title-en="Mark 16:16-18" book-en="Mark">
+		<chapter number="16" number-en="16">
+			<verse number="16" number-en="16" jesuswords="true">
+				<span class="jesuswords">信而受洗的必定得救，不信的必被定罪。</span>
+			</verse>
+			<verse number="17" number-en="17" jesuswords="true">
+				<span class="jesuswords">信的人必有神迹随着他们，就是奉我的名赶鬼，用新方言说话，</span>
+			</verse>
+			<verse number="18" number-en="18" jesuswords="true">
+				<span class="jesuswords">用手握蛇，喝了甚么毒物也不受害，手按病人就必好了。”</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

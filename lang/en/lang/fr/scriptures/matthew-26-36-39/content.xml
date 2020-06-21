@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-26-36-39" lang="fr" version="SG21" edition="2007">
+	<passage title="Matthieu 26:36-39" book="Matthieu" title-en="Matthew 26:36-39" book-en="Matthew">
+		<chapter number="26" number-en="26">
+			<verse number="36" number-en="36" jesuswords="true">
+				<p class="scripture-heading">
+					Arrestation de Jésus
+				</p>
+				Là-dessus, Jésus se rendit avec eux dans un endroit appelé Gethsémané et il dit aux disciples: <span class="jesuswords">«Asseyez-vous [ici] pendant que je m'éloignerai pour prier.»</span>
+			</verse>
+			<verse number="37" number-en="37">
+				Il prit avec lui Pierre et les deux fils de Zébédée et il commença à être saisi de tristesse et d’angoisse.
+			</verse>
+			<verse number="38" number-en="38" jesuswords="true">
+				Il leur dit alors: <span class="jesuswords">«Mon âme est triste à en mourir. Restez ici, éveillés avec moi.»</span>
+			</verse>
+			<verse number="39" number-en="39" jesuswords="true">
+				Puis il avança de quelques pas, se jeta le visage contre terre et fit cette prière: <span class="jesuswords">«Mon Père, si cela est possible, que cette coupe s'éloigne de moi! Toutefois, non pas ce que je veux, mais ce que tu veux.»</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

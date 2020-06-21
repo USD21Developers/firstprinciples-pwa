@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-9-31" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 9:31" book="Atos" title-en="Acts 9:31" book-en="Acts">
+		<chapter number="9" number-en="9">
+			<verse number="31" number-en="31">
+				A igreja passava por um período de paz em toda a Judéia, Galiléia e Samaria. Ela se edificava e, encorajada pelo Espírito Santo, crescia em número, vivendo no temor do Senhor.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

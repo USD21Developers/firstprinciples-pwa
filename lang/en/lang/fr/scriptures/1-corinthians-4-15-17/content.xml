@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-4-15-17" lang="fr" version="SG21" edition="2007">
+	<passage title="1 Corinthiens 4:15-17" book="1 Corinthiens" title-en="1 Corinthians 4:15-17" book-en="1 Corinthians">
+		<chapter number="4" number-en="4">
+			<verse number="15" number-en="15">
+				En effet, même si vous aviez 10'000 maîtres en Christ, vous n'avez cependant pas plusieurs pères, puisque c'est moi qui vous ai donné la vie en Jésus-Christ par l'Evangile.
+			</verse>
+			<verse number="16" number-en="16">
+				Je vous en supplie donc: soyez mes imitateurs.
+			</verse>
+			<verse number="17" number-en="17">
+				Pour cela je vous ai envoyé Timothée, qui est mon enfant bien-aimé et fidèle dans le Seigneur. Il vous rappellera quels sont mes principes de vie en Christ, tels que je les enseigne partout, dans toutes les Eglises.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

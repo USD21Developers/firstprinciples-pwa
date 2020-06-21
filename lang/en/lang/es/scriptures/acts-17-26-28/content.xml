@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-17-26-28" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 17:26-28" book="Hechos" title-en="Acts 17:26-28" book-en="Acts">
+		<chapter number="17" number-en="17">
+			<verse number="26" number-en="26">
+				De un solo hombre hizo todas las naciones para que habitaran toda la tierra; y determinó los períodos de su historia y las fronteras de sus territorios.
+			</verse>
+			<verse number="27" number-en="27">
+				Esto lo hizo Dios para que todos lo busquen y, aunque sea a tientas, lo encuentren. En verdad, él no está lejos de ninguno de nosotros,
+			</verse>
+			<verse number="28" number-en="28">
+				“puesto que en él vivimos, nos movemos y existimos”. Como algunos de sus propios poetas griegos han dicho: “De él somos descendientes”.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

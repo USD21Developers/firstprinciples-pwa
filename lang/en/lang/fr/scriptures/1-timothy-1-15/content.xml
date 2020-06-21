@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-timothy-1-15" lang="fr" version="SG21" edition="2007">
+	<passage title="1 Timothée 1:15" book="1 Timothée" title-en="1 Timothy 1:15" book-en="1 Timothy">
+		<chapter number="1" number-en="1">
+			<verse number="15" number-en="15">
+				Cette parole est certaine et digne d’être acceptée sans réserve: Jésus-Christ est venu dans le monde pour sauver des pécheurs. Je suis moi-même le premier d’entre eux,
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

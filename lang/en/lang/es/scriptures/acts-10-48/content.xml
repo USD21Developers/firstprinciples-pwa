@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-10-48" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 10:48" book="Hechos" title-en="Acts 10:48" book-en="Acts">
+		<chapter number="10" number-en="10">
+			<verse number="48" number-en="48">
+				Y mandó que fueran bautizados en el nombre de Jesucristo. Entonces le pidieron que se quedara con ellos algunos días.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

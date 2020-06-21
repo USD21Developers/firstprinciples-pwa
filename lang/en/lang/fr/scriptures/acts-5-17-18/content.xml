@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-5-17-18" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 5:17-18" book="Actes" title-en="Acts 5:17-18" book-en="Acts">
+		<chapter number="5" number-en="5">
+			<verse number="17" number-en="17">
+				Alors le grand-prêtre et tous ceux qui étaient avec lui, c'est-à-dire le parti des sadducéens, se levèrent, remplis de jalousie.
+			</verse>
+			<verse number="18" number-en="18">
+				Ils firent arrêter les apôtres et les jetèrent dans la prison publique.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-5" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 2:5" book="Actes" title-en="Acts 2:5" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="5" number-en="5">
+				Or il y avait en séjour à Jérusalem des Juifs, hommes pieux venus de toutes les nations qui sont sous le ciel.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

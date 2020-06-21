@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-peter-3-1-7" lang="es" version="nvi" edition="2015">
+	<passage title="1 Pedro 3:1-7" book="1 Pedro" title-en="1 Peter 3:1-7" book-en="1 Peter">
+		<chapter number="3" number-en="3">
+			<verse number="1" number-en="1">
+				Así mismo, esposas, sométanse a sus esposos, de modo que, si algunos de ellos no creen en la palabra, puedan ser ganados más por el comportamiento de ustedes que por sus palabras,
+			</verse>
+			<verse number="2" number-en="2">
+				al observar su conducta íntegra y respetuosa.
+			</verse>
+			<verse number="3" number-en="3">
+				Que la belleza de ustedes no sea la externa, que consiste en adornos tales como peinados ostentosos, joyas de oro y vestidos lujosos.
+			</verse>
+			<verse number="4" number-en="4">
+				Que su belleza sea más bien la incorruptible, la que procede de lo íntimo del corazón y consiste en un espíritu suave y apacible. Esta sí que tiene mucho valor delante de Dios.
+			</verse>
+			<verse number="5" number-en="5">
+				Así se adornaban en tiempos antiguos las santas mujeres que esperaban en Dios, cada una sumisa a su esposo.
+			</verse>
+			<verse number="6" number-en="6">
+				Tal es el caso de Sara, que obedecía a Abraham y lo llamaba su señor. Ustedes son hijas de ella si hacen el bien y viven sin ningún temor.
+			</verse>
+			<verse number="7" number-en="7">
+				De igual manera, ustedes esposos, sean comprensivos en su vida conyugal, tratando cada uno a su esposa con respeto, ya que como mujer es más delicada, y ambos son herederos del grato don de la vida. Así nada estorbará las oraciones de ustedes.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

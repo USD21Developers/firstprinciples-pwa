@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-1-10-13" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="1 Coríntios 1:10-13" book="1 Coríntios" title-en="1 Corinthians 1:10-13" book-en="1 Corinthians">
+		<chapter number="1" number-en="1">
+			<verse number="10" number-en="10">
+				<p class="scripture-heading">
+					As Divisões na Igreja
+				</p>
+				Irmãos, em nome de nosso Senhor Jesus Cristo suplico a todos vocês que concordem uns com os outros no que falam, para que não haja divisões entre vocês, e, sim, que todos estejam unidos num só pensamento e num só parecer.
+			</verse>
+			<verse number="11" number-en="11">
+				Meus irmãos, fui informado por alguns da casa de Cloe de que há divisões entre vocês.
+			</verse>
+			<verse number="12" number-en="12">
+				Com isso quero dizer que cada um de vocês afirma: "Eu sou de Paulo"; "eu de Apolo"; "eu de Pedro"; e "eu de Cristo".
+			</verse>
+			<verse number="13" number-en="13">
+				Acaso Cristo está dividido? Foi Paulo crucificado em favor de vocês? Foram vocês batizados em nome de Paulo?
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

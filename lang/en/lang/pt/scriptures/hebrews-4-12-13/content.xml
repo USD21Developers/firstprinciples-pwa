@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-4-12-13" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Hebreus 4:12-13" book="Hebreus" title-en="Hebrews 4:12-13" book-en="Hebrews">
+		<chapter number="4" number-en="4">
+			<verse number="12" number-en="12">
+				Pois a palavra de Deus é viva e eficaz, e mais afiada que qualquer espada de dois gumes; ela penetra ao ponto de dividir alma e espírito, juntas e medulas, e julga os pensamentos e intenções do coração.
+			</verse>
+			<verse number="13" number-en="13">
+				Nada, em toda a criação, está oculto aos olhos de Deus. Tudo está descoberto e exposto diante dos olhos daquele a quem havemos de prestar contas.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

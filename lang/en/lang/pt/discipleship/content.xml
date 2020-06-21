@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="discipleship" lang-original="en" lang-translated="pt" last-updated="2019-02-18" last-updated-by="Waldir Caro" last-updated-by-email="edisone11.fc@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			Discipleship
+		</original>
+		<translated>
+			Discipulado
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			Introduction: Matthew 28:18-20
+		</original>
+		<translated>
+			Introdução: Mateus 28: 18-20
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Introduction:
+			</original>
+			<translated>
+				Introdução
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-18-20">
+			<original>
+				Matthew 28:18-20
+			</original>
+			<translated>
+				Mateus 28: 18-20
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			What does Jesus want everybody to become?
+		</original>
+		<translated>
+			O que Jesus quer que todo mundo se torne?
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Which is the more popular term — "Disciple" or "Christian?" The word "Christian" only appears three times in the New Testament. It is the name those in the world gave the disciples, seven years after the church began. (Acts 11:19-26). The word "Disciple" occurs over 270 times in the New Testament.
+		</original>
+		<translated>
+			Qual é o termo mais popular: "Discípulo" ou "Cristão"? A palavra "cristão" só aparece cinco vezes no novo testamento. É o nome que o mundo deu aos discípulos, sete anos depois que a igreja começou. (Atos 11:19-26) A palavra "discípulo" aparece mais de 270 vezes no novo testamento;
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-11-19-26">
+			<original>
+				Acts 11:19-26
+			</original>
+			<translated>
+				Atos 11:19-26
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			SAVED = CHRISTIAN = DISCIPLE
+		</original>
+		<translated>
+			SALVO = CRISTÃO = DISCÍPULO;
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			Jesus came to make disciples. Only baptized disciples will be saved.
+		</original>
+		<translated>
+			Jesus veio para fazer discípulos. Só discípulos batizados serão salvos.
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			Let's have Jesus define disciple, thus defining who is a true Christian.
+		</original>
+		<translated>
+			Vamos ver como Jesus define discípulo, ou seja, um verdadeiro cristão.
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			Mark 1:14-18
+		</original>
+		<translated>
+			Marcos 1:14-18
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="mark-1-14-18">
+			<original>
+				Mark 1:14-18
+			</original>
+			<translated>
+				Marcos 1:14-18
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			Calling of the first disciples
+		</original>
+		<translated>
+			O chamado dos primeiros discípulos;
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			Come follow me (Christ)
+		</original>
+		<translated>
+			Venham e sigam-me (Cristo);
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			Fishers of men — Jesus gave these first disciples the real purpose for living
+		</original>
+		<translated>
+			Pescadores de homens — Jesus deu a esses primeiros discípulos, o real propósito para viver;
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			Immediately
+		</original>
+		<translated>
+			Imediatamente.
+		</translated>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			Luke 9:23-26
+		</original>
+		<translated>
+			Lucas 9:23-26
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="luke-9-23-26">
+			<original>
+				Luke 9:23-26
+			</original>
+			<translated>
+				Lucas 9:23-26
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			If any man...
+		</original>
+		<translated>
+			Se alguém...
+		</translated>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			Deny self. Notice Christ in the garden (Matthew 26:36-39, "Not my will, but your will"). Do not give in to moods.
+		</original>
+		<translated>
+			Negar a si mesmo. Observe Cristo no jardim (Mateus 26:36-39 "Não seja como Eu quero, mas sim como Tu queres"). Não ceda às emoções;
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-26-36-39">
+			<original>
+				Matthew 26:36-39
+			</original>
+			<translated>
+				Mateus 26:36-39
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			Carry the cross — daily
+		</original>
+		<translated>
+			Carregue sua cruz — todos os dias;
+		</translated>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			Gain the world ... forfeit soul. Lose your life for Jesus ... save it
+		</original>
+		<translated>
+			Ganhar o mundo, perde sua alma. Perder sua vida por Jesus, a salva.
+		</translated>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			Luke 14:25-33
+		</original>
+		<translated>
+			Lucas 14:25-33
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="luke-14-25-33">
+			<original>
+				Luke 14:25-33
+			</original>
+			<translated>
+				Lucas 14:25-33
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			If any man...
+		</original>
+		<translated>
+			Se alguém...
+		</translated>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			Count the cost (v. 28-30)
+		</original>
+		<translated>
+			Calcular o custo (v. 28-30);
+		</translated>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			Consider the alternatives (v. 31-32)
+		</original>
+		<translated>
+			Considerar as alternativas (v. 31-32);
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			Love Christ more than any person (v. 26)
+		</original>
+		<translated>
+			Amar a Cristo mais do que a qualquer outra pessoa (v. 26);
+		</translated>
+	</phrase>
+
+	<phrase id="23" desc="">
+		<original>
+			Persecutions (v. 27)
+		</original>
+		<translated>
+			Perseguições (v. 27);
+		</translated>
+	</phrase>
+
+	<phrase id="24" desc="">
+		<original>
+			Everything, not just anything (v. 33)
+		</original>
+		<translated>
+			Tudo, não apenas algo (v. 33).
+		</translated>
+	</phrase>
+
+	<phrase id="25" desc="">
+		<original>
+			Luke 11:1-4
+		</original>
+		<translated>
+			Lucas 11:1-4
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="luke-11-1-4">
+			<original>
+				Luke 11:1-4
+			</original>
+			<translated>
+				Lucas 11:1-4
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="26" desc="">
+		<original>
+			Must learn to pray — disciples saw the strength Jesus received from the Father
+		</original>
+		<translated>
+			Deve aprender a orar: Os discípulos viram a força que Jesus recebeu do Pai;
+		</translated>
+	</phrase>
+
+	<phrase id="27" desc="">
+		<original>
+			Daily personal relationship with God (v. 3); daily prayer.
+		</original>
+		<translated>
+			Relacionamento diário com Deus (v. 3); oração diária.
+		</translated>
+	</phrase>
+
+	<phrase id="28" desc="">
+		<original>
+			John 13:34-35
+		</original>
+		<translated>
+			João 13:34-35
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-13-34-35">
+			<original>
+				John 13:34-35
+			</original>
+			<translated>
+				João 13:34-35
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="29" desc="">
+		<original>
+			Love one another
+		</original>
+		<translated>
+			Amar um ao outro;
+		</translated>
+	</phrase>
+
+	<phrase id="30" desc="">
+		<original>
+			Be an active part of the fellowship
+		</original>
+		<translated>
+			Ser uma parte ativa na comunhão.
+		</translated>
+	</phrase>
+
+	<phrase id="31" desc="">
+		<original>
+			Matthew 28:18-20
+		</original>
+		<translated>
+			Mateus 28:18-20
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-18-20">
+			<original>
+				Matthew 28:18-20
+			</original>
+			<translated>
+				Mateus 28:18-20
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="32" desc="">
+		<original>
+			Command — make disciples (given to all)
+		</original>
+		<translated>
+			Mandamento dado a todos: Façam discípulos;
+		</translated>
+	</phrase>
+
+	<phrase id="33" desc="">
+		<original>
+			Who is a candidate for baptism? A person who makes the decision to be a disciple
+		</original>
+		<translated>
+			Quem é candidato ao batismo? Aquele que toma a decisão de ser um discípulo;
+		</translated>
+	</phrase>
+
+	<phrase id="34" desc="">
+		<original>
+			You need someone to disciple you to maturity in Christ
+		</original>
+		<translated>
+			Você precisa de alguém para discípulá-lo para a maturidade em Cristo;
+		</translated>
+	</phrase>
+
+	<phrase id="35" desc="">
+		<original>
+			This is the only way to save the world!
+		</original>
+		<translated>
+			Esta é a única maneira de salvar o mundo!
+		</translated>
+	</phrase>
+
+	<phrase id="36" desc="">
+		<original>
+			Year
+		</original>
+		<translated>
+			Ano
+		</translated>
+	</phrase>
+
+	<phrase id="37" desc="">
+		<original>
+			Preacher
+		</original>
+		<translated>
+			Pregador
+		</translated>
+	</phrase>
+
+	<phrase id="38" desc="">
+		<original>
+			Disciple
+		</original>
+		<translated>
+			Discípulo
+		</translated>
+	</phrase>
+
+	<phrase id="39" desc="">
+		<original>
+			1
+		</original>
+		<translated>
+			1
+		</translated>
+	</phrase>
+
+	<phrase id="40" desc="">
+		<original>
+			365
+		</original>
+		<translated>
+			365
+		</translated>
+	</phrase>
+
+	<phrase id="41" desc="">
+		<original>
+			2
+		</original>
+		<translated>
+			2
+		</translated>
+	</phrase>
+
+	<phrase id="42" desc="">
+		<original>
+			2
+		</original>
+		<translated>
+			2
+		</translated>
+	</phrase>
+
+	<phrase id="43" desc="">
+		<original>
+			730
+		</original>
+		<translated>
+			730
+		</translated>
+	</phrase>
+
+	<phrase id="44" desc="">
+		<original>
+			4
+		</original>
+		<translated>
+			4
+		</translated>
+	</phrase>
+
+	<phrase id="45" desc="">
+		<original>
+			3
+		</original>
+		<translated>
+			3
+		</translated>
+	</phrase>
+
+	<phrase id="46" desc="">
+		<original>
+			1,095
+		</original>
+		<translated>
+			1095
+		</translated>
+	</phrase>
+
+	<phrase id="47" desc="">
+		<original>
+			8
+		</original>
+		<translated>
+			8
+		</translated>
+	</phrase>
+
+	<phrase id="48" desc="">
+		<original>
+			13
+		</original>
+		<translated>
+			13
+		</translated>
+	</phrase>
+
+	<phrase id="49" desc="">
+		<original>
+			4,745
+		</original>
+		<translated>
+			4745
+		</translated>
+	</phrase>
+
+	<phrase id="50" desc="">
+		<original>
+			8,192
+		</original>
+		<translated>
+			8192
+		</translated>
+	</phrase>
+
+	<phrase id="51" desc="">
+		<original>
+			33
+		</original>
+		<translated>
+			33
+		</translated>
+	</phrase>
+
+	<phrase id="52" desc="">
+		<original>
+			12,045
+		</original>
+		<translated>
+			12045
+		</translated>
+	</phrase>
+
+	<phrase id="53" desc="">
+		<original>
+			the world, 10 billion plus
+		</original>
+		<translated>
+			o mundo, mais de 8 bilhões
+		</translated>
+	</phrase>
+
+	<phrase id="54" desc="">
+		<original>
+			Conclusion Question: Am I a disciple? Am I a Christian? Am I saved? What do I need to do to become a disciple?
+		</original>
+		<translated>
+			Pergunta para finalizar: Eu sou um discípulo? Eu sou um cristão? Eu sou salvo? O que preciso fazer para me tornar um discípulo?
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Conclusion Question:
+			</original>
+			<translated>
+				Pergunta para finalizar:
+			</translated>
+		</change>
+	</phrase>
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

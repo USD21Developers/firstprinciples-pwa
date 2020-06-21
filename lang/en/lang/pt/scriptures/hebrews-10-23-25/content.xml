@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-10-23-25" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Hebreus 10:23-25" book="Hebreus" title-en="Hebrews 10:23-25" book-en="Hebrews">
+		<chapter number="10" number-en="10">
+			<verse number="23" number-en="23">
+				Apeguemo-nos com firmeza à esperança que professamos, pois aquele que prometeu é fiel.
+			</verse>
+			<verse number="24" number-en="24">
+				E consideremo-nos uns aos outros para incentivar-nos ao amor e às boas obras.
+			</verse>
+			<verse number="25" number-en="25">
+				Não deixemos de reunir-nos como igreja, segundo o costume de alguns, mas encorajemo-nos uns aos outros, ainda mais quando vocês vêem que se aproxima o Dia.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

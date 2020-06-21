@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="isaiah-2-1-4" lang="es" version="nvi" edition="2015">
+	<passage title="Isaías 2:1-4" book="Isaías" title-en="Isaiah 2:1-4" book-en="Isaiah">
+		<chapter number="2" number-en="2">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					El monte del Señor
+				</p>
+				Palabra que Isaías hijo de Amoz recibió en visión acerca de Judá y Jerusalén:
+			</verse>
+			<verse number="2" number-en="2">
+				En los últimos días,
+					el monte de la casa del Señor será establecido
+					como el más alto de los montes;
+				se alzará por encima de las colinas,
+					y hacia él confluirán todas las naciones.
+			</verse>
+			<verse number="3" number-en="3">
+				Muchos pueblos vendrán y dirán:
+					«¡Vengan, subamos al monte del Señor,
+					a la casa del Dios de Jacob!,
+				para que nos enseñe sus caminos
+					y andemos por sus sendas».
+				Porque de Sión saldrá la ley,
+					de Jerusalén, la palabra del Señor.
+			</verse>
+			<verse number="4" number-en="4">
+				Él juzgará entre las naciones
+					y será árbitro de muchos pueblos.
+				Convertirán sus espadas en arados
+					y sus lanzas en hoces.
+				No levantará espada nación contra nación,
+					y nunca más se adiestrarán para la guerra.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-17" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 2:17" book="Atos" title-en="Acts 2:17" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="17" number-en="17">
+				“‘Nos últimos dias, diz Deus,
+				    derramarei do meu Espírito sobre todos os povos.
+				Os seus filhos e as suas filhas profetizarão,
+				    os jovens terão visões,
+				os velhos terão sonhos.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

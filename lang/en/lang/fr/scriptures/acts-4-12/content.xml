@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-4-12" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 4:12" book="Actes" title-en="Acts 4:12" book-en="Acts">
+		<chapter number="4" number-en="4">
+			<verse number="12" number-en="12">
+				Il n’y a de salut en aucun autre, car il n'y a sous le ciel aucun autre nom qui ait été donné parmi les hommes, par lequel nous devions être sauvés.»
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

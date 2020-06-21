@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="jeremiah-29-11-14" lang="fr" version="SG21" edition="2007">
+	<passage title="Jérémie 29:11-14" book="Jérémie" title-en="Jeremiah 29:11-14" book-en="Jeremiah">
+		<chapter number="29" number-en="29">
+			<verse number="11" number-en="11">
+				En effet, moi, je connais les projets que je forme pour vous, déclare l'Eternel, projets de paix et non de malheur, afin de vous donner un avenir et de l'espérance. 
+			</verse>
+			<verse number="12" number-en="12">
+				Alors vous m’appellerez et vous partirez, vous me prierez et je vous exaucerai. 
+			</verse>
+			<verse number="13" number-en="13">
+				Vous me chercherez et vous me trouverez, parce que vous me chercherez de tout votre cœur.
+			</verse>
+			<verse number="14" number-en="14">
+				Je me laisserai trouver par vous, déclare l'Eternel, et je ramènerai vos déportés. Je vous rassemblerai de toutes les nations et de tous les endroits où je vous ai chassés, déclare l'Eternel, et je vous ferai revenir à l'endroit d'où je vous ai fait partir en exil.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

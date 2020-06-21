@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="global" lang-original="en" lang-translated="fr" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="App title">
+		<original>
+			First Principles
+		</original>
+		<translated>
+			Principes Fondamentaux
+		</translated>
+	</phrase>
+	
+	<phrase id="2" desc="Expand button.  This is shown in a scripture.">
+		<original>
+			Expand
+		</original>
+		<translated>
+			Développer
+		</translated>
+	</phrase>
+	
+	<phrase id="3" desc="">
+		<original>
+			Select Language
+		</original>
+		<translated>
+			Choisir la langue
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Share
+		</original>
+		<translated>
+			Partager
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			An internet connection is required in order to listen to this audio. Please connect to the internet, then try again.
+		</original>
+		<translated>
+			Une connexion Internet est requise pour pouvoir écouter cet audio. Veuillez vous connecter à Internet, puis réessayez.
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			An internet connection is required in order to watch this video. Please connect to the internet, then try again.
+		</original>
+		<translated>
+			Une connexion Internet est nécessaire pour regarder cette vidéo. Veuillez vous connecter à Internet, puis réessayez.
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			A Bible study from the International Christian Churches
+		</original>
+		<translated>
+			Une étude biblique des églises chrétiennes internationales
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			A Bible study series from the International Christian Churches
+		</original>
+		<translated>
+			Une série d'études bibliques des églises chrétiennes internationales
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="false" italic="false" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

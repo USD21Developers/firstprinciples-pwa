@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-22" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 2:22" book="Atos" title-en="Acts 2:22" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="22" number-en="22">
+				Israelitas, ouçam estas palavras: Jesus de Nazaré foi aprovado por Deus diante de vocês por meio de milagres, maravilhas e sinais que Deus fez entre vocês por intermédio dele, como vocês mesmos sabem.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

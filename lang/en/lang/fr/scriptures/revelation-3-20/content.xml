@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="revelation-3-20" lang="fr" version="SG21" edition="2007">
+	<passage title="Apocalypse 3:20" book="Apocalypse" title-en="Revelation 3:20" book-en="Revelation">
+		<chapter number="3" number-en="3">
+			<verse number="20" number-en="20" jesuswords="true">
+				<span class="jesuswords">Voici, je me tiens à la porte et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui et lui avec moi.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

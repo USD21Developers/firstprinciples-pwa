@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-42" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 2:42" book="Actes" title-en="Acts 2:42" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="42" number-en="42">
+				Ils persévéraient dans l'enseignement des apôtres, dans la communion fraternelle, dans la fraction du pain et dans les prières.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

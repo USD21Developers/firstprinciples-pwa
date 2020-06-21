@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-13-17" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Hebreus 13:17" book="Hebreus" title-en="Hebrews 13:17" book-en="Hebrews">
+		<chapter number="13" number-en="13">
+			<verse number="17" number-en="17">
+				Obedeçam aos seus líderes e submetam-se à autoridade deles. Eles cuidam de vocês como quem deve prestar contas. Obedeçam-lhes, para que o trabalho deles seja uma alegria e não um peso, pois isso não seria proveitoso para vocês.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

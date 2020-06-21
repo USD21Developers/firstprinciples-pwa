@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="mark-16-16-18" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Marcos 16:16-18" book="Marcos" title-en="Mark 16:16-18" book-en="Mark">
+		<chapter number="16" number-en="16">
+			<verse number="16" number-en="16" jesuswords="true">
+				<span class="jesuswords">Quem crer e for batizado será salvo, mas quem não crer será condenado.</span>
+			</verse>
+			<verse number="17" number-en="17" jesuswords="true">
+				<span class="jesuswords">Estes sinais acompanharão os que crerem: em meu nome expulsarão demônios; falarão novas línguas;</span>
+			</verse>
+			<verse number="18" number-en="18" jesuswords="true">
+				<span class="jesuswords">pegarão em serpentes; e, se beberem algum veneno mortal, não lhes fará mal nenhum; imporão as mãos sobre os doentes, e estes ficarão curados".</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

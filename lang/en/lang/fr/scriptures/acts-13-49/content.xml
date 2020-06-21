@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-13-49" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 13:49" book="Actes" title-en="Acts 13:49" book-en="Acts">
+		<chapter number="13" number-en="13">
+			<verse number="49" number-en="49">
+				La parole du Seigneur se propageait dans tout le pays.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

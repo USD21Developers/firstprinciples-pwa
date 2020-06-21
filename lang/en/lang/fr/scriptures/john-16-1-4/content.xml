@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-16-1-4" lang="fr" version="SG21" edition="2007">
+	<passage title="Jean 16:1-4" book="Jean" title-en="John 16:1-4" book-en="John">
+		<chapter number="16" number-en="16">
+			<verse number="1" number-en="1" jesuswords="true">
+				<span class="jesuswords">»Je vous ai dit cela afin que vous ne trébuchiez pas.</span>
+			</verse>
+			<verse number="2" number-en="2" jesuswords="true">
+				<span class="jesuswords">On vous exclura des synagogues, et même l'heure vient où tous ceux qui vous feront mourir croiront offrir un culte à Dieu.</span>
+			</verse>
+			<verse number="3" number-en="3" jesuswords="true">
+				<span class="jesuswords">Ils agiront ainsi parce qu'ils n'ont connu ni le Père ni moi.</span>
+			</verse>
+			<verse number="4" number-en="4" jesuswords="true">
+				<span class="jesuswords">»Je vous ai dit cela afin que, l'heure venue, vous vous souveniez que je vous l'ai dit. Je ne vous en ai pas parlé dès le début parce que j'étais avec vous.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

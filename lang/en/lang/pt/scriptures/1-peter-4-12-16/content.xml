@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-peter-4-12-16" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="1 Pedro 4:12-16" book="1 Pedro" title-en="1 Peter 4:12-16" book-en="1 Peter">
+		<chapter number="4" number-en="4">
+			<verse number="12" number-en="12">
+				<p class="scripture-heading">
+					Sofrendo por ser Cristão
+				</p>
+				Amados, não se surpreendam com o fogo que surge entre vocês para os provar, como se algo estranho lhes estivesse acontecendo.
+			</verse>
+			<verse number="13" number-en="13">
+				Mas alegrem-se à medida que participam dos sofrimentos de Cristo, para que também, quando a sua glória for revelada, vocês exultem com grande alegria.
+			</verse>
+			<verse number="14" number-en="14">
+				Se vocês são insultados por causa do nome de Cristo, felizes são vocês, pois o Espírito da glória, o Espírito de Deus, repousa sobre vocês.
+			</verse>
+			<verse number="15" number-en="15">
+				Se algum de vocês sofre, que não seja como assassino, ladrão, criminoso, ou como quem se intromete em negócios alheios. 
+			</verse>
+			<verse number="16" number-en="16">
+				Contudo, se sofre como cristão, não se envergonhe, mas glorifique a Deus por meio desse nome.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

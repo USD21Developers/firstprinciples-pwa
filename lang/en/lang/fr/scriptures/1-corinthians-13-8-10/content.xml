@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-13-8-10" lang="fr" version="SG21" edition="2007">
+	<passage title="1 Corinthiens 13:8-10" book="1 Corinthiens" title-en="1 Corinthians 13:8-10" book-en="1 Corinthians">
+		<chapter number="1" number-en="13">
+			<verse number="8" number-en="8">
+				L'amour ne meurt jamais. Les prophéties disparaîtront, les langues cesseront, la connaissance disparaîtra.
+			</verse>
+			<verse number="9" number-en="9">
+				En effet, nous connaissons partiellement et nous prophétisons partiellement,
+			</verse>
+			<verse number="10" number-en="10">
+				mais quand ce qui est parfait sera venu, ce qui est partiel disparaîtra.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

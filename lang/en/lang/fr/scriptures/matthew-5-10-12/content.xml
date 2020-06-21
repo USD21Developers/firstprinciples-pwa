@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-5-10-12" lang="fr" version="SG21" edition="2007">
+	<passage title="Matthieu 5:10-12" book="Matthieu" title-en="Matthew 5:10-12" book-en="Matthew">
+		<chapter number="5" number-en="5">
+			<verse number="10" number-en="10" jesuswords="true">
+				<span class="jesuswords">Heureux ceux qui sont persécutés pour la justice, car le royaume des cieux leur appartient!</span>
+			</verse>
+			<verse number="11" number-en="11" jesuswords="true">
+				<span class="jesuswords">Heureux serez-vous lorsqu'on vous insultera, qu'on vous persécutera et qu'on dira faussement de vous toute sorte de mal à cause de moi.</span>
+			</verse>
+			<verse number="12" number-en="12" jesuswords="true">
+				<span class="jesuswords">Réjouissez-vous et soyez dans l'allégresse, parce que votre récompense sera grande au ciel. En effet, c'est ainsi qu'on a persécuté les prophètes qui vous ont précédés.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

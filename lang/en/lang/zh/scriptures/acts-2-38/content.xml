@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-38" lang="zh" version="cnvs" edition="2001">
+	<passage title="使徒行传 2:38" book="使徒行传" title-en="Acts 2:38" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="38" number-en="38">
+				彼得说:“你们应当悔改，并且每一个人都要奉耶稣基督的名受洗，使你们的罪得赦，就必领受圣灵，那白白的恩典。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="2-timothy-3-14-17" lang="zh" version="cnvs" edition="2001">
+	<passage title="提摩太后书 3:14-17" book="提摩太后书" title-en="2 Timothy 3:14-17" book-en="2 Timothy">
+		<chapter number="3" number-en="3">
+			<verse number="14" number-en="14">
+				你应当遵守所学和确信的；你知道是跟谁学的，
+			</verse>
+			<verse number="15" number-en="15">
+				并且知道自己从小就明白圣经，这圣经能够使你有智慧，可以因信基督耶稣得着救恩。
+			</verse>
+			<verse number="16" number-en="16">
+				全部圣经都是　神所默示的，在教训、责备、矫正和公义的训练各方面，都是有益的，
+			</verse>
+			<verse number="17" number-en="17">
+				为要使属　神的人装备好，可以完成各样的善工。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

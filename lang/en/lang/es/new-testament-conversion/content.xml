@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="new-testament-conversion" lang-original="en" lang-translated="es" last-updated="2020-04-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			New Testament Conversion
+		</original>
+		<translated>
+			Las Conversiones en el Nuevo Testamento
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			The Major Conversions in Acts
+		</original>
+		<translated>
+			Las principales conversiones en el Libro de Los Hechos
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Conversions
+		</original>
+		<translated>
+			Las Conversiones
+		</translated>
+	</phrase>
+	
+	<phrase id="4" desc="">
+		<original>
+			Acts 2:36-47
+		</original>
+		<translated>
+			Hechos 2:36-47
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-36-47">
+			<original>
+				Acts 2:36-47
+			</original>
+			<translated>
+				Hechos 2:36-47
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			First Christians in Jerusalem
+		</original>
+		<translated>
+			Los primeros cristianos en Jerusalén
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			Acts 8:26-39
+		</original>
+		<translated>
+			Hechos 8:26-39
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-8-26-39">
+			<original>
+				Acts 8:26-39
+			</original>
+			<translated>
+				Hechos 8:26-39
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			Ethiopian Eunich
+		</original>
+		<translated>
+			El eunuco de Etiopía
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			Acts 16:22-34
+		</original>
+		<translated>
+			Hechos 16:22-34
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-16-22-34">
+			<original>
+				Acts 16:22-34
+			</original>
+			<translated>
+				Hechos 16:22-34
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			Philippian jailer and his family
+		</original>
+		<translated>
+			Carcelero Filipense y su familia
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			Acts 9:1-22
+		</original>
+		<translated>
+			Hechos 9:1-22
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-9-1-22">
+			<original>
+				Acts 9:1-22
+			</original>
+			<translated>
+				Hechos 9:1-22
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			Paul
+		</original>
+		<translated>
+			Pablo
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			Acts 22:3-16
+		</original>
+		<translated>
+			Hechos 22:3-16
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-22-3-16">
+			<original>
+				Acts 22:3-16
+			</original>
+			<translated>
+				Hechos 22:3-16
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			Paul
+		</original>
+		<translated>
+			Pablo
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			Acts 18:24-26
+		</original>
+		<translated>
+			Hechos 18:24-26
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-18-24-26">
+			<original>
+				Acts 18:24-26
+			</original>
+			<translated>
+				Hechos 18:24-26
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			Apollos
+		</original>
+		<translated>
+			Apolos
+		</translated>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			Acts 19:1-5
+		</original>
+		<translated>
+			Hechos 19:1-5
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-19-1-5">
+			<original>
+				Acts 19:1-5
+			</original>
+			<translated>
+				Hechos 19:1-5
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			Ephesians
+		</original>
+		<translated>
+			Los Efesios
+		</translated>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			Questions concerning Conversions
+		</original>
+		<translated>
+			Después de haber leído cada Escritura del punto A, hazle las siguientes preguntas a la persona que está estudiando la Biblia:
+		</translated>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			What was preached?
+		</original>
+		<translated>
+			¿Qué se predicó? (Respuesta: La cruz y la resurrección de Jesús).
+		</translated>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			What was the person's (people's) response to the message?
+		</original>
+		<translated>
+			¿Cuál fue la respuesta de la(s) persona(s) al mensaje? (R: Se arrepintieron y fueron bautizados).
+		</translated>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			How long did the person (people) take to make the decision?
+		</original>
+		<translated>
+			¿Cuánto tiempo le(s) tomó a la(s) persona(s) tomar su decisión? (R: De uno a tres días).
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			What was their response after baptism?
+		</original>
+		<translated>
+			¿Cuál fue la respuesta después del bautismo? (R: Sus pecados fueron perdonados, fueron salvos).
+		</translated>
+	</phrase>
+
+	<phrase id="23" desc="">
+		<original>
+			Refuting False Doctrines
+		</original>
+		<translated>
+			Refutando las Falsas Doctrinas
+		</translated>
+	</phrase>
+
+	<phrase id="24" desc="">
+		<original>
+			"Pray Jesus into your heart":
+		</original>
+		<translated>
+			“Orar para que Jesús entre a tu corazón”:
+		</translated>
+	</phrase>
+
+	<phrase id="25" desc="">
+		<original>
+			This phrase is never mentioned in the Bible. People may use Revelation 3:20 about Jesus knocking at the door. However, you must examine the Scripture in context. This scripture does not teach how to become a Christian and be saved, but how to come back to God after becoming lukewarm. It is addressed to disciples who already responded to Christ in faith, repentance, confession and baptism.
+		</original>
+		<translated>
+			Esta frase nunca es mencionada en la Biblia. La gente probablemente use Apocalipsis 3:20 acerca de Jesús tocando a la puerta, pero debemos examinar la Escritura en contexto. Esta Escritura no enseña como hacerse un cristiano ni como ser salvo, sino como regresar a Dios después de haber estado tibio. Está dirigida a discípulos que ya han respondido a Cristo con fe, arrepentimiento, confesión y bautismo.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="revelation-3-20">
+			<original>
+				Revelation 3:20
+			</original>
+			<translated>
+				Apocalipsis 3:20
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="26" desc="">
+		<original>
+			"Accept Jesus into your heart":
+		</original>
+		<translated>
+			“Confesar que Jesús es tu salvador”:
+		</translated>
+	</phrase>
+
+	<phrase id="27" desc="">
+		<original>
+			(Same teaching as praying Jesus into your heart, just different terminology.) Based on Romans 10:9. You must look at Scripture in context. Paul is addressing the problem of the Israelites: unbelief that Jesus was the Christ, the Son of God. Read further on to Romans 10:13. When do you call on the name of the Lord? At baptism (Acts 22:16).
+		</original>
+		<translated>
+			(Es la misma enseñanza que orar para que Jesús entre en tu corazón solo que con diferente terminología). Se basa en Romanos 10:9. Hay que ver la Escritura en su contexto. Pablo está hablando del problema de los israelitas, ellos no creían ni aceptaban que Jesús era el Cristo, el Hijo de Dios. Es importante leer hasta Romanos 10:13. ¿Cuándo confiesas que Jesús es Señor y Salvador? En el bautismo (Hechos 22:16).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-10-9">
+			<original>
+				Romans 10:9
+			</original>
+			<translated>
+				Romanos 10:9
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-10-13">
+			<original>
+				Romans 10:13
+			</original>
+			<translated>
+				Romanos 10:13
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-22-16">
+			<original>
+				Acts 22:16
+			</original>
+			<translated>
+				Hechos 22:16
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="28" desc="">
+		<original>
+			Infant baptism:
+		</original>
+		<translated>
+			“El Bautismo Infantil”:
+		</translated>
+	</phrase>
+
+	<phrase id="29" desc="">
+		<original>
+			A baby cannot have faith, and since we are baptized through faith in the power of God (Colossians 2:12), babies cannot be baptized. Original sin: Ezekiel 18:20 teaches that there is no original sin; each person is responsible for his own actions and will be judged accordingly. Therefore babies are born sinless and will be saved if they die.
+		</original>
+		<translated>
+			Un bebé no puede tener fe y ya que nos bautizamos por la fe en el poder de Dios (Colosenses 2:12), los bebés no se pueden bautizar. El pecado original: Ezequiel 18:20 enseña que no existe el pecado original; cada persona es responsable por sus propias acciones y será juzgado de acuerdo a ellas. Por lo tanto los bebés nacen sin pecado y serán salvos si se mueren.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-2-12">
+			<original>
+				Colossians 2:12
+			</original>
+			<translated>
+				Colosenses 2:12
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="ezekiel-18-20">
+			<original>
+				Ezekiel 18:20
+			</original>
+			<translated>
+				Ezequiel 18:20
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="30" desc="">
+		<original>
+			"Baptism does not save you":
+		</original>
+		<translated>
+			“El Bautismo no te salva”:
+		</translated>
+	</phrase>
+
+	<phrase id="31" desc="">
+		<original>
+			1 Peter 3:18-21 says that baptism does save you through the resurrection of Jesus Christ. Acts 2:38 teaches that sin is forgiven at baptism — one is saved at the point that sin is forgiven.
+		</original>
+		<translated>
+			1 Pedro 3:18-21 dice que el bautismo sí salva por la resurrección de Jesucristo. Hechos 2:38 enseña que los pecados son perdonados en el bautismo, uno se salva en el momento de ser perdonado.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-peter-3-18-21">
+			<original>
+				1 Peter 3:18-21
+			</original>
+			<translated>
+				1 Pedro 3:18-21
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
+			<original>
+				Acts 2:38
+			</original>
+			<translated>
+				Hechos 2:38
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="32" desc="">
+		<original>
+			"Baptism is a work — yet we are saved by faith:"
+		</original>
+		<translated>
+			“El Bautismo es una obra y somos salvos solo mediante la fe”
+		</translated>
+	</phrase>
+
+	<phrase id="33" desc="">
+		<original>
+			(Ephesians 2:8): Colosenses 2:11-15 enseña que somos salvos por nuestra fe en Jesús y por la misericordia de Dios, la cual recibimos en el bautismo al ser perdonados del pecado.
+		</original>
+		<translated>
+			(Efesios 2:8): Colosenses 2:11-15 enseña que somos salvos por nuestra fe en Jesús y por la misericordia de Dios, la cual recibimos en el bautismo al ser perdonados del pecado.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-2-8">
+			<original>
+				Ephesians 2:8
+			</original>
+			<translated>
+				Efesios 2:8
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-2-11-15">
+			<original>
+				Colossians 2:11-15
+			</original>
+			<translated>
+				Colosenses 2:11-15
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="34" desc="">
+		<original>
+			"Baptism is an outward sign of an inward grace:"
+		</original>
+		<translated>
+			“El Bautismo es solo un símbolo externo de lo que ya pasó internamente”:
+		</translated>
+	</phrase>
+
+	<phrase id="35" desc="">
+		<original>
+			Romans 6:2-4 states that baptism is an actual participation in the death, burial and resurrection of Christ. It is not merely a sign, seal or symbol.
+		</original>
+		<translated>
+			Romanos 6:2-4 afirma que el bautismo es una participación en la muerte, sepultura y resurrección de Cristo. No es sólo un sello, un símbolo o una ceremonia.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-6-2-4">
+			<original>
+				Romans 6:2-4
+			</original>
+			<translated>
+				Romanos 6:2-4
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="36" desc="">
+		<original>
+			"Baptism isn't important. After all, look at what Paul said about it in 1 Corinthians 1:17:"
+		</original>
+		<translated>
+			“El Bautismo no es importante, después de todo mira lo que dice Pablo acerca de él en 1 Corintios 1:17”:
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-1-17">
+			<original>
+				1 Corinthians 1:17
+			</original>
+			<translated>
+				1 Corintios 1:17
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="37" desc="">
+		<original>
+			Paul does not diminish the importance of baptism here. (Paul himself was baptized to have his sins forgiven in Acts 22:16.) In context (read 1 Corinthians 1:10-17), he makes the point that he does not want people following men (denominationalism). He mentions baptism several times in the passage.
+		</original>
+		<translated>
+			En esta Escritura Pablo no le quita importancia al bautismo, ya que él mismo fue bautizado para el perdón de sus pecados en Hechos 22:16. En el contexto de 1 Corintios 1:10-17, él toca el punto de que no quiere que la gente siga al hombre (denominaciones). Pablo menciona el bautismo varias veces en este pasaje de la Escritura.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-22-16">
+			<original>
+				Acts 22:16
+			</original>
+			<translated>
+				Hechos 22:16
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-1-10-17">
+			<original>
+				1 Corinthians 1:10-17
+			</original>
+			<translated>
+				1 Corintios 1:10-17
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="38" desc="">
+		<original>
+			"The thief on the cross was not baptized and Jesus told him that they would see each other in paradise:"
+		</original>
+		<translated>
+			“El criminal en la Cruz no fue bautizado y Jesús le dijo que estaría con Él en el Paraíso”:
+		</translated>
+	</phrase>
+
+	<phrase id="39" desc="">
+		<original>
+			Jesus had not even died yet, and baptism is participating in his death (Romans 6:2-4); also on earth, he had the power to forgive sins (Matthew 9:2-6).
+		</original>
+		<translated>
+			Jesús ni siquiera había muerto y el bautismo es la participación en su muerte, sepultura y resurrección (Romanos 6:2-4). Además Jesús tenía toda la autoridad en la tierra para perdonar pecados (Mateo 9:2-6). 
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-6-2-4">
+			<original>
+				Romans 6:2-4
+			</original>
+			<translated>
+				Romanos 6:2-4
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-9-2-6">
+			<original>
+				Matthew 9:2-6
+			</original>
+			<translated>
+				Mateo 9:2-6
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="40" desc="">
+		<original>
+			"Believers baptism:"
+		</original>
+		<translated>
+			“El Bautismo de los creyentes”:
+		</translated>
+	</phrase>
+
+	<phrase id="41" desc="">
+		<original>
+			This is baptism as an adult, but is not done in conjunction with the understanding that one is being saved at this point in time (John 3:5, Acts 2:38). "Retroactive understanding" is not sufficient for salvation.
+		</original>
+		<translated>
+			(Juan 3:5, Hechos 2:38). Este es un bautismo como adulto, pero sin el entendimiento de que el bautismo es para el perdón de los pecados y para la salvación. El “entendimiento retroactivo” no es suficiente para la salvación, es decir, no es válido bíblicamente creer el mensaje y bautizarse un tiempo después para cumplir con los requisitos.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-3-5">
+			<original>
+				John 3:5
+			</original>
+			<translated>
+				Juan 3:5
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
+			<original>
+				Acts 2:38
+			</original>
+			<translated>
+				Hechos 2:38
+			</translated>
+		</change>
+	</phrase>
+	
+	<!--
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

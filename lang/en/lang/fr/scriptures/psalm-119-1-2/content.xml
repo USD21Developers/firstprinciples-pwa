@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="psalm-119-1-2" lang="fr" version="SG21" edition="2007">
+	<passage title="Psaumes 119:1-2" book="Psaumes" title-en="Psalm 119:1-2" book-en="Psalm">
+		<chapter number="119" number-en="119">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					La Parole de Dieu
+				</p>
+				Heureux ceux dont la conduite est intègre, ceux qui marchent suivant la loi de l’Eternel!
+			</verse>
+			<verse number="2" number-en="2">
+				Heureux ceux qui gardent ses instructions, qui le cherchent de tout leur cœur,
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

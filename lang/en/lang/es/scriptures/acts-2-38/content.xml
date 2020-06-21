@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-38" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 2:38" book="Hechos" title-en="Acts 2:38" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="38" number-en="38">
+				—Arrepiéntase y bautícese cada uno de ustedes en el nombre de Jesucristo para perdón de sus pecados —les contestó Pedro—, y recibirán el don del Espíritu Santo.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

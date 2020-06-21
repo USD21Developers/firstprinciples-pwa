@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="2-timothy-3-1-5" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="2 Timóteo 3:1-5" book="2 Timóteo" title-en="2 Timothy 3:1-5" book-en="2 Timothy">
+		<chapter number="3" number-en="3">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					A Impiedade dos Últimos Dias
+				</p>
+				Saiba disto: nos últimos dias sobrevirão tempos terríveis.
+			</verse>
+			<verse number="2" number-en="2">
+				Os homens serão egoístas, avarentos, presunçosos, arrogantes, blasfemos, desobedientes aos pais, ingratos, ímpios,
+			</verse>
+			<verse number="3" number-en="3">
+				sem amor pela família, irreconciliáveis, caluniadores, sem domínio próprio, cruéis, inimigos do bem,
+			</verse>
+			<verse number="4" number-en="4">
+				traidores, precipitados, soberbos, mais amantes dos prazeres do que amigos de Deus,
+			</verse>
+			<verse number="5" number-en="5">
+				tendo aparência de piedade, mas negando o seu poder. Afaste-se desses também.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

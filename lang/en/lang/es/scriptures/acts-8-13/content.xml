@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-8-13" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 8:13" book="Hechos" title-en="Acts 8:13" book-en="Acts">
+		<chapter number="8" number-en="8">
+			<verse number="13" number-en="13">
+				Simón mismo creyó y, después de bautizarse, seguía a Felipe por todas partes, asombrado de los grandes milagros y señales que veía.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

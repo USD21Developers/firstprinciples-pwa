@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="2-corinthians-9-6-8" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="2 Coríntios 9:6-8" book="2 Coríntios" title-en="2 Corinthians 9:6-8" book-en="2 Corinthians">
+		<chapter number="9" number-en="9">
+			<verse number="6" number-en="6">
+				<p class="scripture-heading">
+					Semeando com Generosidade
+				</p>
+				Lembrem-se: aquele que semeia pouco, também colherá pouco, e aquele que semeia com fartura, também colherá fartamente.
+			</verse>
+			<verse number="7" number-en="7">
+				Cada um dê conforme determinou em seu coração, não com pesar ou por obrigação, pois Deus ama quem dá com alegria.
+			</verse>
+			<verse number="8" number-en="8">
+				E Deus é poderoso para fazer que lhes seja acrescentada toda a graça, para que em todas as coisas, em todo o tempo, tendo tudo o que é necessário, vocês transbordem em toda boa obra.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

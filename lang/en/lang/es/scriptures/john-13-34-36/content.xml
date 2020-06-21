@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-13-34-36" lang="es" version="nvi" edition="2015">
+	<passage title="Juan 13:34-36" book="Juan" title-en="John 13:34-36" book-en="John">
+		<chapter number="13" number-en="13">
+			<verse number="34" number-en="34" jesuswords="true">
+				<span class="jesuswords">»Este mandamiento nuevo les doy: que se amen los unos a los otros. Así como yo los he amado, también ustedes deben amarse los unos a los otros.</span>
+			</verse>
+			<verse number="35" number-en="35" jesuswords="true">
+				<span class="jesuswords">De este modo todos sabrán que son mis discípulos, si se aman los unos a los otros».</span>
+			</verse>
+			<verse number="36" number-en="36" jesuswords="true">
+				—¿Y a dónde vas, Señor? —preguntó Simón Pedro.
+				<br />
+				<br /><span class="jesuswords">—Adonde yo voy, no puedes seguirme ahora, pero me seguirás más tarde.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

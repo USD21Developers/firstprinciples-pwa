@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-13-8-10" lang="es" version="nvi" edition="2015">
+	<passage title="1 Corintios 13:8-10" book="1 Corintios" title-en="1 Corinthians 13:8-10" book-en="1 Corinthians">
+		<chapter number="1" number-en="13">
+			<verse number="8" number-en="8">
+				El amor jamás se extingue, mientras que el don de profecía cesará, el de lenguas será silenciado y el de conocimiento desaparecerá.
+			</verse>
+			<verse number="9" number-en="9">
+				Porque conocemos y profetizamos de manera imperfecta;
+			</verse>
+			<verse number="10" number-en="10">
+				pero cuando llegue lo perfecto, lo imperfecto desaparecerá.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

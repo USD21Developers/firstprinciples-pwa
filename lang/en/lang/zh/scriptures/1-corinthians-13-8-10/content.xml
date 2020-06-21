@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-13-8-10" lang="zh" version="cnvs" edition="2001">
+	<passage title="哥林多前书 13:8-10" book="哥林多前书 13" title-en="1 Corinthians 13:8-10" book-en="1 Corinthians">
+		<chapter number="1" number-en="13">
+			<verse number="8" number-en="8">
+				爱是永存不息的。先知的讲道终必过去，方言终必停止，知识终必消失。
+			</verse>
+			<verse number="9" number-en="9">
+				 因为我们现在所知道的，只是一部分；所讲的道也只是一部分；
+			</verse>
+			<verse number="10" number-en="10">
+				等那完全的来到，这部分的就要过去了。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

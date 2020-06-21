@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-7-12-13" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="João 7:12-13" book="João" title-en="John 7:12-13" book-en="John">
+		<chapter number="7" number-en="7">
+			<verse number="12" number-en="12">
+				Entre a multidão havia muitos boatos a respeito dele. Alguns diziam: "É um bom homem". Outros respondiam: "Não, ele está enganando o povo".
+			</verse>
+			<verse number="13" number-en="13">
+				Mas ninguém falava dele em público, por medo dos judeus.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

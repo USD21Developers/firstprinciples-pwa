@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-14-1" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 14:1" book="Hechos" title-en="Acts 14:1" book-en="Acts">
+		<chapter number="14" number-en="14">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					En Iconio
+				</p>
+				En Iconio, Pablo y Bernabé entraron, como de costumbre, en la sinagoga judía y hablaron de tal manera que creyó una multitud de judíos y de griegos.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

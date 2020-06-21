@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-19-6" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 19:6" book="Atos" title-en="Acts 19:6" book-en="Acts">
+		<chapter number="19" number-en="19">
+			<verse number="6" number-en="6">
+				Quando Paulo lhes impôs as mãos, veio sobre eles o Espírito Santo, e começaram a falar em línguas e a profetizar.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

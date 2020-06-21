@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="ephesians-2-20" lang="zh" version="cnvs" edition="2001">
+	<passage title="以弗所书 2:20" book="以弗所书" title-en="Ephesians 2:20" book-en="Ephesians">
+		<chapter number="2" number-en="2">
+			<verse number="20" number-en="20">
+				并且建造在使徒和先知的根基上，基督耶稣自己就是奠基石，
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-3-12-14" lang="es" version="nvi" edition="2015">
+	<passage title="Hebreos 3:12-14" book="Hebreos" title-en="Hebrews 3:12-14" book-en="Hebrews">
+		<chapter number="3" number-en="3">
+			<verse number="12" number-en="12">
+				Cuídense, hermanos, de que ninguno de ustedes tenga un corazón pecaminoso e incrédulo que los haga apartarse del Dios vivo.
+			</verse>
+			<verse number="13" number-en="13">
+				Más bien, mientras dure ese «hoy», anímense unos a otros cada día, para que ninguno de ustedes se endurezca por el engaño del pecado. 
+			</verse>
+			<verse number="14" number-en="14">
+				Hemos llegado a tener parte con Cristo, con tal que retengamos firme hasta el fin la confianza que tuvimos al principio.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

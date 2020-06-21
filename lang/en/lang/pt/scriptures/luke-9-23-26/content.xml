@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-9-23-26" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Lucas 9:23-26" book="Lucas" title-en="Luke 9:23-26" book-en="Luke">
+		<chapter number="9" number-en="9">
+			<verse number="23" number-en="23" jesuswords="true">
+				Jesus dizia a todos: <span class="jesuswords">"Se alguém quiser acompanhar-me, negue-se a si mesmo, tome diariamente a sua cruz e siga-me.</span>
+			</verse>
+			<verse number="24" number-en="24" jesuswords="true">
+				<span class="jesuswords">Pois quem quiser salvar a sua vida a perderá; mas quem perder a vida por minha causa, este a salvará.</span>
+			</verse>
+			<verse number="25" number-en="25" jesuswords="true">
+				<span class="jesuswords">Pois que adianta ao homem ganhar o mundo inteiro, e perder-se ou destruir a si mesmo?</span>
+			</verse>
+			<verse number="26" number-en="26" jesuswords="true">
+				<span class="jesuswords">Se alguém se envergonhar de mim e das minhas palavras, o Filho do homem se envergonhará dele, quando vier em sua glória e na glória do Pai e dos santos anjos.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

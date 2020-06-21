@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-17-20-21" lang="fr" version="SG21" edition="2007">
+	<passage title="Luc 17:20-21" book="Luc" title-en="Luke 17:20-21" book-en="Luke">
+		<chapter number="17" number-en="17">
+			<verse number="20" number-en="20" jesuswords="true">
+				<p class="scripture-heading">
+					La venue du royaume de Dieu
+				</p>
+				Les pharisiens demandèrent à Jésus quand viendrait le royaume de Dieu. Il leur répondit: <span class="jesuswords">«Le royaume de Dieu ne vient pas en se faisant remarquer.</span>
+			</verse>
+			<verse number="21" number-en="21" jesuswords="true">
+				<span class="jesuswords">On ne dira pas: ‘Il est ici’, ou: ‘Il est là.’ En effet, le royaume de Dieu est au milieu de vous.»</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

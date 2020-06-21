@@ -45,36 +45,6 @@ fp.loadKeys = async fromKey => {
   });
 };
 
-fp.showFooter = (key, lang) => {
-  const urlPrefix = fp.getPath(key, lang);
-  const urlContent = urlPrefix + 'global/footer/content.xml';
-  const urlLogic = urlPrefix + 'global/footer/logic.js';
-  return new Promise((resolve, reject) => {
-    $.ajax({
-      url: urlContent,
-      error: err => {
-        console.error(err);
-        reject(error);
-      },
-      success: content => {
-        fp.view.footer = content;
-        $.ajax({
-          url: urlLogic,
-          dataType: 'script',
-          cache: true,
-          error: err => {
-            console.error(err);
-          },
-          success: () => {
-            $('.page-footer').removeClass('hide');
-            resolve();
-          }
-        });
-      }
-    });  
-  });
-};
-
 fp.showContent = (key, lang, selector) => {
   if (! selector) selector = '.fp_pagecontent';
   let urlPrefix = fp.getPath(key, lang);
@@ -103,16 +73,12 @@ fp.showContent = (key, lang, selector) => {
           console.error(err);
         },
         success: () => {
-          fp.showFooter(fp.view.key, fp.language.current).then(() => {
-            fp.enableInstall();
-            fp.onInstall();
-            fp.enableShare();
-          });
           if (fp.view.key === 'light-darkness') {
             setTimeout(() => {
               $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
             }, 500);
           }
+          // fp.scripture.preloadScripturesOnPage();
         }
       });
     }
@@ -178,12 +144,7 @@ fp.phrase = phraseObj => {
       }
     }
     if (href.length > 0) {
-      const isLinkExternal = ((href.indexOf('http://')>=0) || (href.indexOf('https://')>=0));
-      if (isLinkExternal) {
-        changeHTMLAfter = '<a href="' + href + '" target="_blank" rel="noreferrer">' + changeHTMLAfter + '</a>';
-      } else {
-        changeHTMLAfter = '<a href="' + href + '">' + changeHTMLAfter + '</a>';
-      }
+      changeHTMLAfter = '<a href="' + href + '">' + changeHTMLAfter + '</a>';
     }
     phraseHTML = phraseHTML.replace(changeHTMLBefore, changeHTMLAfter);
   }
@@ -282,70 +243,6 @@ fp.media = mediaObj => {
   return mediaHTML;
 };
 
-fp.events = {
-  listeners: {
-    attach: function() {
-      fp.scripture.onScriptureClicked();
-      fp.scripture.onScriptureExpandButtonClicked();
-    }
-  }
-};
-
-fp.xml2Str = xmlNode => {
-  try {
-    // Gecko- and Webkit-based browsers (Firefox, Chrome), Opera.
-    return (new XMLSerializer()).serializeToString(xmlNode);
-  }
-  catch (e) {
-    try {
-      // Internet Explorer.
-      return xmlNode.xml;
-    }
-    catch (e) {  
-      //Other browsers without XML Serializer
-      console.log('XMLSerializer not supported');
-    }
-  }
-  return false;
-};
-
-fp.isMobileDevice = () => {
-  return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
-};
-
-fp.enableInstall = () => {
-  const isMobileDevice = fp.isMobileDevice();
-
-  window.addEventListener('beforeinstallprompt', e => {
-    e.preventDefault();
-    fp.installPromptEvent = e;
-    if (isMobileDevice) {
-      $('#install-button-container').show();
-    }
-  });
-
-  document.querySelector('#install-button').addEventListener('click', () => {
-    if (!! fp.installPromptEvent) fp.installPromptEvent.prompt();
-  });
-}
-
-fp.onInstall = () => {
-  window.addEventListener('appinstalled', (evt) => {
-    const installDate = new Date().toJSON();
-    localStorage.setItem('installDate', installDate);
-    $('#install-button-container').hide();
-  });
-}
-
-fp.enableShare = () => {
-  const shareButtonContainer = document.querySelector('#share-button-container');
-  const shareButton = document.querySelector('#share-button');
-  if (navigator.share) {
-    shareButtonContainer.style.display = 'block';
-    shareButton.addEventListener('click', fp.onShare, false);
-  }
-}
-
 fp.onShare = () => {
   let appTitle = document.querySelector('.brand-logo').innerText;
   let appURL = 'https://firstprinciples.mobi/';
@@ -369,21 +266,83 @@ fp.onShare = () => {
   }).then(() => console.log('fp.onShare')).catch(error => console.error(error));
 }
 
-fp.registerServiceWorker = fromKey => {
-  const lang = fp.language.current;
-  const basePath = fp.getPath(fromKey, lang);
-  let pathToSW = basePath + 'sw.js';
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register(pathToSW).catch(error => {
-      console.error('Error in registering First Principles service worker:', error);
-    });
-  }  
+fp.enableInstall = () => {
+  window.addEventListener('beforeinstallprompt', e => {
+    e.preventDefault();
+  });
 }
+
+fp.onInstall = () => {
+  window.addEventListener('appinstalled', (evt) => {
+    const installDate = new Date().toJSON();
+    localStorage.setItem('installDate', installDate);
+    $('#install-button-container').hide();
+  });
+}
+
+fp.events = {
+  listeners: {
+    attach: function() {
+      fp.scripture.onScriptureClicked();
+      fp.scripture.onScriptureExpandButtonClicked();
+      fp.onShare();
+      fp.enableInstall();
+      fp.onInstall();
+    }
+  }
+};
+
+fp.xml2Str = xmlNode => {
+  try {
+    // Gecko- and Webkit-based browsers (Firefox, Chrome), Opera.
+    return (new XMLSerializer()).serializeToString(xmlNode);
+  }
+  catch (e) {
+    try {
+      // Internet Explorer.
+      return xmlNode.xml;
+    }
+    catch (e) {  
+      //Other browsers without XML Serializer
+      console.log('XMLSerializer not supported');
+    }
+  }
+  return false;
+};
+
+fp.prePopulateTitles = () => {
+  let appTitle = 'First Principles';
+  let pageTitle = 'Select Language';
+  const appTitleContainer = document.querySelector('.brand-logo');
+  const pageTitleContainer = document.querySelector('.fp_pagehead');
+  const htmlTitleTag = document.querySelector('title');
+  const appTitleSaved = localStorage.getItem('indexAppTitle');
+  const pageTitleSaved = localStorage.getItem('indexPageTitle');
+  if (appTitleSaved) appTitle = appTitleSaved;
+  if (pageTitleSaved) pageTitle = pageTitleSaved;
+  appTitleContainer.innerText = appTitle;
+  pageTitleContainer.innerText = pageTitle;
+  htmlTitleTag.innerText = appTitle;
+};
 
 fp.init = async fromKey => {
   window.fp = {};
   $.ajaxSetup({
     cache: true
+  });
+  fp.prePopulateTitles();
+  await $.ajax({
+    url: '../../../languages.json',
+    fileType: 'json',
+    error: function(err) {
+      console.error('Failed to load languages.json', err);
+    },
+    success: function(languages) {
+      fp.language.available = [];
+      languages.map(language => {
+        fp.language.available.push(language);
+      });
+    }
   });
   if (fromKey === 'index') {
     fp.language.current = await fp.language.get();
@@ -391,11 +350,9 @@ fp.init = async fromKey => {
     fp.language.indexPage.loadContent();
     return;
   }
-  fp.keys = await fp.loadKeys(fromKey);
-  fp.language.set(fp.keys.lang);
+  fp.language.set(fp.language.current);
   fp.language.global.setAppTitle(fromKey, fp.language.current);
   fp.language.global.setExpandButton(fromKey, fp.language.current);
   await fp.showContent(fromKey, fp.language.current);
   fp.events.listeners.attach();
-  fp.registerServiceWorker(fromKey, fp.language.current);
 };

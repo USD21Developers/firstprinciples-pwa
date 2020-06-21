@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-2-12" lang="es" version="nvi" edition="2015">
+	<passage title="Colosenses 2:12" book="Colosenses" title-en="Colossians 2:12" book-en="Colossians">
+		<chapter number="2" number-en="2">
+			<verse number="12" number-en="12">
+				Ustedes la recibieron al ser sepultados con él en el bautismo. En él también fueron resucitados mediante la fe en el poder de Dios, quien lo resucitó de entre los muertos.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-7-13-14" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Mateus 7:13-14" book="Mateus" title-en="Matthew 7:13-14" book-en="Matthew">
+		<chapter number="7" number-en="7">
+			<verse number="13" number-en="13" jesuswords="true">
+				<p class="scripture-heading">
+					A Porta Estreita e a Porta Larga
+				</p>
+				<span class="jesuswords">"Entrem pela porta estreita, pois larga é a porta e amplo o caminho que leva à perdição, e são muitos os que entram por ela.</span>
+			</verse>
+			<verse number="14" number-en="14" jesuswords="true">
+				<span class="jesuswords">Como é estreita a porta, e apertado o caminho que leva à vida! São poucos os que a encontram".</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

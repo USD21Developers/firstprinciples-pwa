@@ -1,10 +1,4 @@
-@media all and (display-mode: standalone) {
-  #install-button-container {
-    display: none;
-  }
-}
-
-body,
+ body,
  #scriptureModal,
  .collection .collection-item {
   background-color: #efefef;
@@ -95,6 +89,19 @@ ul.compact li {
 .homeicon {
   margin: 4px 18px;
   float: left;
+  position: relative;
+  display: inline-block;
+  padding: 0;
+  width: 60px;
+  height: auto;
+  margin: 0;
+  text-align: center;
+  z-index: 100;
+}
+
+.shareicon {
+  margin: 4px 0 4px 18px !important;
+  float: right;
   position: relative;
   display: inline-block;
   padding: 0;
@@ -236,11 +243,6 @@ blockquote {
   text-overflow: ellipsis;
 }
 
-.page-footer {
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
 table.firstColNoWrap td:nth-child(1) {
   white-space: nowrap;
   vertical-align: top;
@@ -262,14 +264,7 @@ ul.showdiscs li {
   padding-left: 5px;
 }
 
-.fpmodule_footer {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
 #install-button-container,
 #share-button-container {
-  display: none;
-  margin-top: 50px;
   margin-bottom: 50px;
 }

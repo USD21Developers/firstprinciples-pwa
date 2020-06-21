@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-23-50-51" lang="es" version="nvi" edition="2015">
+	<passage title="Lucas 23:50-51" book="Lucas" title-en="Luke 23:50-51" book-en="Luke">
+		<chapter number="23" number-en="23">
+			<verse number="50" number-en="50">
+				<p class="scripture-heading">
+					Sepultura de Jesús
+				</p>
+				Había un hombre bueno y justo llamado José, miembro del Consejo, 
+			</verse>
+			<verse number="51" number-en="51">
+				que no había estado de acuerdo con la decisión ni con la conducta de ellos. Era natural de un pueblo de Judea llamado Arimatea, y esperaba el reino de Dios.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

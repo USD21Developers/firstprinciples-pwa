@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-1-18-19" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 1:18-19" book="Hechos" title-en="Acts 1:18-19" book-en="Acts">
+		<chapter number="1" number-en="1">
+			<verse number="18" number-en="18">
+				(Con el dinero que obtuvo por su crimen, Judas compró un terreno; allí cayó de cabeza, se reventó, y se le salieron las vísceras.
+			</verse>
+			<verse number="19" number-en="19">
+				Todos en Jerusalén se enteraron de ello, así que aquel terreno fue llamado Acéldama, que en su propio idioma quiere decir “Campo de Sangre”).
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

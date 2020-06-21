@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="isaiah-59-1-2" lang="es" version="nvi" edition="2015">
+	<passage title="Isaías 59:1-2" book="Isaías" title-en="Isaiah 59:1-2" book-en="Isaiah">
+		<chapter number="59" number-en="59">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					Pecado, confesión y redención
+				</p>
+				La mano del Señor
+					no es corta para salvar,
+					ni es sordo su oído para oír.
+			</verse>
+			<verse number="2" number-en="2">
+				Son las iniquidades de ustedes
+					las que los separan de su Dios.
+				Son estos pecados los que lo llevan
+					a ocultar su rostro para no escuchar.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

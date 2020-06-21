@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-22" lang="zh" version="cnvs" edition="2001">
+	<passage title="使徒行传 2:22" book="使徒行传" title-en="Acts 2:22" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="22" number-en="22">
+				“以色列人哪，请听听这几句话:正如你们所知道的，　神已经借着拿撒勒人耶稣在你们中间施行了大能、奇事、神迹，向你们证明他是　神所立的。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

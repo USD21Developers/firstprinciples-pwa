@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-12-8-10" lang="zh" version="cnvs" edition="2001">
+	<passage title="哥林多前书 12:8-10" book="哥林多前书" title-en="1 Corinthians 12:8-10" book-en="1 Corinthians">
+		<chapter number="12" number-en="12">
+			<verse number="8" number-en="8">
+				有人借着圣灵领受了智慧的言语，又有人靠着同一位圣灵领受了知识的言语，
+			</verse>
+			<verse number="9" number-en="9">
+				又有人因着同一位圣灵领受了信心，还有人因着这位圣灵领受了医病的恩赐，
+			</verse>
+			<verse number="10" number-en="10">
+				另有人可以行神迹，另有人可以讲道，另有人可以辨别诸灵，也有人能说各种的方言，也有人能翻译方言。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

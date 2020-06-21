@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-28-8" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 28:8" book="Atos" title-en="Acts 28:8" book-en="Acts">
+		<chapter number="28" number-en="28">
+			<verse number="8" number-en="8">
+				Seu pai estava doente, acamado, sofrendo de febre e disenteria. Paulo entrou para vê-lo e, depois de orar, impôs-lhe as mãos e o curou.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

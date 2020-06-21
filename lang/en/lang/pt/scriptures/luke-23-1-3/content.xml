@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-23-1-3" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Lucas 23:1-3" book="Lucas" title-en="Luke 23:1-3" book-en="Luke">
+		<chapter number="23" number-en="23">
+			<verse number="1" number-en="1">
+				Então toda a assembléia levantou-se e o levou a Pilatos.
+			</verse>
+			<verse number="2" number-en="2">
+				E começaram a acusá-lo, dizendo: "Encontramos este homem subvertendo a nossa nação. Ele proíbe o pagamento de imposto a César e se declara ele próprio o Cristo, um rei".
+			</verse>
+			<verse number="3" number-en="3" jesuswords="true">
+				Pilatos perguntou a Jesus: "Você é o rei dos judeus?"
+				<br /> 
+				<br /><span class="jesuswords">"Tu o dizes"</span>, respondeu Jesus.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="isaiah-2-1-4" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Isaías 2:1-4" book="Isaías" title-en="Isaiah 2:1-4" book-en="Isaiah">
+		<chapter number="2" number-en="2">
+			<verse number="1" number-en="1">
+				Foi isto que Isaías, filho de Amoz, viu a respeito de Judá e de Jerusalém:
+			</verse>
+			<verse number="2" number-en="2">
+				Nos últimos dias 
+				    o monte do templo do Senhor
+				será estabelecido 
+				    como o principal; 
+				será elevado acima das colinas, 
+				    e todas as nações correrão para ele.
+			</verse>
+			<verse number="3" number-en="3">
+				Virão muitos povos e dirão: 
+				"Venham, subamos ao monte do Senhor, 
+				    ao templo do Deus de Jacó, 
+				para que ele nos ensine os seus caminhos, 
+				    e assim andemos em suas veredas". 
+				Pois, a lei sairá de Sião, 
+				    de Jerusalém virá a palavra do Senhor.
+			</verse>
+			<verse number="4" number-en="4">
+				Ele julgará entre as nações 
+				    e resolverá contendas de muitos povos. 
+				Eles farão de 
+				    suas espadas arados, 
+				    e de suas lanças foices. 
+				Uma nação não mais pegará em armas 
+				    para atacar outra nação, 
+				elas jamais tornarão a preparar-se 
+				    para a guerra.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

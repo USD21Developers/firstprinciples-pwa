@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="james-1-22-25" lang="zh" version="cnvs" edition="2001">
+	<passage title="雅各书 1:22-25" book="雅各书" title-en="James 1:22-25" book-en="James">
+		<chapter number="1" number-en="1">
+			<verse number="22" number-en="22">
+				你们应该作行道的人，不要单作听道的人，自己欺骗自己；
+			</verse>
+			<verse number="23" number-en="23">
+				因为人若只作听道的人，不作行道的人，他就像一个人对着镜子看自己本来的面貌，
+			</verse>
+			<verse number="24" number-en="24">
+				看过走开以后，马上就忘记自己的样子。
+			</verse>
+			<verse number="25" number-en="25">
+				唯有详细察看那使人自由的全备的律法，并且时常遵守的人，他不是听了就忘记，而是实行出来，就必因自己所作的蒙福。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

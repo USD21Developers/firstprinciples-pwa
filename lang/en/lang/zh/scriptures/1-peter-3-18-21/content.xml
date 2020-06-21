@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-peter-3-18-21" lang="zh" version="cnvs" edition="2001">
+	<passage title="彼得前书 3:18-21" book="彼得前书" title-en="1 Peter 3:18-21" book-en="1 Peter">
+		<chapter number="3" number-en="3">
+			<verse number="18" number-en="18">
+				因为基督也曾一次为你们的罪死了，就是义的代替不义的，为要领你们到　神面前。就肉体的方面说，他曾死去；就灵的方面说，他复活了；
+			</verse>
+			<verse number="19" number-en="19">
+				他藉这灵也曾去向那些在监管中的灵宣讲，
+			</verse>
+			<verse number="20" number-en="20">
+				他们就是挪亚建造方舟的日子、　神容忍等待的时候，那些不顺从的人。当时进入方舟、借着水得救的人不多，只有八个。
+			</verse>
+			<verse number="21" number-en="21">
+				这水预表的洗礼，现在也拯救你们:不是除去肉体的污秽，而是借着耶稣基督的复活，向　神许愿常存纯洁的良心。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

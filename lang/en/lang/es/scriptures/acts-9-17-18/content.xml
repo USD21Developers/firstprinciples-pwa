@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-9-17-18" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 9:17-18" book="Hechos" title-en="Acts 9:17-18" book-en="Acts">
+		<chapter number="9" number-en="9">
+			<verse number="17" number-en="17">
+				Ananías se fue y, cuando llegó a la casa, le impuso las manos a Saulo y le dijo: «Hermano Saulo, el Señor Jesús, que se te apareció en el camino, me ha enviado para que recobres la vista y seas lleno del Espíritu Santo».
+			</verse>
+			<verse number="18" number-en="18">
+				Al instante cayó de los ojos de Saulo algo como escamas, y recobró la vista. Se levantó y fue bautizado;
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

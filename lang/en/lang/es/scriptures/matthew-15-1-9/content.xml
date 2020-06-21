@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-15-1-9" lang="es" version="nvi" edition="2015">
+	<passage title="Mateo 15:1-9" book="Mateo" title-en="Matthew 15:1-9" book-en="Matthew">
+		<chapter number="15" number-en="15">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					Lo limpio y lo impuro
+				</p>
+				Se acercaron a Jesús algunos fariseos y maestros de la ley que habían llegado de Jerusalén, y le preguntaron:
+			</verse>
+			<verse number="2" number-en="2">
+				—¿Por qué quebrantan tus discípulos la tradición de los ancianos? ¡Comen sin cumplir primero el rito de lavarse las manos!
+			</verse>
+			<verse number="3" number-en="3" jesuswords="true">
+				Jesús les contestó:
+				<br />
+				<br /><span class="jesuswords">—¿Y por qué ustedes quebrantan el mandamiento de Dios a causa de la tradición?</span>
+			</verse>
+			<verse number="4" number-en="4" jesuswords="true" scripturequote="true">
+				<span class="jesuswords">Dios dijo: <span class="scripturequote">“Honra a tu padre y a tu madre”,</span> y también: <span class="scripturequote">“El que maldiga a su padre o a su madre será condenado a muerte”.</span></span>
+			</verse>
+			<verse number="5" number-en="5" jesuswords="true">
+				<span class="jesuswords">Ustedes, en cambio, enseñan que un hijo puede decir a su padre o a su madre: “Cualquier ayuda que pudiera darte ya la he dedicado como ofrenda a Dios”.</span>
+			</verse>
+			<verse number="6" number-en="6" jesuswords="true">
+				<span class="jesuswords">En ese caso, el tal hijo no tiene que honrar a su padre. Así por causa de la tradición anulan ustedes la palabra de Dios.</span>
+			</verse>
+			<verse number="7" number-en="7" jesuswords="true">
+				<span class="jesuswords">¡Hipócritas! Tenía razón Isaías cuando profetizó de ustedes:</span>
+			</verse>
+			<verse number="8" number-en="8" jesuswords="true" scripturequote="true">
+				<span class="scripturequote"><span class="jesuswords">»“Este pueblo me honra con los labios,</span>
+    			<span class="jesuswords">pero su corazón está lejos de mí.</span></span>
+			</verse>
+			<verse number="9" number-en="9" jesuswords="true" scripturequote="true">
+				<span class="scripturequote"><span class="jesuswords">En vano me adoran;</span>
+    			<span class="jesuswords">sus enseñanzas no son más que reglas humanas”».</span></span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

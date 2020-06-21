@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-10-19-21" lang="fr" version="SG21" edition="2007">
+	<passage title="Jean 10:19-21" book="Jean" title-en="John 10:19-21" book-en="John">
+		<chapter number="10" number-en="10">
+			<verse number="19" number-en="19">
+				Ces paroles provoquèrent de nouveau une division parmi les Juifs.
+			</verse>
+			<verse number="20" number-en="20">
+				Beaucoup d'entre eux disaient: «Il a un démon, il est fou. Pourquoi l'écoutez-vous?» 
+			</verse>
+			<verse number="21" number-en="21">
+				D'autres disaient: «Ce ne sont pas les paroles d'un démoniaque. Un démon peut-il ouvrir les yeux des aveugles?»
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-17" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 2:17" book="Hechos" title-en="Acts 2:17" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="17" number-en="17">
+				»“Sucederá que en los últimos días —dice Dios—,
+				  <br />derramaré mi Espíritu sobre todo el género humano.
+				<br />Los hijos y las hijas de ustedes profetizarán,
+				  <br />tendrán visiones los jóvenes
+				  <br />y sueños los ancianos.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

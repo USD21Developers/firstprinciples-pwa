@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-3-11" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="1 Coríntios 3:11" book="1 Coríntios" title-en="1 Corinthians 3:11" book-en="1 Corinthians">
+		<chapter number="3" number-en="3">
+			<verse number="11" number-en="11">
+				Porque ninguém pode colocar outro alicerce além do que já está posto, que é Jesus Cristo.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

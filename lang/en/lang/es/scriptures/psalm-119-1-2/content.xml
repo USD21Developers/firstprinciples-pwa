@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="psalm-119-1-2" lang="es" version="nvi" edition="2015">
+	<passage title="Salmos 119:1-2" book="Salmos" title-en="Psalm 119:1-2" book-en="Psalm">
+		<chapter number="119" number-en="119">
+			<verse number="1" number-en="1">
+				Dichosos los que van por caminos perfectos,
+    			<br />los que andan conforme a la ley del Señor.
+			</verse>
+			<verse number="2" number-en="2">
+				Dichosos los que guardan sus estatutos
+    			<br />y de todo corazón lo buscan.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

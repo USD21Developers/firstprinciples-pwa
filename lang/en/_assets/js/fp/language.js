@@ -19,7 +19,7 @@ fp.language = {
     if(! iso) return isAvailable;
     if(typeof iso !== 'string') return isAvailable;
     if(iso.length !== 2) return isAvailable;
-    fp.language.available.map(function(lang) {
+    fp.language.available.map(lang => {
       if(lang.iso === iso) {
         isAvailable = true;
         return;
@@ -61,6 +61,7 @@ fp.language = {
             let $data = $(data);
             let text = {
               appTitle: $data.find('phrase[id=1] translated')[0].textContent.trim(),
+              pageTitle: $data.find('phrase[id=3] translated')[0].textContent.trim(),
               expandButton: $data.find('phrase[id=2] translated')[0].textContent.trim()
             };
             fp.$global = $data;
@@ -68,6 +69,8 @@ fp.language = {
               .find('.brand-logo').text(text.appTitle).end()
               .find('title').text(text.appTitle).end()
             ;
+            localStorage.setItem('indexAppTitle', text.appTitle);
+            localStorage.setItem('indexPageTitle', text.pageTitle);
           }
         })
       });
@@ -82,7 +85,6 @@ fp.language = {
   },
 
   indexPage: {
-
     loadTitle: function() {
       fromKey = 'index';
       lang = fp.language.current;
@@ -97,9 +99,11 @@ fp.language = {
           const $data = $(data);
           const appTitle = $data.find('phrase[id=1] translated')[0].innerHTML.trim();
           const pageTitle = $data.find('phrase[id=3] translated')[0].innerHTML.trim();
-          $('title').text(pageTitle);
+          $('title').text(appTitle);
           $('.brand-logo').html(appTitle);
           $('.fp_pagehead').html(pageTitle);
+          localStorage.setItem('indexAppTitle', appTitle);
+          localStorage.setItem('indexPageTitle', pageTitle);
         }
       });
     },

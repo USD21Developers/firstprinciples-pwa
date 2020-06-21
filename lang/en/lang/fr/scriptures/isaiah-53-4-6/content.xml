@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="isaiah-53-4-6" lang="fr" version="SG21" edition="2007">
+	<passage title="Ésaïe 53:4-6" book="Ésaïe" title-en="Isaiah 53:4-6" book-en="Isaiah">
+		<chapter number="53" number-en="53">
+			<verse number="4" number-en="4">
+				Pourtant, *ce sont nos souffrances qu'il a portées, c'est de nos douleurs qu'il s'est chargé. Et nous, nous l'avons considéré comme puni, frappé par Dieu et humilié.
+			</verse>
+			<verse number="5" number-en="5">
+				Mais lui, il était blessé à cause de nos transgressions, brisé à cause de nos fautes: la punition qui nous donne la paix est tombée sur lui, et *c'est par ses blessures que nous sommes guéris.
+			</verse>
+			<verse number="6" number-en="6">
+				Nous étions tous comme des brebis égarées: chacun suivait sa propre voie, et l'Eternel a fait retomber sur lui nos fautes à tous.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

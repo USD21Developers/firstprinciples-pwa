@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-15-18-20" lang="es" version="nvi" edition="2015">
+	<passage title="Juan 15:18-20" book="Juan" title-en="John 15:18-20" book-en="John">
+		<chapter number="15" number-en="15">
+			<verse number="18" number-en="18" jesuswords="true">
+				<p class="scripture-heading">
+					Jesús y sus discípulos aborrecidos por el mundo
+				</p>
+				<span class="jesuswords">»Si el mundo los aborrece, tengan presente que antes que a ustedes, me aborreció a mí.</span>
+			</verse>
+			<verse number="19" number-en="19" jesuswords="true">
+				<span class="jesuswords">Si fueran del mundo, el mundo los amaría como a los suyos. Pero ustedes no son del mundo, sino que yo los he escogido de entre el mundo. Por eso el mundo los aborrece.</span>
+			</verse>
+			<verse number="20" number-en="20" jesuswords="true">
+				<span class="jesuswords">Recuerden lo que les dije: “Ningún siervo es más que su amo”. Si a mí me han perseguido, también a ustedes los perseguirán. Si han obedecido mis enseñanzas, también obedecerán las de ustedes.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

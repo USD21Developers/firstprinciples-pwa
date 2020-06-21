@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-7-12-13" lang="es" version="nvi" edition="2015">
+	<passage title="Juan 7:12-13" book="Juan" title-en="John 7:12-13" book-en="John">
+		<chapter number="7" number-en="7">
+			<verse number="12" number-en="12">
+				Entre la multitud corrían muchos rumores acerca de él. Unos decían: «Es una buena persona». Otros alegaban: «No, lo que pasa es que engaña a la gente».
+			</verse>
+			<verse number="13" number-en="13">
+				Sin embargo, por temor a los judíos nadie hablaba de él abiertamente.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

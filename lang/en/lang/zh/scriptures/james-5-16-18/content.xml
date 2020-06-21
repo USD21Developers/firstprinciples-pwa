@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="james-5-16-18" lang="zh" version="cnvs" edition="2001">
+	<passage title="雅各书 5:16-18" book="雅各书" title-en="James 5:16-18" book-en="James">
+		<chapter number="5" number-en="5">
+			<verse number="16" number-en="16">
+				 所以你们应当彼此认罪，互相代求，这样你们就可以痊愈。义人祈祷所发出的力量，是大有功效的。
+			</verse>
+			<verse number="17" number-en="17">
+				以利亚是与我们性情相同的人；他恳切祈求不要下雨，地上就三年零六个月没有雨；
+			</verse>
+			<verse number="18" number-en="18">
+				他又祈祷，天就下雨，地就生出土产来。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-1-15-18" lang="fr" version="SG21" edition="2007">
+	<passage title="Colossiens 1:15-18" book="Colossiens" title-en="Colossians 1:15-18" book-en="Colossians">
+		<chapter number="1" number-en="1">
+			<verse number="15" number-en="15">
+				<p class="scripture-heading">
+					La prééminence et l’œuvre de Christ
+				</p>
+				Le Fils est l'image du Dieu invisible, le premier-né de toute la création.
+			</verse>
+			<verse number="16" number-en="16">
+				En effet, c’est en lui que tout a été créé dans le ciel et sur la terre, le visible et l’invisible, trônes, souverainetés, dominations, autorités. Tout a été créé par lui et pour lui.
+			</verse>
+			<verse number="17" number-en="17">
+				Il existe avant toutes choses et tout subsiste en lui.
+			</verse>
+			<verse number="18" number-en="18">
+				Il est la tête du corps qu’est l'Eglise; il est le commencement, le premier-né d'entre les morts, afin d'être en tout le premier.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

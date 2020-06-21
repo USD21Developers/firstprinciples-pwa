@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-3-1-2" lang="fr" version="SG21" edition="2007">
+	<passage title="Matthieu 3:1-2" book="Matthieu" title-en="Matthew 3:1-2" book-en="Matthew">
+		<chapter number="3" number-en="3">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					Ministère de Jean-Baptiste
+				</p>
+				A cette époque-là parut Jean-Baptiste, qui prêchait dans le désert de Judée.
+			</verse>
+			<verse number="2" number-en="2">
+				Il disait: «Changez d’attitude, car le royaume des cieux est proche.»
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

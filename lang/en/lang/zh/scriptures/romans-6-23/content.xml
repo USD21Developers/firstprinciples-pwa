@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="romans-6-23" lang="zh" version="cnvs" edition="2001">
+	<passage title="罗马书 6:23" book="罗马书" title-en="Romans 6:23" book-en="Romans">
+		<chapter number="6" number-en="6">
+			<verse number="23" number-en="23">
+				因为罪的工价就是死，但　神的恩赏，在我们的主基督耶稣里，却是永生。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

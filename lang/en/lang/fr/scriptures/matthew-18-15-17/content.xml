@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-18-15-17" lang="fr" version="SG21" edition="2007">
+	<passage title="Matthieu 18:15-17" book="Matthieu" title-en="Matthew 18:15-17" book-en="Matthew">
+		<chapter number="18" number-en="18">
+			<verse number="15" number-en="15" jesuswords="true">
+				<p class="scripture-heading">
+					Le pardon
+				</p>
+				<span class="jesuswords">»Si ton frère a péché [contre toi], va et reprends-le seul à seul. S'il t'écoute, tu as gagné ton frère.</span>
+			</verse>
+			<verse number="16" number-en="16" jesuswords="true" scripturequote="true">
+				<span class="jesuswords">Mais s'il ne t'écoute pas, prends avec toi une ou deux personnes, afin que <span class="scripturequote">toute l'affaire se règle sur la déclaration de deux ou de trois témoins.</span></span>
+			</verse>
+			<verse number="17" number-en="17" jesuswords="true">
+				<span class="jesuswords">S'il refuse de les écouter, dis-le à l'Eglise; et s'il refuse aussi d'écouter l'Eglise, qu'il soit à tes yeux comme le membre d’un autre peuple et le collecteur d’impôts.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

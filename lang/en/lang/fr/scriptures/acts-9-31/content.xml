@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-9-31" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 9:31" book="Actes" title-en="Acts 9:31" book-en="Acts">
+		<chapter number="9" number-en="9">
+			<verse number="31" number-en="31">
+				<p class="scripture-heading">
+					Miracles à Lydde et Jaffa
+				</p>
+				L'Eglise était en paix dans toute la Judée, la Galilée et la Samarie; elle s'édifiait, marchait dans la crainte du Seigneur et grandissait grâce à l'aide du Saint-Esprit.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

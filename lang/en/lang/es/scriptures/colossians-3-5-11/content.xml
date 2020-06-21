@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-3-5-11" lang="es" version="nvi" edition="2015">
+	<passage title="Colosenses 3:5-11" book="Colosenses" title-en="Colossians 3:5-11" book-en="Colossians">
+		<chapter number="3" number-en="3">
+			<verse number="5" number-en="5">
+				Por tanto, hagan morir todo lo que es propio de la naturaleza terrenal: inmoralidad sexual, impureza, bajas pasiones, malos deseos y avaricia, la cual es idolatría.
+			</verse>
+			<verse number="6" number-en="6">
+				Por estas cosas viene el castigo de Dios.
+			</verse>
+			<verse number="7" number-en="7">
+				Ustedes las practicaron en otro tiempo, cuando vivían en ellas.
+			</verse>
+			<verse number="8" number-en="8">
+				Pero ahora abandonen también todo esto: enojo, ira, malicia, calumnia y lenguaje obsceno.
+			</verse>
+			<verse number="9" number-en="9">
+				Dejen de mentirse unos a otros, ahora que se han quitado el ropaje de la vieja naturaleza con sus vicios,
+			</verse>
+			<verse number="10" number-en="10">
+				y se han puesto el de la nueva naturaleza, que se va renovando en conocimiento a imagen de su creador.
+			</verse>
+			<verse number="11" number-en="11">
+				En esta nueva naturaleza no hay griego ni judío, circunciso ni incircunciso, culto ni inculto, esclavo ni libre, sino que Cristo es todo y está en todos.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

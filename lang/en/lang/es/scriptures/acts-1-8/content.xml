@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-1-8" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 1:8" book="Hechos" title-en="Acts 1:8" book-en="Acts">
+		<chapter number="1" number-en="1">
+			<verse number="8" number-en="8" jesuswords="true">
+				<span class="jesuswords">Pero, cuando venga el Espíritu Santo sobre ustedes, recibirán poder y serán mis testigos tanto en Jerusalén como en toda Judea y Samaria, y hasta los confines de la tierra.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

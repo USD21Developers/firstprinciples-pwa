@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-11-23-32" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="1 Coríntios 11:23-32" book="1 Coríntios" title-en="1 Corinthians 11:23-32" book-en="1 Corinthians">
+		<chapter number="11" number-en="11">
+			<verse number="23" number-en="23">
+				Pois recebi do Senhor o que também lhes entreguei: Que o Senhor Jesus, na noite em que foi traído, tomou o pão
+			</verse>
+			<verse number="24" number-en="24" jesuswords="true">
+				e, tendo dado graças, partiu-o e disse: <span class="jesuswords">“Isto é o meu corpo, que é dado em favor de vocês; façam isto em memória de mim”.</span> 
+			</verse>
+			<verse number="25" number-en="25" jesuswords="true">
+				Da mesma forma, depois da ceia ele tomou o cálice e disse: <span class="jesuswords">“Este cálice é a nova aliança no meu sangue; façam isso sempre que o beberem em memória de mim”.</span>
+			</verse>
+			<verse number="26" number-en="26">
+				Porque, sempre que comerem deste pão e beberem deste cálice, vocês anunciam a morte do Senhor até que ele venha.
+			</verse>
+			<verse number="27" number-en="27">
+				Portanto, todo aquele que comer o pão ou beber o cálice do Senhor indignamente será culpado de pecar contra o corpo e o sangue do Senhor. 
+			</verse>
+			<verse number="28" number-en="28">
+				Examine-se cada um a si mesmo, e então coma do pão e beba do cálice.
+			</verse>
+			<verse number="29" number-en="29">
+				Pois quem come e bebe sem discernir o corpo do Senhor, come e bebe para sua própria condenação.
+			</verse>
+			<verse number="30" number-en="30">
+				Por isso há entre vocês muitos fracos e doentes, e vários já dormiram.
+			</verse>
+			<verse number="31" number-en="31">
+				Mas, se nós tivéssemos o cuidado de examinar a nós mesmos, não receberíamos juízo.
+			</verse>
+			<verse number="32" number-en="32">
+				Quando, porém, somos julgados pelo Senhor, estamos sendo disciplinados para que não sejamos condenados com o mundo.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

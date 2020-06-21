@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-27-46" lang="zh" version="cnvs" edition="2001">
+	<passage title="马太福音 27:46" book="马太福音" title-en="Matthew 27:46" book-en="Matthew">
+		<chapter number="27" number-en="27">
+			<verse number="46" number-en="46" jesuswords="true">
+				大约三点钟，耶稣大声呼叫:<span class="jesuswords">“以利，以利，拉马撒巴各大尼？”</span>意思是“我的　神，我的　神，你为甚么离弃我？”
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

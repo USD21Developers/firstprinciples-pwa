@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-4-23-24" lang="fr" version="SG21" edition="2007">
+	<passage title="Jean 4:23-24" book="Jean" title-en="John 4:23-24" book-en="John">
+		<chapter number="4" number-en="4">
+			<verse number="23" number-en="23" jesuswords="true">
+				<span class="jesuswords">Mais l'heure vient, et elle est déjà là, où les vrais adorateurs adoreront le Père en esprit et en vérité. En effet, ce sont là les adorateurs que recherche le Père.</span>
+			</verse>
+			<verse number="24" number-en="24" jesuswords="true">
+				<span class="jesuswords">Dieu est Esprit et il faut que ceux qui l'adorent l'adorent en esprit et en vérité.»</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

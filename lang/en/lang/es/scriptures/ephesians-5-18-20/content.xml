@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="ephesians-5-18-20" lang="es" version="nvi" edition="2015">
+	<passage title="Efesios 5:18-20" book="Efesios" title-en="Ephesians 5:18-20" book-en="Ephesians">
+		<chapter number="5" number-en="5">
+			<verse number="18" number-en="18">
+				No se emborrachen con vino, que lleva al desenfreno. Al contrario, sean llenos del Espíritu.
+			</verse>
+			<verse number="19" number-en="19">
+				Anímense unos a otros con salmos, himnos y canciones espirituales. Canten y alaben al Señor con el corazón,
+			</verse>
+			<verse number="20" number-en="20">
+				dando siempre gracias a Dios el Padre por todo, en el nombre de nuestro Señor Jesucristo.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

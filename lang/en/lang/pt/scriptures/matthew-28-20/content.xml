@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-28-20" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Mateus 28:20" book="Mateus" title-en="Matthew 28:20" book-en="Matthew">
+		<chapter number="28" number-en="28">
+			<verse number="20" number-en="20" jesuswords="true">
+				<span class="jesuswords">ensinando-os a obedecer a tudo o que eu lhes ordenei. E eu estarei sempre com vocês, até o fim dos tempos".</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

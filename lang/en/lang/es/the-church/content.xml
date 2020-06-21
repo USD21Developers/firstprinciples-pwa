@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="the-church" lang-original="en" lang-translated="es" last-updated="2018-09-29" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-29" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			The Church
+		</original>
+		<translated>
+			La Iglesia
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			Colossians 1:15-18
+		</original>
+		<translated>
+			Colosenses 1:15-18
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-1-15-18">
+			<original>
+				Colossians 1:15-18
+			</original>
+			<translated>
+				Colosenses 1:15-18
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			The church is the body of Christ. The body needs the head. The church is essential to Christianity.
+		</original>
+		<translated>
+			La iglesia es el cuerpo de Cristo. El cuerpo necesita a la cabeza. La iglesia es esencial para el cristianismo.
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			HEAD
+		</original>
+		<translated>
+			CABEZA
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			CHRIST
+		</original>
+		<translated>
+			CRISTO
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			BODY
+		</original>
+		<translated>
+			CUERPO
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			CHURCH
+		</original>
+		<translated>
+			IGLESIA
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			Ephesians 2:19-21
+		</original>
+		<translated>
+			Efesios 2:19-21
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-2-19-21">
+			<original>
+				Ephesians 2:19-21
+			</original>
+			<translated>
+				Efesios 2:19-21
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			The church is the family of God.
+		</original>
+		<translated>
+			La iglesia es la familia de Dios.
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			GOD
+		</original>
+		<translated>
+			DIOS
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			(Father)
+		</original>
+		<translated>
+			(Padre)
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			Christian
+		</original>
+		<translated>
+			Cristiano
+		</translated>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			(Son)
+		</original>
+		<translated>
+			(Hijo)
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			Brothers
+		</original>
+		<translated>
+			Hermanos
+		</translated>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			Christian
+		</original>
+		<translated>
+			Cristiano
+		</translated>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			(Son)
+		</original>
+		<translated>
+			(Hijo)
+		</translated>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			1 Corinthians 12:12-13 teaches that we are baptized into the body of Christ, the church.
+		</original>
+		<translated>
+			I Corintios 12:12-13 nos enseña que en el bautismo, nos unimos al cuerpo de Cristo, la iglesia.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-12-13">
+			<original>
+				1 Corinthians 12:12-13
+			</original>
+			<translated>
+				I Corintios 12:12-13
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			Romans 6:3-4 teaches that we are also baptized into Christ. Baptism is when we become Christian, a son of God, and at that same point we become members of the church, the family of God.
+		</original>
+		<translated>
+			Romanos 6:3-4 nos enseña que también nos unimos a Cristo en el bautismo. El bautismo es cuando nos convertimos en un Cristiano, hijo/a de Dios, y al mismo tiempo llegamos a formar parte de la iglesia, la familia de Dios.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-6-3-4">
+			<original>
+				Romans 6:3-4
+			</original>
+			<translated>
+				Romanos 6:3-4
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			Ephesians 2:20
+		</original>
+		<translated>
+			Efesios 2:20
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-2-20">
+			<original>
+				Ephesians 2:20
+			</original>
+			<translated>
+				Efesios 2:20
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			Cornerstone: Christ
+		</original>
+		<translated>
+			La piedra angular: Cristo
+		</translated>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			Foundation: Apostles and Prophets
+		</original>
+		<translated>
+			La fundación: Los apóstoles y los profetas
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			Apostles = New Testament Bible
+		</original>
+		<translated>
+			Los apóstoles = El Nuevo Testamento
+		</translated>
+	</phrase>
+
+	<phrase id="23" desc="">
+		<original>
+			Prophets = Old Testament
+		</original>
+		<translated>
+			Los profetas = El Antiguo Testamento
+		</translated>
+	</phrase>
+
+	<phrase id="24" desc="">
+		<original>
+			The church is based on the Word of God only.
+		</original>
+		<translated>
+			La iglesia está fundada en la Palabra de Dios solamente.
+		</translated>
+	</phrase>
+
+	<phrase id="25" desc="">
+		<original>
+			Have you ever wondered why there are so many denominations/divisions? (450 or more exist in the U.S. alone.)
+		</original>
+		<translated>
+			¿Te has preguntado porque existen tantas denominaciones/divisiones? (450 o más existen solo en los Estados Unidos)
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Have you ever wondered why there are so many denominations/divisions?
+			</original>
+			<translated>
+				¿Te has preguntado porque existen tantas denominaciones/divisiones?
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="26" desc="">
+		<original>
+			The Bible teaches that there is one church.
+		</original>
+		<translated>
+			La Biblia enseña que hay solo una iglesia.
+		</translated>
+	</phrase>
+
+	<phrase id="27" desc="">
+		<original>
+			Ephesians 4:4-6 — one body
+		</original>
+		<translated>
+			Efesios 4:4-6 — Un solo cuerpo
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-4-4-6">
+			<original>
+				Ephesians 4:4-6
+			</original>
+			<translated>
+				Efesios 4:4-6
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="28" desc="">
+		<original>
+			Romans 12:4-5 — one body
+		</original>
+		<translated>
+			Romanos 12:4-5 — Un solo cuerpo
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-12-4-5">
+			<original>
+				Romans 12:4-5
+			</original>
+			<translated>
+				Romanos 12:4-5
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="29" desc="">
+		<original>
+			1 Corinthians 12:12-13 — one body
+		</original>
+		<translated>
+			I Corintios 12:12-13 — Un solo cuerpo
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-12-13">
+			<original>
+				1 Corinthians 12:12-13
+			</original>
+			<translated>
+				I Corintios 12:12-13
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="30" desc="">
+		<original>
+			Divisions in Christendom are either of Satan or of God.
+		</original>
+		<translated>
+			Las divisiones en el cristianismo o son de Satanás o son de Dios.
+		</translated>
+	</phrase>
+
+	<phrase id="31" desc="">
+		<original>
+			1 Corinthians 1:10-13: Division is sin, when following personalities and in time their writings (traditions of men that contradict the Word — false doctrines). Matthew 15:6-9
+		</original>
+		<translated>
+			I Corintios 1:10-13. No haya divisiones. Siguiendo personalidades y después su literatura (las tradiciones de los hombres que contradicen la Palabra de Dios — doctrinas falsas.) (Mateo 15:6-9)
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-1-10-13">
+			<original>
+				1 Corinthians 1:10-13
+			</original>
+			<translated>
+				I Corintios 1:10-13
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-15-6-9">
+			<original>
+				Matthew 15:6-9
+			</original>
+			<translated>
+				Mateo 15:6-9
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="32" desc="">
+		<original>
+			Luke 12:51-53; John 10:19-21: Division will occur and is righteous, when an individual, church or movement aligns themselves with the Word of God. The Jews considered themselves "God's people," yet Jesus' words (the truth) divided them into two groups — those who opposed Him and those who obeyed Him.
+		</original>
+		<translated>
+			Luke 12:51-53; Juan 10:19-21 La división va a ocurrir y es justo, cuando una persona, iglesia, o movimiento se alinea con la Palabra de Dios. Los judíos se consideraban el "pueblo de Dios", sin embargo las palabras de Jesús (la verdad) los dividió en dos grupos - los que se oponían y los que le obedecían.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="luke-12-51-53">
+			<original>
+				Luke 12:51-53
+			</original>
+			<translated>
+				Luke 12:51-53
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="john-10-19-21">
+			<original>
+				John 10:19-21
+			</original>
+			<translated>
+				Juan 10:19-21
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="33" desc="">
+		<original>
+			The following are the major historical divisions in Christendom — some were formed by a noble stand for the truth (though not a complete return), while others were departures from the truth.
+		</original>
+		<translated>
+			En seguida vemos son las divisiones principales en la historia del cristianismo — unas se hicieron por una noble causa a favor de la verdad (aunque no fue un regreso completo), mientras otras fueron desviaciones de la verdad.
+		</translated>
+	</phrase>
+
+	<phrase id="34" desc="">
+		<original>
+			Through the centuries the church was corrupted by traditions of men — false doctrines, such as: infant baptism, original sin, perpetual virginity of Mary, priests as clergy, papal infallibility, etc... This becomes the Catholic Church. In 364 AD the Roman Empire is split into two parts. This division leads to a split in Christianity — the eastern portion becomes the Eastern Orthodox Church and the western part becomes the Roman Catholic Church. Practices diverge, for example — Orthodox has married priests, Roman Catholic priests are celibate. The "Great Schism" occurs in 1054 AD, as the leaders of "each church" excommunicate each other.
+		</original>
+		<translated>
+			A través de los siglos la iglesia se corrumpió con las tradiciones de los hombres — las falsas doctrinas, tales como: el bautismo de los bebés, el pecado original, la virginidad perpétua de María, el sacerdocio, la infalibilidad del papa, etc... Esta llega a ser la Iglesia Católica Romana. En 364 d.C. el Impirio Romano se divide en dos partes. Esa división causa una rotura en el cristianismo — la parte en el este se convierte en la Iglesia Ortodoxa del Este y la parte en el oeste se vuelve la Iglesia Católica. Sus prácticas empiezan a ser distintas, por ejemplo — la Iglesia Ortodoxa tiene sacerdotes casados, los sacerdotes de la Iglesia Católica son celibatos. El "Gran Cisma" ocurre en 1054, y los líderes de "cada iglesia" expulsan a los otros.
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Catholic Church
+			</original>
+			<translated>
+				Iglesia Católica
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Eastern Orthodox Church
+			</original>
+			<translated>
+				Iglesia Ortodoxa
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Roman Catholic Church
+			</original>
+			<translated>
+				Iglesia Católica Romana
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="35" desc="">
+		<original>
+			1500's Reformation Movement — Martin Luther (Lutheran Church) He takes a stand against the Roman Catholic Church on these convictions: Bible authority over church authority, salvation by faith not works, and the priesthood of all believers, yet still baptizes infants. Other noted reformers were John Calvin (Presbyterian Church), Ulrich Zwingli and Conrad Grebel (Anabaptists). Anabaptists were heavily persecuted by Catholics and some reformers, because of their stand for adult baptism. Henry VIII (Anglican Church / Church of England) He breaks from the Catholic Church over his right to divorce his wife. He appoints himself head of the church. Later in the United States, the Anglican Church becomes the Episcopalian Church, since members will not follow the king of England.
+		</original>
+		<translated>
+			El Moviemiento de la Reforma de los años 1500 — Martín Lutero (la Iglesia Luterana). El toma una posición en contra de la Iglesia Católica por estas convicciones: La Biblia tiene autoridad sobre la iglesia, la salvación por fe y no por obras, y el sacerdocio de todos los creyentes, sin embargo todavía bautiza a los infantes. Otros reformistas notables fueron: Juan Calvino (la Iglesia Prebeteriana), Ulrich Zwingli y Conrad Grebel (los anabautistas). Los anabautistas fueron severamente perseguidos por los católicos y por algunos de los reformistas por su posición en favor del bautismo de los adultos. Enrique VIII (la Iglesia Anglicana / la Iglesia de Inglaterra) El rompe con la Iglesia Católica para tener el derecho de divorciarse de su esposa. El se nombra a sí mismo la cabeza de la iglesia. Luego en los Estados Unidos, se vuelve la Iglesia Episcopal, ya que los miembros no iban a seguir al rey de Inglaterra.
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				1500's Reformation Movement
+			</original>
+			<translated>
+				El Moviemiento de la Reforma de los años 1500
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="36" desc="">
+		<original>
+			1700's Great Awakening Movement — John and Charles Wesley (Methodist Church). Followers divide from Church of England over: personal transforming decision for Christ not state religion, high accountability of members, and preaching to the "unchurched;" also practiced infant baptism.
+		</original>
+		<translated>
+			El Moviento del Gran Despertar de los años 1700 — Juan y Carlos Wesley (la Iglesia Metodista). Los seguidores se dividen de la Iglesia de Inglaterra por: una decisión personal transformador por Cristo y no la religión del estado, la alta contabilidad para los miembros, y predicando a los "inconversos;" también practicaban el bautismo de infantes.
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				1700's Great Awakening Movement
+			</original>
+			<translated>
+				El Moviento del Gran Despertar de los años 1700
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="37" desc="">
+		<original>
+			1800's Restoration Movement — Alexander Campbell and Barton Stone (Mainline Church of Christ and Conservative Christian Church) Take a stand against both Catholic and Protestant doctrines of salvation. They preach to be saved one must have personal faith in Christ, repentance and baptism (immersion) for the forgiveness of sin to receive the Holy Spirit. In reaction to Catholicism, their congregations are autonomous — self-governing. (1906 is the formal split between Mainline Church of Christ, which is non-instrumental, and the Conservative Christian Church, which is instrumental.) Joseph Smith (Mormon Church) divides from Restoration Movement in 1830 over "new revelation" — the Book of Mormon.
+		</original>
+		<translated>
+			El Movimiento de la Restauración de los años 1800 — Alejandro Campbell y Barton Stone (la iglesia tradicional de Cristo y la Iglesia Cristiana Conservadora) Ellos se ponen en contra de las doctrinas de salvación católica y protestante también. Ellos predican que para poder ser salvo uno debe tener una fe personal en Cristo, arrepentirse y bautizarse (por inmersión) para el perdón de los pecados y para recibir al Espíritu Santo. En reacción del catolicismo, sus congregaciones son autónomas — se gobierna cada una a sí misma. (1906 es el año oficial de la división entre las iglesias tradicionales de Cristo, que no usa instrumentos) musicales, y la Iglesia Cristiana Conservadora, la cual sí usa instrumentos. José Smith (la Iglesia Mormona) se divide con el Movimiento de la Restauración en 1830 por una "nueva revelación" — el Libro de Mormón.
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				1800's Restoration Movement
+			</original>
+			<translated>
+				El Movimiento de la Restauración de los años 1800
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="38" desc="">
+		<original>
+			1967 Crossroads Movement (Total Commitment Movement) — Controversial, though never departing from the Mainline Church of Christ, the Crossroads Church near the University of Florida pioneers evangelizing the secular campuses of United States, "counting the cost" with each person that desires to be baptized, and the shepherding of new converts.
+		</original>
+		<translated>
+			El Movimiento de la Encrucijada (Crossroads) de 1967 (el Movimiento del Compromiso Total) Controversial, aunque nunca se separó de las iglesias tradicionales de Cristo, la Igesia de la Encucijada cerca de la Universidad de la Florida inicia el evangelización de los campus universitarios de los Estados Unidos, "contando el costo" con cada persona que deseaba bautizarse, y el cuidado espiritual de los nuevos cristianos.
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				1967 Crossroads Movement
+			</original>
+			<translated>
+				El Movimiento de la Encrucijada (Crossroads) de 1967
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="39" desc="">
+		<original>
+			1979 Boston Movement (International Church of Christ) — Kip McKean — Baptized at the University of Florida in 1972, divides from Mainline Churches of Christ and Crossroads Movement over: Bible Church not just New Testament Church, only disciples are true Christians, each and every member of church must be a disciple, each member should be in discipling relationships, vision to evangelize the nations in a generation, the planting of new churches to achieve this vision, central leadership not autonomous congregations, and the role of women. In 2002, the International Churches of Christ return to a more Mainline Church of Christ theology — each congregation becomes autonomous (self-governing), calling a central leadership and the vision to evangelize the nations in a generation "unbiblical." Around the world, thousands fall away.
+		</original>
+		<translated>
+			El Movimiento de Boston (las Iglesias Internacionales de Cristo) 1979 — Kip McKean — Bautizado en la Universidad de la Florida en 1972, se divide de las iglesias tradicionales de Cristo y el Movimiento de la Encrucijada por: ser una iglesia de la Biblia y no solamente del Nuevo Testamento, solamente los discípulos son verdaderos cristianos, cada miembro de la iglesia tenía que ser un discípulo, cada miembro debe tener una relación de discipulado, la visión de evangelizar al mundo en una generación, el plantar a nuevas iglesias para alcazar esa visión, un liderazgo central y no congregaciones autónomas, y el papel de las mujeres. En 2002, las Iglesias Internacionales de Cristo regresan a la doctrina de las iglesias tradicionales de Cristo — cada congregación se vuelve autónoma (se auto-gobierna), diciendo que un liderazgo central y la visión de evangelizar al mundo en una generación son "anti-bíblicos." Alrededor del mundo, miles se caen de la fe.
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				1979 Boston Movement
+			</original>
+			<translated>
+				El Movimiento de Boston (las Iglesias Internacionales de Cristo) 1979
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="40" desc="">
+		<original>
+			2006 SoldOut Movement (Portland Movement / International Christian Church): Begins in Portland, Oregon as a revival movement within the International Churches of Christ. The International Church of Christ separates from the SoldOut Movement, because of the new movement's stand on these convictions: Bible Church not just New Testament Church, only disciples are true Christians, each and every member of church must be a disciple, each member should be in discipling relationships, vision to evangelize the nations in a generation, the planting of new churches to achieve this vision, central leadership not autonomous congregations, and the role of women.
+		</original>
+		<translated>
+			El Movimiento de Discipulado y Compromiso Total (El Movimiento de Portland / La Iglesia Cristiana Internacional) Empieza en Pórtland, Oregon en el año 2006 como un movimiento de reavivamiento dentro de las Iglesias Internacionales de Cristo. La Iglesia Internacional de Cristo se separa del Movimiento de Discipulado y Compromiso Total por la postura del nuevo movimiento aceca de las siguientes convicciones: ser una iglesia de la Biblia y no solamente del Nuevo Testamento, solamente los discípulos son verdaderos cristianos, cada miembro de la iglesia tiene que ser un discípulo, cada miembro debe tener una relación de discipulado, la visión de evangelizar al mundo en una generación, el plantar a nuevas iglesias para alcazar esa visión, un liderazgo central y no congregaciones autónomas, y el papel de las mujeres.
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				2006 SoldOut Movement
+			</original>
+			<translated>
+				El Movimiento de Discipulado y Compromiso Total
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="41" desc="">
+		<original>
+			What is the "one church?"
+		</original>
+		<translated>
+			¿Cuál es la "una sola iglesia"?
+		</translated>
+	</phrase>
+
+	<phrase id="42" desc="">
+		<original>
+			Acts 11:25-26: Church = Disciples = Christians. When God looks down from heaven, He sees one church — all the baptized disciples around the world, who are "sold-out" in obeying his Word. This is called the "church universal" — the one true church (Ephesians 4:4-6).
+		</original>
+		<translated>
+			Hechos 11:25-26: Iglesia = Discípulos = Cristianos. Cuando Dios se mira hacia abajo desde el cielo, El ve a una sola iglesia — todos los discípulos bautizados alrededor del mundo, quienes están "completamente comprometidos" en obedecer a Su Palabra. Ese se llama la "iglesia universal" — la única iglesia verdadera. (Efesios 4:4-6)
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-11-25-26">
+			<original>
+				Acts 11:25-26
+			</original>
+			<translated>
+				Hechos 11:25-26
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Church = Disciples = Christians.
+			</original>
+			<translated>
+				Iglesia = Discípulos = Cristianos
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-4-4-6">
+			<original>
+				Ephesians 4:4-6
+			</original>
+			<translated>
+				Efesios 4:4-6
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="43" desc="">
+		<original>
+			A local congregation is called the "visible church." In the first century, all the "visible churches" made up the "church universal." However, since so many "visible churches" have departed from true doctrine and because all sold-out baptized disciples are not in one fellowship, we should strive to be a member of a local congregation.
+		</original>
+		<translated>
+			Una congregación local se llama la "iglesia visible." En el primer siglo, todas las "iglesias visibles" formaban a la "iglesia universal." Sin embargo, ya que tantas "iglesias visibles" se han desviado de la verdadera doctrina y ya que no todas los discípulos bautizados completamente comprometidos se encuentran en una sola confraternidad, debemos procurar ser miembro de una congregación local.
+		</translated>
+	</phrase>
+
+	<phrase id="44" desc="">
+		<original>
+			The Greek word for church is "ekklesia" which means "assembly" or "called out" ("Ek" meaning "out" and "kaleo" meaning "to call"). To be a disciple is to be "called out" from the world. Therefore, the church in the Bible was the "assembly" of the "called out."
+		</original>
+		<translated>
+			La palabra griega para iglesia es "ekklesia" la cual quiere decir "asamblea" o "llamado para afuera". ("Ek" quiere decir "para afuera" y "kaleo" significa "llamar.") El ser un discípulo es ser llamado a salirse del mundo. Por eso, la iglesia en la Biblia fue la "asemblea" de los "llamados para salir fuera."
+		</translated>
+	</phrase>
+
+	<phrase id="45" desc="">
+		<original>
+			There are several names in the Bible for God's Church: Disciples, Christians, Church of God, Church of Christ, The Way, Church of the Firstborn, Saints, etc... Since we are free to choose any name for our fellowship, since our fellowship goes around the world, and because our churches are composed of only sold-out disciples, we call ourselves the "International Christian Church."
+		</original>
+		<translated>
+			Hubo varios nombres en la Biblia para la Iglesia de Dios: los discípulos, los cristianos, la Iglesia de Dios, la Iglesia de Cristo, el Camino, la Iglesia del Primogénito, los Santos, etc... Ya que somos libres para eligir cualquier nombre para nuestra confraternidad, y nuestra confraternidad se extiende por todo el mundo, y ya que nuestras iglesias tienen solamente discípulos completamente comprometidos, nosotros nos llamamos la "Iglesia Cristiana Internacional."
+		</translated>
+	</phrase>
+
+	<phrase id="46" desc="">
+		<original>
+			What distinguishes the International Christian Churches? (What separates or "divides" us from mainstream Christendom?)
+		</original>
+		<translated>
+			¿Qué distingue a las Iglesias Cristianas Internacionales? (¿Qué nos separa o nos "divide" del cristianismo común?)
+		</translated>
+	</phrase>
+
+	<phrase id="47" desc="">
+		<original>
+			We believe God physically resurrected Jesus from the dead.
+		</original>
+		<translated>
+			Creemos que Dios físicamente resucitó a Jesús de la muerte.
+		</translated>
+	</phrase>
+
+	<phrase id="48" desc="">
+		<original>
+			We believe the Bible is inspired by God and is our sole authority. Therefore, since we have not departed (divided) from the truth, we consider ourselves non-denominational.
+		</original>
+		<translated>
+			Creemos que la Biblia es inspirada por Dios y es nuestra única autoridad. Por eso, ya que no nos hemos separado (dividido) de la verdad, nos consideramos no-denominacional.
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				We believe the Bible is inspired by God and is our sole authority.
+			</original>
+			<translated>
+				Creemos que la Biblia es inspirada por Dios y es nuestra única autoridad.
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="49" desc="">
+		<original>
+			We are a Bible Church, not simply a New Testament Church. 2 Timothy 3:14-17. The context of the word "Scripture" is referring to the Old Testament. We believe the Old Testament applies to our lives — as much as the New Testament — except for the Mosaic Law and any teaching in the New Testament that supercedes the Old Testament (Example: grounds for divorce).
+		</original>
+		<translated>
+			Somos una Iglesia de la Biblia, no solamente una Iglesia del Nuevo Testamento. 2 Timoteo 3:14-17 El contexto de la palabra "Escritura" se refiere al Antiguo Testamento. Creemos que en Antiguo Testamento se aplica a nuestras vidas — tanto como el Nuevo Testamento — menos la Ley de Moisés y cualquier enseñanza del Antiguo Testamento que es superada por otra enseñanza en el Nuevo Testamento. (Por ejemplo: los motivos para un divorcio)
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				We are a Bible Church, not simply a New Testament Church.
+			</original>
+			<translated>
+				Somos una Iglesia de la Biblia, no solamente una Iglesia del Nuevo Testamento.
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="2-timothy-3-14-17">
+			<original>
+				2 Timothy 3:14-17
+			</original>
+			<translated>
+				2 Timoteo 3:14-17
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="50" desc="">
+		<original>
+			We believe — as in the book of Acts — the visible church should be composed of only sold-out baptized disciples.
+		</original>
+		<translated>
+			Creemos — como en el libro de los Hechos — la iglesia visible debe ser compuesta de solo discípulos completamente comprometidos.
+		</translated>
+	</phrase>
+
+	<phrase id="51" desc="">
+		<original>
+			"Be silent where the Bible speaks, and speak where the Bible is silent." In applying Scriptural principles to build the visible church, we believe we must obey God's Word, but where the Bible does not prohibit a practice or name, we are free to use our God-given creativity. Genesis 2:19 (Examples: The principles for "Bible Talks," "Lead Evangelist," "Discipleship Partners" and "Regions" are in the Scriptures, though these terms are not. However, nowhere are they prohibited. Also instrumental music and paid Women's Ministry Leaders are not prohibited in the Scriptures.)
+		</original>
+		<translated>
+			"Callarnos cuando la Biblia habla, y hablar cuando la Biblia se calla." En aplicar los principios de la Escritura para construir a la iglesia visible, creemos que tenemos que obedecer a la Palabra de Dios, pero donde la Biblia no prohibe una práctica o nombre, somos libres a usar nuestra creatividad que Dios nos ha dado. Génesis 2:19 (Ejemplos: los principios para las "charlas bíblicas," "evangelista principal," "parejas de discipulado," y "regiones" se encuentran en la Escritura, aunque eses nombres no. Sin embargo, en ningún lugar son prohibidos. También, la música instrumental y el pagar a los Líderes de Ministerio de Mujeres no son prohibidos en la Escrituras.)
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				"Be silent where the Bible speaks, and speak where the Bible is silent."
+			</original>
+			<translated>
+				"Callarnos cuando la Biblia habla, y hablar cuando la Biblia se calla."
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="genesis-2-19">
+			<original>
+				Genesis 2:19
+			</original>
+			<translated>
+				Génesis 2:19
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="52" desc="">
+		<original>
+			We believe in a Central Leadership. Throughout God's Word, when His people were unified, there was a strong central leadership and godly central leader. (Examples: Moses, Joshua, David and of course Jesus and the Apostles.) 1 Corinthians 4:15-17 and Titus 1:5 teaches that local congregations had an overseeing evangelist, who unified the disciples "everywhere in every church." In the first century, congregations were a collective movement — not autonomous, not self-governing.)
+		</original>
+		<translated>
+			Creemos en un Liderazgo Central. A travéz de la Palabra de Dios, cuando Su puebo estaba unido, hubo un liderazgo central fuerte y un líder central espiritual. (Ejemlos: Moisés, Josué, David y claro Jesús y los apóstoles.) 1 Corintios 4:15-17 y Tito 1:5 enseñan que las congregaciones locales tuvieron un evangelista supervisor, quien unía a los discípulos "en todas partes y en cada iglesia." En el primer siglo, las congregaciones eran un movimiento colectivo — no autónomas, no auto-gobernadas.)
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				We believe in a Central Leadership.
+			</original>
+			<translated>
+				Creemos en un Liderazgo Central.
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-4-15-17">
+			<original>
+				1 Corinthians 4:15-17
+			</original>
+			<translated>
+				1 Corintios 4:15-17
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="titus-1-5">
+			<original>
+				Titus 1:5
+			</original>
+			<translated>
+				Tito 1:5
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="53" desc="">
+		<original>
+			Matthew 28:19-20: Our vision — the evangelization of all nations in this generation — will be accomplished through every disciple making disciples and every disciple having discipling relationships.
+		</original>
+		<translated>
+			Mateo 28:19-20: Nuestra visión — la evangelización de todas las naciones en nuestra generación — se va a cumplir por medio de que cada discípulo hace discípulos y cada discípulo tiene relaciones de discipulado.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-19-20">
+			<original>
+				Matthew 28:19-20
+			</original>
+			<translated>
+				Mateo 28:19-20
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Our vision — the evangelization of all nations in this generation — 
+			</original>
+			<translated>
+				Nuestra visión — la evangelización de todas las naciones en nuestra generación — 
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="54" desc="">
+		<original>
+			1 Corinthians 12:14-27
+		</original>
+		<translated>
+			I Corintios 12:14-27
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-14-27">
+			<original>
+				1 Corinthians 12:14-27
+			</original>
+			<translated>
+				I Corintios 12:14-27
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="55" desc="">
+		<original>
+			We need the body. The body needs us (v. 21).
+		</original>
+		<translated>
+			Necesitamos al cuerpo. El cuerpo nos necesita (v. 21).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-21">
+			<original>
+				v. 21
+			</original>
+			<translated>
+				v. 21
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="56" desc="">
+		<original>
+			Be involved on a relationship level in the church (v. 26).
+		</original>
+		<translated>
+			Involúcrate en un nivel de relaciones profundas dentro de la iglesia (v. 26).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-26">
+			<original>
+				v. 26
+			</original>
+			<translated>
+				v. 26
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="57" desc="">
+		<original>
+			Hebrews 10:23-25
+		</original>
+		<translated>
+			Hebreos 10:23-25
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-10-23-25">
+			<original>
+				Hebrews 10:23-25
+			</original>
+			<translated>
+				Hebreos 10:23-25
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="58" desc="">
+		<original>
+			Do not miss church.
+		</original>
+		<translated>
+			No faltes a la iglesia.
+		</translated>
+	</phrase>
+
+	<phrase id="59" desc="">
+		<original>
+			The fellowship helps us to be unswerving in our commitment (v. 23).
+		</original>
+		<translated>
+			La confraternidad nos ayuda a mantenernos firmes en nuestro compromiso (v. 23).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-10-23">
+			<original>
+				v. 23
+			</original>
+			<translated>
+				v. 23
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="60" desc="">
+		<original>
+			Another purpose of fellowship is to encourage each other so we will remain faithful (v. 24).
+		</original>
+		<translated>
+			Otro propósito de la confraternidad es animarnos con el fin de seguir fieles (v. 24).
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-10-24">
+			<original>
+				v. 24
+			</original>
+			<translated>
+				v. 24
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="61" desc="">
+		<original>
+			Must come to all meetings of the body: Sunday and Midweek Services, Bible Talks, special devotionals, Jubilees, retreats, etc... Begin to rearrange schedule to come to all the meetings of the body.
+		</original>
+		<translated>
+			Debemos asistir a todas las reuniones del cuerpo: Servicios dominicales y de entre-semana, Charlas Bíblicas, devocionales especiales, Jubileos, retiros, etc... Empieza a arreglar tu horario para poder asistir a todas las reuniones del cuerpo.
+		</translated>
+	</phrase>
+
+	<phrase id="62" desc="">
+		<original>
+			Contribution
+		</original>
+		<translated>
+			La Contribución
+		</translated>
+	</phrase>
+
+	<phrase id="63" desc="">
+		<original>
+			1 Corinthians 16:1-2: Paul gave a plan to set aside money on the first day of the week for the Lord and the needs of His people. Our plan is to set aside a tenth of our pay as the beginning guideline of our sacrifice on Sundays to meet the ministry needs. Benevolent offerings are given at Midweek Services.
+		</original>
+		<translated>
+			I Corintios 16:1-2: Pablo dio un plan para apartar dinero el primer día de la semana para el Señor y las necesidades de su pueblo. Nuestro plan es apartar una décima parte de nuestro salario como la guía inicial de nuestro sacrificio los domingos para satisfacer las necesidades del ministerio. Las ofertas de benévolencia se dan en las reuniones de entre-semana.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-16-1-2">
+			<original>
+				1 Corinthians 16:1-2
+			</original>
+			<translated>
+				I Corintios 16:1-2
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="64" desc="">
+		<original>
+			2 Corinthians 9:6-8: Giving should be from a "cheerful" heart — not under compulsion. God blesses you when you give generously.
+		</original>
+		<translated>
+			2 Corintios 9:6-8: Dar debe salir de un corazón alegre, no por obligación.
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="2-corinthians-9-6-8">
+			<original>
+				2 Corinthians 9:6-8
+			</original>
+			<translated>
+				2 Corintios 9:6-8
+			</translated>
+		</change>
+	</phrase>
+	
+	<!--
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	-->
+
+</content>

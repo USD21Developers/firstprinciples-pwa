@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-7-39" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="1 Coríntios 7:39" book="1 Coríntios" title-en="1 Corinthians 7:39" book-en="1 Corinthians">
+		<chapter number="7" number-en="7">
+			<verse number="39" number-en="39">
+				A mulher está ligada a seu marido enquanto ele viver. Mas, se o seu marido morrer, ela estará livre para se casar com quem quiser, contanto que ele pertença ao Senhor.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

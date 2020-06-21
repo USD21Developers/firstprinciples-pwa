@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-3-5" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="João 3:5" book="João" title-en="John 3:5" book-en="John">
+		<chapter number="3" number-en="3">
+			<verse number="5" number-en="5" jesuswords="true">
+				Respondeu Jesus: <span class="jesuswords">"Digo-lhe a verdade: Ninguém pode entrar no Reino de Deus, se não nascer da água e do Espírito.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

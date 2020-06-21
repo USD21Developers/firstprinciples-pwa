@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-5-38-42" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 5:38-42" book="Hechos" title-en="Acts 5:38-42" book-en="Acts">
+		<chapter number="5" number-en="5">
+			<verse number="38" number-en="38">
+				En este caso les aconsejo que dejen a estos hombres en paz. ¡Suéltenlos! Si lo que se proponen y hacen es de origen humano, fracasará;
+			</verse>
+			<verse number="39" number-en="39">
+				pero, si es de Dios, no podrán destruirlos, y ustedes se encontrarán luchando contra Dios».
+				<br />
+				<br />Se dejaron persuadir por Gamaliel.
+			</verse>
+			<verse number="40" number-en="40">
+				Entonces llamaron a los apóstoles y, luego de azotarlos, les ordenaron que no hablaran más en el nombre de Jesús. Después de eso los soltaron.
+			</verse>
+			<verse number="41" number-en="41">
+				Así, pues, los apóstoles salieron del Consejo, llenos de gozo por haber sido considerados dignos de sufrir afrentas por causa del Nombre.
+			</verse>
+			<verse number="42" number-en="42">
+				Y día tras día, en el templo y de casa en casa, no dejaban de enseñar y anunciar las buenas nuevas de que Jesús es el Mesías.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

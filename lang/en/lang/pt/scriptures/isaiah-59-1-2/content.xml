@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="isaiah-59-1-2" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Isaías 59:1-2" book="Isaías" title-en="Isaiah 59:1-2" book-en="Isaiah">
+		<chapter number="59" number-en="59">
+			<verse number="1" number-en="1">
+				Vejam! O braço do Senhor 
+				    não está tão curto que não possa salvar, 
+				e o seu ouvido tão surdo 
+				    que não possa ouvir.
+			</verse>
+			<verse number="2" number-en="2">
+				Mas as suas maldades separaram 
+				    vocês do seu Deus; 
+				os seus pecados esconderam de vocês 
+				    o rosto dele, 
+				1e por isso ele não os ouvirá.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

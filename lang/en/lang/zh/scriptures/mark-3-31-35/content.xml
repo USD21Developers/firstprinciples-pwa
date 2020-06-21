@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="mark-3-31-35" lang="zh" version="cnvs" edition="2001">
+	<passage title="马可福音 3:31-35" book="马可福音" title-en="Mark 3:31-35" book-en="Mark">
+		<chapter number="3" number-en="3">
+			<verse number="31" number-en="31">
+				耶稣的母亲和弟弟来了，站在外面，传话给他，叫他出来。
+			</verse>
+			<verse number="32" number-en="32">
+				有许多人正围坐在耶稣身边，他们告诉他:“你看，你的母亲和弟弟在外面找你。”
+			</verse>
+			<verse number="33" number-en="33" jesuswords="true">
+				耶稣回答他们:<span class="jesuswords">“谁是我的母亲，我的弟兄呢？”</span>
+			</verse>
+			<verse number="34" number-en="34" jesuswords="true">
+				于是四面观看那些围坐的人，说:<span class="jesuswords">“你们看，我的母亲！我的弟兄！</span>
+			</verse>
+			<verse number="35" number-en="35" jesuswords="true">
+				<span class="jesuswords">凡遵行　神旨意的，就是我的弟兄姊妹和母亲了。”</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

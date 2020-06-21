@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="genesis-2-19" lang="zh" version="cnvs" edition="2001">
+	<passage title="创世记 2:19" book="创世记" title-en="Genesis 2:19" book-en="Genesis">
+		<chapter number="2" number-en="2">
+			<verse number="19" number-en="19">
+				耶和华　神用泥土造了野地的各样野兽，和空中的各样飞鸟，把牠们都带到那人面前，看他给牠们叫甚么名字；那人怎样叫各样有生命的活物，那就是牠的名字。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

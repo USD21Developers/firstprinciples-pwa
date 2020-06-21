@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-14-21" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 14:21" book="Hechos" title-en="Acts 14:21" book-en="Acts">
+		<chapter number="14" number-en="14">
+			<verse number="21" number-en="21">
+				<p class="scripture-heading">
+					El regreso a Antioquía de Siria
+				</p>
+				Después de anunciar las buenas nuevas en aquella ciudad y de hacer muchos discípulos, Pablo y Bernabé regresaron a Listra, a Iconio y a Antioquía,
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

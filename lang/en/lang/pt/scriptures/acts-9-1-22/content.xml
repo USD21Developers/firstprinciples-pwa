@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-9-1-22" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 9:1-22" book="Atos" title-en="Acts 9:1-22" book-en="Acts">
+		<chapter number="9" number-en="9">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					A Conversão de Saulo
+				</p>
+				Enquanto isso, Saulo ainda respirava ameaças de morte contra os discípulos do Senhor. Dirigindo-se ao sumo sacerdote,
+			</verse>
+			<verse number="2" number-en="2">
+				pediu-lhe cartas para as sinagogas de Damasco, de maneira que, caso encontrasse ali homens ou mulheres que pertencessem ao Caminho, pudesse levá-los presos para Jerusalém.
+			</verse>
+			<verse number="3" number-en="3">
+				Em sua viagem, quando se aproximava de Damasco, de repente brilhou ao seu redor uma luz vinda do céu.
+			</verse>
+			<verse number="4" number-en="4" jesuswords="true">
+				Ele caiu por terra e ouviu uma voz que lhe dizia: <span class="jesuswords">“Saulo, Saulo, por que você me persegue?”</span>
+			</verse>
+			<verse number="5" number-en="5" jesuswords="true">
+				Saulo perguntou: “Quem és tu, Senhor?” Ele respondeu: <span class="jesuswords">“Eu sou Jesus, a quem você persegue.</span>
+			</verse>
+			<verse number="6" number-en="6" jesuswords="true">
+				<span class="jesuswords">Levante-se, entre na cidade; alguém lhe dirá o que você deve fazer”.</span>
+			</verse>
+			<verse number="7" number-en="7">
+				Os homens que viajavam com Saulo pararam emudecidos; ouviam a voz mas não viam ninguém.
+			</verse>
+			<verse number="8" number-en="8">
+				Saulo levantou-se do chão e, abrindo os olhos, não conseguia ver nada. E os homens o levaram pela mão até Damasco.
+			</verse>
+			<verse number="9" number-en="9">
+				Por três dias ele esteve cego, não comeu nem bebeu.
+			</verse>
+			<verse number="10" number-en="10" jesuswords="true">
+				Em Damasco havia um discípulo chamado Ananias. O Senhor o chamou numa visão: <span class="jesuswords">“Ananias!”</span>
+
+				“Eis-me aqui, Senhor”, respondeu ele.
+			</verse>
+			<verse number="11" number-en="11" jesuswords="true">
+				O Senhor lhe disse: <span class="jesuswords">“Vá à casa de Judas, na rua chamada Direita, e pergunte por um homem de Tarso chamado Saulo. Ele está orando;</span>
+			</verse>
+			<verse number="12" number-en="12" jesuswords="true">
+				<span class="jesuswords">numa visão viu um homem chamado Ananias chegar e impor-lhe as mãos para que voltasse a ver”.</span>
+			</verse>
+			<verse number="13" number-en="13">
+				Respondeu Ananias: “Senhor, tenho ouvido muita coisa a respeito desse homem e de todo o mal que ele tem feito aos teus santos em Jerusalém.
+			</verse>
+			<verse number="14" number-en="14">
+				Ele chegou aqui com autorização dos chefes dos sacerdotes para prender todos os que invocam o teu nome”.
+			</verse>
+			<verse number="15" number-en="15" jesuswords="true">
+				Mas o Senhor disse a Ananias: <span class="jesuswords">“Vá! Este homem é meu instrumento escolhido para levar o meu nome perante os gentios e seus reis, e perante o povo de Israel.</span>
+			</verse>
+			<verse number="16" number-en="16" jesuswords="true">
+				<span class="jesuswords">Mostrarei a ele o quanto deve sofrer pelo meu nome”.</span>
+			</verse>
+			<verse number="17" number-en="17">
+				Então Ananias foi, entrou na casa, pôs as mãos sobre Saulo e disse: “Irmão Saulo, o Senhor Jesus, que lhe apareceu no caminho por onde você vinha, enviou-me para que você volte a ver e seja cheio do Espírito Santo”.
+			</verse>
+			<verse number="18" number-en="18">
+				Imediatamente, algo como escamas caiu dos olhos de Saulo e ele passou a ver novamente. Levantando-se, foi batizado
+			</verse>
+			<verse number="19" number-en="19">
+				e, depois de comer, recuperou as forças.
+				<p class="scripture-heading">
+					Saulo em Damasco e em Jerusalém
+				</p>
+				Saulo passou vários dias com os discípulos em Damasco.
+			</verse>
+			<verse number="20" number-en="20">
+				Logo começou a pregar nas sinagogas que Jesus é o Filho de Deus.
+			</verse>
+			<verse number="21" number-en="21">
+				Todos os que o ouviam ficavam perplexos e perguntavam: “Não é ele o homem que procurava destruir em Jerusalém aqueles que invocam este nome? E não veio para cá justamente para levá-los presos aos chefes dos sacerdotes?”
+			</verse>
+			<verse number="22" number-en="22">
+				Todavia, Saulo se fortalecia cada vez mais e confundia os judeus que viviam em Damasco, demonstrando que Jesus é o Cristo.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

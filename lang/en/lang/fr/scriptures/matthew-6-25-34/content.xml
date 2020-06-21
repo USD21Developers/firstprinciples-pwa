@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-6-25-34" lang="fr" version="SG21" edition="2007">
+	<passage title="Matthieu 6:25-34" book="Matthieu" title-en="Matthew 6:25-34" book-en="Matthew">
+		<chapter number="6" number-en="6">
+			<verse number="25" number-en="25" jesuswords="true">
+				<span class="jesuswords">»C'est pourquoi je vous dis: Ne vous inquiétez pas de ce que vous mangerez [et boirez] pour vivre, ni de ce dont vous habillerez votre corps. La vie n'est-elle pas plus que la nourriture et le corps plus que le vêtement?</span>
+			</verse>
+			<verse number="26" number-en="26" jesuswords="true">
+				<span class="jesuswords">Regardez les oiseaux du ciel: ils ne sèment pas et ne moissonnent pas, ils n'amassent rien dans des greniers, et votre Père céleste les nourrit. Ne valez-vous pas beaucoup plus qu'eux?</span>
+			</verse>
+			<verse number="27" number-en="27" jesuswords="true">
+				<span class="jesuswords">Qui de vous, par ses inquiétudes, peut ajouter un instant à la durée de sa vie?</span>
+			</verse>
+			<verse number="28" number-en="28" jesuswords="true">
+				<span class="jesuswords">Et pourquoi vous inquiéter au sujet du vêtement? Etudiez comment poussent les plus belles fleurs des champs: elles ne travaillent pas et ne tissent pas;</span>
+			</verse>
+			<verse number="29" number-en="29" jesuswords="true">
+				<span class="jesuswords">cependant je vous dis que Salomon[a] lui-même, dans toute sa gloire, n'a pas eu d’aussi belles tenues que l'une d'elles.</span>
+			</verse>
+			<verse number="30" number-en="30" jesuswords="true">
+				<span class="jesuswords">Si Dieu habille ainsi l'herbe des champs, qui existe aujourd'hui et qui demain sera jetée au feu, ne le fera-t-il pas bien plus volontiers pour vous, gens de peu de foi?</span>
+			</verse>
+			<verse number="31" number-en="31" jesuswords="true">
+				<span class="jesuswords">Ne vous inquiétez donc pas et ne dites pas: ‘Que mangerons-nous? Que boirons-nous? Avec quoi nous habillerons-nous?’</span>
+			</verse>
+			<verse number="32" number-en="32" jesuswords="true">
+				<span class="jesuswords">En effet, tout cela, ce sont les membres des autres peuples qui le recherchent. Or, votre Père céleste sait que vous en avez besoin.</span>
+			</verse>
+			<verse number="33" number-en="33" jesuswords="true">
+				<span class="jesuswords">Recherchez d'abord le royaume et la justice de Dieu, et tout cela vous sera donné en plus.</span>
+			</verse>
+			<verse number="34" number-en="34" jesuswords="true">
+				<span class="jesuswords">Ne vous inquiétez donc pas du lendemain, car le lendemain prendra soin de lui-même. A chaque jour suffit sa peine.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

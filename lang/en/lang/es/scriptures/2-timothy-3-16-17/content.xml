@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="2-timothy-3-16-17" lang="es" version="nvi" edition="2015">
+	<passage title="2 Timoteo 3:16-17" book="2 Timoteo" title-en="2 Timothy 3:16-17" book-en="2 Timothy">
+		<chapter number="3" number-en="3">
+			<verse number="16" number-en="16">
+				Toda la Escritura es inspirada por Dios y útil para enseñar, para reprender, para corregir y para instruir en la justicia,
+			</verse>
+			<verse number="17" number-en="17">
+				a fin de que el siervo de Dios esté enteramente capacitado para toda buena obra.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

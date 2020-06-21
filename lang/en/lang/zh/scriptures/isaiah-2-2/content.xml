@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="isaiah-2-2" lang="zh" version="cnvs" edition="2001">
+	<passage title="以赛亚书 2:2" book="以赛亚书" title-en="Isaiah 2:2" book-en="Isaiah">
+		<chapter number="2" number-en="2">
+			<verse number="2" number-en="2">
+				在末后的日子，
+耶和华殿的山，
+必被坚立，超乎众山，
+必被高举，过于万岭；
+万国都要流归这山。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-10-48" lang="zh" version="cnvs" edition="2001">
+	<passage title="使徒行传 10:48" book="使徒行传" title-en="Acts 10:48" book-en="Acts">
+		<chapter number="10" number-en="10">
+			<verse number="48" number-en="48">
+				就吩咐他们奉耶稣基督的名受洗。后来，他们请彼得住了几天。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

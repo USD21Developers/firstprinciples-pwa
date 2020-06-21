@@ -1,0 +1,1170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<content key="light-darkness" lang-original="en" lang-translated="zh" last-updated="zh" last-updated-by="2020-02-03" last-updated-by-email="dean-lin_zh@Hotmail.com" created="2018-09-27" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			Light and Darkness
+		</original>
+		<translated>
+			光明与黑暗
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			It is often helpful to begin this study by constructing a "spiritual timeline" with the person whom you are helping to become a disciple.
+		</original>
+		<translated>
+			在开始查经前，先画出学习者的 “属灵时间轴” 对查经过程会很有帮助。
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Introduction: 1 Peter 2:9-10
+		</original>
+		<translated>
+			引言: 彼得前书 2:9-10
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Introduction:
+			</original>
+			<translated>
+				引言:
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="1-peter-2-9-10">
+			<original>
+				1 Peter 2:9-10
+			</original>
+			<translated>
+				彼得前书 2:9-10
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Darkness
+		</original>
+		<translated>
+			黑暗
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			Not a people of God
+		</original>
+		<translated>
+			不是神的子民
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			No Mercy
+		</original>
+		<translated>
+			未蒙怜悯
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			Light
+		</original>
+		<translated>
+			光明
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			People of God
+		</original>
+		<translated>
+			神的子民
+		</translated>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			Mercy
+		</original>
+		<translated>
+			蒙了怜悯
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			Lost
+		</original>
+		<translated>
+			迷失
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			Not a Christian
+		</original>
+		<translated>
+			不是基督徒
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			Not a Disciple
+		</original>
+		<translated>
+			不是门徒
+		</translated>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			Saved
+		</original>
+		<translated>
+			得救
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			Christian
+		</original>
+		<translated>
+			基督徒
+		</translated>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			Disciple
+		</original>
+		<translated>
+			门徒
+		</translated>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			Every person is either in the darkness or the light. There is no twilight zone.
+		</original>
+		<translated>
+			每个人不是在光明，就是在黑暗之中。 没有灰色地带。
+		</translated>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			Where are you?
+		</original>
+		<translated>
+			你现在在哪里呢？
+		</translated>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			Darkness
+		</original>
+		<translated>
+			黑暗
+		</translated>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			Isaiah 59:1-2
+		</original>
+		<translated>
+			以赛亚书 59:1-2
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="isaiah-59-1-2">
+			<original>
+				Isaiah 59:1-2
+			</original>
+			<translated>
+				以赛亚书 59:1-2
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			Sin separates us from God. 
+		</original>
+		<translated>
+			罪使我们与神分离
+		</translated>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			WALL
+		</original>
+		<translated>
+			墙
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			DARKNESS 
+		</original>
+		<translated>
+			黑暗
+		</translated>
+	</phrase>
+
+	<phrase id="23" desc="">
+		<original>
+			MAN 
+		</original>
+		<translated>
+			人
+		</translated>
+	</phrase>
+
+	<phrase id="24" desc="">
+		<original>
+			LIGHT 
+		</original>
+		<translated>
+			光明
+		</translated>
+	</phrase>
+
+	<phrase id="25" desc="">
+		<original>
+			GOD 
+		</original>
+		<translated>
+			神
+		</translated>
+	</phrase>
+
+	<phrase id="26" desc="">
+		<original>
+			SIN
+		</original>
+		<translated>
+			罪
+		</translated>
+	</phrase>
+
+	<phrase id="27" desc="">
+		<original>
+			In order for a man to have a relationship with God the wall must be broken down — sin must be forgiven.
+		</original>
+		<translated>
+			人若要和神建立关系，这堵墙必须被打破 — 罪必须得赦免。
+		</translated>
+	</phrase>
+
+	<phrase id="28" desc="">
+		<original>
+			The point in time that sin is forgiven is the point in time a person is saved.
+		</original>
+		<translated>
+			罪被赦免之际，就是一个人得救之时。
+		</translated>
+	</phrase>
+
+	<phrase id="29" desc="">
+		<original>
+			Romans 3:23-25
+		</original>
+		<translated>
+			罗马书 3:23-25
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-3-23-25">
+			<original>
+				Romans 3:23-25
+			</original>
+			<translated>
+				罗马书 3:23-25
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="30" desc="">
+		<original>
+			Who has sinned? Everyone!
+		</original>
+		<translated>
+			谁犯了罪？ 每个人！
+		</translated>
+	</phrase>
+
+	<phrase id="31" desc="">
+		<original>
+			SIN 
+		</original>
+		<translated>
+			罪
+		</translated>
+	</phrase>
+
+	<phrase id="32" desc="">
+		<original>
+			SIN
+		</original>
+		<translated>
+			罪
+		</translated>
+	</phrase>
+	
+	<phrase id="33" desc="">
+		<original>
+			SIN
+		</original>
+		<translated>
+			罪
+		</translated>
+	</phrase>
+
+	<phrase id="34" desc="">
+		<original>
+			Person A
+		</original>
+		<translated>
+			甲
+		</translated>
+	</phrase>
+
+	<phrase id="35" desc="">
+		<original>
+			Person B
+		</original>
+		<translated>
+			乙
+		</translated>
+	</phrase>
+
+	<phrase id="36" desc="">
+		<original>
+			Person C
+		</original>
+		<translated>
+			丙
+		</translated>
+	</phrase>
+
+	<phrase id="37" desc="">
+		<original>
+			Who is further away from God: a person who sins a little, or a person who sins a lot? All are equal, all lost. Therefore a good moral life does not save you. You cannot earn your salvation by your good deeds.
+		</original>
+		<translated>
+			谁离神比较远:一个犯了一点罪的人，还是一个犯了很多罪的人？在神的眼里都是一样的，都有罪过，都是迷失的；多做好事并不会使你得救。
+		</translated>
+	</phrase>
+
+	<phrase id="38" desc="">
+		<original>
+			Faith in the blood of Jesus saves you (v. 25).
+		</original>
+		<translated>
+			人凭着耶稣的宝血，借着信心得救 （第25节）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-3-25">
+			<original>
+				v. 25
+			</original>
+			<translated>
+				第25节
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="39" desc="">
+		<original>
+			What is Sin?
+		</original>
+		<translated>
+			什么是罪？
+		</translated>
+	</phrase>
+
+	<phrase id="40" desc="">
+		<original>
+			Galatians 5:19-21 (sins of commission)
+		</original>
+		<translated>
+			加拉太书 5:19-21 （犯过的罪行）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="galatians-5-19-21">
+			<original>
+				Galatians 5:19-21
+			</original>
+			<translated>
+				加拉太书 5:19-21
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="41" desc="">
+		<original>
+			2 Timothy 3:1-5 (sins of commission)
+		</original>
+		<translated>
+			提摩太后书 3:1-5 (犯过的罪行）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="2-timothy-3-1-5">
+			<original>
+				2 Timothy 3:1-5
+			</original>
+			<translated>
+				提摩太后书 3:1-5
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="42" desc="">
+		<original>
+			James 4:17 (sins of omission)
+		</original>
+		<translated>
+			雅各书 4:17 （忽略的罪行)
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="james-4-17">
+			<original>
+				James 4:17
+			</original>
+			<translated>
+				雅各书 4:17
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="43" desc="">
+		<original>
+			What is the eternal consequence of sin? Romans 6:23
+		</original>
+		<translated>
+			罪的工价是什么？罗马书 6:23
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-6-23">
+			<original>
+				Romans 6:23
+			</original>
+			<translated>
+				罗马书 6:23
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="44" desc="">
+		<original>
+			WAGES OF SIN
+		</original>
+		<translated>
+			罪的代价
+		</translated>
+	</phrase>
+
+	<phrase id="45" desc="">
+		<original>
+			GIFT OF GOD
+		</original>
+		<translated>
+			神的礼物
+		</translated>
+	</phrase>
+
+	<phrase id="46" desc="">
+		<original>
+			Death
+		</original>
+		<translated>
+			死亡
+		</translated>
+	</phrase>
+
+	<phrase id="47" desc="">
+		<original>
+			Hell
+		</original>
+		<translated>
+			地狱
+		</translated>
+	</phrase>
+
+	<phrase id="48" desc="">
+		<original>
+			Darkness
+		</original>
+		<translated>
+			黑暗
+		</translated>
+	</phrase>
+
+	<phrase id="49" desc="">
+		<original>
+			Eternal Life
+		</original>
+		<translated>
+			永生
+		</translated>
+	</phrase>
+
+	<phrase id="50" desc="">
+		<original>
+			Heaven
+		</original>
+		<translated>
+			天堂
+		</translated>
+	</phrase>
+
+	<phrase id="51" desc="">
+		<original>
+			Light
+		</original>
+		<translated>
+			光明
+		</translated>
+	</phrase>
+
+	<phrase id="52" desc="">
+		<original>
+			Light
+		</original>
+		<translated>
+			光明
+		</translated>
+	</phrase>
+
+	<phrase id="53" desc="">
+		<original>
+			John 3:1-7: Born again (v. 3), born of water and Spirit (v. 5), born again. (v. 7)
+		</original>
+		<translated>
+			约翰福音 3:1-7: 重生 （第3节）， 从水和圣灵生 （第5节），必须重生。 （第7节） 
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-3-1-7">
+			<original>
+				John 3:1-7
+			</original>
+			<translated>
+				约翰福音 3:1-7
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="54" desc="">
+		<original>
+			Personal decision as an adult
+		</original>
+		<translated>
+			成熟，自主的决定
+		</translated>
+	</phrase>
+
+	<phrase id="55" desc="">
+		<original>
+			What message must one believe to be in the light (to be saved)? Acts 2:22-24
+		</original>
+		<translated>
+			一个人必须相信什么才能得救？（使徒行传 2:22-24)
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-22-24">
+			<original>
+				Acts 2:22-24
+			</original>
+			<translated>
+				使徒行传 2:22-24
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="56" desc="">
+		<original>
+			Jesus is from God. (v. 22)
+		</original>
+		<translated>
+			耶稣来自神。（第22节）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-22">
+			<original>
+				v. 22
+			</original>
+			<translated>
+				第22节
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="57" desc="">
+		<original>
+			Jesus raised physically from the dead. (v. 24)
+		</original>
+		<translated>
+			耶稣肉身死而复活。（第24节）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-24">
+			<original>
+				v. 24
+			</original>
+			<translated>
+				第24节
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="58" desc="">
+		<original>
+			Everyone is responsible for the crucifixion of Christ. (v. 23) All have sinned. (Romans 3:23)
+		</original>
+		<translated>
+			耶稣是为了我们每一个人受难并且死在十字架上，每个人对他的死都有责任（第23节）。所有人都犯过罪（罗马书 3:23）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-23">
+			<original>
+				v. 23
+			</original>
+			<translated>
+				第23节
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-3-23">
+			<original>
+				Romans 3:23
+			</original>
+			<translated>
+				罗马书 3:23
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="59" desc="">
+		<original>
+			Response of people: Acts 2:36-37
+		</original>
+		<translated>
+			人们的反应: 使徒行传 2:36-37
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-36-37">
+			<original>
+				Acts 2:36-37
+			</original>
+			<translated>
+				使徒行传 2:36-37
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="60" desc="">
+		<original>
+			Cut to the heart
+		</original>
+		<translated>
+			扎心
+		</translated>
+	</phrase>
+
+	<phrase id="61" desc="">
+		<original>
+			What shall we do?
+		</original>
+		<translated>
+			我们该怎么办呢？
+		</translated>
+	</phrase>
+
+	<phrase id="62" desc="">
+		<original>
+			Once the people believed, what did they do? Acts 2:38-42
+		</original>
+		<translated>
+			相信以后，人们该怎么做？ 使徒行传 2:38-42
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38-42">
+			<original>
+				Acts 2:38-42
+			</original>
+			<translated>
+				使徒行传 2:38-42
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="63" desc="">
+		<original>
+			Repent (Greek = to turn)
+		</original>
+		<translated>
+			悔改 （希腊语 = 回转/回头）
+		</translated>
+	</phrase>
+
+	<phrase id="64" desc="">
+		<original>
+			Be baptized (Greek = to be immersed) 
+		</original>
+		<translated>
+			受洗礼 （希腊语 = 完全受浸）
+		</translated>
+	</phrase>
+
+	<phrase id="65" desc="">
+		<original>
+			Sin forgiven. Therefore this is the point in time a person is saved.
+		</original>
+		<translated>
+			罪得赦免。 因此这是一个人得救的时刻。
+		</translated>
+	</phrase>
+
+	<phrase id="66" desc="">
+		<original>
+			Holy Spirit given to each who responded — power to live as God commands.
+		</original>
+		<translated>
+			每个受洗礼的人都会被赐予圣灵， 他帮助人服从神的命令。
+		</translated>
+	</phrase>
+
+	<phrase id="67" desc="">
+		<original>
+			Baptism: Romans 6:1-4
+		</original>
+		<translated>
+			洗礼: 罗马书 6:1-4
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-6-1-4">
+			<original>
+				Romans 6:1-4
+			</original>
+			<translated>
+				罗马书 6:1-4
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="68" desc="">
+		<original>
+			Baptism is the sharing (a participation) in the death, burial and resurrection of Christ. (More than just a symbol.) 
+		</original>
+		<translated>
+			洗礼是参与耶稣基督的死亡， 埋葬与复活。（不仅仅是一个象征）
+		</translated>
+	</phrase>
+
+	<phrase id="69" desc="">
+		<original>
+			JESUS
+		</original>
+		<translated>
+			耶稣
+		</translated>
+	</phrase>
+
+	<phrase id="70" desc="">
+		<original>
+			DIED
+		</original>
+		<translated>
+			死亡
+		</translated>
+	</phrase>
+
+	<phrase id="71" desc="">
+		<original>
+			BURIED
+		</original>
+		<translated>
+			埋葬
+		</translated>
+	</phrase>
+
+	<phrase id="72" desc="">
+		<original>
+			RESURRECTED
+		</original>
+		<translated>
+			重生
+		</translated>
+	</phrase>
+
+	<phrase id="73" desc="">
+		<original>
+			OLD LIFE
+		</original>
+		<translated>
+			旧生命
+		</translated>
+	</phrase>
+
+	<phrase id="74" desc="">
+		<original>
+			"DIED WITH CHRIST"
+		</original>
+		<translated>
+			“与耶稣同死”
+		</translated>
+	</phrase>
+
+	<phrase id="75" desc="">
+		<original>
+			"BURIED WITH CHRIST"
+		</original>
+		<translated>
+			“与耶稣同埋葬”
+		</translated>
+	</phrase>
+
+	<phrase id="76" desc="">
+		<original>
+			"RAISED TO A NEW LIFE"
+		</original>
+		<translated>
+			“进入新生命”
+		</translated>
+	</phrase>
+
+	<phrase id="77" desc="">
+		<original>
+			DARKNESS
+		</original>
+		<translated>
+			黑暗
+		</translated>
+	</phrase>
+
+	<phrase id="78" desc="">
+		<original>
+			LIGHT
+		</original>
+		<translated>
+			光明
+		</translated>
+	</phrase>
+
+	<phrase id="79" desc="">
+		<original>
+			Sin
+		</original>
+		<translated>
+			罪
+		</translated>
+	</phrase>
+
+	<phrase id="80" desc="">
+		<original>
+			Separates us from God
+		</original>
+		<translated>
+			使我们与神分离
+		</translated>
+	</phrase>
+
+	<phrase id="81" desc="">
+		<original>
+			Acts 2:38
+		</original>
+		<translated>
+			使徒行传 2:38
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
+			<original>
+				Acts 2:38
+			</original>
+			<translated>
+				使徒行传 2:38
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="82" desc="">
+		<original>
+			Sin is Forgiven
+		</original>
+		<translated>
+			罪得赦免
+		</translated>
+	</phrase>
+
+	<phrase id="83" desc="">
+		<original>
+			Born Again of Water and Spirit
+		</original>
+		<translated>
+			从水和圣灵重生
+		</translated>
+	</phrase>
+
+	<phrase id="84" desc="">
+		<original>
+			John 3:5
+		</original>
+		<translated>
+			约翰福音 3:5
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-3-5">
+			<original>
+				John 3:5
+			</original>
+			<translated>
+				约翰福音 3:5
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="85" desc="">
+		<original>
+			Acts 2:38
+		</original>
+		<translated>
+			使徒行传 2:38
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
+			<original>
+				Acts 2:38
+			</original>
+			<translated>
+				使徒行传 2:38
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="86" desc="">
+		<original>
+			Water = Baptism
+		</original>
+		<translated>
+			水 = 洗礼
+		</translated>
+	</phrase>
+
+	<phrase id="87" desc="">
+		<original>
+			Spirit = Received at Baptism
+		</original>
+		<translated>
+			圣灵 = 洗礼后领受圣灵
+		</translated>
+	</phrase>
+
+	<phrase id="88" desc="">
+		<original>
+			Romans 3:25
+		</original>
+		<translated>
+			罗马书 3:25
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-3-25">
+			<original>
+				Romans 3:25
+			</original>
+			<translated>
+				罗马书 3:25
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="89" desc="">
+		<original>
+			Faith in the Blood of Jesus Saves Us
+		</original>
+		<translated>
+			人凭着耶稣的宝血，借着信心得救
+		</translated>
+	</phrase>
+
+	<phrase id="90" desc="">
+		<original>
+			Jesus shed His blood when He died. In baptism we share by faith in the death, burial and resurrection of Jesus. Thus we contact the blood of baptism and are forgiven of our sins and SAVED!
+		</original>
+		<translated>
+			耶稣死时流出了他的血。 在洗礼中，我们通过信心参与耶稣的死亡， 埋葬和复活。 因此， 我们与耶稣的宝血在洗礼中连接在了一起， 我们的罪被赦免，同时我们也得到了救赎。
+		</translated>
+	</phrase>
+
+	<phrase id="91" desc="">
+		<original>
+			Traditions/False Doctrines — Matthew 15:6-9
+		</original>
+		<translated>
+			假教导 — 马太福音 15:6-9
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Traditions/False Doctrines
+			</original>
+			<translated>
+				假教导
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-15-6-9">
+			<original>
+				Matthew 15:6-9
+			</original>
+			<translated>
+				马太福音 15:6-9
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="92" desc="">
+		<original>
+			Infant Baptism
+		</original>
+		<translated>
+			婴儿洗礼
+		</translated>
+	</phrase>
+
+	<phrase id="93" desc="">
+		<original>
+			Personal faith is needed (Colossians 2:12)
+		</original>
+		<translated>
+			个人信心是必要的（歌罗西书 2:12）
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-2-12">
+			<original>
+				Colossians 2:12
+			</original>
+			<translated>
+				歌罗西书 2:12
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="94" desc="">
+		<original>
+			Began approximately third century A.D.
+		</original>
+		<translated>
+			约始于公元300年
+		</translated>
+	</phrase>
+
+	<phrase id="95" desc="">
+		<original>
+			Original sin
+		</original>
+		<translated>
+			原罪
+		</translated>
+	</phrase>
+
+	<phrase id="96" desc="">
+		<original>
+			Ezekiel 18:20
+		</original>
+		<translated>
+			以西结书 18:20
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="ezekiel-18-20">
+			<original>
+				Ezekiel 18:20
+			</original>
+			<translated>
+				以西结书 18:20
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="97" desc="">
+		<original>
+			Became "church doctrine" in 549 A.D.
+		</original>
+		<translated>
+			在公元549年成为 “教会教导” 。 
+		</translated>
+	</phrase>
+
+	<phrase id="98" desc="">
+		<original>
+			Praying Jesus into your heart
+		</original>
+		<translated>
+			祈求耶稣进入你的心
+		</translated>
+	</phrase>
+
+	<phrase id="99" desc="">
+		<original>
+			Revelation 3:20 — taken out of context. This verse is addressed to Christians.
+		</original>
+		<translated>
+			启示录 3:20 — 这是断章取义的假教导。 这经文是对不冷不热基督徒的教导，而不是教导人如何得救。
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="revelation-3-20">
+			<original>
+				Revelation 3:20
+			</original>
+			<translated>
+				启示录 3:20
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="100" desc="">
+		<original>
+			Began in the early 1800s in America.
+		</original>
+		<translated>
+			19世纪前期从美国开始，并不是圣经的教导
+		</translated>
+	</phrase>
+
+	<phrase id="101" desc="">
+		<original>
+			Sinful nature
+		</original>
+		<translated>
+			罪性
+		</translated>
+	</phrase>
+
+	<phrase id="102" desc="">
+		<original>
+			Suggest to the individual with whom you are studying that he or she write out and be specific about various sins that they have committed during their life. This is so they might see the gravity and magnitude of their sin. This is confidential and should only be shared with those who are studying with the person.
+		</original>
+		<translated>
+			建议与学圣经的人分享自身经验，并鼓励他们具体的写出他们生命中所犯下的各种罪。 这样做的目的是使他们认识到自己罪的严重性， 这些分享必须是保密的， 不该转告与此次圣经学习无关的人。
+		</translated>
+	</phrase>
+
+	<!--
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	-->
+
+</content>

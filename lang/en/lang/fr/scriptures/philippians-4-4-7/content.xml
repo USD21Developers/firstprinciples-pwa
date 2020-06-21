@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="philippians-4-4-7" lang="fr" version="SG21" edition="2007">
+	<passage title="Philippiens 4:4-7" book="Philippiens" title-en="Philippians 4:4-7" book-en="Philippians">
+		<chapter number="4" number-en="4">
+			<verse number="4" number-en="4">
+				Réjouissez-vous toujours dans le Seigneur! Je le répète: réjouissez-vous!
+			</verse>
+			<verse number="5" number-en="5">
+				Que votre douceur soit connue de tous les hommes. Le Seigneur est proche.
+			</verse>
+			<verse number="6" number-en="6">
+				Ne vous inquiétez de rien, mais en toute chose faites connaître vos besoins à Dieu par des prières et des supplications, dans une attitude de reconnaissance. 
+			</verse>
+			<verse number="7" number-en="7">
+				Et la paix de Dieu, qui dépasse tout ce que l’on peut comprendre, gardera votre cœur et vos pensées en Jésus-Christ.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-17-20-23" lang="zh" version="cnvs" edition="2001">
+	<passage title="约翰福音 17:20-23" book="约翰福音" title-en="John 17:20-23" book-en="John">
+		<chapter number="17" number-en="17">
+			<verse number="20" number-en="20" jesuswords="true">
+				<span class="jesuswords">“我不但为他们求，也为那些因他们的话而信我的人求，</span>
+			</verse>
+			<verse number="21" number-en="21" jesuswords="true">
+				<span class="jesuswords">使他们都合而为一，像父你在我里面，我在你里面一样；使他们也在我们里面，让世人相信你差了我来。</span>
+			</verse>
+			<verse number="22" number-en="22" jesuswords="true">
+				<span class="jesuswords">你赐给我的荣耀，我已经赐给了他们，使他们合而为一，像我们合而为一。</span>
+			</verse>
+			<verse number="23" number-en="23" jesuswords="true">
+				<span class="jesuswords">我在他们里面，你在我里面，使他们完完全全合而为一，让世人知道你差了我来，并且知道你爱他们，好象爱我一样。</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-11-1-4" lang="fr" version="SG21" edition="2007">
+	<passage title="Luc 11:1-4" book="Luc" title-en="Luke 11:1-4" book-en="Luke">
+		<chapter number="11" number-en="11">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					Enseignement de Jésus sur la prière
+				</p>
+				Jésus priait un jour dans un certain endroit. Quand il eut fini, un de ses disciples lui dit: «Seigneur, enseigne-nous à prier, tout comme Jean l'a enseigné à ses disciples.»
+			</verse>
+			<verse number="2" number-en="2" jesuswords="true">
+				Il leur dit: <span class="jesuswords">«Quand vous priez, dites: ‘[Notre] Père [céleste]! Que la sainteté de ton nom soit respectée, que ton règne vienne, [que ta volonté soit faite sur la terre comme au ciel.]</span>
+			</verse>
+			<verse number="3" number-en="3" jesuswords="true">
+				<span class="jesuswords">Donne-nous chaque jour notre pain quotidien;</span> 
+			</verse>
+			<verse number="4" number-en="4" jesuswords="true">
+				<span class="jesuswords">pardonne-nous nos péchés, car nous aussi nous pardonnons à toute personne qui nous offense, et ne nous expose pas à la tentation, [mais délivre-nous du mal.]’»</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

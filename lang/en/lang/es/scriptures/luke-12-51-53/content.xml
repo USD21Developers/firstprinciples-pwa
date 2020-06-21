@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-12-51-53" lang="es" version="nvi" edition="2015">
+	<passage title="Lucas 12:51-53" book="Lucas" title-en="Luke 12:51-53" book-en="Luke">
+		<chapter number="12" number-en="12">
+			<verse number="51" number-en="51" jesuswords="true">
+				<span class="jesuswords">¿Creen ustedes que vine a traer paz a la tierra? ¡Les digo que no, sino división!</span>
+			</verse>
+			<verse number="52" number-en="52" jesuswords="true">
+				<span class="jesuswords">De ahora en adelante estarán divididos cinco en una familia, tres contra dos, y dos contra tres.</span>
+			</verse>
+			<verse number="53" number-en="53" jesuswords="true">
+				<span class="jesuswords">Se enfrentarán el padre contra su hijo y el hijo contra su padre, la madre contra su hija y la hija contra su madre, la suegra contra su nuera y la nuera contra su suegra».</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

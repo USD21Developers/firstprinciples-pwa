@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="ephesians-2-8" lang="fr" version="SG21" edition="2007">
+	<passage title="Éphésiens 2:8" book="Éphésiens" title-en="Ephesians 2:8" book-en="Ephesians">
+		<chapter number="2" number-en="2">
+			<verse number="8" number-en="8">
+				En effet, c'est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c'est le don de Dieu.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

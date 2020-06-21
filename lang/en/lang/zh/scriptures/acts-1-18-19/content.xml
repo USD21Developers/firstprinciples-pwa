@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-1-18-19" lang="zh" version="cnvs" edition="2001">
+	<passage title="使徒行传 1:18-19" book="使徒行传" title-en="Acts 1:18-19" book-en="Acts">
+		<chapter number="1" number-en="1">
+			<verse number="18" number-en="18">
+				他用不义的酬劳买了一块田，结果倒头栽了下去，腹破肠流。
+			</verse>
+			<verse number="19" number-en="19">
+				这事住在耶路撒冷的人全都知道，所以按当地的话，那块地称为亚革大马，意思就是‘血田’。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

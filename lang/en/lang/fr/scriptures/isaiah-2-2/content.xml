@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="isaiah-2-2" lang="fr" version="SG21" edition="2007">
+	<passage title="Ésaïe 2:2" book="Ésaïe" title-en="Isaiah 2:2" book-en="Isaiah">
+		<chapter number="2" number-en="2">
+			<verse number="2" number-en="2">
+				*Il arrivera, dans l’avenir, que la montagne de la maison de l'Eternel sera fondée au sommet des montagnes. Elle s'élèvera au-dessus des collines et toutes les nations y afflueront.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

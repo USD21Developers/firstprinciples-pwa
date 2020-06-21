@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="course-information" lang-original="en" lang-translated="pt" last-updated="2019-02-18" last-updated-by="Waldir Caro" last-updated-by-email="edisone11.fc@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			Course Information
+		</original>
+		<translated>
+			Informação dos Estudos
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			This course should take a high priority in your day as it is geared to help you grasp a firmer hold on God’s Word and to deepen your understanding of His will for your life
+		</original>
+		<translated>
+			Estes estudos devem ter muita prioridade no seu dia, pois estão voltados para ajudá-lo a ter uma convicção mais firme na Palavra de Deus e aprofundar sua compreensão da vontade de Deus para a sua vida.
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Each session two new Scriptures should be memorized for a quiz at the beginning of each class
+		</original>
+		<translated>
+			Em cada estudo duas novas escrituras devem ser decoradas para fazer uma prova no início do estudo.
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Each study’s content and order of Scriptures should also be memorized for the quiz.
+		</original>
+		<translated>
+			O conteúdo de cada estudo e a ordem das escrituras também devem ser decoradas para a prova.
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			Each student is required to memorize the names of all the books of the Bible.
+		</original>
+		<translated>
+			Cada estudante deve decorar os nomes de todos os livros da Bíblia.
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			Sign up for the Good News Emails at CAICC.net by Session 2.
+		</original>
+		<translated>
+			Inscreva-se para receber os e-mails de boas notícias em saopauloicc.org para o Estudo 2.
+		</translated>
+		<change bold="true" italic="false" modal="false" href="http://eepurl.com/c-cfrj">
+			<original>
+				Sign up
+			</original>
+			<translated>
+				Inscreva-se
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false" href="http://www.saopauloicc.org/">
+			<original>
+				CAICC.net
+			</original>
+			<translated>
+				saopauloicc.org
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			Read Ron Harding’s History of the Spread of Christianity in Modern Times (KipMcKean.com) by Session 8.
+		</original>
+		<translated>
+			Leia a História da Difusão do Cristianismo nos Tempos Modernos por Ron Harding (saopauloicc.org) para o Estudo 8.
+		</translated>
+		<change bold="true" italic="false" modal="false" href="http://saopauloicc.org/a-historia-da-difusao-do-cristianismo-nos-tempos-modernos/">
+			<original>
+				KipMcKean.com
+			</original>
+			<translated>
+				saopauloicc.org
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			An outline of the book of Acts will be turned in by Session 11. Each student is required to memorize two points from each chapter in the book of Acts.
+		</original>
+		<translated>
+			Um resumo do livro de Atos será entregue no estudo 11. Cada estudante deve decorar dois pontos de cada capítulo no livro de Atos.
+		</translated>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			Outline of Classes
+		</original>
+		<translated>
+			Resumo dos Estudos
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			Session 1
+		</original>
+		<translated>
+			Estudo 1
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			Introduction and Seeking God
+		</original>
+		<translated>
+			Introdução e Buscando a Deus
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			Session 2
+		</original>
+		<translated>
+			Estudo 2
+		</translated>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			The Word Of God
+		</original>
+		<translated>
+			A Palavra de Deus
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			Session 3
+		</original>
+		<translated>
+			Estudo 3
+		</translated>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			Discipleship
+		</original>
+		<translated>
+			Discipulado
+		</translated>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			Session 4
+		</original>
+		<translated>
+			Estudo 4
+		</translated>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			The Coming of the Kingdom
+		</original>
+		<translated>
+			A Vinda do Reino
+		</translated>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			Session 5
+		</original>
+		<translated>
+			Estudo 5
+		</translated>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			Light and Darkness
+		</original>
+		<translated>
+			Luz e Trevas
+		</translated>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			Session 6
+		</original>
+		<translated>
+			Estudo 6
+		</translated>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			New Testament Conversion
+		</original>
+		<translated>
+			Conversão do Novo Testamento
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			Session 7
+		</original>
+		<translated>
+			Estudo 7
+		</translated>
+	</phrase>
+
+	<phrase id="23" desc="">
+		<original>
+			The Cross
+		</original>
+		<translated>
+			A Cruz
+		</translated>
+	</phrase>
+
+	<phrase id="24" desc="">
+		<original>
+			Session 8
+		</original>
+		<translated>
+			Estudo 8
+		</translated>
+	</phrase>
+
+	<phrase id="25" desc="">
+		<original>
+			The Baptism of the Holy Spirit
+		</original>
+		<translated>
+			Batismo com o Espírito Santo
+		</translated>
+	</phrase>
+
+	<phrase id="26" desc="">
+		<original>
+			Session 9
+		</original>
+		<translated>
+			Estudo 9
+		</translated>
+	</phrase>
+
+	<phrase id="27" desc="">
+		<original>
+			The Miraculous Gifts of the Holy Spirit
+		</original>
+		<translated>
+			Dons Milagrosos do Espírito Santo
+		</translated>
+	</phrase>
+
+	<phrase id="28" desc="">
+		<original>
+			Session 10
+		</original>
+		<translated>
+			Estudo 10
+		</translated>
+	</phrase>
+
+	<phrase id="29" desc="">
+		<original>
+			The Church
+		</original>
+		<translated>
+			A Igreja
+		</translated>
+	</phrase>
+
+	<phrase id="30" desc="">
+		<original>
+			Session 11
+		</original>
+		<translated>
+			Estudo 11
+		</translated>
+	</phrase>
+
+	<phrase id="31" desc="">
+		<original>
+			Acts 1 - 8
+		</original>
+		<translated>
+			Atos 1 - 8
+		</translated>
+	</phrase>
+
+	<phrase id="32" desc="">
+		<original>
+			Session 12
+		</original>
+		<translated>
+			Estudo 12
+		</translated>
+	</phrase>
+
+	<phrase id="33" desc="">
+		<original>
+			Acts 9 - 15
+		</original>
+		<translated>
+			Atos 9 - 15
+		</translated>
+	</phrase>
+
+	<phrase id="34" desc="">
+		<original>
+			Session 13
+		</original>
+		<translated>
+			Estudo 13
+		</translated>
+	</phrase>
+
+	<phrase id="35" desc="">
+		<original>
+			Acts 16 - 21
+		</original>
+		<translated>
+			Atos 16 - 21
+		</translated>
+	</phrase>
+
+	<phrase id="36" desc="">
+		<original>
+			Session 14
+		</original>
+		<translated>
+			Estudo 14
+		</translated>
+	</phrase>
+
+	<phrase id="37" desc="">
+		<original>
+			Acts 22 - 28
+		</original>
+		<translated>
+			Atos 22 - 28
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="false" italic="false" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

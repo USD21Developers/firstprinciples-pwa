@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-4-15-17" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="1 Coríntios 4:15-17" book="1 Coríntios" title-en="1 Corinthians 4:15-17" book-en="1 Corinthians">
+		<chapter number="4" number-en="4">
+			<verse number="15" number-en="15">
+				Embora possam ter dez mil tutores em Cristo, vocês não têm muitos pais, pois em Cristo Jesus eu mesmo os gerei por meio do evangelho.
+			</verse>
+			<verse number="16" number-en="16">
+				Portanto, suplico-lhes que sejam meus imitadores.
+			</verse>
+			<verse number="17" number-en="17">
+				Por essa razão estou lhes enviando Timóteo, meu filho amado e fiel no Senhor, o qual lhes trará à lembrança a minha maneira de viver em Cristo Jesus, de acordo com o que eu ensino por toda parte, em todas as igrejas.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

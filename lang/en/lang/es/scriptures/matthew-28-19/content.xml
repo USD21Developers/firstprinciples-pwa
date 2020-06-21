@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-28-19" lang="es" version="nvi" edition="2015">
+	<passage title="Mateo 28:19" book="Mateo" title-en="Matthew 28:19" book-en="Matthew">
+		<chapter number="28" number-en="28">
+			<verse number="19" number-en="19" jesuswords="true">
+				<span class="jesuswords">Por tanto, vayan y hagan discípulos de todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo,</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-42" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 2:42" book="Atos" title-en="Acts 2:42" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="42" number-en="42">
+				<p class="scripture-heading">
+					A Comunhão dos Cristãos
+				</p>
+				Eles se dedicavam ao ensino dos apóstolos e à comunhão, ao partir do pão e às orações.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

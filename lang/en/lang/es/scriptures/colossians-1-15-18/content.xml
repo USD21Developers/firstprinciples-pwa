@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-1-15-18" lang="es" version="nvi" edition="2015">
+	<passage title="Colosenses 1:15-18" book="Colosenses" title-en="Colossians 1:15-18" book-en="Colossians">
+		<chapter number="1" number-en="1">
+			<verse number="15" number-en="15">
+				<p class="scripture-heading">
+					La supremacía de Cristo
+				</p>
+				Él es la imagen del Dios invisible,
+			    el primogénito de toda creación,
+			</verse>
+			<verse number="16" number-en="16">
+				porque por medio de él fueron creadas todas las cosas
+					en el cielo y en la tierra, visibles e invisibles,
+					sean tronos, poderes, principados o autoridades:
+				todo ha sido creado
+					por medio de él y para él.
+			</verse>
+			<verse number="17" number-en="17">
+				Él es anterior a todas las cosas,
+    			que por medio de él forman un todo coherente.
+			</verse>
+			<verse number="18" number-en="18">
+				Él es la cabeza del cuerpo,
+					que es la iglesia.
+				Él es el principio,
+					el primogénito de la resurrección,
+					para ser en todo el primero.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

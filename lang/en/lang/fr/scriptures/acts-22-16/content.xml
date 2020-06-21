@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-22-16" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 22:16" book="Actes" title-en="Acts 22:16" book-en="Acts">
+		<chapter number="22" number-en="22">
+			<verse number="16" number-en="16">
+				Et maintenant, pourquoi tarder? Lève-toi, sois baptisé et sois lavé de tes péchés en faisant appel au nom du Seigneur.’
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

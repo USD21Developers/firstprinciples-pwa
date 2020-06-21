@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="book-of-acts" lang-original="en" lang-translated="es" last-updated="2018-09-29" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-29" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			The Book of Acts
+		</original>
+		<translated>
+			Sommaire des Actes des Apôtres
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			Chapters 1-8
+		</original>
+		<translated>
+			Actes 1-8
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Chapters 9-15
+		</original>
+		<translated>
+			Actes 9-15
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Chapters 16-21
+		</original>
+		<translated>
+			Actes 16-21
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			Chapters 22-28
+		</original>
+		<translated>
+			Actes 22-28
+		</translated>
+	</phrase>
+	
+	<!--
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	-->
+
+</content>

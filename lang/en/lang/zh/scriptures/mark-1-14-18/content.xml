@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="mark-1-14-18" lang="zh" version="cnvs" edition="2001">
+	<passage title="马可福音 1:14-18" book="马可福音" title-en="Mark 1:14-18" book-en="Mark">
+		<chapter number="1" number-en="1">
+			<verse number="14" number-en="14">
+				约翰被捕以后，耶稣来到加利利，宣讲　神的福音，
+			</verse>
+			<verse number="15" number-en="15" jesuswords="true">
+				说:<span class="jesuswords">“时候到了，　神的国近了，你们应当悔改，相信福音。”</span>
+			</verse>
+			<verse number="16" number-en="16">
+				耶稣沿着加利利海边行走，看见西门和他弟弟安得烈在海上撒网；他们是渔夫。
+			</verse>
+			<verse number="17" number-en="17" jesuswords="true">
+				耶稣就对他们说:<span class="jesuswords">“来跟从我，我要使你们成为得人的渔夫。” </span>
+			</verse>
+			<verse number="18" number-en="18">
+				他们立刻撇下网，跟从了他。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

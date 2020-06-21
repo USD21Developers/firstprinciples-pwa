@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-11-1-4" lang="es" version="nvi" edition="2015">
+	<passage title="Lucas 11:1-4" book="Lucas" title-en="Luke 11:1-4" book-en="Luke">
+		<chapter number="11" number-en="11">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					Jesús enseña sobre la oración
+				</p>
+				Un día estaba Jesús orando en cierto lugar. Cuando terminó, le dijo uno de sus discípulos:
+				<br />
+				<br />—Señor, enséñanos a orar, así como Juan enseñó a sus discípulos.
+			</verse>
+			<verse number="2" number-en="2" jesuswords="true">
+				Él les dijo:
+				<br />
+				<br /><span class="jesuswords">—Cuando oren, digan:</span>
+					<br />
+					<br /><span class="jesuswords">»“Padre,</span>
+					<br /><span class="jesuswords">santificado sea tu nombre.</span>
+					<br /><span class="jesuswords">Venga tu reino.</span>
+			</verse>
+			<verse number="3" number-en="3" jesuswords="true">
+				<span class="jesuswords">Danos cada día nuestro pan cotidiano.</span>
+			</verse>
+			<verse number="4" number-en="4" jesuswords="true">
+				<span class="jesuswords">Perdónanos nuestros pecados,</span>
+    			<br /><span class="jesuswords">porque también nosotros perdonamos a todos los que nos ofenden.</span>
+				<br /><span class="jesuswords">Y no nos metas en tentación”.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

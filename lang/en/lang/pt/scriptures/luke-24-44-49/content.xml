@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-24-44-49" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Lucas 24:44-49" book="Lucas" title-en="Luke 24:44-49" book-en="Luke">
+		<chapter number="24" number-en="24">
+			<verse number="44" number-en="44" jesuswords="true">
+				E disse-lhes: <span class="jesuswords">"Foi isso que eu lhes falei enquanto ainda estava com vocês: Era necessário que se cumprisse tudo o que a meu respeito estava escrito na Lei de Moisés, nos Profetas e nos Salmos".</span>
+			</verse>
+			<verse number="45" number-en="45">
+				Então lhes abriu o entendimento, para que pudessem compreender as Escrituras.
+			</verse>
+			<verse number="46" number-en="46" jesuswords="true">
+				E lhes disse: <span class="jesuswords">"Está escrito que o Cristo haveria de sofrer e ressuscitar dos mortos no terceiro dia,</span>
+			</verse>
+			<verse number="47" number-en="47" jesuswords="true">
+				<span class="jesuswords">e que em seu nome seria pregado o arrependimento para perdão de pecados a todas as nações, começando por Jerusalém.</span>
+			</verse>
+			<verse number="48" number-en="48" jesuswords="true">
+				<span class="jesuswords">Vocês são testemunhas destas coisas.</span>
+			</verse>
+			<verse number="49" number-en="49" jesuswords="true">
+				<span class="jesuswords">Eu lhes envio a promessa de meu Pai; mas fiquem na cidade até serem revestidos do poder do alto".</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

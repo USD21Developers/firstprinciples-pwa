@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="course-information" lang-original="en" lang-translated="fr" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			Course Information
+		</original>
+		<translated>
+			Informations sur le cours
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			This course should take a high priority in your day as it is geared to help you grasp a firmer hold on God’s Word and to deepen your understanding of His will for your life
+		</original>
+		<translated>
+			Ce cours doit être une priorité dans ta journée car il est conçu pour t’aider à maîtriser la Parole de Dieu et à approfondir ta compréhension de sa volonté pour ta vie.
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Each session two new Scriptures should be memorized for a quiz at the beginning of each class
+		</original>
+		<translated>
+			Avant chaque session, deux nouvelles écritures doivent être apprises par cœur pour un quiz écrit ou oral au début de chaque classe.
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Each study’s content and order of Scriptures should also be memorized for the quiz.
+		</original>
+		<translated>
+			Le contenu de chaque étude et l'ordre des Écritures doivent également être mémorisés pour le quiz.
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			Each student is required to memorize the names of all the books of the Bible.
+		</original>
+		<translated>
+			Chaque étudiant doit aussi apprendre l'ordre de tous les livres de la Bible.
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			An outline of the book of Acts will be turned in by Session 11. Each student is required to memorize two points from each chapter in the book of Acts.
+		</original>
+		<translated>
+			Un résumé du livre des Actes doit être remis avant la session 11. Chaque étudiant est tenu de mémoriser deux points de chaque chapitre dans le livre des Actes.
+		</translated>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			Outline of Classes
+		</original>
+		<translated>
+			Plan du cours
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			Session 1
+		</original>
+		<translated>
+			Session 1
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			Introduction and Seeking God
+		</original>
+		<translated>
+			Introduction et Chercher Dieu
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			Session 2
+		</original>
+		<translated>
+			Session 2
+		</translated>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			The Word Of God
+		</original>
+		<translated>
+			La Parole de Dieu
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			Session 3
+		</original>
+		<translated>
+			Session 3
+		</translated>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			Discipleship
+		</original>
+		<translated>
+			Disciple
+		</translated>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			Session 4
+		</original>
+		<translated>
+			Session 4
+		</translated>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			The Coming of the Kingdom
+		</original>
+		<translated>
+			L’avènement du Royaume de Dieu
+		</translated>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			Session 5
+		</original>
+		<translated>
+			Session 5
+		</translated>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			Light and Darkness
+		</original>
+		<translated>
+			Lumière et Ténèbres
+		</translated>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			Session 6
+		</original>
+		<translated>
+			Session 6
+		</translated>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			New Testament Conversion
+		</original>
+		<translated>
+			Conversions dans le Nouveau Testament
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			Session 7
+		</original>
+		<translated>
+			Session 7
+		</translated>
+	</phrase>
+
+	<phrase id="23" desc="">
+		<original>
+			The Cross
+		</original>
+		<translated>
+			La Croix
+		</translated>
+	</phrase>
+
+	<phrase id="24" desc="">
+		<original>
+			Session 8
+		</original>
+		<translated>
+			Session 8
+		</translated>
+	</phrase>
+
+	<phrase id="25" desc="">
+		<original>
+			The Baptism of the Holy Spirit
+		</original>
+		<translated>
+			Le Baptême du Saint-Esprit
+		</translated>
+	</phrase>
+
+	<phrase id="26" desc="">
+		<original>
+			Session 9
+		</original>
+		<translated>
+			Session 9
+		</translated>
+	</phrase>
+
+	<phrase id="27" desc="">
+		<original>
+			The Miraculous Gifts of the Holy Spirit
+		</original>
+		<translated>
+			Les Dons Miraculeux du Saint-Esprit
+		</translated>
+	</phrase>
+
+	<phrase id="28" desc="">
+		<original>
+			Session 10
+		</original>
+		<translated>
+			Session 10
+		</translated>
+	</phrase>
+
+	<phrase id="29" desc="">
+		<original>
+			The Church
+		</original>
+		<translated>
+			L’Église
+		</translated>
+	</phrase>
+
+	<phrase id="30" desc="">
+		<original>
+			Session 11
+		</original>
+		<translated>
+			Session 11
+		</translated>
+	</phrase>
+
+	<phrase id="31" desc="">
+		<original>
+			Acts 1 - 8
+		</original>
+		<translated>
+			Actes 1 à 8
+		</translated>
+	</phrase>
+
+	<phrase id="32" desc="">
+		<original>
+			Session 12
+		</original>
+		<translated>
+			Session 12
+		</translated>
+	</phrase>
+
+	<phrase id="33" desc="">
+		<original>
+			Acts 9 - 15
+		</original>
+		<translated>
+			Actes 9 à 15
+		</translated>
+	</phrase>
+
+	<phrase id="34" desc="">
+		<original>
+			Session 13
+		</original>
+		<translated>
+			Session 13
+		</translated>
+	</phrase>
+
+	<phrase id="35" desc="">
+		<original>
+			Acts 16 - 21
+		</original>
+		<translated>
+			Actes 16 à 21
+		</translated>
+	</phrase>
+
+	<phrase id="36" desc="">
+		<original>
+			Session 14
+		</original>
+		<translated>
+			Session 14
+		</translated>
+	</phrase>
+
+	<phrase id="37" desc="">
+		<original>
+			Acts 22 - 28
+		</original>
+		<translated>
+			Actes 22 à 28
+		</translated>
+	</phrase>
+
+	<phrase id="38" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			Suggestions de lecture
+		</translated>
+	</phrase>
+
+	<phrase id="39" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			Ces livres sont recommandés afin d’approfondir ta connaissance de la Parole de Dieu. Ils ne sont pas pour autant considérés comme correct sur le plan doctrinal.
+		</translated>
+	</phrase>
+
+	<phrase id="40" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			L’audace de la foi, Georges MULLER, 1982, éditions Emmaüs
+		</translated>
+		<change bold="false" italic="true" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+				L’audace de la foi
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="41" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			Bien plus qu’un Charpentier, Josh McDOWELL, 2010, éditions Agape France (se télécharge gratuitement en pdf pour un usage privé)
+		</translated>
+		<change bold="false" italic="true" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+				Bien plus qu’un Charpentier
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="42" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			Les langages de l’amour, Gary CHAPMAN, 1997, différentes éditions
+		</translated>
+		<change bold="false" italic="true" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+				Les langages de l’amour
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="43" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			Evangéliser selon le maître, Robert E. Coleman, 1963, éditions Revell
+		</translated>
+		<change bold="false" italic="true" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+				Evangéliser selon le maître
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="44" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			Que ferait Jésus à ma place, Charles M Sheldon, 2011, éditions CLC
+		</translated>
+		<change bold="false" italic="true" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+				Que ferait Jésus à ma place
+			</translated>
+		</change>
+	</phrase>
+
+	
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="false" italic="false" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

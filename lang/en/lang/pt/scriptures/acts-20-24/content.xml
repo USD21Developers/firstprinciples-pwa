@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-20-24" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 20:24" book="Atos" title-en="Acts 20:24" book-en="Acts">
+		<chapter number="20" number-en="20">
+			<verse number="24" number-en="24">
+				Todavia, não me importo, nem considero a minha vida de valor algum para mim mesmo, se tão-somente puder terminar a corrida e completar o ministério que o Senhor Jesus me confiou, de testemunhar do evangelho da graça de Deus.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

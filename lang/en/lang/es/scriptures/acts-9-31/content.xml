@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-9-31" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 9:31" book="Hechos" title-en="Acts 9:31" book-en="Acts">
+		<chapter number="9" number-en="9">
+			<verse number="31" number-en="31">
+				Mientras tanto, la iglesia disfrutaba de paz a la vez que se consolidaba en toda Judea, Galilea y Samaria, pues vivía en el temor del Señor. E iba creciendo en número, fortalecida por el Espíritu Santo.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

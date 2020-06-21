@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-1-12-14" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 1:12-14" book="Atos" title-en="Acts 1:12-14" book-en="Acts">
+		<chapter number="1" number-en="1">
+			<verse number="12" number-en="12">
+				<p class="scripture-heading">
+					A Escolha de Matias
+				</p>
+				Então eles voltaram para Jerusalém, vindo do monte chamado das Oliveiras, que fica perto da cidade, cerca de um quilômetro.
+			</verse>
+			<verse number="13" number-en="13">
+				Quando chegaram, subiram ao aposento onde estavam hospedados. Achavam-se presentes Pedro, João, Tiago e André; Filipe, Tomé, Bartolomeu e Mateus; Tiago, filho de Alfeu, Simão, o zelote, e Judas, filho de Tiago.
+			</verse>
+			<verse number="14" number-en="14">
+				Todos eles se reuniam sempre em oração, com as mulheres, inclusive Maria, a mãe de Jesus, e com os irmãos dele.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

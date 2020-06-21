@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="philippians-4-4-7" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Filipenses 4:4-7" book="Filipenses" title-en="Philippians 4:4-7" book-en="Philippians">
+		<chapter number="4" number-en="4">
+			<verse number="4" number-en="4">
+				Alegrem-se sempre no Senhor. Novamente direi: alegrem-se!
+			</verse>
+			<verse number="5" number-en="5">
+				Seja a amabilidade de vocês conhecida por todos. Perto está o Senhor.
+			</verse>
+			<verse number="6" number-en="6">
+				Não andem ansiosos por coisa alguma, mas em tudo, pela oração e súplicas, e com ação de graças, apresentem seus pedidos a Deus.
+			</verse>
+			<verse number="7" number-en="7">
+				E a paz de Deus, que excede todo o entendimento, guardará os seus corações e as suas mentes em Cristo Jesus.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

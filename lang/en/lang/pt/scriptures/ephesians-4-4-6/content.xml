@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="ephesians-4-4-6" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Efésios 4:4-6" book="Efésios" title-en="Ephesians 4:4-6" book-en="Ephesians">
+		<chapter number="4" number-en="4">
+			<verse number="4" number-en="4">
+				Há um só corpo e um só Espírito, assim como a esperança para a qual vocês foram chamados é uma só;
+			</verse>
+			<verse number="5" number-en="5">
+				há um só Senhor, uma só fé, um só batismo,
+			</verse>
+			<verse number="6" number-en="6">
+				um só Deus e Pai de todos, que é sobre todos, por meio de todos e em todos.
+			</verse>
+		</chapter>
+
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,83 @@
+.fpmodule_the-church .churchIsBody {
+  display: inline-block;
+}
+.fpmodule_the-church .churchIsBody tr {
+  border-bottom: 0;
+}
+.fpmodule_the-church .churchIsBody tr:nth-child(1) td {
+  vertical-align: top;
+  height: 1rem;
+}
+.fpmodule_the-church .churchIsBody tr:nth-child(1) td:nth-child(3) img {
+  min-width: 50px;
+}
+.fpmodule_the-church .churchIsBody tr:nth-child(2) td {
+  vertical-align: top;
+}
+.fpmodule_the-church .churchIsBody .body {
+  margin-top: 1rem;
+}
+.fpmodule_the-church .churchIsBody .fas {
+  margin-top: -4px;
+}
+@media only screen and (max-width: 480px) {
+  .fpmodule_the-church .churchIsBody .body {
+    margin-top: -1rem;
+  }
+}
+@media only screen and (max-width: 799px) {
+  .fpmodule_the-church .churchIsBody .body {
+    margin-top: 0;
+  }
+}
+@media only screen and (min-width: 800px) {
+  .fpmodule_the-church .churchIsBody .body {
+    margin-top: 0.5rem;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .fpmodule_the-church .churchIsBody .body {
+    margin-top: 2rem;
+  }
+}
+
+
+.fpmodule_the-church .churchIsFamily {
+  margin: 1rem 0 0 0;
+}
+
+.fpmodule_the-church .churchIsFamily td {
+  padding: 0;
+  font-size: .9rem;
+}
+
+.fpmodule_the-church .churchIsFamily tr:nth-child(3) td {
+  padding: 0 5px;
+}
+
+.fpmodule_the-church .churchIsFamily {
+  display: inline-block;
+}
+.fpmodule_the-church .churchIsFamily tr {
+  border-bottom: 0;
+  padding: 0;
+}
+.fpmodule_the-church .churchIsFamily span {
+  font-size: 20px;
+}
+
+.god-christian-left {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.god-christian-right {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}

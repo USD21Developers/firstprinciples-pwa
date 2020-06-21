@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-3-12-14" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Hebreus 3:12-14" book="Hebreus" title-en="Hebrews 3:12-14" book-en="Hebrews">
+		<chapter number="3" number-en="3">
+			<verse number="12" number-en="12">
+				Cuidado, irmãos, para que nenhum de vocês tenha coração perverso e incrédulo, que se afaste do Deus vivo.
+			</verse>
+			<verse number="13" number-en="13">
+				Pelo contrário, encorajem-se uns aos outros todos os dias, durante o tempo que se chama "hoje", de modo que nenhum de vocês seja endurecido pelo engano do pecado,
+			</verse>
+			<verse number="14" number-en="14">
+				pois passamos a ser participantes de Cristo, desde que, de fato, nos apeguemos até o fim à confiança que tivemos no princípio.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

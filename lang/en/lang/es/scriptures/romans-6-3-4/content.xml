@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="romans-6-3-4" lang="es" version="nvi" edition="2015">
+	<passage title="Romanos 6:3-4" book="Romanos" title-en="Romans 6:3-4" book-en="Romans">
+		<chapter number="6" number-en="6">
+			<verse number="3" number-en="3">
+				¿Acaso no saben ustedes que todos los que fuimos bautizados para unirnos con Cristo Jesús en realidad fuimos bautizados para participar en su muerte?
+			</verse>
+			<verse number="4" number-en="4">
+				Por tanto, mediante el bautismo fuimos sepultados con él en su muerte, a fin de que, así como Cristo resucitó por el poder del Padre, también nosotros llevemos una vida nueva.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

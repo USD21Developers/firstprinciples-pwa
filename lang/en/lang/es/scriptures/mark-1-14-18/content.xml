@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="mark-1-14-18" lang="es" version="nvi" edition="2015">
+	<passage title="Marcos 1:14-18" book="Marcos" title-en="Mark 1:14-18" book-en="Mark">
+		<chapter number="1" number-en="1">
+			<verse number="14" number-en="14">
+				<p class="scripture-heading">
+					Llamamiento de los primeros discípulos
+				</p>
+				Después de que encarcelaron a Juan, Jesús se fue a Galilea a anunciar las buenas nuevas de Dios.
+			</verse>
+			<verse number="15" number-en="15" jesuswords="true">
+				<span class="jesuswords">«Se ha cumplido el tiempo</span> —decía—. <span class="jesuswords">El reino de Dios está cerca. ¡Arrepiéntanse y crean las buenas nuevas!»</span>
+			</verse>
+			<verse number="16" number-en="16">
+				Pasando por la orilla del mar de Galilea, Jesús vio a Simón y a su hermano Andrés que echaban la red al lago, pues eran pescadores. 
+			</verse>
+			<verse number="17" number-en="17" jesuswords="true">
+				<span class="jesuswords">«Vengan, síganme</span> —les dijo Jesús—, <span class="jesuswords">y los haré pescadores de hombres».</span>
+			</verse>
+			<verse number="18" number-en="18">
+				Al momento dejaron las redes y lo siguieron.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-20-24" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 20:24" book="Hechos" title-en="Acts 20:24" book-en="Acts">
+		<chapter number="20" number-en="20">
+			<verse number="24" number-en="24">
+				Sin embargo, considero que mi vida carece de valor para mí mismo, con tal de que termine mi carrera y lleve a cabo el servicio que me ha encomendado el Señor Jesús, que es el de dar testimonio del evangelio de la gracia de Dios.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

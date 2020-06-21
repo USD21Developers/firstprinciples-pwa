@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-17-26-28" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 17:26-28" book="Atos" title-en="Acts 17:26-28" book-en="Acts">
+		<chapter number="17" number-en="17">
+			<verse number="26" number-en="26">
+				De um só fez ele todos os povos, para que povoassem toda a terra, tendo determinado os tempos anteriormente estabelecidos e os lugares exatos em que deveriam habitar.
+			</verse>
+			<verse number="27" number-en="27">
+				Deus fez isso para que os homens o buscassem e talvez, tateando, pudessem encontrá-lo, embora não esteja longe de cada um de nós. 
+			</verse>
+			<verse number="28" number-en="28">
+				‘Pois nele vivemos, nos movemos e existimos’, como disseram alguns dos poetas de vocês: ‘Também somos descendência dele’.
+			</verse>		
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

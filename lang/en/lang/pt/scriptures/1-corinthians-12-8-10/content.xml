@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-12-8-10" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="1 Coríntios 12:8-10" book="1 Coríntios" title-en="1 Corinthians 12:8-10" book-en="1 Corinthians">
+		<chapter number="12" number-en="12">
+			<verse number="8" number-en="8">
+				Pelo Espírito, a um é dada a palavra de sabedoria; a outro, pelo mesmo Espírito, a palavra de conhecimento;
+			</verse>
+			<verse number="9" number-en="9">
+				a outro, fé, pelo mesmo Espírito; a outro, dons de curar, pelo único Espírito;
+			</verse>
+			<verse number="10" number-en="10">
+				a outro, poder para operar milagres; a outro, profecia; a outro, discernimento de espíritos; a outro, variedade de línguas; e ainda a outro, interpretação de línguas.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

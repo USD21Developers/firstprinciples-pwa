@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-5" lang="pt" version="NVI-PT" edition="2000">
+	<passage title="Atos 2:5" book="Atos" title-en="Acts 2:5" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="5" number-en="5">
+				Havia em Jerusalém judeus, tementes a Deus, vindos de todas as nações do mundo.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

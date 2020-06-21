@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-corinthians-11-23-32" lang="fr" version="SG21" edition="2007">
+	<passage title="1 Corinthiens 11:23-32" book="1 Corinthiens" title-en="1 Corinthians 11:23-32" book-en="1 Corinthians">
+		<chapter number="11" number-en="11">
+			<verse number="23" number-en="23">
+				En effet, j'ai reçu du Seigneur ce que je vous ai transmis. Le Seigneur Jésus, la nuit où il a été arrêté, a pris du pain.
+			</verse>
+			<verse number="24" number-en="24" jesuswords="true">
+				Après avoir remercié Dieu, il l’a rompu et a dit: <span class="jesuswords">[«Prenez, mangez.] Ceci est mon corps qui est [rompu] pour vous. Faites ceci en souvenir de moi.»</span>
+			</verse>
+			<verse number="25" number-en="25" jesuswords="true">
+				De même, après le repas, il a pris la coupe et a dit: <span class="jesuswords">«Cette coupe est la nouvelle alliance en mon sang. Faites ceci en souvenir de moi toutes les fois que vous en boirez.»</span>
+			</verse>
+			<verse number="26" number-en="26">
+				En effet, toutes les fois que vous mangez ce pain et que vous buvez cette coupe, vous annoncez la mort du Seigneur jusqu'à ce qu'il vienne.
+			</verse>
+			<verse number="27" number-en="27">
+				C'est pourquoi, celui qui mange ce pain ou boit la coupe du Seigneur indignement sera coupable envers le corps et le sang du Seigneur.
+			</verse>
+			<verse number="28" number-en="28">
+				Que chacun donc s'examine lui-même, et qu’ainsi il mange du pain et boive de la coupe,
+			</verse>
+			<verse number="29" number-en="29">
+				car celui qui mange et boit [indignement], sans discerner le corps [du Seigneur], mange et boit un jugement contre lui-même.
+			</verse>
+			<verse number="30" number-en="30">
+				C'est pour cela qu'il y a parmi vous beaucoup d'infirmes et de malades, et que plusieurs sont morts.
+			</verse>
+			<verse number="31" number-en="31">
+				Si nous nous examinions nous-mêmes, nous ne serions pas jugés.
+			</verse>
+			<verse number="32" number-en="32">
+				Mais quand nous sommes jugés, c’est le Seigneur qui nous corrige afin que nous ne soyons pas condamnés avec le monde.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

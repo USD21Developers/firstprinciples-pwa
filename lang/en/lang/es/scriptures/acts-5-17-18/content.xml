@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-5-17-18" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 5:17-18" book="Hechos" title-en="Acts 5:17-18" book-en="Acts">
+		<chapter number="5" number-en="5">
+			<verse number="17" number-en="17">
+				<p class="scripture-heading">
+					Persiguen a los apóstoles
+				</p>
+				El sumo sacerdote y todos sus partidarios, que pertenecían a la secta de los saduceos, se llenaron de envidia.
+			</verse>
+			<verse number="18" number-en="18">
+				Entonces arrestaron a los apóstoles y los metieron en la cárcel común.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

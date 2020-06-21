@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-19-6" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 19:6" book="Actes" title-en="Acts 19:6" book-en="Acts">
+		<chapter number="19" number-en="19">
+			<verse number="6" number-en="6">
+				Lorsque Paul posa les mains sur eux, le Saint-Esprit vint sur eux et ils se mirent à parler en langues et à prophétiser.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

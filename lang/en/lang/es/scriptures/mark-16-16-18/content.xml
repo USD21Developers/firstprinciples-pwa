@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="mark-16-16-18" lang="es" version="nvi" edition="2015">
+	<passage title="Marcos 16:16-18" book="Marcos" title-en="Mark 16:16-18" book-en="Mark">
+		<chapter number="16" number-en="16">
+			<verse number="16" number-en="16" jesuswords="true">
+				<span class="jesuswords">El que crea y sea bautizado será salvo, pero el que no crea será condenado.</span>
+			</verse>
+			<verse number="17" number-en="17" jesuswords="true">
+				<span class="jesuswords">Estas señales acompañarán a los que crean: en mi nombre expulsarán demonios; hablarán en nuevas lenguas;</span>
+			</verse>
+			<verse number="18" number-en="18" jesuswords="true">
+				<span class="jesuswords">tomarán en sus manos serpientes; y, cuando beban algo venenoso, no les hará daño alguno; pondrán las manos sobre los enfermos, y estos recobrarán la salud».</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

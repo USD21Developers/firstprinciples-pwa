@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-19-6" lang="es" version="nvi" edition="2015">
+	<passage title="Hechos 19:6" book="Hechos" title-en="Acts 19:6" book-en="Acts">
+		<chapter number="19" number-en="19">
+			<verse number="6" number-en="6">
+				Cuando Pablo les impuso las manos, el Espíritu Santo vino sobre ellos, y empezaron a hablar en lenguas y a profetizar.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

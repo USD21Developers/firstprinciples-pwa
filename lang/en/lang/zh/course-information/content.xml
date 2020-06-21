@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="course-information" lang-original="en" lang-translated="zh" last-updated="2020-02-07" last-updated-by="Dean Lam" last-updated-by-email="dean-lin_zh@hotmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			Course Information
+		</original>
+		<translated>
+			课程信息
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			This course should take a high priority in your day as it is geared to help you grasp a firmer hold on God’s Word and to deepen your understanding of His will for your life
+		</original>
+		<translated>
+			你应该把这个课程放在非常重要的地位因为它能帮助你更好的理解神的话语， 同时它也能加深你对神的旨意的理解。
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Each session two new Scriptures should be memorized for a quiz at the beginning of each class
+		</original>
+		<translated>
+			每个课程都会有两条经文需要我们记忆， 每次上课之前我们都会测试那些经文。
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Each study’s content and order of Scriptures should also be memorized for the quiz.
+		</original>
+		<translated>
+			我们需要熟记每个课程的内容和经文的顺序， 并且会有测试。
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			Each student is required to memorize the names of all the books of the Bible.
+		</original>
+		<translated>
+			每个学生必须熟记圣经里所有书的名字。
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			Sign up for the Good News Emails at CAICC.net by Session 2.
+		</original>
+		<translated>
+			在第二课开始前在 CAICC.NET 网站上注册喜讯邮报。
+		</translated>
+		<change bold="true" italic="false" modal="false" href="http://eepurl.com/iyjz2">
+			<original>
+				Sign up
+			</original>
+			<translated>
+				注册
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false" href="http://www.caicc.net/">
+			<original>
+				CAICC.net
+			</original>
+			<translated>
+				CAICC.NET
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			Read Ron Harding’s History of the Spread of Christianity in Modern Times (KipMcKean.com) by Session 8.
+		</original>
+		<translated>
+			在第八课前阅读完罗恩· 哈丁所著的 “现代基督教发展历史” （KipMcKean.com)
+		</translated>
+		<change bold="true" italic="false" modal="false" href="http://www.caicc.net/">
+			<original>
+				KipMcKean.com
+			</original>
+			<translated>
+				KipMcKean.com
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			An outline of the book of Acts will be turned in by Session 11. Each student is required to memorize two points from each chapter in the book of Acts.
+		</original>
+		<translated>
+			在第11课前提交使徒行传的大纲。 每个学生必须熟记使徒行传每个章节里的两个要点。 
+		</translated>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			Outline of Classes
+		</original>
+		<translated>
+			课程大纲
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			Session 1
+		</original>
+		<translated>
+			第一课
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			Introduction and Seeking God
+		</original>
+		<translated>
+			引言和寻求神
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			Session 2
+		</original>
+		<translated>
+			第二课
+		</translated>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			The Word Of God
+		</original>
+		<translated>
+			神的话
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			Session 3
+		</original>
+		<translated>
+			第三课
+		</translated>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			Discipleship
+		</original>
+		<translated>
+			门徒生命
+		</translated>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			Session 4
+		</original>
+		<translated>
+			第四课
+		</translated>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			The Coming of the Kingdom
+		</original>
+		<translated>
+			神国的到来
+		</translated>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			Session 5
+		</original>
+		<translated>
+			第五课
+		</translated>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			Light and Darkness
+		</original>
+		<translated>
+			光明与黑暗
+		</translated>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			Session 6
+		</original>
+		<translated>
+			第六课
+		</translated>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			New Testament Conversion
+		</original>
+		<translated>
+			新约中归信主的故事
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			Session 7
+		</original>
+		<translated>
+			第七课
+		</translated>
+	</phrase>
+
+	<phrase id="23" desc="">
+		<original>
+			The Cross
+		</original>
+		<translated>
+			十架
+		</translated>
+	</phrase>
+
+	<phrase id="24" desc="">
+		<original>
+			Session 8
+		</original>
+		<translated>
+			第八课
+		</translated>
+	</phrase>
+
+	<phrase id="25" desc="">
+		<original>
+			The Baptism of the Holy Spirit
+		</original>
+		<translated>
+			圣灵洗礼
+		</translated>
+	</phrase>
+
+	<phrase id="26" desc="">
+		<original>
+			Session 9
+		</original>
+		<translated>
+			第九课
+		</translated>
+	</phrase>
+
+	<phrase id="27" desc="">
+		<original>
+			The Miraculous Gifts of the Holy Spirit
+		</original>
+		<translated>
+			圣灵的恩赐
+		</translated>
+	</phrase>
+
+	<phrase id="28" desc="">
+		<original>
+			Session 10
+		</original>
+		<translated>
+			第十课
+		</translated>
+	</phrase>
+
+	<phrase id="29" desc="">
+		<original>
+			The Church
+		</original>
+		<translated>
+			教会
+		</translated>
+	</phrase>
+
+	<phrase id="30" desc="">
+		<original>
+			Session 11
+		</original>
+		<translated>
+			11 — 十一
+		</translated>
+	</phrase>
+
+	<phrase id="31" desc="">
+		<original>
+			Acts 1 - 8
+		</original>
+		<translated>
+			使徒行传第1-8章
+		</translated>
+	</phrase>
+
+	<phrase id="32" desc="">
+		<original>
+			Session 12
+		</original>
+		<translated>
+			12 — 十二
+		</translated>
+	</phrase>
+
+	<phrase id="33" desc="">
+		<original>
+			Acts 9 - 15
+		</original>
+		<translated>
+			使徒行传第9-15章
+		</translated>
+	</phrase>
+
+	<phrase id="34" desc="">
+		<original>
+			Session 13
+		</original>
+		<translated>
+			13 — 十三
+		</translated>
+	</phrase>
+
+	<phrase id="35" desc="">
+		<original>
+			Acts 16 - 21
+		</original>
+		<translated>
+			使徒行传第16-21章
+		</translated>
+	</phrase>
+
+	<phrase id="36" desc="">
+		<original>
+			Session 14
+		</original>
+		<translated>
+			第十四课
+		</translated>
+	</phrase>
+
+	<phrase id="37" desc="">
+		<original>
+			Acts 22 - 28
+		</original>
+		<translated>
+			使徒行传第22-28章
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="false" italic="false" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

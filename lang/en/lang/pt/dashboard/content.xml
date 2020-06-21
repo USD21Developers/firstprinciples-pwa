@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="dashboard" lang-original="en" lang-translated="pt" last-updated="2019-02-18" last-updated-by="Waldir Caro" last-updated-by-email="edisone11.fc@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			First Principles
+		</original>
+		<translated>
+			Princípios Básicos
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			Introduction
+		</original>
+		<translated>
+			Introdução
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Course Information
+		</original>
+		<translated>
+			Informação dos Estudos
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			The Book of John
+		</original>
+		<translated>
+			O Livro de João
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			Seeking God
+		</original>
+		<translated>
+			Buscando a Deus
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			The Word of God
+		</original>
+		<translated>
+			A Palavra de Deus
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			Discipleship
+		</original>
+		<translated>
+			Discipulado
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			The Coming of the Kingdom
+		</original>
+		<translated>
+			A Vinda do Reino
+		</translated>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			Light and Darkness
+		</original>
+		<translated>
+			Luz e Trevas
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			New Testament Conversion
+		</original>
+		<translated>
+			Conversão do Novo Testamento
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			The Cross
+		</original>
+		<translated>
+			A Cruz
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			The Medical Account of the Crucifixion of Christ
+		</original>
+		<translated>
+			Relato Médico da Crucificação de Cristo
+		</translated>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			Baptism with the Holy Spirit
+		</original>
+		<translated>
+			Batismo com o Espírito Santo
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			Miraculous Gifts of the Holy Spirit
+		</original>
+		<translated>
+			Dons Milagrosos do Espírito Santo
+		</translated>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			The Church
+		</original>
+		<translated>
+			A Igreja
+		</translated>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			The Book of Acts
+		</original>
+		<translated>
+			O Livro de Atos
+		</translated>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			After Baptism, Now What?
+		</original>
+		<translated>
+			Fui Batizado, e Agora?
+		</translated>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			Christ Is Your Life
+		</original>
+		<translated>
+			Cristo é sua Vida?
+		</translated>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			Best Friends of All Time
+		</original>
+		<translated>
+			Melhores Amigos de Todos os Tempos
+		</translated>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			The Mission
+		</original>
+		<translated>
+			A Missão
+		</translated>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			Persecution
+		</original>
+		<translated>
+			Perseguição
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			Memory Scriptures
+		</original>
+		<translated>
+			Escrituras a Decorar
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="false" italic="false" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+	
+</content>

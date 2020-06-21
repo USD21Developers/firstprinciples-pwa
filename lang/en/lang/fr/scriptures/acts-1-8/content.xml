@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-1-8" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 1:8" book="Actes" title-en="Acts 1:8" book-en="Acts">
+		<chapter number="1" number-en="1">
+			<verse number="8" number-en="8" jesuswords="true">
+				<span class="jesuswords">Mais vous recevrez une puissance lorsque le Saint-Esprit viendra sur vous, et vous serez mes témoins à Jérusalem, dans toute la Judée, dans la Samarie et jusqu'aux extrémités de la terre.»</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

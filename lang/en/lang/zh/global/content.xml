@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="global" lang-original="en" lang-translated="zh" last-updated="2020-02-07" last-updated-by="Dean Lam" last-updated-by-email="dean-lin_zh@hotmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="App title">
+		<original>
+			First Principles
+		</original>
+		<translated>
+			首要原则
+		</translated>
+	</phrase>
+	
+	<phrase id="2" desc="Expand button.  This is shown in a scripture.">
+		<original>
+			Expand 
+		</original>
+		<translated>
+			扩展
+		</translated>
+	</phrase>
+	
+	<phrase id="3" desc="">
+		<original>
+			Select Language
+		</original>
+		<translated>
+			选择语言
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Share
+		</original>
+		<translated>
+			分享
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			An internet connection is required in order to listen to this audio. Please connect to the internet, then try again.
+		</original>
+		<translated>
+			需要互联网连接才能收听此音频。 请连接到互联网，然后重试。
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			An internet connection is required in order to watch this video. Please connect to the internet, then try again.
+		</original>
+		<translated>
+			需要互联网连接才能观看此视频。 请连接到互联网，然后重试。
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			A Bible study from the International Christian Churches
+		</original>
+		<translated>
+			国际基督教教会的圣经学习课程
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			A Bible study series from the International Christian Churches
+		</original>
+		<translated>
+			国际基督教教会的圣经学习系列
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="false" italic="false" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

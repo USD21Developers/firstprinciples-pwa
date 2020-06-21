@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-17" lang="zh" version="cnvs" edition="2001">
+	<passage title="使徒行传 2:17" book="使徒行传" title-en="Acts 2:17" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="17" number-en="17">
+				‘　神说:在末后的日子，
+我要把我的灵浇灌所有的人，
+你们的儿女要说预言，
+你们的青年人要见异象，
+你们的老年人要作异梦。
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="footer" lang-original="en" lang-translated="en" last-updated="2019-10-22" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2019-10-22" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+
+	<phrase id="1" desc="Install button">
+		<original>
+			Add to Home Screen
+		</original>
+		<translated>
+			加入主页
+		</translated>
+	</phrase>
+	
+	<phrase id="2" desc="Copyright text, line 1">
+		<original>
+			International Christian Churches
+		</original>
+		<translated>
+			国际基督教会
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="Copyright text, line 2">
+		<original>
+			(SoldOut Discipling Movement)
+		</original>
+		<translated>
+			（Soldout Discipling 运动）
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Share
+		</original>
+		<translated>
+			分享
+		</translated>
+	</phrase>
+
+
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="false" italic="false" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

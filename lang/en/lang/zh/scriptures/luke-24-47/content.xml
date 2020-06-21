@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-24-47" lang="zh" version="cnvs" edition="2001">
+	<passage title="路加福音 24:47" book="路加福音" title-en="Luke 24:47" book-en="Luke">
+		<chapter number="24" number-en="24">
+			<verse number="47" number-en="47" jesuswords="true">
+				<span class="jesuswords">人要奉他的名，传讲悔改与赦罪的道，从耶路撒冷起，直传到万国。</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="galatians-6-1-2" lang="es" version="nvi" edition="2015">
+	<passage title="Gálatas 6:1-2" book="Gálatas" title-en="Galatians 6:1-2" book-en="Galatians">
+		<chapter number="6" number-en="6">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					La ayuda mutua
+				</p>
+				Hermanos, si alguien es sorprendido en pecado, ustedes que son espirituales deben restaurarlo con una actitud humilde. Pero cuídese cada uno, porque también puede ser tentado.
+			</verse>
+			<verse number="2" number-en="2">
+				Ayúdense unos a otros a llevar sus cargas, y así cumplirán la ley de Cristo.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

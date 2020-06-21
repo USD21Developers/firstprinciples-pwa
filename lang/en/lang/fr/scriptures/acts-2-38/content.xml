@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-38" lang="fr" version="SG21" edition="2007">
+	<passage title="Actes 2:38" book="Actes" title-en="Acts 2:38" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="38" number-en="38">
+				Pierre leur dit: «Changez d’attitude et que chacun de vous soit baptisé au nom de Jésus-Christ pour le pardon de vos péchés, et vous recevrez le don du Saint-Esprit.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->
