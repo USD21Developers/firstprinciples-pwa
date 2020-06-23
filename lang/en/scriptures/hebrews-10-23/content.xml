@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-10-23" lang="en" version="niv" edition="1984">
+	<passage title="Hebrews 10:23" book="Hebrews" book-en="Hebrews">
+		<chapter number="10" number-en="10">
+			<verse number="23" number-en="23">
+				Let us hold unswervingly to the hope we profess, for he who promised is faithful.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

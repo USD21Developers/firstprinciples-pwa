@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="the-cross" lang-original="en" lang-translated="" last-updated="2018-09-28" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			The Cross
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			Passion Account
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Read Matthew 26:31-28:10
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-26-31-28-10">
+			<original>
+				Matthew 26:31-28:10
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Suggested Reading Intervals:
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			26:31-35
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			26:36-46
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			26:47-56
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			26:57-68
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			26:69-75
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			27:1-10
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			27:11-26
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			27:27-31
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			27:32-44
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			27:45-56
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			27:57-61
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="16" desc="">
+		<original>
+			27:62-66
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="17" desc="">
+		<original>
+			28:1-10
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="18" desc="">
+		<original>
+			Physical Death
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="19" desc="">
+		<original>
+			Read the medical account of Jesus' physical death.
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="false" href="../medical-account/">
+			<original>
+				medical account
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="20" desc="">
+		<original>
+			Personal Responsibility
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="21" desc="">
+		<original>
+			Remember that there were many others who died by crucifixion in the first century. It was not that Jesus was physically crucified that makes Him unique; it was that He was crucified for you, in your place. He died on the cross for you.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="22" desc="">
+		<original>
+			Romans 3:23
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-3-23">
+			<original>
+				Romans 3:23
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="23" desc="">
+		<original>
+			Isaiah 59:1-2
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="isaiah-59-1-2">
+			<original>
+				Isaiah 59:1-2
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="24" desc="">
+		<original>
+			Matthew 27:46
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-27-46">
+			<original>
+				Matthew 27:46
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="25" desc="">
+		<original>
+			Share the sins that you committed before being baptized and your feelings of being forgiven at baptism. Ask the person with whom you are studying to share and confess their sins.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="26" desc="">
+		<original>
+			Isaiah 53:4-6 (substitute your name).
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="isaiah-53-4-6">
+			<original>
+				Isaiah 53:4-6
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="27" desc="">
+		<original>
+			If possible immediately after this study watch either The Cross or The Passion video.
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				The Cross
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				The Passion
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	<media>
+	  <item year="2004">
+	    <speaker key="kip-mckean">
+	      <native-name>
+	        <full>
+	          Kip McKean
+	        </full>
+	      </native-name>
+	    </speaker>
+	    <recording uuid="22f726e8-2796-4dbf-9893-6e803f9b2dc6" label="">
+	      <link text="" url="" />
+	      <poster width="" height="" url="" />
+	      <embed type="audio">
+	        <source type="audio/mp3" url="https://media.fp.usd21.org/fp/media/lang/en/the-cross/kip-mckean/the-cross.mp3" />
+	        <source type="audio/aac" url="https://media.fp.usd21.org/fp/media/lang/en/the-cross/kip-mckean/the-cross.m4a" />
+	        <source type="audio/ogg" url="https://media.fp.usd21.org/fp/media/lang/en/the-cross/kip-mckean/the-cross.ogg" />
+	      </embed>
+	    </recording>
+	  </item>
+	</media>
+	
+	<!--
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

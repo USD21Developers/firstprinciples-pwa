@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-16-19" lang="en" version="niv" edition="1984">
+	<passage title="Matthew 16:19" book="Matthew" book-en="Matthew">
+		<chapter number="16" number-en="16">
+			<verse number="19" number-en="19" jesuswords="true">
+				<span class="jesuswords">I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

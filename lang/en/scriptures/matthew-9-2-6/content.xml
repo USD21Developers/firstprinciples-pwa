@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-9-2-6" lang="en" version="niv" edition="1984">
+	<passage title="Matthew 9:2-6" book="Matthew" book-en="Matthew">
+		<chapter number="9" number-en="9">
+			<verse number="2" number-en="2" jesuswords="true">
+				Some men brought to him a paralytic, lying on a mat. When Jesus saw their faith, he said to the paralytic, '<span class="jesuswords">Take heart, son; your sins are forgiven.</span>'
+			</verse>
+			<verse number="3" number-en="3">
+				At this, some of the teachers of the law said to themselves, 'This fellow is blaspheming!'
+			</verse>
+			<verse number="4" number-en="4" jesuswords="true">
+				Knowing their thoughts, Jesus said, '<span class="jesuswords">Why do you entertain evil thoughts in your hearts?</span>
+			</verse>
+			<verse number="5" number-en="5" jesuswords="true">
+				<span class="jesuswords">Which is easier: to say, "Your sins are forgiven," or to say, "Get up and walk?"</span>
+			</verse>
+			<verse number="6" number-en="6" jesuswords="true">
+				<span class="jesuswords">But so that you may know that the Son of Man has authority on earth to forgive sins. . . .</span>' Then he said to the paralytic, '<span class="jesuswords">Get up, take your mat and go home.</span>'
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

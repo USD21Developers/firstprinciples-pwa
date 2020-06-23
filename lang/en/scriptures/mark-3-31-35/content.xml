@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="mark-3-31-35" lang="en" version="niv" edition="1984">
+	<passage title="Mark 3:31-35" book="Mark" book-en="Mark">
+		<chapter number="3" number-en="3">
+			<verse number="31" number-en="31">
+				<p class="scripture-heading">
+					Jesus' Mother and Brothers
+				</p>
+				Then Jesus' mother and brothers arrived. Standing outside, they sent someone in to call him.
+			</verse>
+			<verse number="32" number-en="32">
+				A crowd was sitting around him, and they told him, "Your mother and brothers are outside looking for you."
+			</verse>
+			<verse number="33" number-en="33" jesuswords="true">
+				"<span class="jesuswords">Who are my mother and my brothers?</span>" he asked.
+			</verse>
+			<verse number="34" number-en="34" jesuswords="true">
+				Then he looked at those seated in a circle around him and said, "<span class="jesuswords">Here are my mother and my brothers!</span>
+			</verse>
+			<verse number="35" number-en="35" jesuswords="true">
+				<span class="jesuswords">Whoever does God's will is my brother and sister and mother.</span>"
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

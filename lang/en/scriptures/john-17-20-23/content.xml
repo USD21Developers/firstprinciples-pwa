@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-17-20-23" lang="en" version="niv" edition="1984">
+	<passage title="John 17:20-23" book="John" book-en="John">
+		<chapter number="17" number-en="17">
+			<verse number="20" number-en="20" jesuswords="true">
+				<p class="scripture-heading">
+					Jesus Prays for All Believers
+				</p>
+				<span class="jesuswords">My prayer is not for them alone. I pray also for those who will believe in me through their message,</span>
+			</verse>
+			<verse number="21" number-en="21" jesuswords="true">
+				<span class="jesuswords">that all of them may be one, Father, just as you are in me and I am in you. May they also be in us so that the world may believe that you have sent me.</span>
+			</verse>
+			<verse number="22" number-en="22" jesuswords="true">
+				<span class="jesuswords">I have given them the glory that you gave me, that they may be one as we are one:</span>
+			</verse>
+			<verse number="23" number-en="23" jesuswords="true">
+				<span class="jesuswords">I in them and you in me. May they be brought to complete unity to let the world know that you sent me and have loved them even as you have loved me.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

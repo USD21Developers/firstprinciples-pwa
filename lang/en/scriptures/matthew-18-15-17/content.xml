@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-18-15-17" lang="en" version="niv" edition="1984">
+	<passage title="Matthew 18:15-17" book="Matthew" book-en="Matthew">
+		<chapter number="18" number-en="18">
+			<verse number="15" number-en="15" jesuswords="true">
+				<p class="scripture-heading">
+					A Brother Who Sins Against You
+				</p>
+				<span class="jesuswords">If your brother sins against you, go and show him his fault, just between the two of you. If he listens to you, you have won your brother over.</span>
+			</verse>
+			<verse number="16" number-en="16" jesuswords="true" scripturequote="true">
+				<span class="jesuswords">But if he will not listen, take one or two others along, so that <span class="scripturequote">"every matter may be established by the testimony of two or three witnesses."</span></span>
+			</verse>
+			<verse number="17" number-en="17" jesuswords="true">
+				<span class="jesuswords">If he refuses to listen to them, tell it to the church; and if he refuses to listen even to the church, treat him as you would a pagan or a tax collector.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

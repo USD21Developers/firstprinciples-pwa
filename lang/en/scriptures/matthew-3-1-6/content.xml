@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-3-1-6" lang="en" version="niv" edition="1984">
+	<passage title="Matthew 3:1-6" book="Matthew" book-en="Matthew">
+		<chapter number="3" number-en="3">
+			<verse number="1" number-en="1">
+				<p class="scripture-heading">
+					John the Baptist Prepares the Way
+				</p>
+				In those days John the Baptist came, preaching in the Desert of Judea
+			</verse>
+			<verse number="2" number-en="2">
+				and saying, "Repent, for the kingdom of heaven is near."
+			</verse>
+			<verse number="3" number-en="3" scripturequote="true">
+				This is he who was spoken of through the prophet Isaiah: <span class="scripturequote">"A voice of one calling in the desert, 'Prepare the way for the Lord, make straight paths for him.'"</span>
+			</verse>
+			<verse number="4" number-en="4">
+				John's clothes were made of camel's hair, and he had a leather belt around his waist. His food was locusts and wild honey.
+			</verse>
+			<verse number="5" number-en="5">
+				People went out to him from Jerusalem and all Judea and the whole region of the Jordan.
+			</verse>
+			<verse number="6" number-en="6">
+				Confessing their sins, they were baptized by him in the Jordan River.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

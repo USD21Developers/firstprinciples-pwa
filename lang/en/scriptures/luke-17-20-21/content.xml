@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-17-20-21" lang="en" version="niv" edition="1984">
+	<passage title="Luke 17:20-21" book="Luke" book-en="Luke">
+		<chapter number="17" number-en="17">
+			<verse number="20" number-en="20" jesuswords="true">
+				<p class="scripture-heading">
+					The Coming of the Kingdom of God
+				</p>
+				Once, having been asked by the Pharisees when the kingdom of God would come, Jesus replied, "<span class="jesuswords">The kingdom of God does not come with your careful observation,</span>
+			</verse>
+			<verse number="21" number-en="21" jesuswords="true">
+				<span class="jesuswords">nor will people say, 'Here it is,' or 'There it is,' because the kingdom of God is within you.</span>"
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="james-1-22-25" lang="en" version="niv" edition="1984">
+	<passage title="James 1:22-25" book="James" book-en="James">
+		<chapter number="1" number-en="1">
+			<verse number="22" number-en="22">
+				Do not merely listen to the word, and so deceive yourselves. Do what it says.
+			</verse>
+			<verse number="23" number-en="23">
+				Anyone who listens to the word but does not do what it says is like a man who looks at his face in a mirror
+			</verse>
+			<verse number="24" number-en="24">
+				and, after looking at himself, goes away and immediately forgets what he looks like.
+			</verse>
+			<verse number="25" number-en="25">
+				But the man who looks intently into the perfect law that gives freedom, and continues to do this, not forgetting what he has heard, but doing it — he will be blessed in what he does.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

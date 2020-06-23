@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="james-5-16-18" lang="en" version="niv" edition="1984">
+	<passage title="James 5:16-18" book="James" book-en="James">
+		<chapter number="5" number-en="5">
+			<verse number="16" number-en="16">
+				Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man is powerful and effective.
+			</verse>
+			<verse number="17" number-en="17">
+				Elijah was a man just like us. He prayed earnestly that it would not rain, and it did not rain on the land for three and a half years.
+			</verse>
+			<verse number="18" number-en="18">
+				Again he prayed, and the heavens gave rain, and the earth produced its crops.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

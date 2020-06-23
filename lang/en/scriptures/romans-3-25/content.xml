@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="romans-3-25" lang="en" version="niv" edition="1984">
+	<passage title="Romans 3:25" book="Romans" book-en="Romans">
+		<chapter number="3" number-en="3">
+			<verse number="25" number-en="25">
+				God presented him as a sacrifice of atonement, through faith in his blood. He did this to demonstrate his justice, because in his forbearance he had left the sins committed beforehand unpunished —
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

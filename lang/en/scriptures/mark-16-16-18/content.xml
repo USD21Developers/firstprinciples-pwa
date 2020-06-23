@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="mark-16-16-18" lang="en" version="niv" edition="1984">
+	<passage title="Mark 16:16-18" book="Mark" book-en="Mark">
+		<chapter number="16" number-en="16">
+			<verse number="16" number-en="16" jesuswords="true">
+				<span class="jesuswords">Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.</span>
+			</verse>
+			<verse number="17" number-en="17" jesuswords="true">
+				<span class="jesuswords">And these signs will accompany those who believe: In my name they will drive out demons; they will speak in new tongues;</span>
+			</verse>
+			<verse number="18" number-en="18" jesuswords="true">
+				<span class="jesuswords">they will pick up snakes with their hands; and when they drink deadly poison, it will not hurt them at all; they will place their hands on sick people, and they will get well.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="james-5-16" lang="en" version="niv" edition="1984">
+	<passage title="James 5:16" book="James" book-en="James">
+		<chapter number="5" number-en="5">
+			<verse number="16" number-en="16">
+				Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man is powerful and effective.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

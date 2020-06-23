@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-3-22-24" lang="en" version="niv" edition="1984">
+	<passage title="Colossians 3:22-24" book="Colossians" book-en="Colossians">
+		<chapter number="3" number-en="3">
+			<verse number="22" number-en="22">
+				Slaves, obey your earthly masters in everything; and do it, not only when their eye is on you and to win their favor, but with sincerity of heart and reverence for the Lord.
+			</verse>
+			<verse number="23" number-en="23">
+				Whatever you do, work at it with all your heart, as working for the Lord, not for men,
+			</verse>
+			<verse number="24" number-en="24">
+				since you know that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

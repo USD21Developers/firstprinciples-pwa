@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="ephesians-2-8" lang="en" version="niv" edition="1984">
+	<passage title="Ephesians 2:8" book="Ephesians" book-en="Ephesians">
+		<chapter number="2" number-en="2">
+			<verse number="8" number-en="8">
+				For it is by grace you have been saved, through faith — and this not from yourselves, it is the gift of God —
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

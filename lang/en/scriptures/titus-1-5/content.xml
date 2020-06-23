@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="titus-1-5" lang="en" version="niv" edition="1984">
+	<passage title="Titus 1:5" book="Titus" book-en="Titus">
+		<chapter number="1" number-en="1">
+			<verse number="5" number-en="5">
+				<p class="scripture-heading">
+					Titus' Task on Crete
+				</p>
+				The reason I left you in Crete was that you might straighten out what was left unfinished and appoint elders in every town, as I directed you.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

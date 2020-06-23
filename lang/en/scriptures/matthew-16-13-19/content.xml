@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-16-13-19" lang="en" version="niv" edition="1984">
+	<passage title="Matthew 16:13-19" book="Matthew" book-en="Matthew">
+		<chapter number="16" number-en="16">
+			<verse number="13" number-en="13" jesuswords="true">
+				<p class="scripture-heading">
+					Peter's Confession of Christ
+				</p>
+				When Jesus came to the region of Caesarea Philippi, he asked his disciples, "<span class="jesuswords">Who do people say the Son of Man is?</span>"
+			</verse>
+			<verse number="14" number-en="14">
+				They replied, "Some say John the Baptist; others say Elijah; and still others, Jeremiah or one of the prophets."
+			</verse>
+			<verse number="15" number-en="15" jesuswords="true">
+				"<span class="jesuswords">But what about you?</span>" he asked. "<span class="jesuswords">Who do you say I am?</span>"
+			</verse>
+			<verse number="16" number-en="16">
+				Simon Peter answered, "You are the Christ, the Son of the living God."
+			</verse>
+			<verse number="17" number-en="17" jesuswords="true">
+				Jesus replied, "<span class="jesuswords">Blessed are you, Simon son of Jonah, for this was not revealed to you by man, but by my Father in heaven.</span>
+			</verse>
+			<verse number="18" number-en="18" jesuswords="true">
+				<span class="jesuswords">And I tell you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it.</span>
+			</verse>
+			<verse number="19" number-en="19" jesuswords="true">
+				<span class="jesuswords">I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.</span>"
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

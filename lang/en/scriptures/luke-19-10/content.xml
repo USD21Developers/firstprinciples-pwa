@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-19-10" lang="en" version="niv" edition="1984">
+	<passage title="Luke 19:10" book="Luke" book-en="Luke">
+		<chapter number="19" number-en="19">
+			<verse number="10" number-en="10" jesuswords="true">
+				<span class="jesuswords">For the Son of Man came to seek and to save what was lost.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

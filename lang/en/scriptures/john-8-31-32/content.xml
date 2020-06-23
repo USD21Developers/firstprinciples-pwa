@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-8-31-32" lang="en" version="niv" edition="1984">
+	<passage title="John 8:31-32" book="John" book-en="John">
+		<chapter number="8" number-en="8">
+			<verse number="31" number-en="31" jesuswords="true">
+				<p class="scripture-heading">
+					The Children of Abraham
+				</p>
+				To the Jews who had believed him, Jesus said, "<span class="jesuswords">If you hold to my teaching, you are really my disciples.</span>
+			</verse>
+			<verse number="32" number-en="32" jesuswords="true">
+				'<span class="jesuswords">Then you will know the truth, and the truth will set you free.</span>"
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

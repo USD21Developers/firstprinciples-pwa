@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-28-18-20" lang="en" version="niv" edition="1984">
+	<passage title="Matthew 28:18-20" book="Matthew" book-en="Matthew">
+		<chapter number="28" number-en="28">
+			<verse number="18" number-en="18" jesuswords="true">
+				Then Jesus came to them and said, "<span class="jesuswords">All authority in heaven and on earth has been given to me.</span>
+			</verse>
+			<verse number="19" number-en="19" jesuswords="true">
+				<span class="jesuswords">Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,</span>
+			</verse>
+			<verse number="20" number-en="20" jesuswords="true">
+				<span class="jesuswords">and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.</span>"
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

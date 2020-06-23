@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="romans-10-13" lang="en" version="niv" edition="1984">
+	<passage title="Romans 10:13" book="Romans" book-en="Romans">
+		<chapter number="10" number-en="10">
+			<verse number="13" number-en="13" scripturequote="true">
+				for, <span class="scripturequote">"Everyone who calls on the name of the Lord will be saved."</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

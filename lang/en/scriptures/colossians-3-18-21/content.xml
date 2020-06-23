@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="colossians-3-18-21" lang="en" version="niv" edition="1984">
+	<passage title="Colossians 3:18-21" book="Colossians" book-en="Colossians">
+		<chapter number="3" number-en="3">
+			<verse number="18" number-en="18">
+				<p class="scripture-heading">
+					Rules for Christian Households
+				</p>
+				Wives, submit to your husbands, as is fitting in the Lord.
+			</verse>
+			<verse number="19" number-en="19">
+				Husbands, love your wives and do not be harsh with them.
+			</verse>
+			<verse number="20" number-en="20">
+				Children, obey your parents in everything, for this pleases the Lord.
+			</verse>
+			<verse number="21" number-en="21">
+				Fathers, do not embitter your children, or they will become discouraged.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

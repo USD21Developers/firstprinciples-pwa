@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="luke-12-51-53" lang="en" version="niv" edition="1984">
+	<passage title="Luke 12:51-53" book="Luke" book-en="Luke">
+		<chapter number="12" number-en="12">
+			<verse number="51" number-en="51" jesuswords="true">
+				<span class="jesuswords">Do you think I came to bring peace on earth? No, I tell you, but division.</span>
+			</verse>
+			<verse number="52" number-en="52" jesuswords="true">
+				<span class="jesuswords">From now on there will be five in one family divided against each other, three against two and two against three.</span>
+			</verse>
+			<verse number="53" number-en="53" jesuswords="true">
+				<span class="jesuswords">They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.</span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

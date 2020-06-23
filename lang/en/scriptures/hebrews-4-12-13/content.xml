@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-4-12-13" lang="en" version="niv" edition="1984">
+	<passage title="Hebrews 4:12-13" book="Hebrews" book-en="Hebrews">
+		<chapter number="4" number-en="4">
+			<verse number="12" number-en="12">
+				For the word of God is living and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart.
+			</verse>
+			<verse number="13" number-en="13">
+				Nothing in all creation is hidden from God's sight. Everything is uncovered and laid bare before the eyes of him to whom we must give account.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->
