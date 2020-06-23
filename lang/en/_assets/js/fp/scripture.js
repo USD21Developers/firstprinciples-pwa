@@ -78,7 +78,7 @@ fp.scripture = {
       html += `
         <br>
         <div class="right-align scripture-expand">
-          <a href="http://www.biblegateway.com/passage/?search=${encodeURI(book + '+' + chapter)}&version=${version}" class="btn blue darken-1 waves-effect waves-light">
+          <a href="http://www.biblegateway.com/passage/?search=${encodeURI(book + '+' + chapter)}&version=${version}" target="_blank" rel="noreferrer" class="btn blue darken-1 waves-effect waves-light">
           </a>
         </div>
       `;
@@ -116,24 +116,17 @@ fp.scripture = {
       });
       $('#scriptureModal').modal('open');
     };
-    storedScripture = await localforage.getItem(fp.language.current + '-' + key);
-    if (storedScripture) {
-      storedScripture = $.parseXML(storedScripture);
-      successHandler(storedScripture);
-    } else {
-      $.ajax({
-        url: '../scriptures/' + key + '/content.xml',
-        cache: true,
-        dataType: 'xml',
-        error: function(err){
-          console.error(err);
-        },
-        success: function(data) {
-          successHandler(data);
-          localforage.setItem(fp.language.current + '-' + key, fp.xml2Str(data));
-        }
-      });
-    }
+    $.ajax({
+      url: '../scriptures/' + key + '/content.xml',
+      cache: true,
+      dataType: 'xml',
+      error: function(err){
+        console.error(err);
+      },
+      success: function(data) {
+        successHandler(data);
+      }
+    });
   }
 
 }
