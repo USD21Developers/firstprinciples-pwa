@@ -40,209 +40,209 @@
           <li class="collection-item">
             ${phrase(7)}
           </li>
-          <li class="collection-item">
-            ${phrase(8)}
-          </li>
         </ul>
 
         <h5>
-          ${phrase(9)}
+          ${phrase(8)}
         </h5>
 
         <table class="firstColNoWrap">
           <tbody>
             <tr>
               <td>
+                ${phrase(9)}
+              </td>
+              <td>
                 ${phrase(10)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(11)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(12)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(13)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(14)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(15)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(16)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(17)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(18)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(19)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(20)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(21)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(22)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(23)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(24)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(25)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(26)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(27)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(28)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(29)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(30)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(31)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(32)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(33)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(34)}
               </td>
-              <td>
-                ${phrase(35)}
-              </td>
             </tr>
             <tr>
               <td>
-                ${phrase(36)}
+                ${phrase(35)}
               </td>
               <td>
-                ${phrase(37)}
+                ${phrase(36)}
               </td>
             </tr>
           </tbody>
         </table>
 
         <h5>
-          ${phrase(38)}
+          ${phrase(37)}
         </h5>
 
         <p>
-          ${phrase(39)}
+          ${phrase(38)}
         </p>
 
         <ul class="showdiscs">
           <li>
-            ${phrase(40)} &mdash; ${phrase(41)}
+            ${phrase(39)} &mdash; ${phrase(40)}
           </li>
           <li>
-            ${phrase(42)} &mdash; ${phrase(43)} &mdash; ${phrase(44)}
+            ${phrase(41)} &mdash; ${phrase(42)} &mdash; ${phrase(43)}
           </li>
           <li>
-            ${phrase(45)} &mdash; ${phrase(46)} &mdash; ${phrase(47)}
+            ${phrase(44)} &mdash; ${phrase(45)} &mdash; ${phrase(46)}
           </li>
           <li>
-            ${phrase(48)} &mdash; ${phrase(49)} &mdash; ${phrase(50)}
+            ${phrase(47)} &mdash; ${phrase(48)} &mdash; ${phrase(49)}
           </li>
           <li>
-            ${phrase(51)} &mdash; ${phrase(52)}
+            ${phrase(50)} &mdash; ${phrase(51)}
           </li>
           <li>
-            ${phrase(53)} &mdash; ${phrase(54)}
+            ${phrase(52)} &mdash; ${phrase(53)}
+          </li>
+          <li>
+            ${phrase(54)} &mdash; ${phrase(55)}
           </li>
         </ul>
 
         <h5>
-          ${phrase(55)}
+          ${phrase(56)}
         </h5>
 
         <table>
           <tbody>
             <tr>
               <td>
-                ${phrase(56)}
-              </td>
-              <td>
                 ${phrase(57)}
               </td>
               <td>
                 ${phrase(58)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(59)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(60)}
               </td>
               <td>
                 ${phrase(61)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(62)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(63)}
               </td>
               <td>
                 ${phrase(64)}
               </td>
-            </tr>
-            <tr>
               <td>
                 ${phrase(65)}
               </td>
+            </tr>
+            <tr>
               <td>
                 ${phrase(66)}
               </td>
               <td>
                 ${phrase(67)}
+              </td>
+              <td>
+                ${phrase(68)}
               </td>
             </tr>
           </tbody>
