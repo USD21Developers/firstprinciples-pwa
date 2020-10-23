@@ -1,0 +1,5 @@
+* CHANGE LOG *
+
+2020-10-23
+ - Added new scripture, scripture key, and test:  Daniel 2:44 (key "daniel-2-44")
+ - Added new scripture, scripture key, and test:  Acts 2:37-38 (key "acts-2-37-38")
