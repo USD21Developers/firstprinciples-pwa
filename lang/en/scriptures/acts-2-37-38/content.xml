@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-2-37-38" lang="en" version="niv" edition="1984">
+	<passage title="Acts 2:37-38" book="Acts" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="37" number-en="37">
+				When the people heard this, they were cut to the heart and said to Peter and the other apostles, "Brothers, what shall we do?"
+			</verse>
+			<verse number="38" number-en="38">
+				Peter replied, "Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->
