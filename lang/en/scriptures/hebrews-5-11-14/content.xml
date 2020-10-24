@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-5-11-14" lang="en" version="niv" edition="1984">
+	<passage title="Hebrews 5:11-14" book="Hebrews" book-en="Hebrews">
+		<chapter number="5" number-en="5">
+			<verse number="11" number-en="11">
+				We have much to say about this, but it is hard to explain because you are slow to learn.
+			</verse>
+			<verse number="12" number-en="12">
+				In fact, though by this time you ought to be teachers, you need someone to teach you the elementary truths of God's word all over again. You need milk, not solid food!
+			</verse>
+			<verse number="13" number-en="13">
+				Anyone who lives on milk, being still an infant, is not acquainted with the teaching about righteousness.
+			</verse>
+			<verse number="14" number-en="14">
+				But solid food is for the mature, who by constant use have trained themselves to distinguish good from evil.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->
