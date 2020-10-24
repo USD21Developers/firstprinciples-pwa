@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="course-information" lang-original="en" lang-translated="" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="course-information" lang-original="en" lang-translated="" last-updated="2020-10-24" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
@@ -13,7 +13,7 @@
 
 	<phrase id="2" desc="">
 		<original>
-			This course should take a high priority in your day as it is geared to help you grasp a firmer hold on God’s Word and to deepen your understanding of His will for your life
+			This course should take a high priority in your day as it is geared to help you grasp a firmer hold on God’s Word and to deepen your understanding of His will for your life.
 		</original>
 		<translated>
 			
@@ -22,7 +22,7 @@
 
 	<phrase id="3" desc="">
 		<original>
-			Each session two new Scriptures should be memorized for a quiz at the beginning of each class
+			Each session two new Scriptures should be memorized for a written or verbal quiz at the beginning of each class.
 		</original>
 		<translated>
 			
@@ -31,7 +31,7 @@
 
 	<phrase id="4" desc="">
 		<original>
-			Each study’s content and order of Scriptures should also be memorized for the quiz.
+			Each study’s content and the order of Scriptures should also be memorized for the quiz.
 		</original>
 		<translated>
 			
@@ -49,22 +49,14 @@
 
 	<phrase id="6" desc="">
 		<original>
-			Sign up for the Good News Emails at CAICC.net by Session 2.
+			Read Ron Harding’s The Chronicles Of Modern-Day Christianity by Session 8.
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="http://eepurl.com/iyjz2">
+		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/Chronicles-Modern-Day-Christianity-Evangelizing-Generation-ebook/dp/B07LGJCXBH">
 			<original>
-				Sign up
-			</original>
-			<translated>
-
-			</translated>
-		</change>
-		<change bold="true" italic="false" modal="false" href="http://www.caicc.net/">
-			<original>
-				CAICC.net
+				The Chronicles Of Modern-Day Christianity
 			</original>
 			<translated>
 
@@ -74,31 +66,14 @@
 
 	<phrase id="7" desc="">
 		<original>
-			Read Ron Harding’s History of the Spread of Christianity in Modern Times (KipMcKean.com) by Session 8.
+			An outline of the Book of Acts will be turned in by session 11. Each student is required to memorize two points from each chapter in the Book of Acts.
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="http://www.caicc.net/">
-			<original>
-				KipMcKean.com
-			</original>
-			<translated>
-
-			</translated>
-		</change>
 	</phrase>
 
 	<phrase id="8" desc="">
-		<original>
-			An outline of the book of Acts will be turned in by Session 11. Each student is required to memorize two points from each chapter in the book of Acts.
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="9" desc="">
 		<original>
 			Outline of Classes
 		</original>
@@ -107,7 +82,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="10" desc="">
+	<phrase id="9" desc="">
 		<original>
 			Session 1
 		</original>
@@ -116,16 +91,16 @@
 		</translated>
 	</phrase>
 
-	<phrase id="11" desc="">
+	<phrase id="10" desc="">
 		<original>
-			Introduction and Seeking God
+			Introduction And Seeking God
 		</original>
 		<translated>
 			
 		</translated>
 	</phrase>
 
-	<phrase id="12" desc="">
+	<phrase id="11" desc="">
 		<original>
 			Session 2
 		</original>
@@ -134,7 +109,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="13" desc="">
+	<phrase id="12" desc="">
 		<original>
 			The Word Of God
 		</original>
@@ -143,7 +118,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="14" desc="">
+	<phrase id="13" desc="">
 		<original>
 			Session 3
 		</original>
@@ -152,7 +127,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="15" desc="">
+	<phrase id="14" desc="">
 		<original>
 			Discipleship
 		</original>
@@ -161,7 +136,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="16" desc="">
+	<phrase id="15" desc="">
 		<original>
 			Session 4
 		</original>
@@ -170,16 +145,16 @@
 		</translated>
 	</phrase>
 
-	<phrase id="17" desc="">
+	<phrase id="16" desc="">
 		<original>
-			The Coming of the Kingdom
+			The Coming Of The Kingdom
 		</original>
 		<translated>
 			
 		</translated>
 	</phrase>
 
-	<phrase id="18" desc="">
+	<phrase id="17" desc="">
 		<original>
 			Session 5
 		</original>
@@ -188,16 +163,16 @@
 		</translated>
 	</phrase>
 
-	<phrase id="19" desc="">
+	<phrase id="18" desc="">
 		<original>
-			Light and Darkness
+			Light And Darkness
 		</original>
 		<translated>
 			
 		</translated>
 	</phrase>
 
-	<phrase id="20" desc="">
+	<phrase id="19" desc="">
 		<original>
 			Session 6
 		</original>
@@ -206,7 +181,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="21" desc="">
+	<phrase id="20" desc="">
 		<original>
 			New Testament Conversion
 		</original>
@@ -215,7 +190,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="22" desc="">
+	<phrase id="21" desc="">
 		<original>
 			Session 7
 		</original>
@@ -224,7 +199,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="23" desc="">
+	<phrase id="22" desc="">
 		<original>
 			The Cross
 		</original>
@@ -233,7 +208,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="24" desc="">
+	<phrase id="23" desc="">
 		<original>
 			Session 8
 		</original>
@@ -242,16 +217,16 @@
 		</translated>
 	</phrase>
 
-	<phrase id="25" desc="">
+	<phrase id="24" desc="">
 		<original>
-			The Baptism of the Holy Spirit
+			The Baptism With The Holy Spirit
 		</original>
 		<translated>
 			
 		</translated>
 	</phrase>
 
-	<phrase id="26" desc="">
+	<phrase id="25" desc="">
 		<original>
 			Session 9
 		</original>
@@ -260,16 +235,16 @@
 		</translated>
 	</phrase>
 
-	<phrase id="27" desc="">
+	<phrase id="26" desc="">
 		<original>
-			The Miraculous Gifts of the Holy Spirit
+			The Miraculous Gifts Of The Holy Spirit
 		</original>
 		<translated>
 			
 		</translated>
 	</phrase>
 
-	<phrase id="28" desc="">
+	<phrase id="27" desc="">
 		<original>
 			Session 10
 		</original>
@@ -278,7 +253,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="29" desc="">
+	<phrase id="28" desc="">
 		<original>
 			The Church
 		</original>
@@ -287,9 +262,18 @@
 		</translated>
 	</phrase>
 
+	<phrase id="29" desc="">
+		<original>
+			Sessions 11-14
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
 	<phrase id="30" desc="">
 		<original>
-			Session 11
+			The Book Of Acts
 		</original>
 		<translated>
 			
@@ -298,7 +282,7 @@
 
 	<phrase id="31" desc="">
 		<original>
-			Acts 1 - 8
+			Suggested Reading List
 		</original>
 		<translated>
 			
@@ -307,7 +291,7 @@
 
 	<phrase id="32" desc="">
 		<original>
-			Session 12
+			These books are recommended as thought-provoking and informative tools to be used in gaining insights into God’s Word. Some of the books are not Biblically correct on all doctrinal points.
 		</original>
 		<translated>
 			
@@ -316,75 +300,12 @@
 
 	<phrase id="33" desc="">
 		<original>
-			Acts 9 - 15
+			Chapman: The Five Love Languages
 		</original>
 		<translated>
 			
 		</translated>
-	</phrase>
-
-	<phrase id="34" desc="">
-		<original>
-			Session 13
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="35" desc="">
-		<original>
-			Acts 16 - 21
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="36" desc="">
-		<original>
-			Session 14
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="37" desc="">
-		<original>
-			Acts 21 - 28
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="38" desc="">
-		<original>
-			Suggested Reading
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="39" desc="">
-		<original>
-			These books are recommended as thought-provoking and informative tools to be used in gaining insights into God’s Word. In no way are they suggested to be Biblically correct on all doctrinal points.
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="40" desc="">
-		<original>
-			The Five Love Languages
-		</original>
-		<translated>
-			
-		</translated>
-		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/Love-Languages-Secret-that-Lasts/dp/080241270X/ref=sr_1_1?ie=UTF8&amp;qid=1477171378&amp;sr=8-1&amp;keywords=five+love+languages">
+		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/Love-Languages-Secret-that-Lasts/dp/080241270X/">
 			<original>
 				The Five Love Languages
 			</original>
@@ -394,25 +315,16 @@
 		</change>
 	</phrase>
 
-	<phrase id="41" desc="">
+	<phrase id="34" desc="">
 		<original>
-			Chapman
+			Coleman: The Master Plan Of Evangelism
 		</original>
 		<translated>
 			
 		</translated>
-	</phrase>
-
-	<phrase id="42" desc="">
-		<original>
-			The Master Plan of Evangelism
-		</original>
-		<translated>
-			
-		</translated>
-		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/Master-Plan-Evangelism-Study-Guide/dp/0739466135/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=1477182249&amp;sr=8-1">
+		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/Master-Plan-Evangelism-Study-Guide/dp/0739466135/">
 			<original>
-				The Master Plan of Evangelism
+				The Master Plan Of Evangelism
 			</original>
 			<translated>
 
@@ -420,25 +332,16 @@
 		</change>
 	</phrase>
 
-	<phrase id="43" desc="">
+	<phrase id="35" desc="">
 		<original>
-			Coleman
+			Edwards: The Tale Of Three Kings
 		</original>
 		<translated>
 			
 		</translated>
-	</phrase>
-
-	<phrase id="44" desc="">
-		<original>
-			Audio
-		</original>
-		<translated>
-			
-		</translated>
-		<change bold="true" italic="false" modal="false" href="http://www.audible.com/pd/Religion-Spirituality/Master-Plan-of-Evangelism-Audiobook/B002VA970G/ref=a_search_c4_1_1_srTtl?qid=1477171591&amp;sr=1-1">
+		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/Tale-three-Kings-Study-Brokenness/dp/0842369082/">
 			<original>
-				Audio
+				The Tale Of Three Kings
 			</original>
 			<translated>
 
@@ -446,16 +349,16 @@
 		</change>
 	</phrase>
 
-	<phrase id="45" desc="">
+	<phrase id="36" desc="">
 		<original>
-			The Tale of Three Kings
+			McKean: Elevate – Jesus’ Global Revolution For Women
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/Tale-three-Kings-Study-Brokenness/dp/0842369082/ref=sr_1_1?ie=UTF8&amp;qid=1477171895&amp;sr=8-1&amp;keywords=Tale+of+three+kings">
+		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/ELEVATE-Jesuss-Global-Revolution-Women/dp/958595740X/">
 			<original>
-				The Tale of Three Kings
+				Elevate – Jesus’ Global Revolution For Women
 			</original>
 			<translated>
 
@@ -463,25 +366,16 @@
 		</change>
 	</phrase>
 
-	<phrase id="46" desc="">
+	<phrase id="37" desc="">
 		<original>
-			Edwards
+			Moreno: A Battle That Even Kings Lost
 		</original>
 		<translated>
 			
 		</translated>
-	</phrase>
-
-	<phrase id="47" desc="">
-		<original>
-			Audio
-		</original>
-		<translated>
-			
-		</translated>
-		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/A-Tale-of-Three-Kings/dp/B004ZGYA9C/ref=tmm_aud_swatch_0?_encoding=UTF8&amp;qid=1477171895&amp;sr=8-1">
+		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/Battle-That-Even-Kings-Lost/dp/1723023744/">
 			<original>
-				Audio
+				A Battle That Even Kings Lost
 			</original>
 			<translated>
 
@@ -489,16 +383,16 @@
 		</change>
 	</phrase>
 
-	<phrase id="48" desc="">
+	<phrase id="38" desc="">
 		<original>
-			Voice in the Wind
+			Smellie: Proven Genuine – An Examination Of Suffering In The Book Of Job
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/Voice-Wind-Mark-Lion/dp/1414375492/ref=sr_1_1?ie=UTF8&amp;qid=1477182327&amp;sr=8-1&amp;keywords=a+voice+in+the+wind">
+		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/Proven-Genuine-Examination-Suffering-Book/dp/B08F6JZ4JV/">
 			<original>
-				Voice in the Wind
+				Proven Genuine – An Examination Of Suffering In The Book Of Job
 			</original>
 			<translated>
 
@@ -506,40 +400,14 @@
 		</change>
 	</phrase>
 
-	<phrase id="49" desc="">
+	<phrase id="39" desc="">
 		<original>
-			Rivers
+			Taylor: The Disciplined Life
 		</original>
 		<translated>
 			
 		</translated>
-	</phrase>
-
-	<phrase id="50" desc="">
-		<original>
-			Audio
-		</original>
-		<translated>
-			
-		</translated>
-		<change bold="true" italic="false" modal="false" href="http://www.audible.com/pd/Romance/A-Voice-in-the-Wind-Audiobook/B002V5GPHE/ref=a_search_c4_1_1_srTtl?qid=1477171802&amp;sr=1-1">
-			<original>
-				Audio
-			</original>
-			<translated>
-
-			</translated>
-		</change>
-	</phrase>
-
-	<phrase id="51" desc="">
-		<original>
-			The Disciplined Life
-		</original>
-		<translated>
-			
-		</translated>
-		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/Disciplined-Life-Mark-Christian-Maturity/dp/0764225979/ref=sr_1_1?ie=UTF8&amp;qid=1477172340&amp;sr=8-1&amp;keywords=Disciplined+life">
+		<change bold="true" italic="false" modal="false" href="https://www.amazon.com/Disciplined-Life-Mark-Christian-Maturity/dp/0764225979/">
 			<original>
 				The Disciplined Life
 			</original>
@@ -549,25 +417,186 @@
 		</change>
 	</phrase>
 
-	<phrase id="52" desc="">
+	<phrase id="40" desc="">
 		<original>
-			Taylor
+			Scripture Memory
 		</original>
 		<translated>
 			
 		</translated>
 	</phrase>
 
-	<phrase id="53" desc="">
+	<phrase id="41" desc="">
 		<original>
-			Elevate
+			“But in your hearts set apart Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have.  But do this with gentleness and respect.” 1 Peter 3:15
+		</original>
+	</phrase>
+
+	<phrase id="42" desc="">
+		<original>
+			Session 1
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="http://www.ebay.com/itm/Elevate-Jesus-Global-Revolution-for-Women-by-Elena-McKean-/152198987295?hash=item236fc43e1f:g:eYIAAOSw6n5XqSHY">
+	</phrase>
+
+	<phrase id="43" desc="">
+		<original>
+			Jeremiah 29:11
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="jeremiah-29-11">
 			<original>
-				Elevate
+				Jeremiah 29:11
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="44" desc="">
+		<original>
+			Matthew 6:33
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-6-33">
+			<original>
+				Matthew 6:33
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="45" desc="">
+		<original>
+			Session 2
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="46" desc="">
+		<original>
+			John 8:31-32
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-8-31-32">
+			<original>
+				John 8:31-32
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="47" desc="">
+		<original>
+			Philippians 4:13
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="philippians-4-13">
+			<original>
+				Philippians 4:13
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="48" desc="">
+		<original>
+			Session 3
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="49" desc="">
+		<original>
+			Mark 1:17
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="mark-1-17">
+			<original>
+				Mark 1:17
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="50" desc="">
+		<original>
+			John 13:34-35
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-13-34-35">
+			<original>
+				John 13:34-35
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="51" desc="">
+		<original>
+			Session 4
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="52" desc="">
+		<original>
+			Acts 2:38
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
+			<original>
+				Acts 2:38
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="53" desc="">
+		<original>
+			Philippians 4:4
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="philippians-4-4">
+			<original>
+				Philippians 4:4
 			</original>
 			<translated>
 
@@ -577,7 +606,7 @@
 
 	<phrase id="54" desc="">
 		<original>
-			McKean
+			Session 5
 		</original>
 		<translated>
 			
@@ -586,25 +615,41 @@
 
 	<phrase id="55" desc="">
 		<original>
-			Overview of the Book of Acts
+			Ezekiel 18:20
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="ezekiel-18-20">
+			<original>
+				Ezekiel 18:20
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="56" desc="">
 		<original>
-			Sermon #1
+			Galatians 1:8
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="galatians-1-8">
+			<original>
+				Galatians 1:8
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="57" desc="">
 		<original>
-			Acts 1-8
+			Session 6
 		</original>
 		<translated>
 			
@@ -613,25 +658,41 @@
 
 	<phrase id="58" desc="">
 		<original>
-			Building A Great Church
+			Matthew 22:37-39
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-22-37-39">
+			<original>
+				Matthew 22:37-39
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="59" desc="">
 		<original>
-			Sermon #2
+			John 15:8
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-15-8">
+			<original>
+				John 15:8
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="60" desc="">
 		<original>
-			Acts 9-15
+			Session 7
 		</original>
 		<translated>
 			
@@ -640,25 +701,41 @@
 
 	<phrase id="61" desc="">
 		<original>
-			Forcefully Advancing The Kingdom
+			Matthew 28:18-20
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-18-20">
+			<original>
+				Matthew 28:18-20
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="62" desc="">
 		<original>
-			Sermon #3
+			Luke 19:10
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="luke-19-10">
+			<original>
+				Luke 19:10
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="63" desc="">
 		<original>
-			Acts 16-21
+			Session 8
 		</original>
 		<translated>
 			
@@ -667,25 +744,41 @@
 
 	<phrase id="64" desc="">
 		<original>
-			Turning The World Upsidedown
+			Hebrews 10:23-25
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-10-23-25">
+			<original>
+				Hebrews 10:23-25
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="65" desc="">
 		<original>
-			Sermon #4
+			1 John 1:9
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="1-john-1-9">
+			<original>
+				1 John 1:9
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="66" desc="">
 		<original>
-			Acts 22-28
+			Session 9
 		</original>
 		<translated>
 			
@@ -694,11 +787,36 @@
 
 	<phrase id="67" desc="">
 		<original>
-			Evangelizing The World In A Generation
+			Hebrews 12:15
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-12-15">
+			<original>
+				Hebrews 12:15
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="68" desc="">
+		<original>
+			Hebrews 13:17
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-13-17">
+			<original>
+				Hebrews 13:17
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<!--
