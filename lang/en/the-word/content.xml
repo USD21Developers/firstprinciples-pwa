@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="the-word" lang-original="en" lang-translated="" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="the-word" lang-original="en" lang-translated="" last-updated="2020-10-24" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
 			The Word of God
 		</original>
 		<translated>
-			The Word of God
+			
 		</translated>
 	</phrase>
 
@@ -30,7 +30,7 @@
 
 	<phrase id="3" desc="">
 		<original>
-			All Scripture is inspired by God
+			All Scripture is inspired by God.
 		</original>
 		<translated>
 			
@@ -39,7 +39,7 @@
 
 	<phrase id="4" desc="">
 		<original>
-			It is to be applied to our lives
+			It is to be applied to our lives.
 		</original>
 		<translated>
 			
@@ -65,7 +65,7 @@
 
 	<phrase id="6" desc="">
 		<original>
-			The Word is relevant
+			The Word is relevant.
 		</original>
 		<translated>
 			
@@ -74,7 +74,7 @@
 
 	<phrase id="7" desc="">
 		<original>
-			The Word cuts (hurts)
+			The Word cuts (hurts) – compare it to a scalpel.
 		</original>
 		<translated>
 			
@@ -83,7 +83,7 @@
 
 	<phrase id="8" desc="">
 		<original>
-			Learn that it is good to be "cut," because a scalpel (God's Word) "cuts" the cancer (sin) out!
+			It is good to be cut because it cuts the “cancer” (sin) out.
 		</original>
 		<translated>
 			
@@ -109,7 +109,7 @@
 
 	<phrase id="10" desc="">
 		<original>
-			There is no private interpretation of the Bible
+			There is no private interpretation of the Bible.
 		</original>
 		<translated>
 			
@@ -118,7 +118,7 @@
 
 	<phrase id="11" desc="">
 		<original>
-			The Holy Spirit inspired the men who wrote the books of the Bible
+			The Holy Spirit inspired the men who wrote the books of the Bible.
 		</original>
 		<translated>
 			
@@ -144,7 +144,7 @@
 
 	<phrase id="13" desc="">
 		<original>
-			Intellectual belief is not enough — nor can we go by our feelings
+			Intellectual belief is not enough – nor can we go by our feelings.
 		</original>
 		<translated>
 			
@@ -153,7 +153,7 @@
 
 	<phrase id="14" desc="">
 		<original>
-			Everyone must hold on to and follow the teachings of Jesus to be a true disciple
+			A person must hold on to and follow the teachings of Jesus to be a true disciple.
 		</original>
 		<translated>
 			
@@ -162,7 +162,7 @@
 
 	<phrase id="15" desc="">
 		<original>
-			Sincerity does not equal truth
+			Sincerity does not equal truth.
 		</original>
 		<translated>
 			
@@ -171,7 +171,7 @@
 
 	<phrase id="16" desc="">
 		<original>
-			Religious people can be wrong
+			Religious people can be wrong.
 		</original>
 		<translated>
 			
@@ -197,7 +197,7 @@
 
 	<phrase id="18" desc="">
 		<original>
-			Do not go by traditions or creeds
+			Do not go by traditions or creeds.
 		</original>
 		<translated>
 			
@@ -206,7 +206,7 @@
 
 	<phrase id="19" desc="">
 		<original>
-			Worship by traditions — those which contradict the Word of God — is worship in vain
+			Worship by traditions (which supersede the Word of God) is worship in vain.
 		</original>
 		<translated>
 			
@@ -232,7 +232,7 @@
 
 	<phrase id="21" desc="">
 		<original>
-			Watch your life and doctrine closely — they are inseparable
+			Watch your life and doctrine closely – they are inseparable.
 		</original>
 		<translated>
 			
@@ -241,7 +241,7 @@
 
 	<phrase id="22" desc="">
 		<original>
-			Which is more important: life or doctrine? Neither — an airplane with only one wing cannot fly
+			Which is more important, life or doctrine? Both: An airplane with only one wing cannot fly.
 		</original>
 		<translated>
 			
@@ -276,7 +276,7 @@
 
 	<phrase id="25" desc="">
 		<original>
-			A noble character in God's eyes: great eagerness in receiving the message; examine Scriptures; daily; and believe — make decisions based on the Scriptures.
+			Must check what religious leaders say.
 		</original>
 		<translated>
 			
@@ -285,7 +285,7 @@
 
 	<phrase id="26" desc="">
 		<original>
-			Must check what religious leaders say
+			Your challenge: Read and study the Bible every day.
 		</original>
 		<translated>
 			
@@ -293,15 +293,6 @@
 	</phrase>
 
 	<phrase id="27" desc="">
-		<original>
-			Your challenge: Read and study the Bible every day!
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="28" desc="">
 		<original>
 			James 1:22-25
 		</original>
@@ -318,9 +309,18 @@
 		</change>
 	</phrase>
 
+	<phrase id="28" desc="">
+		<original>
+			The Word of God is a mirror.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
 	<phrase id="29" desc="">
 		<original>
-			The Word of God is a mirror
+			Do not forget what you see – “do what it says.”
 		</original>
 		<translated>
 			
@@ -328,15 +328,6 @@
 	</phrase>
 
 	<phrase id="30" desc="">
-		<original>
-			Do not forget what you see — "do what it says"
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="31" desc="">
 		<original>
 			John 12:48
 		</original>
@@ -353,30 +344,22 @@
 		</change>
 	</phrase>
 
-	<phrase id="32" desc="">
+	<phrase id="31" desc="">
 		<original>
-			Why study the Bible? The Word will judge us
+			Why study the Bible? The Word will judge us.
 		</original>
 		<translated>
 			
 		</translated>
 	</phrase>
 
-	<phrase id="33" desc="">
+	<phrase id="32" desc="">
 		<original>
-			Decision: Will I live by the Bible? Or will I live by my feelings, traditions, desires, etc.?
+			Decision: Will I live by the Bible or my feelings, traditions, needs, etc.?
 		</original>
 		<translated>
-			
-		</translated>
-		<change bold="true" italic="false" modal="false">
-			<original>
-				Decision
-			</original>
-			<translated>
 
-			</translated>
-		</change>
+		</translated>
 	</phrase>
 
 	<media>
