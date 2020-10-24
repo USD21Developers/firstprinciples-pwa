@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="galatians-1-8" lang="en" version="niv" edition="1984">
+	<passage title="Galatians 1:8" book="Galatians" book-en="Galatians">
+		<chapter number="1" number-en="1">
+			<verse number="8" number-en="8">
+				But even if we or an angel from heaven should preach a gospel other than the one we preached to you, let him be eternally condemned!
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

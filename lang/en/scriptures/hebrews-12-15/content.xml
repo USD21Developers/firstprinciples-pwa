@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="hebrews-12-15" lang="en" version="niv" edition="1984">
+	<passage title="Hebrews 12:15" book="Hebrews" book-en="Hebrews">
+		<chapter number="12" number-en="12">
+			<verse number="15" number-en="15">
+				See to it that no one misses the grace of God and that no bitter root grows up to cause trouble and defile many.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

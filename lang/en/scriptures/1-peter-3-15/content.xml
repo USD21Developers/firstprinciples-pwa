@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-peter-3-15" lang="en" version="niv" edition="1984">
+	<passage title="1 Peter 3:15" book="1 Peter" book-en="1 Peter">
+		<chapter number="3" number-en="3">
+			<verse number="15" number-en="15">
+				But in your hearts set apart Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect,
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

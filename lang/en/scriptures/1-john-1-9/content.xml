@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="1-john-1-9" lang="en" version="niv" edition="1984">
+	<passage title="1 John 1:9" book="1 John" book-en="1 John">
+		<chapter number="1" number-en="1">
+			<verse number="9" number-en="9">
+				If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->
