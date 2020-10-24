@@ -22,7 +22,7 @@
         </div>
         
         <blockquote>
-          <em>${phrase(2)}</em> &mdash; ${phrase(3)}
+          <em>${phrase(2)}</em> ${phrase(3)}
         </blockquote>
 
         <p>
@@ -30,8 +30,20 @@
         </p>
 
         <p>
-          ${phrase(5)}<br>
+          ${phrase(5)}
+        </p>
+
+        <p>
           ${phrase(6)}
+        </p>
+
+        <p>
+          ${phrase(7)}
+        </p>
+
+        <p>
+          ${phrase(8)}<br>
+          ${phrase(9)}
         </p>
         
       </div>
