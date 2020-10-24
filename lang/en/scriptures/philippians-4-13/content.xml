@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="philippians-4-13" lang="en" version="niv" edition="1984">
+	<passage title="Philippians 4:13" book="Philippians" book-en="Philippians">
+		<chapter number="4" number-en="4">
+			<verse number="13" number-en="13">
+				I can do everything through him who gives me strength.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

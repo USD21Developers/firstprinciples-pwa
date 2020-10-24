@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="jeremiah-29-11" lang="en" version="niv" edition="1984">
+	<passage title="Jeremiah 29:11" book="Jeremiah" book-en="Jeremiah">
+		<chapter number="29" number-en="29">
+			<verse number="11" number-en="11">
+				"For I know the plans I have for you," declares the LORD, "plans to prosper you and not to harm you, plans to give you hope and a future.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

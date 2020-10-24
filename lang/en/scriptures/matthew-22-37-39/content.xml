@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="matthew-22-37-39" lang="en" version="niv" edition="1984">
+	<passage title="Matthew 22:37-39" book="Matthew" book-en="Matthew">
+		<chapter number="22" number-en="2">
+			<verse number="37" number-en="37" jesuswords="true" scripturequote="true">
+				Jesus replied: <span class="jesuswords"><span class="scripturequote">"'Love the Lord your God with all your heart and with all your soul and with all your mind.'</span></span>
+			</verse>
+			<verse number="38" number-en="38" jesuswords="true">
+				<span class="jesuswords">This is the first and greatest commandment.</span>
+			</verse>
+			<verse number="39" number-en="39" jesuswords="true" scripturequote="true">
+				<span class="jesuswords">And the second is like it: <span class="scripturequote">'Love your neighbor as yourself.'"</span></span>
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->
