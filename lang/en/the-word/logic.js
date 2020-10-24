@@ -80,29 +80,28 @@
             <ol>
               <li>${phrase(25)}</li>
               <li>${phrase(26)}</li>
-              <li>${phrase(27)}</li>
             </ol>
           </li>
 
           <li>
-            ${phrase(28)}
+            ${phrase(27)}
             <ol>
+              <li>${phrase(28)}</li>
               <li>${phrase(29)}</li>
-              <li>${phrase(30)}</li>
             </ol>
           </li>
 
           <li>
-            ${phrase(31)}
+            ${phrase(30)}
             <ol>
-              <li>${phrase(32)}</li>
+              <li>${phrase(31)}</li>
             </ol>
           </li>
 
         </ol>
 
         <p>
-          ${phrase(33)}
+          ${phrase(32)}
         </p>
         
       </div>
