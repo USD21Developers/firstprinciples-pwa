@@ -22,7 +22,7 @@
         </div>
 
         <p>
-          ${phrase(2)}
+          <strong>${phrase(2)}</strong>
         </p>
 
         <ol>
