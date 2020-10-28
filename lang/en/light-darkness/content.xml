@@ -11,15 +11,6 @@
 		</translated>
 	</phrase>
 
-	<phrase id="2" desc="">
-		<original>
-			It is often helpful to begin this study by constructing a "spiritual timeline" with the person whom you are helping to become a disciple.
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
 	<phrase id="3" desc="">
 		<original>
 			Introduction: 1 Peter 2:9-10
@@ -262,7 +253,7 @@
 
 	<phrase id="27" desc="">
 		<original>
-			In order for a man to have a relationship with God the wall must be broken down — sin must be forgiven.
+			For a man to have a relationship with God, the wall must be broken down — sin must be forgiven.
 		</original>
 		<translated>
 			
@@ -271,7 +262,7 @@
 
 	<phrase id="28" desc="">
 		<original>
-			The point in time that sin is forgiven is the point in time a person is saved.
+			The point in time sin is forgiven is the point in time a person is saved.
 		</original>
 		<translated>
 			
@@ -359,8 +350,8 @@
 	</phrase>
 
 	<phrase id="37" desc="">
-		<original>
-			Who is further away from God: a person who sins a little, or a person who sins a lot? All are equal, all lost. Therefore a good moral life does not save you. You cannot earn your salvation by your good deeds.
+	         <original>
+	                Who is further away from God, a person who sins a little or a person who sins a lot? All are equal, all are lost. Therefore, a good moral life does not save you. You cannot earn your salvation by your good deeds.
 		</original>
 		<translated>
 			
@@ -544,7 +535,7 @@
 
 	<phrase id="53" desc="">
 		<original>
-			John 3:1-7: Born again (v. 3), born of water and Spirit (v. 5), born again. (v. 7)
+			John 3:1-7: Born again (v. 3), born of water and Spirit (v. 5), born again (v. 7).
 		</original>
 		<translated>
 			
@@ -561,7 +552,7 @@
 
 	<phrase id="54" desc="">
 		<original>
-			Personal decision as an adult
+			This must be a personal decision as an adult.
 		</original>
 		<translated>
 			
@@ -570,7 +561,7 @@
 
 	<phrase id="55" desc="">
 		<original>
-			What message must one believe to be in the light (to be saved)? Acts 2:22-24
+			What message must one believe to be in the light?  To be saved? Acts 2:22-24
 		</original>
 		<translated>
 			
@@ -587,7 +578,7 @@
 
 	<phrase id="56" desc="">
 		<original>
-			Jesus is from God. (v. 22)
+			Jesus is from God (v. 22).
 		</original>
 		<translated>
 			
@@ -604,7 +595,7 @@
 
 	<phrase id="57" desc="">
 		<original>
-			Jesus raised physically from the dead. (v. 24)
+			Jesus raised physically from the dead (v. 24).
 		</original>
 		<translated>
 			
@@ -621,7 +612,7 @@
 
 	<phrase id="58" desc="">
 		<original>
-			Everyone is responsible for the crucifixion of Christ. (v. 23) All have sinned. (Romans 3:23)
+			Everyone is responsible for the crucifixion of Christ (v. 23). All have sinned (Romans 3:23).
 		</original>
 		<translated>
 			
@@ -646,7 +637,7 @@
 
 	<phrase id="59" desc="">
 		<original>
-			Response of people: Acts 2:36-37
+			Response of people Acts 2:36-37
 		</original>
 		<translated>
 			
@@ -663,7 +654,7 @@
 
 	<phrase id="60" desc="">
 		<original>
-			Cut to the heart
+			Cut to the heart.
 		</original>
 		<translated>
 			
@@ -698,7 +689,7 @@
 
 	<phrase id="63" desc="">
 		<original>
-			Repent (Greek = to turn)
+			"Repent" (Greek = to turn)
 		</original>
 		<translated>
 			
@@ -707,7 +698,7 @@
 
 	<phrase id="64" desc="">
 		<original>
-			Be baptized (Greek = to be immersed) 
+			"Baptized" (Greek = to be immersed) 
 		</original>
 		<translated>
 			
@@ -716,7 +707,7 @@
 
 	<phrase id="65" desc="">
 		<original>
-			Sin forgiven. Therefore this is the point in time a person is saved.
+			Sin forgiven. Therefore, this is the point in time a person is saved.
 		</original>
 		<translated>
 			
@@ -725,7 +716,8 @@
 
 	<phrase id="66" desc="">
 		<original>
-			Holy Spirit given to each who responded — power to live as God commands.
+		  The Holy Spirit was given to each who responded.
+		  Therefore, each new disciple received power to live as God commands.
 		</original>
 		<translated>
 			
@@ -850,16 +842,24 @@
 
 	<phrase id="79" desc="">
 		<original>
-			Sin
+			Isaiah 59:1-2
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="isaiah-59-1-2">
+			<original>
+				Isaiah 59:1-2
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
 	</phrase>
-
+	  
 	<phrase id="80" desc="">
 		<original>
-			Separates us from God
+			Sin separates us from God
 		</original>
 		<translated>
 			
@@ -885,7 +885,7 @@
 
 	<phrase id="82" desc="">
 		<original>
-			Sin is Forgiven
+			Sin is Forgiven at Baptism
 		</original>
 		<translated>
 			
@@ -893,16 +893,7 @@
 	</phrase>
 
 	<phrase id="83" desc="">
-		<original>
-			Born Again of Water and Spirit
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="84" desc="">
-		<original>
+	        <original>
 			John 3:5
 		</original>
 		<translated>
@@ -916,6 +907,15 @@
 				
 			</translated>
 		</change>
+	</phrase>
+
+	<phrase id="84" desc="">
+	        <original>
+		  Born Again Of Water and Spirit
+		</original>
+		<translated>
+			
+		</translated>
 	</phrase>
 
 	<phrase id="85" desc="">
@@ -981,14 +981,31 @@
 
 	<phrase id="90" desc="">
 		<original>
-			Jesus shed His blood when He died. In baptism we share by faith in the death, burial and resurrection of Jesus. Thus we contact the blood at baptism and are forgiven of our sins and SAVED!
+			Romans 6:3-4
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="romans-6-3-4">
+			<original>
+				Romans 6:3-4
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+	
+	<phrase id="91" desc="">
+		<original>
+			Jesus shed His blood when He died. In baptism, we share by faith in the death, burial and resurrection of Jesus. Thus, we contact the blood in baptism and are forgiven of our sins and SAVED!
 		</original>
 		<translated>
 			
 		</translated>
 	</phrase>
 
-	<phrase id="91" desc="">
+	<phrase id="92" desc="">
 		<original>
 			Traditions/False Doctrines — Matthew 15:6-9
 		</original>
@@ -1013,7 +1030,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="92" desc="">
+	<phrase id="93" desc="">
 		<original>
 			Infant Baptism
 		</original>
@@ -1022,7 +1039,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="93" desc="">
+	<phrase id="94" desc="">
 		<original>
 			Personal faith is needed (Colossians 2:12)
 		</original>
@@ -1039,7 +1056,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="94" desc="">
+	<phrase id="95" desc="">
 		<original>
 			Began approximately third century A.D.
 		</original>
@@ -1048,7 +1065,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="95" desc="">
+	<phrase id="96" desc="">
 		<original>
 			Original sin
 		</original>
@@ -1057,7 +1074,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="96" desc="">
+	<phrase id="97" desc="">
 		<original>
 			Ezekiel 18:20
 		</original>
@@ -1074,7 +1091,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="97" desc="">
+	<phrase id="98" desc="">
 		<original>
 			Became "church doctrine" in 549 A.D.
 		</original>
@@ -1083,7 +1100,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="98" desc="">
+	<phrase id="99" desc="">
 		<original>
 			Praying Jesus into your heart
 		</original>
@@ -1092,9 +1109,9 @@
 		</translated>
 	</phrase>
 
-	<phrase id="99" desc="">
+	<phrase id="100" desc="">
 		<original>
-			Revelation 3:20 — taken out of context. This verse is addressed to Christians.
+			Revelation 3:20 This passage is taken out of context. This verse is addressed to Christians.
 		</original>
 		<translated>
 			
@@ -1109,7 +1126,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="100" desc="">
+	<phrase id="101" desc="">
 		<original>
 			Began in the early 1800s in America.
 		</original>
@@ -1118,7 +1135,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="101" desc="">
+	<phrase id="102" desc="">
 		<original>
 			Sinful nature
 		</original>
@@ -1127,9 +1144,9 @@
 		</translated>
 	</phrase>
 
-	<phrase id="102" desc="">
+	<phrase id="103" desc="">
 		<original>
-			Suggest to the individual with whom you are studying that he or she write out and be specific about various sins that they have committed during their life. This is so they might see the gravity and magnitude of their sin. This is confidential and should only be shared with those who are studying with the person.
+			Suggest to the individual with whom you are studying that he or she write out and be specific about various sins they have committed during their life. This is so that they might see the gravity and magnitude of their sin.  This is confidential and should only be shared with those who are studying with the person.
 		</original>
 		<translated>
 			
