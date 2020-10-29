@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="new-testament-conversion" lang-original="en" lang-translated="" last-updated="2018-09-28" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="new-testament-conversion" lang-original="en" lang-translated="" last-updated="2020-10-29" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
@@ -48,7 +48,7 @@
 
 	<phrase id="5" desc="">
 		<original>
-			First Christian in Jerusalem
+			First Christians in Jerusalem
 		</original>
 		<translated>
 			
@@ -222,7 +222,7 @@
 
 	<phrase id="19" desc="">
 		<original>
-			What was preached?
+			(Use above Conversions 1 – 4 only)
 		</original>
 		<translated>
 			
@@ -231,7 +231,7 @@
 
 	<phrase id="20" desc="">
 		<original>
-			What was the person's (people's) response to the message?
+			What was preached?
 		</original>
 		<translated>
 			
@@ -240,7 +240,7 @@
 
 	<phrase id="21" desc="">
 		<original>
-			How long did the person (people) take to make the decision?
+			What was the person’s (people’s) response to the message?
 		</original>
 		<translated>
 			
@@ -249,7 +249,7 @@
 
 	<phrase id="22" desc="">
 		<original>
-			What was their response after baptism?
+			How long did the person (people) take to make the decision?
 		</original>
 		<translated>
 			
@@ -258,7 +258,7 @@
 
 	<phrase id="23" desc="">
 		<original>
-			Refuting False Doctrines
+			What was their response after baptism?
 		</original>
 		<translated>
 			
@@ -267,7 +267,7 @@
 
 	<phrase id="24" desc="">
 		<original>
-			"Pray Jesus into your heart":
+			Refuting False Doctrines
 		</original>
 		<translated>
 			
@@ -276,7 +276,7 @@
 
 	<phrase id="25" desc="">
 		<original>
-			This phrase is never mentioned in the Bible. People may use Revelation 3:20 about Jesus knocking at the door. However, you must examine the Scripture in context. This scripture does not teach how to become a Christian and be saved, but how to come back to God after becoming lukewarm. It is addressed to disciples who already responded to Christ in faith, repentance, confession and baptism.
+			“Pray Jesus into your heart:” This phrase is never mentioned in the Bible. People may use Revelation 3:20 about Jesus knocking at the door, however, you must examine this Scripture in context. This Scripture does not teach how to become a Christian and be saved, but how to come back to God after becoming lukewarm. It is addressed to disciples who already responded to Christ in faith, repentance and baptism.
 		</original>
 		<translated>
 			
@@ -293,16 +293,7 @@
 
 	<phrase id="26" desc="">
 		<original>
-			"Accept Jesus into your heart":
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="27" desc="">
-		<original>
-			(Same teaching as praying Jesus into your heart, just different terminology.) Based on Romans 10:9. You must look at Scripture in context. Paul is addressing the problem of the Israelites: unbelief that Jesus was the Christ, the Son of God. Read further on to Romans 10:13. When do you call on the name of the Lord? At baptism (Acts 22:16).
+			“Accept Jesus into your heart:” This is the same teaching as “praying Jesus into your heart” – just different terminology. Usually based on Romans 10:9. Again, you must look at Scripture in context. Paul is addressing the problem of the Israelites: Unbelief that Jesus was the Christ, the Son of God. Read further on to Romans 10:13. When do you call on the name of the Lord? At baptism (Acts 22:16).
 		</original>
 		<translated>
 			
@@ -333,18 +324,9 @@
 		</change>
 	</phrase>
 
-	<phrase id="28" desc="">
+	<phrase id="27" desc="">
 		<original>
-			Infant baptism:
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="29" desc="">
-		<original>
-			A baby cannot have faith, and since we are baptized through faith in the power of God (Colossians 2:12), babies cannot be baptized. Original sin: Ezekiel 18:20 teaches that there is no original sin; each person is responsible for his own actions and will be judged accordingly. Therefore babies are born sinless and will be saved if they die.
+			Infant baptism: A baby cannot have faith, and since we are baptized through faith in the power of God (Colossians 2:12), babies cannot be baptized.
 		</original>
 		<translated>
 			
@@ -357,6 +339,15 @@
 				
 			</translated>
 		</change>
+	</phrase>
+
+	<phrase id="28" desc="">
+		<original>
+			Original sin: Ezekiel 18:20 teaches there is no original sin; each person is responsible for his own actions and will be judged accordingly. Therefore, babies are born sinless and will be saved if they die.
+		</original>
+		<translated>
+			
+		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="ezekiel-18-20">
 			<original>
 				Ezekiel 18:20
@@ -367,25 +358,16 @@
 		</change>
 	</phrase>
 
-	<phrase id="30" desc="">
+	<phrase id="29" desc="">
 		<original>
-			"Baptism does not save you":
+			“Baptism does not save you:” 1 Peter 3:21 states that baptism does save you through the resurrection of Jesus Christ. Acts 2:38 teaches that sin is forgiven at baptism – one is saved at the point sin is forgiven.
 		</original>
 		<translated>
 			
 		</translated>
-	</phrase>
-
-	<phrase id="31" desc="">
-		<original>
-			1 Peter 3:18-21 says that baptism does save you through the resurrection of Jesus Christ. Acts 2:38 teaches that sin is forgiven at baptism — one is saved at the point that sin is forgiven.
-		</original>
-		<translated>
-			
-		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="1-peter-3-18-21">
+		<change bold="true" italic="false" modal="true" scripturekey="1-peter-3-21">
 			<original>
-				1 Peter 3:18-21
+				1 Peter 3:21
 			</original>
 			<translated>
 				
@@ -401,18 +383,9 @@
 		</change>
 	</phrase>
 
-	<phrase id="32" desc="">
+	<phrase id="30" desc="">
 		<original>
-			"Baptism is a work — yet we are saved by faith:"
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="33" desc="">
-		<original>
-			(Ephesians 2:8): Colossians 2:11-15 teaches that we are saved by faith — in the working of God at baptism (v.12). This passage also teaches that circumcision as an eight-day-old baby under the old covenant has its spiritual parallel in the new covenant to baptism, as this is the time that Christ cuts away your old life. At baptism one enters a "covenant" with God — salvation.
+			“Baptism is a work – yet we are saved by faith” (Ephesians 2:8): Colossians 2:12 teaches that we are saved by faith in the working of God at baptism.
 		</original>
 		<translated>
 			
@@ -425,17 +398,9 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" scripturekey="colossians-2-11-15">
-			<original>
-				Colossians 2:11-15
-			</original>
-			<translated>
-				
-			</translated>
-		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-2-12">
 			<original>
-				v.12
+				Colossians 2:12
 			</original>
 			<translated>
 				
@@ -443,18 +408,9 @@
 		</change>
 	</phrase>
 
-	<phrase id="34" desc="">
+	<phrase id="31" desc="">
 		<original>
-			"Baptism is an outward sign of an inward grace:"
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="35" desc="">
-		<original>
-			Romans 6:2-4 states that baptism is an actual participation in the death, burial and resurrection of Christ. It is not merely a sign, seal or symbol.
+			“Baptism is an outward sign of an inward grace:” Romans 6:2-4 states that baptism is an actual participation in the death, burial and resurrection of Christ. It is not merely a sign or symbol.
 		</original>
 		<translated>
 			
@@ -469,9 +425,9 @@
 		</change>
 	</phrase>
 
-	<phrase id="36" desc="">
+	<phrase id="32" desc="">
 		<original>
-			"Baptism isn't important. After all, look at what Paul said about it in 1 Corinthians 1:17:"
+			“Baptism is not important, after all, look at what Paul said in 1 Corinthians 1:17:” Paul does not diminish the importance of baptism here. (Paul himself was baptized to have his sins forgiven in Acts 22:16.) In context (read 1 Corinthians 1:10-17), Paul makes the point that he does not want people following men (denominationalism). He mentions baptism several times in the passage.
 		</original>
 		<translated>
 			
@@ -484,15 +440,6 @@
 				
 			</translated>
 		</change>
-	</phrase>
-
-	<phrase id="37" desc="">
-		<original>
-			Paul does not diminish the importance of baptism here. (Paul himself was baptized to have his sins forgiven in Acts 22:16.) In context (read 1 Corinthians 1:10-17), he makes the point that he does not want people following men (denominationalism). He mentions baptism several times in the passage.
-		</original>
-		<translated>
-			
-		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-22-16">
 			<original>
 				Acts 22:16
@@ -511,18 +458,9 @@
 		</change>
 	</phrase>
 
-	<phrase id="38" desc="">
+	<phrase id="33" desc="">
 		<original>
-			"The thief on the cross was not baptized and Jesus told him that they would see each other in paradise:"
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="39" desc="">
-		<original>
-			Jesus had not even died yet, and baptism is participating in his death (Romans 6:2-4); also on earth, he had the power to forgive sins (Matthew 9:2-6).
+			“The thief on the cross was not baptized and Jesus told him that they would see each other in Paradise:” Jesus had not even died yet, and baptism is participating in his death, burial and resurrection (Romans 6:2-4). Also, on earth, Jesus had the power to forgive sins (Matthew 9:2-6).
 		</original>
 		<translated>
 			
@@ -545,18 +483,9 @@
 		</change>
 	</phrase>
 
-	<phrase id="40" desc="">
+	<phrase id="34" desc="">
 		<original>
-			"Believers baptism:"
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="41" desc="">
-		<original>
-			This is baptism as an adult, but is not done in conjunction with the understanding that one is being saved at this point in time (John 3:5, Acts 2:38). "Retroactive understanding" is not sufficient for salvation.
+			“Believers baptism:” This is baptism as an adult, but it is not done in conjunction with the understanding that one is being saved at this point in time (John 3:5; Acts 2:38). “Retroactive understanding” is not sufficient for salvation.
 		</original>
 		<translated>
 			
@@ -609,15 +538,6 @@
 		<translated>
 			
 		</translated>
-	</phrase>
-
-	<phrase id="" desc="">
-		<original>
-			
-		</original>
-		<translated>
-			
-		</translated>
 		<change bold="true" italic="false" modal="true">
 			<original>
 				
@@ -626,6 +546,16 @@
 				
 			</translated>
 		</change>
+	</phrase>
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
 	</phrase>
 
 	-->
