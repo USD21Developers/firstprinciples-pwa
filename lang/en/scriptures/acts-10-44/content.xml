@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-10-44" lang="en" version="niv" edition="1984">
+	<passage title="Acts 10:44" book="Acts" book-en="Acts">
+		<chapter number="10" number-en="10">
+			<verse number="44" number-en="44">
+				While Peter was still speaking these words, the Holy Spirit came on all who heard the message.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->
