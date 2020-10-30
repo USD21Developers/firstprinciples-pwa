@@ -21,76 +21,77 @@
           ${mediaHTML}
         </div>
 
-        ${phrase(2)}<br>
-        ${phrase(3)}
-        <hr>
+        <div class="mb-2 center-align">
+          <strong>${phrase(42)}</strong>
+          <ul class="compact mx-0 mt-0 ml-1">
+            <li>${phrase(43)}</li>
+            <li>${phrase(44)}</li>
+          </ul>
+        </div>
 
-        ${phrase(4)}<br>
-        ${phrase(5)}
-        <hr>
+        <div class="mb-2 center-align">
+          <strong>${phrase(45)}</strong>
+          <ul class="compact mx-0 mt-0 ml-1">
+            <li>${phrase(46)}</li>
+            <li>${phrase(47)}</li>
+          </ul>
+        </div>
 
-        ${phrase(6)}<br>
-        ${phrase(7)}
-        <hr>
+        <div class="mb-2 center-align">
+          <strong>${phrase(48)}</strong>
+          <ul class="compact mx-0 mt-0 ml-1">
+            <li>${phrase(49)}</li>
+            <li>${phrase(50)}</li>
+          </ul>
+        </div>
 
-        ${phrase(8)}<br>
-        ${phrase(9)}
-        <hr>
+        <div class="mb-2 center-align">
+          <strong>${phrase(51)}</strong>
+          <ul class="compact mx-0 mt-0 ml-1">
+            <li>${phrase(52)}</li>
+            <li>${phrase(53)}</li>
+          </ul>
+        </div>
 
-        ${phrase(10)}<br>
-        ${phrase(11)}
-        <hr>
+        <div class="mb-2 center-align">
+          <strong>${phrase(54)}</strong>
+          <ul class="compact mx-0 mt-0 ml-1">
+            <li>${phrase(55)}</li>
+            <li>${phrase(56)}</li>
+          </ul>
+        </div>
 
-        ${phrase(12)}<br>
-        ${phrase(13)}
-        <hr>
+        <div class="mb-2 center-align">
+          <strong>${phrase(57)}</strong>
+          <ul class="compact mx-0 mt-0 ml-1">
+            <li>${phrase(58)}</li>
+            <li>${phrase(59)}</li>
+          </ul>
+        </div>
 
-        ${phrase(14)}<br>
-        ${phrase(15)}
-        <hr>
+        <div class="mb-2 center-align">
+          <strong>${phrase(60)}</strong>
+          <ul class="compact mx-0 mt-0 ml-1">
+            <li>${phrase(61)}</li>
+            <li>${phrase(62)}</li>
+          </ul>
+        </div>
 
-        ${phrase(16)}<br>
-        ${phrase(17)}
-        <hr>
+        <div class="mb-2 center-align">
+          <strong>${phrase(63)}</strong>
+          <ul class="compact mx-0 mt-0 ml-1">
+            <li>${phrase(64)}</li>
+            <li>${phrase(65)}</li>
+          </ul>
+        </div>
 
-        ${phrase(18)}<br>
-        ${phrase(19)}
-        <hr>
-
-        ${phrase(20)}<br>
-        ${phrase(21)}
-        <hr>
-
-        ${phrase(22)}<br>
-        ${phrase(23)}
-        <hr>
-
-        ${phrase(24)}<br>
-        ${phrase(25)}
-        <hr>
-
-        ${phrase(26)}<br>
-        ${phrase(27)}
-        <hr>
-
-        ${phrase(28)}<br>
-        ${phrase(29)}
-        <hr>
-
-        ${phrase(30)}<br>
-        ${phrase(31)}
-        <hr>
-
-        ${phrase(32)}<br>
-        ${phrase(33)}
-        <hr>
-
-        ${phrase(34)}<br>
-        ${phrase(35)}
-        <hr>
-
-        ${phrase(36)}<br>
-        ${phrase(37)}
+        <div class="my-0 mb-2 center-align">
+          <strong>${phrase(66)}</strong>
+          <ul class="compact mx-0 mt-0 ml-1">
+            <li>${phrase(67)}</li>
+            <li>${phrase(68)}</li>
+          </ul>
+        </div>
 
       </div>
     </div>
