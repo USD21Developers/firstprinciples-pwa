@@ -24,7 +24,7 @@
         <ol>
           <li><strong>${phrase(2)}</strong>
             <ol>
-              <li>${phrase(3)}
+              <li><strong>${phrase(3)}</strong>
                 <ol>
                   <li>${phrase(4)} &mdash; ${phrase(5)}</li>
                   <li>${phrase(6)} &mdash; ${phrase(7)}</li>
@@ -37,54 +37,36 @@
                   <li>${phrase(16)} &mdash; ${phrase(17)}</li>
                 </ol>
               </li>
-              <li>${phrase(18)}
+              <li>
+                <strong>${phrase(18)}</strong><br>
+                <strong>${phrase(19)}</strong>
                 <ol>
-                  <li>${phrase(19)}</li>
                   <li>${phrase(20)}</li>
                   <li>${phrase(21)}</li>
                   <li>${phrase(22)}</li>
+                  <li>${phrase(23)}</li>
                 </ol>
               </li>
             </ol>
           </li>
-          <li><strong>${phrase(23)}</strong>
+          <li><strong>${phrase(24)}</strong>
             <ol>
               <li>
-                <p><strong>${phrase(24)}</strong></p>
-                ${phrase(25)}
+                ${phrase(25)}<br>
+                <br>
+                ${phrase(26)}
               </li>
               <li>
-                <p><strong>${phrase(26)}</strong></p>
-                ${phrase(27)}
+                ${phrase(27)}<br>
+                <br>
+                ${phrase(28)}
               </li>
-              <li>
-                <p><strong>${phrase(28)}</strong></p>
-                ${phrase(29)}
-              </li>
-              <li>
-                <p><strong>${phrase(30)}</strong></p>
-                ${phrase(31)}
-              </li>
-              <li>
-                <p><strong>${phrase(32)}</strong></p>
-                ${phrase(33)}
-              </li>
-              <li>
-                <p><strong>${phrase(34)}</strong></p>
-                ${phrase(35)}
-              </li>
-              <li>
-                <p><strong>${phrase(36)}</strong></p>
-                ${phrase(37)}
-              </li>
-              <li>
-                <p><strong>${phrase(38)}</strong></p>
-                ${phrase(39)}
-              </li>
-              <li>
-                <p><strong>${phrase(40)}</strong></p>
-                ${phrase(41)}
-              </li>
+              <li>${phrase(29)}</li>
+              <li>${phrase(30)}</li>
+              <li>${phrase(31)}</li>
+              <li>${phrase(32)}</li>
+              <li>${phrase(33)}</li>
+              <li>${phrase(34)}</li>
             </ol>
           </li>
         </ol>
