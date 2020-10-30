@@ -26,7 +26,6 @@
         <ol>
           <li><strong>${phrase(3)}</strong>
             <ol>
-              <li>${phrase(4)}</li>
               <li>${phrase(5)}</li>
             </ol>
           </li>

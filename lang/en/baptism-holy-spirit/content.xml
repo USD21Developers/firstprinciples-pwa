@@ -13,7 +13,7 @@
 
 	<phrase id="2" desc="">
 		<original>
-			Introduction: Jesus was given the Spirit in full measure (RSV), no limit. (John 3:34). There are three measures of the Holy Spirit: 
+			Introduction: Jesus was given the Spirit in full measure, no limit (John 3:34). There are three measures of the Holy Spirit: 
 		</original>
 		<translated>
 			
@@ -43,31 +43,6 @@
 		<translated>
 			
 		</translated>
-	</phrase>
-
-	<phrase id="4" desc="">
-		<original>
-			Terminology from Romans 8:9 (RSV)
-		</original>
-		<translated>
-			
-		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="romans-8-9-rsv">
-			<original>
-				Romans 8:9
-			</original>
-			<translated>
-				
-			</translated>
-		</change>
-		<change bold="true" italic="false" modal="false">
-			<original>
-				(RSV)
-			</original>
-			<translated>
-				
-			</translated>
-		</change>
 	</phrase>
 
 	<phrase id="5" desc="">
@@ -123,7 +98,7 @@
 
 	<phrase id="8" desc="">
 		<original>
-			Promise (not command): Acts 1:4-5
+			Promise (not command), Acts 1:4-5
 		</original>
 		<translated>
 			
@@ -167,27 +142,11 @@
 
 	<phrase id="12" desc="">
 		<original>
-			Purpose: to usher in the Kingdom with power (Mark 9:1), (Acts 1:8) 
+			Purpose: To usher in the Kingdom with power 
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="mark-9-1">
-			<original>
-				Mark 9:1
-			</original>
-			<translated>
-				
-			</translated>
-		</change>
-		<change bold="true" italic="false" modal="true" scripturekey="acts-1-8">
-			<original>
-				Acts 1:8
-			</original>
-			<translated>
-				
-			</translated>
-		</change>
 	</phrase>
 
 	<phrase id="13" desc="">
@@ -235,14 +194,14 @@
 
 	<phrase id="16" desc="">
 		<original>
-			Note: Cornelius and his household were water baptized in Acts 10:48, saved at baptism.
+			Note: Cornelius and his household were water baptized in v. 48, and saved at baptism. 
 		</original>
 		<translated>
 			
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-10-48">
 			<original>
-				Acts 10:48
+				v. 48
 			</original>
 			<translated>
 				
@@ -269,7 +228,7 @@
 
 	<phrase id="18" desc="">
 		<original>
-			"At the beginning" (Acts 11:15)
+			“At the beginning” referring to Jerusalem (Acts 11:15)
 		</original>
 		<translated>
 			
@@ -286,16 +245,32 @@
 
 	<phrase id="19" desc="">
 		<original>
-			Peter gives the "keys to the Kingdom" to both Jews and Gentiles.
+			“The message” will save (Acts 11:14), yet the Baptism of the Holy Spirit came before Peter finished preaching. (Acts 10:44)
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-11-14">
+			<original>
+				Acts 11:14
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-10-44">
+			<original>
+				Acts 10:44
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="20" desc="">
 		<original>
-			Does the Baptism with the Holy Spirit still exist today? Ephesians 4:4-6: There is one baptism — which one? (Written about 60-62 A.D.). There are three options: 
+			Does the Baptism with the Holy Spirit still exist today? Ephesians 4:4-6: There is “one baptism,” but which one? (Written about 60-62 A.D.) There are three baptism options:
 		</original>
 		<translated>
 			
@@ -308,19 +283,11 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false">
-			<original>
-				60-62 A.D.
-			</original>
-			<translated>
-				
-			</translated>
-		</change>
 	</phrase>
 
 	<phrase id="21" desc="">
 		<original>
-			John's baptism — Passed when the new covenant began. (Acts 19:1-5)
+			John’s baptism passed when new covenant began (Acts 19:1-5).
 		</original>
 		<translated>
 			
@@ -337,14 +304,14 @@
 
 	<phrase id="22" desc="">
 		<original>
-			The Baptism with the Holy Spirit (Acts 2 and Acts 10) — is no longer present as it was a prophecy/promise that has been fulfilled. It was never a general command for all Christians.
+			The Baptism with the Holy Spirit (Acts 2 and 10) is no longer present as it was a prophecy/promise that has been fulfilled.  It was never a general command for all Christians.
 		</original>
 		<translated>
 			
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
-				Acts 2 and Acts 10
+				Acts 2 and 10
 			</original>
 			<translated>
 				
@@ -360,7 +327,7 @@
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-10">
 			<original>
-				Acts 10
+				10
 			</original>
 			<translated>
 				
@@ -370,7 +337,7 @@
 
 	<phrase id="23" desc="">
 		<original>
-			Baptism with water in the name of Jesus Christ for the forgiveness of sins to receive the indwelling of the Holy Spirit. 
+			Baptism with water in the name of Jesus Christ for the forgiveness of sins to receive the indwelling of the Holy Spirit.
 		</original>
 		<translated>
 			
@@ -379,7 +346,7 @@
 
 	<phrase id="24" desc="">
 		<original>
-			Jesus commanded this baptism. (Matthew 28:18-20)
+			Jesus commanded this baptism (Matthew 28:18-20).
 		</original>
 		<translated>
 			
@@ -396,30 +363,14 @@
 
 	<phrase id="25" desc="">
 		<original>
-			This baptism is recorded all the way through the book of Acts and the Epistles. In fact, Peter was present for all the baptisms: John's baptism, both accounts of the Baptism of the Holy Spirit, and preached water baptism in the name of Jesus in Acts 2 (33 A.D.) and in 1 Peter 3:18-21 (written around 64 A.D.), well after all the events of the book of Acts.
+			This baptism is recorded all the way through the Book of Acts and the Epistles.  1 Peter 3:21 (written around 64 A.D.) makes reference to this water baptism of salvation.
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false">
+		<change bold="true" italic="false" modal="true" scripturekey="1-peter-3-21">
 			<original>
-				33 A.D.
-			</original>
-			<translated>
-				
-			</translated>
-		</change>
-		<change bold="true" italic="false" modal="true" scripturekey="1-peter-3-18-21">
-			<original>
-				1 Peter 3:18-21
-			</original>
-			<translated>
-				
-			</translated>
-		</change>
-		<change bold="true" italic="false" modal="false">
-			<original>
-				64 A.D.
+				1 Peter 3:21
 			</original>
 			<translated>
 				
@@ -429,7 +380,7 @@
 
 	<phrase id="26" desc="">
 		<original>
-			It had to be the one baptism of Ephesians 4:4-6 as it was the only one practiced by 60-62 A.D. when Ephesians was written.
+			It had to be the “one baptism” of Ephesians 4:4-6, as it was the only one practiced by 60-62 A.D. when Ephesians was written.
 		</original>
 		<translated>
 			
@@ -442,26 +393,18 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false">
-			<original>
-				60-62 A.D.
-			</original>
-			<translated>
-				
-			</translated>
-		</change>
 	</phrase>
 
 	<phrase id="27" desc="">
 		<original>
-			The miraculous gifts of the Holy Spirit (next lesson) 
+			The Miraculous Gifts of the Holy Spirit (next lesson)
 		</original>
 		<translated>
 			
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
-				The miraculous gifts of the Holy Spirit
+				The Miraculous Gifts of the Holy Spirit (next lesson)
 			</original>
 			<translated>
 				
@@ -469,7 +412,7 @@
 		</change>
 		<change bold="true" italic="false" modal="false" href="../miraculous-gifts-holy-spirit/">
 			<original>
-				miraculous gifts of the Holy Spirit
+				The Miraculous Gifts of the Holy Spirit
 			</original>
 			<translated>
 				
@@ -479,7 +422,7 @@
 
 	<phrase id="28" desc="">
 		<original>
-			Received by the apostles' laying on of hands
+			Received by the Apostles’ laying on of hands
 		</original>
 		<translated>
 			
