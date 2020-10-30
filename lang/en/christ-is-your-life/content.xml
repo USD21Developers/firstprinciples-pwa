@@ -47,6 +47,15 @@
 		</translated>
 	</phrase>
 
+	<phrase id="55" desc="">
+		<original>
+		        Did you feel good about your level of sacrifice in time and money?
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
 	<phrase id="6" desc="">
 		<original>
 			Discuss the impact of communion on Sunday.
@@ -75,14 +84,14 @@
 
 	<phrase id="8" desc="">
 		<original>
-			Raised with Christ in baptism (Colossians 2:12).
+			Discuss "Raised with Christ in baptism" (Colossians 2:11-12).
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="colossians-2-12">
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-2-11-12">
 			<original>
-				Colossians 2:12
+				Colossians 2:11-12
 			</original>
 			<translated>
 				
@@ -92,7 +101,7 @@
 
 	<phrase id="9" desc="">
 		<original>
-			The Holy Spirit, received at baptism, gives you the power to set your mind (thoughts) and set your heart (emotions) on things above.
+			Discuss setting your mind (thoughts) and setting your heart (emotions) on things above. 
 		</original>
 		<translated>
 			
@@ -101,7 +110,7 @@
 
 	<phrase id="10" desc="">
 		<original>
-			Christ is your life.
+			Can you say, "Christ is my life?"
 		</original>
 		<translated>
 			
@@ -110,7 +119,7 @@
 
 	<phrase id="11" desc="">
 		<original>
-			Colossians 3:5-11: Put to death
+			Colossians 3:5-11 Put to death
 		</original>
 		<translated>
 			
@@ -127,7 +136,7 @@
 
 	<phrase id="12" desc="">
 		<original>
-			Discuss and be open about your struggles this week.
+			Be open about your greatest struggles this week.
 		</original>
 		<translated>
 			
@@ -136,16 +145,7 @@
 
 	<phrase id="13" desc="">
 		<original>
-			Discuss any financial challenges — pledge to God, rent, bills, salary, etc...
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="14" desc="">
-		<original>
-			Discuss practical ways to crucify your sinful nature.
+			Discuss practical ways to crucify these temptations and/or sins.
 		</original>
 		<translated>
 			
@@ -154,7 +154,7 @@
 
 	<phrase id="15" desc="">
 		<original>
-			Colossians 3:12-14: Put on — clothe yourself
+			Colossians 3:12-14 Put On — Clothe Yourself
 		</original>
 		<translated>
 			
@@ -214,25 +214,16 @@
 		</translated>
 	</phrase>
 
-	<phrase id="21" desc="">
-		<original>
-			Forgiveness
-		</original>
-		<translated>
-			
-		</translated>
-	</phrase>
-
 	<phrase id="22" desc="">
 		<original>
-			Colossians 3:15-24: New attitudes
+			Colossians 3:15-4:1 New attitudes
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="colossians-3-15-24">
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-3-15-4-1">
 			<original>
-				Colossians 3:15-24
+				Colossians 3:15-4:1
 			</original>
 			<translated>
 				
@@ -242,7 +233,7 @@
 
 	<phrase id="23" desc="">
 		<original>
-			Peace
+			Peace (v. 15)
 		</original>
 		<translated>
 			
@@ -251,7 +242,7 @@
 
 	<phrase id="24" desc="">
 		<original>
-			Thankful
+			Thankful (v. 15-16)
 		</original>
 		<translated>
 			
@@ -260,7 +251,7 @@
 
 	<phrase id="25" desc="">
 		<original>
-			Wholehearted
+			Wholehearted (v. 17)
 		</original>
 		<translated>
 			
@@ -286,36 +277,36 @@
 
 	<phrase id="27" desc="">
 		<original>
-			Employer/employee relationships (v. 22-24)
+			Employer/employee relationships (3:22,4:1)
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="colossians-3-22-24">
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-3-22">
 			<original>
-				v. 22-24
+				3:22
 			</original>
 			<translated>
 				
 			</translated>
 		</change>
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-4-1">
+			<original>
+				4:1
+			</original>
+			<translated>
+				
+			</translated>
+		</change
 	</phrase>
 
 	<phrase id="28" desc="">
 		<original>
-			Teacher/student relationships (v. 22-24)
+			Teacher/student relationship
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="colossians-3-22-24">
-			<original>
-				v. 22-24
-			</original>
-			<translated>
-				
-			</translated>
-		</change>
 	</phrase>
 
 	<!--
