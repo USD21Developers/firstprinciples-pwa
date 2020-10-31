@@ -21,8 +21,12 @@
           ${mediaHTML}
         </div>
 
+        <p class="center">
+          <em>${phrase(2)}</em>
+        </p>
+
         <p>
-          ${phrase(3)}
+          <strong>${phrase(3)}</strong>
         </p>
 
         <ol>
@@ -92,7 +96,7 @@
                       <li>${phrase(37)}</li>
                     </ol>
                   </li>
-                  <li>${phrase(38)}
+                  <li><strong>${phrase(38)}</strong>
                     <ol>
                       <li>${phrase(39)}</li>
                     </ol>
@@ -103,29 +107,24 @@
           </li>
           <li><strong>${phrase(40)}</strong>
             <ol>
-              <li>${phrase(41)}
+              <li><strong>${phrase(41)}</strong>
                 <ol>
                   <li>${phrase(42)}</li>
                   <li>${phrase(43)}</li>
                 </ol>
               </li>
-              <li>${phrase(44)}
+              <li><strong>${phrase(44)}</strong>
                 <ol>
                   <li>${phrase(45)}</li>
                 </ol>
               </li>
             </ol>
           </li>
-          <li>${phrase(46)}</li>
+          <li>
+            ${phrase(46)}<br>
+            ${phrase(47)}
+          </li>
         </ol>
-
-        <p>
-          ${phrase(47)} ${phrase(48)}
-        </p>
-
-        <p>
-          ${phrase(49)}
-        </p>
 
       </div>
     </div>
