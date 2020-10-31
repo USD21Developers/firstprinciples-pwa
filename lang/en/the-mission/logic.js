@@ -30,8 +30,6 @@
           <li>${phrase(4)}</li>
         </ul>
 
-        <br>
-
         <ol>
           <li><strong>${phrase(5)}<br>${phrase(505)}</strong>
             <ol>
