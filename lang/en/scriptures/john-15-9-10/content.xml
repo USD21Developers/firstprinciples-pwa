@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="john-15-9-10" lang="en" version="niv" edition="1984">
+	<passage title="John 15:9-10" book="John" book-en="John">
+		<chapter number="15" number-en="15">
+			<verse number="9" number-en="9" jesuswords="true">
+				<span class="jesuswords">"As the Father has loved me, so have I
+loved you. Now remain in my love.</span>
+			</verse>
+			<verse number="10" number-en="10" jesuswords="true">
+				<span class="jesuswords">If you obey my commands, you will remain in my love, just as I have obeyed my Father's commands and remain in his love.</span>
+			</verse>			
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->
