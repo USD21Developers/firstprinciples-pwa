@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-8-12" lang="en" version="niv" edition="1984">
+	<passage title="Acts 8:12" book="Acts" book-en="Acts">
+		<chapter number="8" number-en="8">
+			<verse number="12" number-en="12">
+				But when they believed Philip as he preached the good news of the kingdom of God and the name of Jesus Christ, they were baptized, both men and women.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

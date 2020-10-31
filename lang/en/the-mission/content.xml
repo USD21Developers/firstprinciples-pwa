@@ -47,6 +47,15 @@
 		</translated>
 	</phrase>
 
+	<phrase id="505" desc="">
+		<original>
+		  Read together:
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
 	<phrase id="6" desc="">
 		<original>
 			Luke 19:10
@@ -66,23 +75,6 @@
 
 	<phrase id="7" desc="">
 		<original>
-			1 Timothy 1:15
-		</original>
-		<translated>
-			
-		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="1-timothy-1-15">
-			<original>
-				1 Timothy 1:15
-			</original>
-			<translated>
-				
-			</translated>
-		</change>
-	</phrase>
-
-	<phrase id="8" desc="">
-		<original>
 			Matthew 28:19-20
 		</original>
 		<translated>
@@ -98,16 +90,16 @@
 		</change>
 	</phrase>
 
-	<phrase id="9" desc="">
+	<phrase id="8" desc="">
 		<original>
-			Acts 20:24
+			1 Timothy 2:3-4
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="acts-20-24">
+		<change bold="true" italic="false" modal="true" scripturekey="1-timothy-2-3-4">
 			<original>
-				Acts 20:24
+				1 Timothy 2:3-4
 			</original>
 			<translated>
 				
@@ -115,9 +107,18 @@
 		</change>
 	</phrase>
 
-	<phrase id="10" desc="">
+	<phrase id="9" desc="">
 		<original>
 			What was Jesus' mission?
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			What was His vision?
 		</original>
 		<translated>
 			
@@ -161,7 +162,7 @@
 
 	<phrase id="14" desc="">
 		<original>
-			Glorifying God in John 15 is bearing the fruit of making disciples, not simply baptizing. (Matthew 28:19 commands us to "go and make disciples;" John 15:16 commands us to "go and bear fruit that will last."
+			Glorifying God in John 15 is bearing the fruit of making disciples, not simply baptizing. (Matthew 28:19 commands us to "go and make disciples;" John 15:16 commands us to "go and bear fruit that will last.")
 		</original>
 		<translated>
 			
@@ -203,16 +204,24 @@
 
 	<phrase id="16" desc="">
 		<original>
-			Jesus is the perfect discipler, but He is also the perfect disciple of God.
+			Jesus is the perfect discipler, but He is also the perfect disciple of God (John 15:9-10).
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-15-9-10">
+		        <original>
+		               John 15:9-10
+		        </original>
+		        <translated>
+				
+		        </translated>
+		</change>
 	</phrase>
 
 	<phrase id="17" desc="">
 		<original>
-			To love God is to obey His commands. Discipling helps our hearts to want to obey His commands (Matthew 28:20). Therefore, we must love one another, even to the point of laying down our lives for each other.
+			To love God is to obey His commands. Discipling helps our hearts to want to obey His commands (Matthew 28:20). Therefore, we must love one another by laying down our lives for each other.
 		</original>
 		<translated>
 			
@@ -229,11 +238,19 @@
 
 	<phrase id="18" desc="">
 		<original>
-			The Book of Acts records the 30 years from the beginning of the church on the day of Pentecost to Paul's arrival in Rome — signaling that the gospel has gone to the known world. The church in the first century was a movement. Discuss the growth of the first century church when all Christians were striving to be fruitful — making disciples.
+		  The Book of Acts records the 30 years from the beginning of the church on the day of Pentecost to Paul's arrival in Rome — signaling that the gospel has gone to the known world. The church in the first century was a movement. Discuss the growth of the first century church when all Christians were striving to be fruitful — making disciples.
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="true" italic="false" modal="false" scripturekey="">
+			<original>
+				The Book of Acts
+			</original>
+			<translated>
+				
+			</translated>
+		</change>		
 	</phrase>
 
 	<phrase id="19" desc="">
@@ -490,6 +507,23 @@
 			</translated>
 		</change>
 	</phrase>
+	
+	<phrase id="303" desc="">
+		<original>
+			Acts 28:22
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-28-22">
+			<original>
+				Acts 28:22
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
 
 	<phrase id="34" desc="">
 		<original>
@@ -510,14 +544,14 @@
 
 	<phrase id="35" desc="">
 		<original>
-			Colossians 1:6, 23: The known world was evangelized by 61 A.D., in a generation! Paul is in prison when he writes Colossians — Acts 28. Therefore, Jesus' vision became a reality — "the evangelization of the nations in a generation!"
+			Colossians 1:6, 23 Paul wrote Colossians in 62A.D., while detained in his rented home (Acts 28:30). These Scriptures attest that the known world was evangelized by 62 AD – in Paul’s generation!  Therefore, Jesus’ vision of Matthew 28 became a reality – “the evangelization of the nations in a generation!” 
 		</original>
 		<translated>
 			
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-1-6">
 			<original>
-				1:6
+				Colossians 1:6
 			</original>
 			<translated>
 				
@@ -531,9 +565,9 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" scripturekey="acts-28">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-28-30">
 			<original>
-				Acts 28
+				Acts 28:30
 			</original>
 			<translated>
 				
@@ -570,7 +604,7 @@
 
 	<phrase id="39" desc="">
 		<original>
-			Your Kingdom dreams... how can you use your talents for God?
+			Your Kingdom dreams... How can you use your talents for God?
 		</original>
 		<translated>
 			

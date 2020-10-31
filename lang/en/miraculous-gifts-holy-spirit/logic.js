@@ -47,14 +47,14 @@
           </li>
           <li><strong>${phrase(16)}</strong>
             <ol>
-              <li>${phrase(17)}</li>
-              <li>${phrase(18)}
+              <li><strong>${phrase(17)}</strong></li>
+              <li><strong>${phrase(18)}</strong>
                 <ol>
                   <li>${phrase(19)}</li>
                   <li>${phrase(20)}</li>
                 </ol>
               </li>
-              <li>${phrase(21)}
+              <li><strong>${phrase(21)}</strong>
                 <ol>
                   <li>${phrase(22)}</li>
                   <li>${phrase(23)}
@@ -73,13 +73,8 @@
               <li>${phrase(28)}</li>
               <li>${phrase(29)}</li>
               <li>${phrase(30)}</li>
-              <li>${phrase(31)}
-                <ol>
-                  <li>${phrase(32)}</li>
-                  <li>${phrase(33)}</li>
-                  <li>${phrase(34)}</li>
-                </ol>
-              </li>
+              <li>${phrase(31)}</li>
+              <li>${phrase(34)}</li>
               <li>${phrase(35)}</li>
               <li>${phrase(36)}</li>
               <li>${phrase(37)}</li>

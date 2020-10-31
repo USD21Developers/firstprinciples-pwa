@@ -22,7 +22,7 @@
 
 	<phrase id="3" desc="">
 		<original>
-			Discuss the young disciple's first few days as a Christian.
+			Discuss the new disciple's first few days as a Christian.
 		</original>
 		<translated>
 			
@@ -31,7 +31,7 @@
 
 	<phrase id="4" desc="">
 		<original>
-			Share "letter to God." If the new disciple has not had a chance to write one, encourage him/her to do so.
+			Have the new Christian share their "letter to God." If the new disciple has not had a chance to write one, encourage him/her to do so.
 		</original>
 		<translated>
 			
@@ -40,7 +40,7 @@
 
 	<phrase id="5" desc="">
 		<original>
-			Acts 2:36-47: The Conversion of the 3000
+			Acts 2:36-47: The Conversion of the 3,000
 		</original>
 		<translated>
 			
@@ -66,7 +66,7 @@
 
 	<phrase id="7" desc="">
 		<original>
-			Review how to become a disciple.
+			Review how to become a Christian.
 		</original>
 		<translated>
 			
@@ -75,7 +75,7 @@
 
 	<phrase id="8" desc="">
 		<original>
-			Reinforce the joy of salvation and awe of God.
+			Reinforce the joy of salvation.
 		</original>
 		<translated>
 			
@@ -120,7 +120,7 @@
 
 	<phrase id="13" desc="">
 		<original>
-			Discuss the purpose of each gathering: Sunday Worship Services, Midweek Services — Men's Night Out / Women's Night Out, Bible Talks, Devotionals and discipleship partners.
+			Discuss the purpose of each gathering: Sunday Worship Services, Midweek Services, Devotionals, Bible Talk and Discipleship Partners.
 		</original>
 		<translated>
 			
@@ -147,22 +147,14 @@
 
 	<phrase id="16" desc="">
 		<original>
-			Discuss the leadership's expectation to tithe on Sundays and give a benevolent offering at the Midweek Services. Read together Malachi 3:6-12 and Hebrews 13:17.
+			Discuss the expectation to be generous in financial sacrifices on Sundays and give a benevolent offering at the Midweek Services.  Read together 2 Corinthians 9:6-11.
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="malachi-3-6-12">
+		<change bold="true" italic="false" modal="true" scripturekey="2-corinthians-9-6-11">
 			<original>
-				Malachi 3:6-12
-			</original>
-			<translated>
-				
-			</translated>
-		</change>
-		<change bold="true" italic="false" modal="true" scripturekey="hebrews-13-17">
-			<original>
-				Hebrews 13:17
+				2 Corinthians 9:6-11
 			</original>
 			<translated>
 				
@@ -198,7 +190,7 @@
 
 	<phrase id="19" desc="">
 		<original>
-			Discuss what it means to become spiritually "weak, sick and fallen asleep." How does communion prevent these conditions? (sick: Proverbs 13:12)
+			Discuss what it means to become spiritually "weak, sick and fallen asleep." How does communion prevent these conditions? (For being spiritually sick see: Proverbs 13:12)
 		</original>
 		<translated>
 			
@@ -250,14 +242,14 @@
 
 	<phrase id="23" desc="">
 		<original>
-			Acts 9:1-22: The Conversion of Paul
+			The Conversion of Paul (Acts 9:18-25)
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="acts-9-1-22">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-9-18-25">
 			<original>
-				Acts 9:1-22
+				Acts 9:18-25
 			</original>
 			<translated>
 				
@@ -276,7 +268,7 @@
 
 	<phrase id="25" desc="">
 		<original>
-			With whom have you shared your faith?
+			Discuss who the new disciple has shared with.
 		</original>
 		<translated>
 			
@@ -285,7 +277,7 @@
 
 	<phrase id="26" desc="">
 		<original>
-			List friends and family to share with this week.
+			Make a list of people with which to share.
 		</original>
 		<translated>
 			
@@ -312,7 +304,7 @@
 
 	<phrase id="29" desc="">
 		<original>
-			Hebrews 5:11-6:6: The First Principles
+			Hebrews 5:11-6:6 The First Principles
 		</original>
 		<translated>
 			
@@ -329,7 +321,7 @@
 
 	<phrase id="30" desc="">
 		<original>
-			Strive to learn the first principles (elementary teachings) and go on to maturity, so you can be fruitful and not fall away.
+			Strive to learn the First Principle Studies (elementary teachings) and go on to maturity, so you can be fruitful and not fall away.
 		</original>
 		<translated>
 			

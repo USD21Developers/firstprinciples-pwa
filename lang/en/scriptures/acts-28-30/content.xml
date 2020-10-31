@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-28-30" lang="en" version="niv" edition="1984">
+	<passage title="Acts 28:30" book="Acts" book-en="Acts">
+		<chapter number="28" number-en="28">
+			<verse number="30" number-en="30">
+				For two whole years Paul stayed there in his own rented house and welcomed all who came to see him.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

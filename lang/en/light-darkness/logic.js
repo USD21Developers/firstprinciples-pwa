@@ -23,10 +23,6 @@
         </div>
 
         <p>
-          <strong>${phrase(2)}</strong>
-        </p>
-
-        <p>
           ${phrase(3)}
         </p>
 
@@ -337,6 +333,7 @@
                       </td>
                       <td class="center">
                         ${phrase(90)}<br>
+                        ${phrase(91)}<br>
                       </td>
                     </tr>
                   </tbody>
@@ -348,31 +345,31 @@
           </li>
         </ol>
       </li>
-      <li><strong>${phrase(91)}</strong>
+      <li><strong>${phrase(92)}</strong>
         <ol>
-          <li>${phrase(92)}
+          <li>${phrase(93)}
             <ol>
-              <li>${phrase(93)}</li>
               <li>${phrase(94)}</li>
-              <li>${phrase(95)}
+              <li>${phrase(95)}</li>
+              <li>${phrase(96)}
                 <ol>
-                  <li>${phrase(96)}</li>
                   <li>${phrase(97)}</li>
+                  <li>${phrase(98)}</li>
                 </ol>
               </li>
             </ol>
           </li>
-          <li>${phrase(98)}
+          <li>${phrase(99)}
             <ol>
-              <li>${phrase(99)}</li>
               <li>${phrase(100)}</li>
+              <li>${phrase(101)}</li>
             </ol>
           </li>
         </ol>
       </li>
-      <li><strong>${phrase(101)}</strong>
+      <li><strong>${phrase(102)}</strong>
         <p>
-          ${phrase(102)}
+          ${phrase(103)}
         </p>
       </li>
     </ol>

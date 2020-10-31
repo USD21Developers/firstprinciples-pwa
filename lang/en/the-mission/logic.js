@@ -33,13 +33,13 @@
         <br>
 
         <ol>
-          <li><strong>${phrase(5)}</strong>
+          <li><strong>${phrase(5)}<br>${phrase(505)}</strong>
             <ol>
               <li>${phrase(6)}</li>
               <li>${phrase(7)}</li>
-              <li>${phrase(8)}</li>
-              <li>${phrase(9)}
+              <li>${phrase(8)}
                 <ol>
+                  <li>${phrase(9)}</li>
                   <li>${phrase(10)}</li>
                   <li>${phrase(11)}</li>
                 </ol>
@@ -73,6 +73,7 @@
                   <li>${phrase(31)}</li>
                   <li>${phrase(32)}</li>
                   <li>${phrase(33)}</li>
+                  <li>${phrase(303)}</li>
                   <li>${phrase(34)}</li>
                   <li>${phrase(35)}</li>
                 </ol>
