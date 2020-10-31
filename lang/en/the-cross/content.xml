@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="the-cross" lang-original="en" lang-translated="" last-updated="2018-09-28" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="the-cross" lang-original="en" lang-translated="" last-updated="2020-10-29" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
@@ -174,7 +174,7 @@
 
 	<phrase id="19" desc="">
 		<original>
-			Read the medical account of Jesus' physical death.
+			Read the medical account of Jesus’ physical death.
 		</original>
 		<translated>
 			
@@ -200,7 +200,7 @@
 
 	<phrase id="21" desc="">
 		<original>
-			Remember that there were many others who died by crucifixion in the first century. It was not that Jesus was physically crucified that makes Him unique; it was that He was crucified for you, in your place. He died on the cross for you.
+			Remember there were many others who died by crucifixion in the first century. It was not the fact that Jesus was painfully crucified that makes Him unique; it was that He was crucified for you, in your place.  He died on the cross for you.
 		</original>
 		<translated>
 			
@@ -243,7 +243,7 @@
 
 	<phrase id="24" desc="">
 		<original>
-			Matthew 27:46
+			Matthew 27:46 Jesus was separated from God by your sins.
 		</original>
 		<translated>
 			
@@ -269,7 +269,7 @@
 
 	<phrase id="26" desc="">
 		<original>
-			Isaiah 53:4-6 (substitute your name).
+			Isaiah 53:4-6 Substitute your name.
 		</original>
 		<translated>
 			
@@ -286,22 +286,22 @@
 
 	<phrase id="27" desc="">
 		<original>
-			If possible immediately after this study watch either The Cross or The Passion video.
+			Watch either The Passion Of The Christ (Gibson) or The Cross (KNN Productions) and afterward discuss Christ’s ultimate sacrifice demonstrating God’s incredible grace.
 		</original>
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false">
+		<change bold="false" italic="true" modal="false">
 			<original>
-				The Cross
+				The Passion Of The Christ
 			</original>
 			<translated>
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false">
+		<change bold="false" italic="true" modal="false">
 			<original>
-				The Passion
+				The Cross
 			</original>
 			<translated>
 				
