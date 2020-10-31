@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-28-22" lang="en" version="niv" edition="1984">
+	<passage title="Acts 28:22" book="Acts" book-en="Acts">
+		<chapter number="28" number-en="28">
+			<verse number="22" number-en="22">
+				But we want to hear what your views are, for we know that people everywhere are talking against this sect.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->
