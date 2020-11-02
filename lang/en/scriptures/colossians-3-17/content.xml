@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="colossians-3-17" lang="en" version="niv" edition="1984">
-	<passage title="Colossians 3:15" book="Colossians" book-en="Colossians">
+	<passage title="Colossians 3:17" book="Colossians" book-en="Colossians">
 		<chapter number="3" number-en="3">
 			<verse number="17" number-en="17">
 			  And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.
-			</verse>					
+			</verse>
+		</chapter>				
 	</passage>
 </scripture>
 
