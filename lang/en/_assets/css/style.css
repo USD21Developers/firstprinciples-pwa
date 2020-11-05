@@ -302,3 +302,46 @@ ul.showdiscs li {
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
+
+
+/**********************
+/* CUSTOM COLOR THEME */
+/**********************/
+
+/* Home icon */
+.fa-home {
+  color: white !important;
+}
+
+/* App name */
+.blue.darken-3 {
+  background-color: #433c3a !important;
+}
+
+/* Page title */
+.light-blue.darken-1 {
+  background-color: #8e694d !important;
+}
+
+/* Links */
+a {
+  color: #7e4e2d !important;
+}
+
+/* Scripture header */
+.modal-content .scripture_headline.blue.darken-1 {
+  background-color: #8e694d !important;
+}
+
+/* Expand button */
+.modal-content .scripture-expand .btn.blue.darken-1 {
+  background-color: #c48355 !important;
+  color: white !important;
+}
+
+/* Install and share buttons */
+.btn.light-blue {
+  background-color: #c48355 !important;
+  color: white !important;
+}
