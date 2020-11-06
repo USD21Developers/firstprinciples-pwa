@@ -39,7 +39,7 @@
                   <td><div class="head">${phrase(7)}</div></td>
                 </tr>
                 <tr>
-                  <td colspan="2"><div class="body">${phrase(8)}</div></td>
+                  <td colspan="2"><div class="body right-align">${phrase(8)}</div></td>
                   <td colspan="2"><div class="body">${phrase(9)}</div></td>
                 </tr>
               </tbody>
