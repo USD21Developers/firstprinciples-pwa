@@ -380,8 +380,26 @@ fp.registerServiceWorker = fromKey => {
   }  
 }
 
+fp.showSplashScreen = (fromKey) => {
+  const splashshown = sessionStorage.getItem("splashshown") || false;
+  const timeToWait = 2000;
+
+  if (!splashshown) {
+    $("#splash").removeClass("hide");
+    setTimeout(() => {
+      sessionStorage.setItem("splashshown", true);
+      $("#splash").addClass("hide");
+      $("#nonsplash").removeClass("hide");
+    }, timeToWait);
+  } else {
+    $("#splash").addClass("hide");
+    $("#nonsplash").removeClass("hide");
+  }
+}
+
 fp.init = async fromKey => {
   window.fp = {};
+  fromKey === "dashboard" && fp.showSplashScreen(fromKey);
   $.ajaxSetup({
     cache: true
   });

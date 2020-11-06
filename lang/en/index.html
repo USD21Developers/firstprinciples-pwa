@@ -83,35 +83,44 @@
   </head>
   <body>
 
-    <nav>
-      <div class="nav-wrapper blue darken-3">
-        <a href="../../" class="homeicon hide" target="_blank"><i class="fas fa-home"></i></a>
-        <span class="brand-logo center"></span>
-      </div>
-    </nav>
-
-    <div class="container main">
-      <div class="fp_pagecontent">
-        <br>
-        <div class="row">
-          <div class="col s12 center">
-            <div class="preloader-wrapper big active">
-                <div class="spinner-layer spinner-blue-only">
-                  <div class="circle-clipper left">
-                    <div class="circle"></div>
-                  </div><div class="gap-patch">
-                    <div class="circle"></div>
-                  </div><div class="circle-clipper right">
-                    <div class="circle"></div>
-                  </div>
-                </div>
-              </div>
-          </div>
-        </div>
+    <div id="splash" class="hide">
+      <div id="splash_image">
+        <img src="_assets/img/splashscreens/apple-splash-640-1136.png" alt="">
       </div>
     </div>
 
-    <footer class="page-footer blue darken-3 hide"></footer>
+    <div id="nonsplash" class="hide">
+
+      <nav>
+        <div class="nav-wrapper blue darken-3">
+          <a href="../../" class="homeicon hide" target="_blank"><i class="fas fa-home"></i></a>
+          <span class="brand-logo center"></span>
+        </div>
+      </nav>
+
+      <div class="container main">
+        <div class="fp_pagecontent">
+          <br>
+          <div class="row">
+            <div class="col s12 center">
+              <div class="preloader-wrapper big active">
+                  <div class="spinner-layer spinner-blue-only">
+                    <div class="circle-clipper left">
+                      <div class="circle"></div>
+                    </div><div class="gap-patch">
+                      <div class="circle"></div>
+                    </div><div class="circle-clipper right">
+                      <div class="circle"></div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <footer class="page-footer blue darken-3 hide"></footer>
+    </div>
 
     <!--  Scripts -->
     <script src="./_assets/js/jquery-2.1.1.min.js"></script>

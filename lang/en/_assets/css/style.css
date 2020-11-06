@@ -345,3 +345,20 @@ a {
   background-color: #c48355 !important;
   color: white !important;
 }
+
+#splash {
+  display: table;
+  width: 100%;
+  height: 100vh;
+  background-color: #150d09;
+  line-height: 100vh;
+}
+
+#splash_image {
+  display: table-cell;
+  text-align: center;
+}
+
+#splash_image img {
+  max-width: 90%;
+}
