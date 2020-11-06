@@ -380,11 +380,16 @@ fp.registerServiceWorker = fromKey => {
   }  
 }
 
+function isRunningStandalone() {
+  return (window.matchMedia('(display-mode: standalone)').matches);
+}
+
 fp.showSplashScreen = (fromKey) => {
   const splashshown = sessionStorage.getItem("splashshown") || false;
   const timeToWait = 2000;
+  const standalone = isRunningStandalone();
 
-  if (!splashshown) {
+  if (!standalone && !splashshown) {
     $("#splash").removeClass("hide");
     setTimeout(() => {
       sessionStorage.setItem("splashshown", true);
