@@ -1,4 +1,6 @@
 module.exports = {
+  "skipWaiting": true,
+  "clientsClaim": true,
   "globDirectory": ".",
   "globPatterns": [
     "**/*.{css,js,json,svg,woff,woff2,png,ico,html}",
