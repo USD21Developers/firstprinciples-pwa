@@ -75,10 +75,12 @@ fp.scripture = {
           html = html.replace('class="col s1 right-align verseref"', 'class="col s1 right-align verseref hide"');
         }
       };
+      const expandButtonText = fp.language.global.setExpandButton(key, fp.language.current);
       html += `
         <br>
         <div class="right-align scripture-expand">
           <a href="http://www.biblegateway.com/passage/?search=${encodeURI(book + '+' + chapter)}&version=${version}" target="_blank" rel="noreferrer" class="btn blue darken-1 waves-effect waves-light">
+            ${expandButtonText}
           </a>
         </div>
       `;
@@ -93,7 +95,6 @@ fp.scripture = {
       `;
       $('#scriptureModal').remove();
       $('.fp_pagecontent').after(modalHTML);
-      fp.language.global.setExpandButton(key, fp.language.current);
       $('#scriptureModal').modal({
         onOpenStart: function() {
           window.onhashchange = function() {
