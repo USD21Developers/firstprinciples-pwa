@@ -345,7 +345,7 @@ body,
 .fpmodule_index .collection a:hover.collection-item,
 .fpmodule_dashboard .collection a:hover.collection-item {
   background-color: #d9d8d7 !important;
-  font-weight: 500;
+  font-weight: bold;
 }
 
 /* Scripture header */
