@@ -1,8 +1,8 @@
 {
   "name": "First Principles",
   "short_name": "First Principles",
-  "theme_color": "#563720",
-  "background_color": "#150d09",
+  "theme_color": "#433c3a",
+  "background_color": "#130C08",
   "display": "standalone",
   "start_url": "./",
   "icons": [

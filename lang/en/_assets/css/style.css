@@ -321,28 +321,47 @@ ul.showdiscs li {
 
 /* Page title */
 .light-blue.darken-1 {
-  background-color: #8e694d !important;
+  background-color: #7b7675 !important;
 }
 
 /* Links */
 a {
-  color: #7e4e2d !important;
+  color: #9c6343 !important;
+}
+
+/* Page background */
+body,
+#scriptureModal,
+.collection .collection-item {
+  background-color: #ecebeb !important;
+}
+
+/* Dashboard links */
+.fpmodule_index .collection a.collection-item,
+.fpmodule_dashboard .collection a.collection-item {
+  color: #433c3a !important;
+  background-color: white !important;
+}
+.fpmodule_index .collection a:hover.collection-item,
+.fpmodule_dashboard .collection a:hover.collection-item {
+  background-color: #d9d8d7 !important;
+  font-weight: 500;
 }
 
 /* Scripture header */
 .modal-content .scripture_headline.blue.darken-1 {
-  background-color: #8e694d !important;
+  background-color: #514846 !important;
 }
 
 /* Expand button */
 .modal-content .scripture-expand .btn.blue.darken-1 {
-  background-color: #c48355 !important;
+  background-color: #9c6343 !important;
   color: white !important;
 }
 
 /* Install and share buttons */
 .btn.light-blue {
-  background-color: #c48355 !important;
+  background-color: #9c6343 !important;
   color: white !important;
 }
 
@@ -350,7 +369,7 @@ a {
   display: table;
   width: 100%;
   height: 100vh;
-  background-color: #150d09;
+  background-color: #130C08;
   line-height: 100vh;
 }
 
@@ -361,4 +380,10 @@ a {
 
 #splash_image img {
   max-width: 90%;
+}
+
+#hamburgericon {
+  color: white !important;
+  line-height: 56px;
+  margin-right: 18px;
 }
