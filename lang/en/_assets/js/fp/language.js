@@ -73,11 +73,9 @@ fp.language = {
       });
     },
     setExpandButton: function(fromKey, lang) {
-      return new Promise(async function(resolve, reject) {
-        const expandText = $(fp.$global).find('phrase[id=2] translated').text().trim();
-        $('html').find('.scripture-expand .btn').html(expandText + '<i class="fas fa-angle-right"></i>').end();
-        resolve(expandText);
-      });
+      const expandText = $(fp.$global).find('phrase[id=2] translated').text().trim();
+      $('html').find('.scripture-expand .btn').html(expandText + '<i class="fas fa-angle-right"></i>').end();
+      return expandText;
     }
   },
 
