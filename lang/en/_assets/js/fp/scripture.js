@@ -80,7 +80,7 @@ fp.scripture = {
         <br>
         <div class="right-align scripture-expand">
           <a href="http://www.biblegateway.com/passage/?search=${encodeURI(book + '+' + chapter)}&version=${version}" target="_blank" rel="noreferrer" class="btn blue darken-1 waves-effect waves-light">
-            ${expandButtonText}
+            ${expandButtonText} <i class="fas fa-angle-right"></i>
           </a>
         </div>
       `;
