@@ -286,15 +286,13 @@ table.firstColNoWrap td:nth-child(1) {
 
 .scripture_close {
   position: absolute;
-  right: 20px;
-  top: 0;
-  display: flex;
+  top: -5px;
+  right: 10px;
 }
 
 .scripture_close .modal-close {
-  font-size: 1.5em;
-  color: white !important;
-  font-weight: 100;
+  font-size: 20px;
+  color: #130C08 !important;
 }
 
 ul.showdiscs {
