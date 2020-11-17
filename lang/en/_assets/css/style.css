@@ -286,8 +286,8 @@ table.firstColNoWrap td:nth-child(1) {
 
 .scripture_close {
   position: absolute;
-  top: -5px;
-  right: 10px;
+  top: -3px;
+  right: 6px;
 }
 
 .scripture_close .modal-close {
