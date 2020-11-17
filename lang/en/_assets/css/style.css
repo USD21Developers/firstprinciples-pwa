@@ -281,6 +281,20 @@ table.firstColNoWrap td:nth-child(1) {
 
 .scripture_headline {
   font-size: 21px;
+  position: relative;
+}
+
+.scripture_close {
+  position: absolute;
+  right: 20px;
+  top: 0;
+  display: flex;
+}
+
+.scripture_close .modal-close {
+  font-size: 1.5em;
+  color: white !important;
+  font-weight: 100;
 }
 
 ul.showdiscs {
