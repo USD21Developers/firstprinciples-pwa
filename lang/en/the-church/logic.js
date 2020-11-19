@@ -29,21 +29,7 @@
               <li>${phrase(4)}</li>
               <li>${phrase(5)}</li>
             </ol>
-            <table class="churchIsBody">
-              <tbody>
-                <tr>
-                  <td><div>${phrase(6)}</div></td>
-                  <td class="right"><div class="head"><i class="fa fa-long-arrow-alt-right fa-2x"></i></div></td>
-                  <td rowspan="2"><img src="../_assets/img/body-w-brackets.png" width="148" height="187" class="responsive-img"></td>
-                  <td><div class="head"><i class="fa fa-long-arrow-alt-left fa-2x"></i></div></td>
-                  <td><div class="head">${phrase(7)}</div></td>
-                </tr>
-                <tr>
-                  <td colspan="2"><div class="body right-align">${phrase(8)}</div></td>
-                  <td colspan="2"><div class="body">${phrase(9)}</div></td>
-                </tr>
-              </tbody>
-            </table>
+            <img src="../_assets/img/head-body-diagram.svg" class="responsive-img" style="width: 400px; max-width: 100%"></td>
           </li>
           <li><strong>${phrase(10)}</strong>
             <ol>
