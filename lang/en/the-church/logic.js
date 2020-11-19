@@ -29,7 +29,7 @@
               <li>${phrase(4)}</li>
               <li>${phrase(5)}</li>
             </ol>
-            <img src="../_assets/img/head-body-diagram.svg" class="responsive-img" style="width: 400px; max-width: 100%"></td>
+            <img src="../_assets/img/head-body-diagram.svg" class="responsive-img" style="width: 400px; max-width: 100%; height: auto"></td>
           </li>
           <li><strong>${phrase(10)}</strong>
             <ol>
