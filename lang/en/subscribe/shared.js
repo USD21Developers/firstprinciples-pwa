@@ -44,7 +44,7 @@ function phrase(id, content) {
 
     let changed = c_translated;
 
-    if (href) changed = `<a href="${href}" target="_blank" rel="noreferrer">${changed}</a>`;
+    if (href) changed = `<a href="${href}">${changed}</a>`;
     if (isItalic) changed = `<em>${changed}</em>`;
     if (isBold) changed = `<strong>${changed}</strong>`;
 
