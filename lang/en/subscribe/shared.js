@@ -57,12 +57,14 @@ function phrase(id, content) {
 
 function toggleSpinner() {
   const spinner = document.querySelector(".spinner");
-  spinner.classList.toggle("hide");
+  spinner?.classList.toggle("hide");
 }
 
 async function showPhrases() {
   const content = await getContent();
   const phrases = content.querySelectorAll("phrase");
+
+  toggleSpinner();
   
   phrases.forEach(item => {
     const id = item.getAttribute("id");
