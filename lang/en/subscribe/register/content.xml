@@ -18,7 +18,112 @@
 
   <phrase id="3">
 		<original>
-			Hello World
+			For access to the First Principles app, please register by completing the form below.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			Why register?
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="5">
+		<original>
+			Username
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="6">
+		<original>
+			Password
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			First name
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			Last name
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			E-mail address
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			Register
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			Log In
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			Log In
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="13">
+		<original>
+			Form Incomplete
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			Please input your username.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			Please input your password.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="16">
+		<original>
+			Please input your first name.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="17">
+		<original>
+			Please input your last name.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="18">
+		<original>
+			Please input your e-mail address.
 		</original>
 		<translated></translated>
 	</phrase>
