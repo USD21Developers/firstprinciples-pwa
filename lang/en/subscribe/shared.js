@@ -1,3 +1,5 @@
+var retrievedContent = "";
+
 function supportsPromises() {
   let supportsPromises = false;
 
@@ -64,6 +66,8 @@ async function showPhrases() {
   const content = await getContent();
   const phrases = content.querySelectorAll("phrase");
 
+  retrievedContent = content;
+
   toggleSpinner();
   
   phrases.forEach(item => {
@@ -75,4 +79,14 @@ async function showPhrases() {
 function getLang() {
   const lang = window.location.pathname.substring(6, 8);
   return lang;
+}
+
+function showError(textId, headlineId) {
+  const h5 = document.querySelector("#modal1 h5");
+  const p = document.querySelector("#modal1 p");
+  h5.setAttribute(`data-p${headlineId}`, "");
+  p.setAttribute(`data-p${textId}`, "");
+  phrase(headlineId, retrievedContent);
+  phrase(textId, retrievedContent);
+  $("#modal1").modal("open"); 
 }
