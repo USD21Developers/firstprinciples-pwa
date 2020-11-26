@@ -60,21 +60,21 @@
 
 	<phrase id="9">
 		<original>
-			E-mail address
+			Full name
 		</original>
 		<translated></translated>
 	</phrase>
 
 	<phrase id="10">
 		<original>
-			Register
+			E-mail address
 		</original>
 		<translated></translated>
 	</phrase>
 
 	<phrase id="11">
 		<original>
-			Log In
+			Register
 		</original>
 		<translated></translated>
 	</phrase>
@@ -85,7 +85,7 @@
 		</original>
 		<translated></translated>
 	</phrase>
-
+	
 	<phrase id="13">
 		<original>
 			Form Incomplete
@@ -121,7 +121,7 @@
 		<translated></translated>
 	</phrase>
 
-	<phrase id="18">
+	<phrase id="19">
 		<original>
 			Please input your e-mail address.
 		</original>
