@@ -28,51 +28,55 @@ function getContent() {
   });
 }
 
-function phrase(id, content) {
-  const phrase = content.querySelector(`phrase[id='${id}']`);
-  const original = phrase.querySelector("original").innerHTML.trim();
-  let translated = phrase.querySelector("translated").innerHTML.trim();
-
-  if (translated.length === 0) translated = original;
-  
-  content.querySelectorAll("change").forEach(item => {
-    const c_original = item.querySelector("original").innerHTML.trim();
-    const c_translated = item.querySelector("translated").innerHTML.trim();
-    const isBold = item.getAttribute("bold") === "true" ? true : false;
-    const isItalic = item.getAttribute("italic") === "true" ? true : false;
-    const href = item.getAttribute("href")?.length? item.getAttribute("href") : false;
-
-    if (c_translated.length === 0) c_translated = c_original;
-
-    let changed = c_translated;
-
-    if (href) changed = `<a href="${href}">${changed}</a>`;
-    if (isItalic) changed = `<em>${changed}</em>`;
-    if (isBold) changed = `<strong>${changed}</strong>`;
-
-    translated = translated.replace(c_translated, changed);
-  });
-  document.querySelectorAll(`[data-p${id}]`).forEach(item => {
-    item.innerHTML = translated;
-  });
-}
-
 function toggleSpinner() {
   const spinner = document.querySelector(".spinner");
   spinner?.classList.toggle("hide");
 }
 
 async function showPhrases() {
-  const content = await getContent();
-  const phrases = content.querySelectorAll("phrase");
+  const parsedXML = await getContent();
+  const phrases = parsedXML.querySelectorAll("phrase");
+  const lang = getLang();
 
-  retrievedContent = content;
+  retrievedContent = phrases;
 
   toggleSpinner();
   
   phrases.forEach(item => {
     const id = item.getAttribute("id");
-    phrase(id, content);
+    const original = item.querySelector("original").innerHTML.trim();
+    let translated = item.querySelector("translated").innerHTML;
+    translated = (!translated.length) ? original : translated.trim();
+
+    item.querySelectorAll("change").forEach(changeItem => {
+      const isBold = ( changeItem.hasAttribute("bold") && changeItem.getAttribute("bold") === "true") ? true : false;
+      const isItalic = ( changeItem.hasAttribute("italic") && changeItem.getAttribute("italic") === "true") ? true : false;
+      const isLink = ( changeItem.hasAttribute("href") && changeItem.getAttribute("href").length) ? true : false;
+      
+      const changeOriginal = changeItem.querySelector("original").innerHTML.trim();
+      let changeTranslated = changeItem.querySelector("translated").innerHTML;
+      changeTranslated = (!changeTranslated.length) ? changeOriginal : changeTranslated.trim();
+
+      let change = changeTranslated;
+      
+      if (isBold) change = `<strong>${change}</strong>`;
+      if (isItalic) change = `<em>${change}</em>`;
+      if (isLink) {
+        const link = changeItem.getAttribute("href");
+        const isExternalLink = (link.indexOf("http://") >= 0 || link.indexOf("https://") >= 0) || false;
+        if (isExternalLink) {
+          change = `<a href="${changeItem.getAttribute('href')}" target="_blank" rel="nofollow">${change}</a>`;
+        } else {
+          change = `<a href="${changeItem.getAttribute('href')}">${change}</a>`;
+        }
+      }
+
+      translated = translated.replace(changeTranslated, change);
+    });
+
+    document.querySelectorAll(`[data-p${id}]`).forEach(item => {
+      item.innerHTML = translated;
+    });
   })
 }
 
