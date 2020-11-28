@@ -147,7 +147,6 @@ function configureModal(fieldSelector) {
       const yOffset = -35;
       const y = el.getBoundingClientRect().top + window.pageYOffset + yOffset;
       el.focus();
-      el.select();
       window.scrollTo(0, y);
     }
   }
