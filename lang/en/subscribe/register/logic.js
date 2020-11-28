@@ -18,16 +18,16 @@ async function onSubmit(e) {
 
   // Close modal if it is open
   $("#modal1").modal("close");
-  
-  // Validate
-  if (!username.length) return showError(usernameRequired, formIncomplete);
-  if (!password.length) return showError(passwordRequired, formIncomplete);
-  if (!firstname.length) return showError(firstNameRequired, formIncomplete);
-  if (!lastname.length) return showError(lastNameRequired, formIncomplete);
-  if (!fullname.length) return showError(fullNameRequired, formIncomplete);
-  if (!email.length) return showError(emailRequired, formIncomplete);
 
-  const endpoint = window.location.hostname === "localhost" ? "http://localhost:4000/fp/register" : "https://api.usd21.org/fp/register";
+  // Validate
+  if (!username.length) return showError(usernameRequired, formIncomplete, "#username");
+  if (!password.length) return showError(passwordRequired, formIncomplete, "#password");
+  if (!firstname.length) return showError(firstNameRequired, formIncomplete, "#firstname");
+  if (!lastname.length) return showError(lastNameRequired, formIncomplete, "#lastname");
+  if (!fullname.length) return showError(fullNameRequired, formIncomplete, "#fullname");
+  if (!email.length) return showError(emailRequired, formIncomplete, "#email");
+
+  const endpoint = `${getHost(true)}/fp/register`;
   fetch(endpoint, {
     mode: "cors",
     method: "POST",
@@ -57,6 +57,7 @@ function attachListeners() {
 }
 
 function init() {
+  configureModal();
   showPhrases();
   attachListeners();
 }
