@@ -128,6 +128,81 @@
 		<translated></translated>
 	</phrase>
 
+	<phrase id="20">
+		<original>
+			Invalid E-mail
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="21">
+		<original>
+			Please check your e-mail address for accuracy and proper formatting.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="22">
+		<original>
+			Username Already in Use
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="23">
+		<original>
+			Sorry, but another user is already using that username.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="24">
+		<original>
+			E-mail Already in Use
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="25">
+		<original>
+			Sorry, but another user is already using that e-mail address.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="26">
+		<original>
+			Invalid Password
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="27">
+		<original>
+			<p>
+				Please revise your password.  For your protection, we require that it must have a minimum level of unpredictability in order to prevent potential hackers from guessing it.
+			</p>
+			<p>
+				A minimum length of 8 characters is required.  Using a phrase (rather than a single word) is encouraged, because phrases are less predictable.
+			</p>
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="28">
+		<original>
+			Database is Down
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="29">
+		<original>
+			There was a glitch preventing your registration from being processed.  Please wait a moment then try again.
+		</original>
+		<translated></translated>
+	</phrase>
+
 	<!--
 	<phrase id="" desc="">
 		<original>
