@@ -139,7 +139,7 @@ function focusOnField(selector) {
   M.updateTextFields();
 }
 
-function configureModal(fieldSelector) {
+function focusOnFormField(fieldSelector) {
   const modalElems = document.querySelectorAll("#modal1");
   const modalOptions = {
     onCloseEnd: () => {
@@ -160,7 +160,7 @@ function showError(textId, headlineId, fieldSelector) {
   p.setAttribute(`data-p${textId}`, "");
   phrase(headlineId);
   phrase(textId);
-  configureModal(fieldSelector);
+  if (fieldSelector) focusOnFormField(fieldSelector);
   $("#modal1").modal("open");
 }
 
