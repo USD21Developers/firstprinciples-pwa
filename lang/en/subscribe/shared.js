@@ -33,7 +33,7 @@ function toggleSpinner() {
   spinner?.classList.toggle("hide");
 }
 
-function phrase(id) {
+function phrase(id, inject = true) {
   const entries = Object.entries(retrievedContent);
   const item = entries.find(item => item[1].id == `${id}`)[1];
   const original = item.querySelector("original").innerHTML.trim();
@@ -66,9 +66,13 @@ function phrase(id) {
     translated = translated.replace(changeTranslated, change);
   });
 
-  document.querySelectorAll(`[data-p${id}]`).forEach(item => {
-    item.innerHTML = translated;
-  });
+  if (inject) {
+    document.querySelectorAll(`[data-p${id}]`).forEach(item => {
+      item.innerHTML = translated;
+    });
+  }
+  
+  return translated;
 }
 
 async function showPhrases() {
