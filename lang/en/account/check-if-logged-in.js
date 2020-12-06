@@ -16,7 +16,7 @@
 
   if (!refreshToken.length) {
     const lang = getLang();
-    const redirectUrl = `/lang/${lang}/subscribe/logout/`;
+    const redirectUrl = `/lang/${lang}/account/logout/`;
     return window.location.href = redirectUrl;
   }
 

@@ -11,7 +11,7 @@ module.exports = {
     '**/webfonts/*.eot', 
     '**/webfonts/*.svg', 
     '**/webfonts/*.ttf',
-    '**/subscribe/*'
+    '**/account/**'
   ],
   "swDest": "sw.js"
 };
