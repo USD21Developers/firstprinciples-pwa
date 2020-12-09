@@ -25,7 +25,7 @@ async function onSubmit(e) {
   const passwordNotComplexEnoughLine1 = 27;
   const databaseIsDownHeadline = 28;
   const databaseIsDown = 29;
-  const emailSender = phrase(30, false);
+  const emailSenderText = phrase(30, false);
   const emailSubject = phrase(31, false);
   const emailParagraph1 = phrase(32, false).replace("${fullname}", fullname);
   const emailLinkText = phrase(33, false);
@@ -53,7 +53,7 @@ async function onSubmit(e) {
       fullname: fullname,
       email: email,
       lang: getLang(),
-      emailSender: emailSender,
+      emailSenderText: emailSenderText,
       emailSubject: emailSubject,
       emailParagraph1: emailParagraph1,
       emailLinkText: emailLinkText,
