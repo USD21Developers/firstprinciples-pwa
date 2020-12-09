@@ -12,7 +12,9 @@
     "test:es": "jest lang/es/_tests -b",
     "test:fr": "jest lang/fr/_tests -b",
     "test:pt": "jest lang/pt/_tests -b",
-    "test:zh": "jest lang/zh/_tests -b"
+    "test:zh": "jest lang/zh/_tests -b",
+    "staging:ssh": "ssh stagingfp@staging.firstprinciples.mobi -p 1773 -i ../../../.ssh/usd21/id_rsa",
+    "prod:ssh": "ssh jmcneill@firstprinciples.mobi -p 1773 -i ../../../.ssh/usd21/id_rsa"
   },
   "devDependencies": {
     "jest": "^25.1.0",
