@@ -238,30 +238,57 @@
     <translated></translated>
   </phrase>
 
-	<!--
-	<phrase id="" desc="">
+	<phrase id="35">
 		<original>
-			
+			Check your e-mail
 		</original>
-		<translated>
-			
-		</translated>
+		<translated></translated>
 	</phrase>
 
-	<phrase id="" desc="">
+	<phrase id="36">
+		<original>
+			Please check your e-mail.  We have sent you an e-mail containing a special link. In order to confirm your registration, you must click on that link.
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				Please check your e-mail.
+			</original>
+			<translated></translated>
+		</change>
+		<change bold="false" italic="true" href="">
+			<original>
+				you must click on that link.
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	<phrase id="37">
+		<original>
+			If you do not see our e-mail in your inbox, check your spam folder.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
 		<original>
 			
 		</original>
-		<translated>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
 			
-		</translated>
+		</original>
+		<translated></translated>
 		<change bold="true" italic="false" href="">
 			<original>
 				
 			</original>
-			<translated>
-
-			</translated>
+			<translated></translated>
 		</change>
 	</phrase>
 
