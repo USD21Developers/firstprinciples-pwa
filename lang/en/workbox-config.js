@@ -1,17 +1,18 @@
 module.exports = {
-  "skipWaiting": true,
-  "clientsClaim": true,
-  "globDirectory": ".",
-  "globPatterns": [
+  skipWaiting: true,
+  clientsClaim: true,
+  globDirectory: ".",
+  globPatterns: [
     "**/*.{css,js,ico,txt,woff,woff2,png,svg,xml,html,json,pdf}"
   ],
-  "globIgnores": [
+  globIgnores: [
     '**/_tests/*', 
     '**/splashscreens/*', 
     '**/webfonts/*.eot', 
     '**/webfonts/*.svg', 
     '**/webfonts/*.ttf',
-    '**/account/**'
+    '**/account/**',
+    '**/_confirm/**',
   ],
-  "swDest": "sw.js"
+  swDest: "sw.js"
 };
