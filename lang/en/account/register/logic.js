@@ -25,6 +25,8 @@ async function onSubmit(e) {
   const passwordNotComplexEnoughLine1 = 27;
   const databaseIsDownHeadline = 28;
   const databaseIsDown = 29;
+
+  // Set e-mail content
   const emailSenderText = phrase(30, false);
   const emailSubject = phrase(31, false);
   const emailParagraph1 = phrase(32, false).replace("${fullname}", fullname);
@@ -109,7 +111,7 @@ async function onSubmit(e) {
           showError(databaseIsDown, databaseIsDownHeadline);
           break;
         default:
-          onSuccessfullyRegistered(data.data);
+          onEmailSent(data.data);
       }
     })
     .catch(err => {
@@ -117,8 +119,29 @@ async function onSubmit(e) {
     });
 }
 
-function onSuccessfullyRegistered(data) {
-  // TODO:  store refreshToken and accessToken
+function onEmailSent(data) {
+  // Phrase text
+  const headline = phrase(35);
+  const checkYourEmail = phrase(36);
+  const checkYourSpamFolder = phrase(37);
+
+  // Selectors
+  const registerForm = document.querySelector("#registerForm");
+  const emailSent = document.querySelector("#emailSent");
+  const pagehead = document.querySelector(".fp_pagehead");
+
+  // Populate content
+  const content = `
+    <p>${checkYourEmail}</p>
+    <p>${checkYourSpamFolder}</p>
+  `;
+
+  pagehead.innerHTML = headline;
+  emailSent.innerHTML = content;
+
+  registerForm.classList.add("hide");
+  emailSent.classList.remove("hide");
+  pagehead.scrollIntoView();
 }
 
 function prepopulateFullName() {
