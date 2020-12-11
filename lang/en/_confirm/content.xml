@@ -52,7 +52,7 @@
 
   <phrase id="7">
 		<original>
-			Your confirmation link was not recognized.  Please register again.
+			Your confirmation link was not recognized.  Please either check the link for accuracy, or register again.
 		</original>
 		<translated></translated>
     <change bold="true" italic="false" href="../account/register/">
@@ -75,6 +75,26 @@
 			Continue
 		</original>
 		<translated></translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			Database is Down
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			There was a technical glitch which prevented your login from being verified. Please reload the page.
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="javascript:window.location.reload()">
+			<original>
+				reload the page
+			</original>
+			<translated></translated>
+		</change>
 	</phrase>
 
 	<!--
