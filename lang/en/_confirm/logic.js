@@ -9,11 +9,13 @@ function onConfirmed(refreshToken, accessToken) {
   localStorage.setItem("refreshToken", refreshToken);
   sessionStorage.setItem("accessToken", accessToken);
 
+  // TODO:  maybe store JWT tokens in indexedDB because of iOS problems with scope
+
   document.title = headlineConfirmationSuccessful;
   pageHead.innerHTML = headlineConfirmationSuccessful;
   pageContent.innerHTML = `
-    <p class="mt-1 mr-1 center">
-      <img src="../account/_assets/img/icons/animated_checkmark.gif" width="164" height="164" alt="">
+    <p class="mt-1 center">
+      <img src="../account/_assets/img/icons/animated_checkmark.gif" width="164" height="164" alt="" style="margin-left: -30px">
     </p>
 
     <p class="mt-2 center">
