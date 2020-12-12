@@ -23,7 +23,7 @@ async function onSubmit(e) {
   const passwordRequired = 15;
   const firstNameRequired = 16;
   const lastNameRequired = 17;
-  const fullNameRequired = 17;
+  const fullNameRequired = 18;
   const emailRequired = 19;
   const invalidEmailHeadline = 20;
   const invalidEmail = 21;
