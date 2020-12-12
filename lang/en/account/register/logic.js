@@ -1,3 +1,13 @@
+function spinner(activate=true) {
+  if (activate) {
+    document.querySelector(".submitButton").classList.add("hide");
+    document.querySelector(".submitButtonSpinner").classList.remove("hide");
+  } else {
+    document.querySelector(".submitButton").classList.remove("hide");
+    document.querySelector(".submitButtonSpinner").classList.add("hide");
+  }
+}
+
 async function onSubmit(e) {
   e.preventDefault();
   const username = e.target["username"].value.trim();
@@ -43,6 +53,8 @@ async function onSubmit(e) {
   if (!fullname.length) return showError(fullNameRequired, formIncompleteHeadline, "#fullname");
   if (!email.length) return showError(emailRequired, formIncompleteHeadline, "#email");
 
+  spinner(true);
+
   const endpoint = `${getHost()}/fp/register`;
   fetch(endpoint, {
     mode: "cors",
@@ -69,50 +81,64 @@ async function onSubmit(e) {
     .then(data => {
       switch(data.msg) {
         case "username missing":
+          spinner(false);
           showError(usernameRequired, formIncompleteHeadline, "#username")
           break;
         case "password missing":
+          spinner(false);
           showError(passwordRequired, formIncompleteHeadline, "#password");
           break;
         case "last name missing":
+          spinner(false);
           showError(lastNameRequired, formIncompleteHeadline, "#lastname");
           break;
         case "full name missing":
+          spinner(false);
           showError(fullNameRequired, formIncompleteHeadline, "#fullname");
           break;
         case "e-mail missing":
+          spinner(false);
           showError(emailRequired, formIncompleteHeadline, "#email");
           break;
         case "invalid e-mail":
+          spinner(false);
           showError(invalidEmail, invalidEmailHeadline, "#email");
           break;
         case "unable to query for duplicate username":
+          spinner(false);
           showError(databaseIsDown, databaseIsDownHeadline);
           break;
         case "username already exists":
+          spinner(false);
           showError(usernameTaken, usernameTakenHeadline, "#username");
           break;
         case "unable to query for duplicate e-mail address":
+          spinner(false);
           showError(databaseIsDown, databaseIsDownHeadline);
           break;
         case "e-mail already exists":
+          spinner(false);
           showError(emailTaken, emailTakenHeadline, "#email");
           break;
         case "password not complex enough":
+          spinner(false);
           showError(passwordNotComplexEnoughLine1, passwordNotComplexEnoughHeadline, "#password");
           break;
         case "unable to generate password salt":
+          spinner(false);
           showError(databaseIsDown, databaseIsDownHeadline);
           break;
         case "unable to generate password hash":
+          spinner(false);
           showError(databaseIsDown, databaseIsDownHeadline);
           break;      
         case "unable to insert new record":
+          spinner(false);
           showError(databaseIsDown, databaseIsDownHeadline);
           break;
-        default:
+        case "registration confirmed":
           onEmailSent(data.data);
-      }
+        }
     })
     .catch(err => {
       console.error(err);
