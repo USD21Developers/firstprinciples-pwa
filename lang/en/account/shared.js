@@ -86,7 +86,7 @@ async function showPhrases() {
   phrases.forEach(item => {
     const id = item.getAttribute("id");
     const original = item.querySelector("original").innerHTML.trim();
-    let translated = item.querySelector("translated").innerHTML;
+    let translated = item.querySelector("translated").innerHTML.trim();
     translated = (!translated.length) ? original : translated.trim();
 
     item.querySelectorAll("change").forEach(changeItem => {
