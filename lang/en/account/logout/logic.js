@@ -4,7 +4,7 @@ function deleteTokens() {
 }
 
 function redirect() {
-  window.location.href = "../";
+  window.location.href = "../login/";
 }
 
 function init() {
