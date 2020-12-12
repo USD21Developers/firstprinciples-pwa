@@ -136,7 +136,7 @@ async function onSubmit(e) {
           spinner(false);
           showError(databaseIsDown, databaseIsDownHeadline);
           break;
-        case "registration confirmed":
+        default:
           onEmailSent(data.data);
         }
     })
