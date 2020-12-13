@@ -66,4 +66,4 @@ function verifyRefreshToken() {
   if (!isAuthorized) window.location.href = logoutUrl;
 }
 
-verifyRefreshToken(logoutUrl);
+verifyRefreshToken();
