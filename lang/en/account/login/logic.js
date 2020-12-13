@@ -21,12 +21,14 @@ function onSubmit(e) {
   if (username === "")
     return showError(
       inputUsername,
-      headlineUnableToSignIn
+      headlineUnableToSignIn,
+      "#username"
     );
   if (password === "")
     return showError(
       inputPassword,
-      headlineUnableToSignIn
+      headlineUnableToSignIn,
+      "#password"
     );
 
 
