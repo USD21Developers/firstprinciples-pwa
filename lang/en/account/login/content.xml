@@ -73,6 +73,78 @@
 		</change>
 	</phrase>
 
+	<phrase id="8" desc="">
+		<original>
+			Please input your username.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			Please input your password.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			The system is unable to verify your login at this time.  Please try again later.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			System is down
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="12" desc="">
+		<original>
+			It appears that you either haven't completed registration, or your registration status was changed.  If you recently registered, you should have received an e-mail with a special link that you must click on in order to complete your registration.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="13" desc="">
+		<original>
+			Not Registered
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="14" desc="">
+		<original>
+			Please check your username and/or password for accuracy, then try again.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="15" desc="">
+		<original>
+			Unable to Sign In
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
 	<!--
 	<phrase id="" desc="">
 		<original>
