@@ -116,9 +116,9 @@ function attachListeners() {
   document.querySelector("#login").addEventListener("submit", onSubmit);
 }
 
-function init() {
+async function init() {
   supportsPromises();
-  showPhrases();
+  await showPhrases();
   hideSpinner(loginForm, spinnerDefault);
   attachListeners();
 }

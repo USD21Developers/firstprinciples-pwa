@@ -130,7 +130,11 @@ async function showPhrases() {
     document.querySelectorAll(`[data-p${id}]`).forEach(item => {
       item.innerHTML = translated;
     });
-  })
+  });
+
+  return new Promise((resolve, reject) => {
+    resolve();
+  });
 }
 
 function getLang() {
