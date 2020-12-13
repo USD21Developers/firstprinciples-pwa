@@ -179,7 +179,7 @@ function prepopulateFullName() {
   const fullname = fullnameEl.value.trim();
 
   if (!fullname.length) {
-    if (firstname.length || lastname.length) {
+    if (firstname.length && lastname.length) {
       const fullnamePrePopulated = `${firstname} ${lastname}`.trim();
       fullnameEl.value = fullnamePrePopulated;
     }
