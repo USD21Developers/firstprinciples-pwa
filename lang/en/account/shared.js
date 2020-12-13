@@ -1,5 +1,17 @@
 var retrievedContent = "";
 
+function showSpinner(elementToToggle, spinnerElement) {
+  elementToToggle.classList.add("hide");
+  spinnerElement.classList.remove("hide");
+  // console.log("spinner activated", elementToToggle);
+}
+
+function hideSpinner(elementToToggle, spinnerElement) {
+  elementToToggle.classList.remove("hide");
+  spinnerElement.classList.add("hide");
+  // console.log("spinner deactivated", elementToToggle);
+}
+
 function supportsPromises() {
   let supportsPromises = false;
 
@@ -35,9 +47,9 @@ function toggleSpinner() {
 
 function phrase(id, inject = true) {
   const entries = Object.entries(retrievedContent);
-  const item = entries.find(item => item[1].id == `${id}`)[1];
+  let item = entries.find(item => item[1].id == `${id}`)[1];
   const original = item.querySelector("original").innerHTML.trim();
-  let translated = item.querySelector("translated").innerHTML;
+  let translated = item.querySelector("translated").innerHTML.trim();
   translated = (!translated.length) ? original : translated.trim();
 
   item.querySelectorAll("change").forEach(changeItem => {
