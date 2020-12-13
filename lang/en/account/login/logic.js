@@ -31,10 +31,10 @@ function onSubmit(e) {
       "#password"
     );
 
-
+  const endpoint = `${getHost()}/fp/login`;
 
   showSpinner(submitButton, submitButtonProgress);
-  fetch("../login", {
+  fetch(endpoint, {
     mode: "cors",
     method: "POST",
     body: JSON.stringify({
