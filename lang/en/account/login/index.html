@@ -100,7 +100,21 @@
       <div class="fp_pagecontent">
         <br>
 
-          <form id="login">
+          <div id="spinnerDefault" class="center-align my-1">
+            <div class="preloader-wrapper big active">
+              <div class="spinner-layer spinner-blue-only">
+                <div class="circle-clipper left">
+                  <div class="circle"></div>
+                </div><div class="gap-patch">
+                  <div class="circle"></div>
+                </div><div class="circle-clipper right">
+                  <div class="circle"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <form id="login" class="hide">
 
             <div class="row">
               <div class="input-field col s12 m4 offset-m4">
@@ -116,7 +130,15 @@
               </div>
             </div>
 
-            <div class="row">
+            <div id="submitButtonProgress" class="row hide">
+              <div class="col s12 m4 offset-m4 center">
+                <div class="progress">
+                  <div class="indeterminate"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="row" id="submitButton">
               <div class="col s12 m4 offset-m4 center">
                 <button type="submit" class="waves-effect waves-light btn" data-p5></button>
               </div>
@@ -127,11 +149,7 @@
             <div class="row">
               <div class="col s12 m4 offset-m4 center">
                 <p><a href="../pw-forgot/" data-p6></a></p>
-                <p>
-                  <span data-p7></span> 
-                  &nbsp; 
-                  <a href="../register/" data-p8></a>
-                </p>
+                <p data-p7></p>
               </div>
             </div>
 
@@ -139,6 +157,17 @@
       </div>
     </div>
 
+    <!-- Modal -->
+    <div id="modal1" class="modal bottom-sheet">
+      <div class="closeButton">
+        <a href="#" class="modal-close"><img src="../../_assets/img/icons/x-circle.svg" width="24" height="24"></a>
+      </div>
+      <div class="modal-content center">
+        <h5 class="mt-0"></h5>
+        <p></p>
+      </div>
+    </div>
+    
     <footer class="page-footer blue darken-3 hide"></footer>
 
     <!--  Scripts -->
