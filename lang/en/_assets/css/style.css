@@ -406,6 +406,15 @@ body,
   margin-right: 1em;
 }
 
+#modal1 a {
+  text-decoration: underline;
+}
+
+#modal1 h5 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 
 /* FORM FIELDS */
 
