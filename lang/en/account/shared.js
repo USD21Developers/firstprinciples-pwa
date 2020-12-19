@@ -173,7 +173,7 @@ function focusOnFormField(fieldSelector) {
   M.Modal.init(modalElems, modalOptions);
 }
 
-function showError(textId, headlineId, fieldSelector) {
+function showError(textId, headlineId, fieldSelector, options) {
   const h5 = document.querySelector("#modal1 h5");
   const p = document.querySelector("#modal1 p");
   h5.setAttribute(`data-p${headlineId}`, "");
@@ -181,6 +181,10 @@ function showError(textId, headlineId, fieldSelector) {
   phrase(headlineId);
   phrase(textId);
   if (fieldSelector) focusOnFormField(fieldSelector);
+  if (options) {
+    const modal1 = document.querySelectorAll("#modal1");
+    M.Modal.init(modal1, options);
+  }
   $("#modal1").modal("open");
 }
 
