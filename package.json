@@ -15,7 +15,7 @@
     "test:zh": "jest lang/zh/_tests -b",
     "ssh:staging": "ssh stagingfp@staging.firstprinciples.mobi -p 1773 -i ../../../.ssh/usd21/id_rsa",
     "ssh:prod": "ssh jmcneill@firstprinciples.mobi -p 1773 -i ../../../.ssh/usd21/id_rsa",
-    "deploy:staging": "ssh stagingfp@staging.firstprinciples.mobi -p 1773 -i ../../../.ssh/usd21/id_rsa ./pull.sh",
+    "deploy:staging": "ssh stagingfp@staging.firstprinciples.mobi -p 1773 -i ../../../.ssh/usd21/id_rsa ./pull.sh"
   },
   "devDependencies": {
     "jest": "^25.1.0",
