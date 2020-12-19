@@ -3,8 +3,13 @@ function onSubmit(e) {
   const endpoint = `${getHost()}/fp/reset-password`;
   const token = window.location.hash.substring(1, window.location.hash.length).trim() || "";
   const newPassword = document.querySelector("#password").value.trim();
+  const submitButton = document.querySelector("#submit");
+  const spinner = document.querySelector("#spinner");
+  const main = document.querySelector("#main");
 
   if (!newPassword.length) return showError(13, 12, "#password");
+
+  showSpinner(submitButton, spinner);
 
   fetch(endpoint, {
     mode: "cors",
@@ -21,6 +26,7 @@ function onSubmit(e) {
     .then(data => {
       switch(data.msg) {
         case "token not found":
+          main.classList.add("hide");
           showError(11, 9, null, {
             onCloseEnd: () => {
               window.location.href = "../account/pw-forgot/";
@@ -28,6 +34,7 @@ function onSubmit(e) {
           });
           break;
         case "token is expired":
+          main.classList.add("hide");
           showError(10, 9, null, {
             onCloseEnd: () => {
               window.location.href = "../account/pw-forgot/";
@@ -35,12 +42,21 @@ function onSubmit(e) {
           });
           break;
         case "password is missing":
-          showError(13, 12, "#password");
+          showError(13, 12, "#password", null, {
+            onCloseEnd: () => {
+              hideSpinner(submitButton, spinner);
+            }
+          });
           break;
         case "new password lacks sufficient complexity":
-          showError(15, 9, "#password");
+          showError(15, 9, "#password", null, {
+            onCloseEnd: () => {
+              hideSpinner(submitButton, spinner);
+            }
+          });
           break;
         case "password updated":
+          main.classList.add("hide");
           showError(7, 6, null, {
             onCloseEnd: () => {
               window.location.href = "../account/login/";
@@ -48,7 +64,11 @@ function onSubmit(e) {
           });
           break;
         default:
-          showError(16, 9);
+          showError(16, 9, null, {
+            onCloseEnd: () => {
+              hideSpinner(submitButton, spinner);
+            }
+          });
           break;
       }
     })
@@ -57,13 +77,21 @@ function onSubmit(e) {
     })
 }
 
+function toggleSpinner() {
+  const spinner = document.querySelector("#spinnerDefault");
+  const main = document.querySelector("#main");
+
+  hideSpinner(main, spinner);
+}
+
 function attachEventListeners() {
   document.querySelector("#formResetPassword").addEventListener("submit", onSubmit);
 }
 
-function init() {
+async function init() {
   attachEventListeners();
-  showPhrases();
+  await showPhrases();
+  toggleSpinner();
 }
 
 init();
