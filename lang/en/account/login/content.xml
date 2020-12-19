@@ -58,17 +58,17 @@
 
 	<phrase id="7">
 		<original>
-			No Account? Sign Up
+			No Account? Register
 		</original>
 		<translated>
 			
 		</translated>
 		<change href="../register/">
 			<original>
-				Sign Up
+				Register
 			</original>
 			<translated>
-				Sign Up
+				Register
 			</translated>
 		</change>
 	</phrase>
