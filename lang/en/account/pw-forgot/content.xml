@@ -81,7 +81,7 @@
 
 	<phrase id="12">
 		<original>
-			This message is for ${fullname}. We just received your request to reset your password.  To do so, please click on the following link within 20 minutes of your request:
+			This message is for ${fullname}. We just received your request to reset your password.  To do so, please click on the link below within 20 minutes of your request.
 		</original>
 		<translated></translated>
 	</phrase>
@@ -150,6 +150,13 @@
 	<phrase id="20">
 		<original>
 			There was a technical glitch preventing us from processing your request.  Please make sure that you are connected to the internet, then try again.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="21">
+		<original>
+			Your username is: ${username}
 		</original>
 		<translated></translated>
 	</phrase>

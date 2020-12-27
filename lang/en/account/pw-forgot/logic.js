@@ -27,6 +27,7 @@ function onSubmit(e) {
   const emailParagraph1 = phrase(12, false);
   const emailParagraph2 = phrase(13, false);
   const emailParagraph3 = phrase(14, false);
+  const emailParagraph4 = phrase(21, false);
 
   if (email.length === 0) {
     return showError(inputEmail, headlineFormIncomplete, "#email");
@@ -44,6 +45,7 @@ function onSubmit(e) {
       emailParagraph1: emailParagraph1,
       emailParagraph2: emailParagraph2,
       emailParagraph3: emailParagraph3,
+      emailParagraph4: emailParagraph4
     }),
     headers: new Headers({
       "Content-Type": "application/json",
