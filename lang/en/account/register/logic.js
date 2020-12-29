@@ -16,6 +16,7 @@ async function onSubmit(e) {
   const lastname = e.target["lastname"].value.trim();
   const fullname = e.target["fullname"].value.trim();
   const email = e.target["email"].value.trim();
+  const country = e.target["country"].value.trim();
 
   // Set phrase IDs
   const formIncompleteHeadline = 13;
@@ -35,6 +36,7 @@ async function onSubmit(e) {
   const passwordNotComplexEnoughLine1 = 27;
   const databaseIsDownHeadline = 28;
   const databaseIsDown = 29;
+  const selectCountry = 40;
 
   // Set e-mail content
   const emailSenderText = phrase(30, false);
@@ -52,6 +54,7 @@ async function onSubmit(e) {
   if (!lastname.length) return showError(lastNameRequired, formIncompleteHeadline, "#lastname");
   if (!fullname.length) return showError(fullNameRequired, formIncompleteHeadline, "#fullname");
   if (!email.length) return showError(emailRequired, formIncompleteHeadline, "#email");
+  if (!country.length) return showError(selectCountry, formIncompleteHeadline, "#country");
 
   spinner(true);
 
@@ -71,7 +74,8 @@ async function onSubmit(e) {
       emailSubject: emailSubject,
       emailParagraph1: emailParagraph1,
       emailLinkText: emailLinkText,
-      emailSignature: emailSignature
+      emailSignature: emailSignature,
+      country: country,
     }),
     headers: new Headers({
       "Content-Type": "application/json"
@@ -104,6 +108,9 @@ async function onSubmit(e) {
           spinner(false);
           showError(invalidEmail, invalidEmailHeadline, "#email");
           break;
+        case "country missing":
+          spinner(false);
+          showError(selectCountry, formIncompleteHeadline, "#country");
         case "unable to query for duplicate username":
           spinner(false);
           showError(databaseIsDown, databaseIsDownHeadline);
@@ -186,13 +193,35 @@ function prepopulateFullName() {
   }
 }
 
+function loadCountries() {
+  const countryEl = document.querySelector("#country");
+  const defaultOptionText = phrase(39, false);
+  const file = "../_assets/json/countries.json";
+
+  fetch(file)
+    .then(res => res.json())
+    .then(data => {
+      let options = `<option value="">${defaultOptionText}</option>`;
+      data.forEach(item => {
+        const { name, alpha2 } = item;
+        options +=  `<option value="${alpha2}">${name}</option>`;
+      });
+      countryEl.innerHTML = options;
+      M.FormSelect.init(countryEl);
+    })
+    .catch(err => {
+      console.error(err);
+    });
+}
+
 function attachListeners() {
   document.querySelector("#registerForm").addEventListener("submit", onSubmit);
   document.querySelector("#fullname").addEventListener("focus", prepopulateFullName);
 }
 
-function init() {
-  showPhrases();
+async function init() {
+  await showPhrases();
+  loadCountries();
   attachListeners();
 }
 
