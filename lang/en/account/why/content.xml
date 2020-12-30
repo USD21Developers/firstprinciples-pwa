@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="why" lang-original="en" lang-translated="" last-updated="2020-12-30" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2020-12-30" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated>
+			
+		</translated>
+  </phrase>
+
+	<phrase id="2" desc="page title">
+		<original>
+			Why Register?
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Since its creation in 2012, the First Principles app has become a valuable asset for teaching the core principles of the faith.  Whenever God's commands are accurately taught and obeyed, hearts are healed and the light of truth shines brighter.  This app is intended to thoroughly equip every disciple of Jesus Christ in that mission.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Ask yourself, "What is the First Principles app worth to me?  How much more could it be worth to others?"
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			It may already be obvious how useful this app can be: the scriptures instantly accessible, the audio instruction readily available.  Its use as a tool in disciple-making has been apparent for years.  What if you could extend its use into communities that are even beyond your reach?  What if your financial support could ensure that the app is making a difference, even while you yourself are resting?
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			As of January 1, 2021, the First Principles app will be transitioning to a paid subscription to help fund the McKean Scholarship Fund of MERCYworldwide. Your annual subscription will exclusively be used to support educational opportunities for children in third-world countries.
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="https://mercyworldwide.org/the-mckean-scholarship-fund/">
+			<original>
+				McKean Scholarship Fund
+			</original>
+			<translated>
+				
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			Jeremiah 29:7 (NIV):
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="https://www.biblegateway.com/passage/?search=jeremiah+29&amp;version=NIV">
+			<original>
+				Jeremiah 29:7
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			"Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the LORD for it, because if it prospers, you too will prosper."
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="true">
+			<original>
+				seek the peace and prosperity of the city to which I have carried you into exile.
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="9" desc="">
+		<original>
+			So do you think that all of this is worth your financial support? If so, then please register and subscribe!
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="10" desc="">
+		<original>
+			Register
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="11" desc="">
+		<original>
+			Back
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>
