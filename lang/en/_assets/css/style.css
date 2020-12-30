@@ -468,4 +468,5 @@ form .btn,
 .btn-account {
   color: white !important;
   background-color: #c57e3f !important;
+  text-decoration: none !important;
 }
