@@ -107,8 +107,8 @@ async function showPhrases() {
       const isLink = ( changeItem.hasAttribute("href") && changeItem.getAttribute("href").length) ? true : false;
       
       const changeOriginal = changeItem.querySelector("original").innerHTML.trim();
-      let changeTranslated = changeItem.querySelector("translated").innerHTML;
-      changeTranslated = (!changeTranslated.length) ? changeOriginal : changeTranslated.trim();
+      let changeTranslated = changeItem.querySelector("translated").innerHTML.trim();
+      changeTranslated = (!changeTranslated.length) ? changeOriginal : changeTranslated;
 
       let change = changeTranslated;
       
