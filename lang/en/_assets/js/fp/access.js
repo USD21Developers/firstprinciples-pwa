@@ -67,8 +67,9 @@ function enforceSubscription() {
   const refreshToken = JSON.parse(atob(localStorage.getItem("refreshToken").split(".")[1]));
   const now = Date.now().valueOf() / 1000;
   const expiry = refreshToken.fpexp || now;
+  const subscriptionExpired = (expiry <= now);
 
-  if (expiry < now) {
+  if (subscriptionExpired) {
     return window.location.href = `/lang/${getLangFromPath()}/account/`;
   };
 }
