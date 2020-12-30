@@ -20,7 +20,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="3" desc="">
+	<phrase id="3">
 		<original>
 			Select Language
 		</original>
@@ -29,7 +29,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="4" desc="">
+	<phrase id="4">
 		<original>
 			Share
 		</original>
@@ -38,7 +38,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="5" desc="">
+	<phrase id="5">
 		<original>
 			An internet connection is required in order to listen to this audio. Please connect to the internet, then try again.
 		</original>
@@ -47,7 +47,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="6" desc="">
+	<phrase id="6">
 		<original>
 			An internet connection is required in order to watch this video. Please connect to the internet, then try again.
 		</original>
@@ -56,7 +56,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="7" desc="">
+	<phrase id="7">
 		<original>
 			A Bible study from the International Christian Churches
 		</original>
@@ -65,7 +65,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="8" desc="">
+	<phrase id="8">
 		<original>
 			A Bible study series from the International Christian Churches
 		</original>
@@ -75,7 +75,7 @@
 	</phrase>
 
 	<!--
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>
@@ -86,7 +86,7 @@
 
 
 
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>

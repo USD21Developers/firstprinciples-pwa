@@ -73,7 +73,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="8" desc="">
+	<phrase id="8">
 		<original>
 			Please input your username.
 		</original>
@@ -82,7 +82,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="9" desc="">
+	<phrase id="9">
 		<original>
 			Please input your password.
 		</original>
@@ -91,7 +91,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="10" desc="">
+	<phrase id="10">
 		<original>
 			The system is unable to verify your login at this time.  Please try again later.
 		</original>
@@ -100,7 +100,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="11" desc="">
+	<phrase id="11">
 		<original>
 			System is down
 		</original>
@@ -109,7 +109,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="12" desc="">
+	<phrase id="12">
 		<original>
 			It appears that you either haven't completed registration, or your registration status was changed.  If you recently registered, you should have received an e-mail with a special link that you must click on in order to complete your registration.
 		</original>
@@ -118,7 +118,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="13" desc="">
+	<phrase id="13">
 		<original>
 			Not Registered
 		</original>
@@ -127,7 +127,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="14" desc="">
+	<phrase id="14">
 		<original>
 			Please check your username and/or password for accuracy, then try again.
 		</original>
@@ -136,7 +136,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="15" desc="">
+	<phrase id="15">
 		<original>
 			Unable to Sign In
 		</original>
@@ -146,7 +146,7 @@
 	</phrase>
 
 	<!--
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>
@@ -155,7 +155,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>

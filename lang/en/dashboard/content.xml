@@ -11,7 +11,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="2" desc="">
+	<phrase id="2">
 		<original>
 			Introduction
 		</original>
@@ -20,7 +20,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="3" desc="">
+	<phrase id="3">
 		<original>
 			Course Information
 		</original>
@@ -29,7 +29,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="4" desc="">
+	<phrase id="4">
 		<original>
 			Introduction to the Course
 		</original>
@@ -38,7 +38,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="5" desc="">
+	<phrase id="5">
 		<original>
 			The Book of John
 		</original>
@@ -47,7 +47,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="6" desc="">
+	<phrase id="6">
 		<original>
 			Seeking God
 		</original>
@@ -56,7 +56,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="7" desc="">
+	<phrase id="7">
 		<original>
 			The Word of God
 		</original>
@@ -65,7 +65,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="8" desc="">
+	<phrase id="8">
 		<original>
 			Discipleship
 		</original>
@@ -74,7 +74,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="9" desc="">
+	<phrase id="9">
 		<original>
 			The Coming of the Kingdom
 		</original>
@@ -83,7 +83,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="10" desc="">
+	<phrase id="10">
 		<original>
 			Light and Darkness
 		</original>
@@ -92,7 +92,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="11" desc="">
+	<phrase id="11">
 		<original>
 			New Testament Conversion
 		</original>
@@ -101,7 +101,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="12" desc="">
+	<phrase id="12">
 		<original>
 			The Cross
 		</original>
@@ -110,7 +110,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="13" desc="">
+	<phrase id="13">
 		<original>
 			The Medical Account of the Crucifixion of Christ
 		</original>
@@ -119,7 +119,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="14" desc="">
+	<phrase id="14">
 		<original>
 			Baptism with the Holy Spirit
 		</original>
@@ -128,7 +128,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="15" desc="">
+	<phrase id="15">
 		<original>
 			Miraculous Gifts of the Holy Spirit
 		</original>
@@ -137,7 +137,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="16" desc="">
+	<phrase id="16">
 		<original>
 			The Church
 		</original>
@@ -146,7 +146,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="17" desc="">
+	<phrase id="17">
 		<original>
 			The Book of Acts
 		</original>
@@ -155,7 +155,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="18" desc="">
+	<phrase id="18">
 		<original>
 			After Baptism, Now What?
 		</original>
@@ -164,7 +164,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="19" desc="">
+	<phrase id="19">
 		<original>
 			Christ Is Your Life
 		</original>
@@ -173,7 +173,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="20" desc="">
+	<phrase id="20">
 		<original>
 			Best Friends of All Time
 		</original>
@@ -182,7 +182,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="21" desc="">
+	<phrase id="21">
 		<original>
 			The Mission
 		</original>
@@ -191,7 +191,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="22" desc="">
+	<phrase id="22">
 		<original>
 			Persecution
 		</original>
@@ -200,7 +200,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="23" desc="">
+	<phrase id="23">
 		<original>
 			Memory Scriptures
 		</original>
@@ -210,7 +210,7 @@
 	</phrase>
 
 	<!--
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>
@@ -221,7 +221,7 @@
 
 
 
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>
