@@ -105,6 +105,7 @@ async function showPhrases() {
       const isBold = ( changeItem.hasAttribute("bold") && changeItem.getAttribute("bold") === "true") ? true : false;
       const isItalic = ( changeItem.hasAttribute("italic") && changeItem.getAttribute("italic") === "true") ? true : false;
       const isLink = ( changeItem.hasAttribute("href") && changeItem.getAttribute("href").length) ? true : false;
+      const isJesusWords = ( changeItem.hasAttribute("jesuswords") && changeItem.getAttribute("jesuswords") === "true") ? true : false;
       
       const changeOriginal = changeItem.querySelector("original").innerHTML.trim();
       let changeTranslated = changeItem.querySelector("translated").innerHTML.trim();
@@ -114,6 +115,7 @@ async function showPhrases() {
       
       if (isBold) change = `<strong>${change}</strong>`;
       if (isItalic) change = `<em>${change}</em>`;
+      if (isJesusWords) change = `<span class="jesuswords">${change}</span>`;
       if (isLink) {
         const link = changeItem.getAttribute("href");
         const isExternalLink = (link.indexOf("http://") >= 0 || link.indexOf("https://") >= 0) || false;
