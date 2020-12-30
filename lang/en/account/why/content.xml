@@ -20,7 +20,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="3" desc="">
+	<phrase id="3">
 		<original>
 			Since its creation in 2012, the First Principles app has become a valuable asset for teaching the core principles of the faith.  Whenever God's commands are accurately taught and obeyed, hearts are healed and the light of truth shines brighter.  This app is intended to thoroughly equip every disciple of Jesus Christ in that mission.
 		</original>
@@ -29,7 +29,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="4" desc="">
+	<phrase id="4">
 		<original>
 			Ask yourself, "What is the First Principles app worth to me?  How much more could it be worth to others?"
 		</original>
@@ -38,7 +38,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="5" desc="">
+	<phrase id="5">
 		<original>
 			It may already be obvious how helpful this app can be: the scriptures instantly accessible, the audio instruction readily available.  Its usefulness as a tool in making disciples has been shown.  What if you could extend its use into communities that are even beyond your reach?  What if your financial support could ensure that the app is making a difference, even while you yourself are resting?
 		</original>
@@ -47,7 +47,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="6" desc="">
+	<phrase id="6">
 		<original>
 			As of January 1, 2021, the First Principles app will be transitioning to a paid subscription to help fund the McKean Scholarship Fund of MERCYworldwide. Your annual subscription will exclusively be used to support educational opportunities for children in third-world countries.
 		</original>
@@ -64,9 +64,9 @@
 		</change>
 	</phrase>
 
-	<phrase id="7" desc="">
+	<phrase id="7">
 		<original>
-			Jeremiah 29:7 (NIV):
+			Jeremiah 29:7:
 		</original>
 		<translated>
 			
@@ -81,7 +81,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="8" desc="">
+	<phrase id="8">
 		<original>
 			"Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the LORD for it, because if it prospers, you too will prosper."
 		</original>
@@ -98,16 +98,51 @@
 		</change>
 	</phrase>
 
-	<phrase id="9" desc="">
+	
+	<phrase id="9">
 		<original>
-			So, do you consider this to be worth your financial support? If yes, then please register and subscribe!
+			Matthew 5:14-16:
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="https://www.biblegateway.com/passage/?search=Matthew+5%3A14-16&amp;version=NIV">
+			<original>
+				Matthew 5:14-16
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			"You are the light of the world. A town built on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house. In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven."
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="true">
+			<original>
+				let your light shine before others, that they may see your good deeds
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			So, do you consider all this to be worth your financial support? If yes, then please register and subscribe!
 		</original>
 		<translated>
 			
 		</translated>
 	</phrase>
 
-	<phrase id="10" desc="">
+	<phrase id="12">
 		<original>
 			Register
 		</original>
@@ -116,7 +151,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="11" desc="">
+	<phrase id="13">
 		<original>
 			Back
 		</original>
@@ -126,7 +161,7 @@
 	</phrase>
 
 	<!--
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>
@@ -135,7 +170,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>
