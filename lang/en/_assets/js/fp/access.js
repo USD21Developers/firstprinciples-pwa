@@ -12,7 +12,7 @@ function getLangFromPath() {
 
 function enforceLogin() {
   const refreshToken = localStorage.getItem("refreshToken") || "";
-  if (! refreshToken.length) return window.location.href = `/${getLangFromPath()}/account/login/`;
+  if (! refreshToken.length) return window.location.href = `/lang/${getLangFromPath()}/account/login/`;
 }
 
 function getAccessToken() {
@@ -53,7 +53,7 @@ function getAccessToken() {
             resolve(accessToken);
             break;
           default:
-            window.location.href = `/${getLangFromPath()}/account/logout/`;
+            window.location.href = `/lang/${getLangFromPath()}/account/logout/`;
             break;
         }
       })
@@ -69,7 +69,7 @@ function enforceSubscription() {
   const expiry = refreshToken.fpexp || now;
 
   if (expiry < now) {
-    return window.location.href = `/${getLangFromPath()}/account/`;
+    return window.location.href = `/lang/${getLangFromPath()}/account/`;
   };
 }
 
