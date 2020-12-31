@@ -101,11 +101,42 @@
       <div class="fp_pagecontent">
         <br>
         
-        <div class="row">
-          <div class="col s12">
-            <div data-p3></div>
+        <!-- If user is subscribed: -->
+        <div class="row hide" id="subscription-status-subscribed">
+          <div class="col s12 center-align">
+            <h5 class="mt-0">
+              <span data-p3></span> <span class="green-text text-darken-2" data-p4></span>
+            </h5>
+            <p data-expiry-statement></p>
+            <p>
+              <big><em data-p6></em></big>
+            </p>
           </div>
         </div>
+      </div>
+
+      <!-- If user is not subscribed: -->
+      <div class="row hide" id="subscription-status-not-subscribed">
+        <div class="col s12">
+          <h5 class="mt-0" data-p7></h5>
+          <p class="hide" id="just-registered" data-p8></p>
+          <p data-p9></p>
+          <p data-p10></p>
+          <p data-p11></p>
+          <button id="subscribeButton" class="btn btn-account" data-p12></button>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Modal -->
+    <div id="modal1" class="modal bottom-sheet">
+      <div class="closeButton">
+        <a href="#" class="modal-close"><img src="../_assets/img/icons/x-circle.svg" width="24" height="24"></a>
+      </div>
+      <div class="modal-content center">
+        <h5 class="mt-0"></h5>
+        <p></p>
       </div>
     </div>
 
@@ -115,6 +146,8 @@
     <script src="../_assets/js/jquery-2.1.1.min.js"></script>
     <script src="../_assets/js/localforage.min.js"></script>
     <script src="../_assets/js/materialize.min.js"></script>
+    <script src="_assets/js/moment.min.js"></script>
+    <script src="_assets/js/moment-timezone-with-data-10-year-range.min.js"></script>
     <script src="./shared.js"></script>
     <script src="./logic.js"></script>
 

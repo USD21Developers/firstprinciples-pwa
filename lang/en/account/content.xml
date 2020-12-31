@@ -16,11 +16,116 @@
 		<translated></translated>
 	</phrase>
 
-  <phrase id="3">
+	<phrase id="3">
 		<original>
-			Hello World
+			Status:
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			subscribed
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+  <phrase id="5">
+		<original>
+			Your subscription is active until ${expiryDate}, which is in ${daysRemaining} days.
 		</original>
 		<translated></translated>
+	</phrase>
+
+	<phrase id="6">
+		<original>
+			Thank you!
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			Please Subscribe
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			Thank you for registering. We just need one more thing now!
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="false" italic="true" href="">
+			<original>
+				one more thing
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			Starting in 2021, the First Principles app uses a subscription to help fund educational scholarships for children in third-world countries (learn more here).
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="why/">
+			<original>
+				learn more here
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			To make this scholarship possible, we are asking all users of the First Principles app to pay for a subscription once a year, billed through PayPal.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			The cost of this annual subscription is $9.99 USD.
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				$9.99 USD
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			Subscribe now
+		</original>
+		<translated>
+			
+		</translated>
 	</phrase>
 
 	<!--
