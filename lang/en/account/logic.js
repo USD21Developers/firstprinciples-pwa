@@ -78,12 +78,20 @@ async function onSubscribeClicked(e) {
     });
 }
 
+function toggleSpinner() {
+  const content = document.querySelector("main");
+  const spinner = document.querySelector("#spinner");
+
+  hideSpinner(content, spinner);
+}
+
 function attachEventListeners() {
   document.querySelector("#subscribeButton").addEventListener("click", onSubscribeClicked);
 }
 
 async function init() {
   await showPhrases();
+  toggleSpinner();
   ifJustRegistered();
   checkSubscription();
   attachEventListeners();

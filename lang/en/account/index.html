@@ -100,33 +100,53 @@
     <div class="container main">
       <div class="fp_pagecontent">
         <br>
-        
-        <!-- If user is subscribed: -->
-        <div class="row hide" id="subscription-status-subscribed">
-          <div class="col s12 center-align">
-            <h5 class="mt-0">
-              <span data-p3></span> <span class="green-text text-darken-2" data-p4></span>
-            </h5>
-            <p data-expiry-statement></p>
-            <p>
-              <big><em data-p6></em></big>
-            </p>
+
+        <div class="center-align" id="spinner">
+          <div class="preloader-wrapper big active">
+            <div class="spinner-layer spinner-blue-only">
+              <div class="circle-clipper left">
+                <div class="circle"></div>
+              </div>
+              <div class="gap-patch">
+                <div class="circle"></div>
+              </div>
+              <div class="circle-clipper right">
+                <div class="circle"></div>
+              </div>
+            </div>
           </div>
         </div>
-      </div>
 
-      <!-- If user is not subscribed: -->
-      <div class="row hide" id="subscription-status-not-subscribed">
-        <div class="col s12">
-          <h5 class="mt-0" data-p7></h5>
-          <p class="hide" id="just-registered" data-p8></p>
-          <p data-p9></p>
-          <p data-p10></p>
-          <p data-p11></p>
-          <button id="subscribeButton" class="btn btn-account" data-p12></button>
-        </div>
-      </div>
+        <main class="hide">
+        
+          <!-- If user is subscribed: -->
+          <div class="row hide" id="subscription-status-subscribed">
+            <div class="col s12 center-align">
+              <h5 class="mt-0">
+                <span data-p3></span> <span class="green-text text-darken-2" data-p4></span>
+              </h5>
+              <p data-expiry-statement></p>
+              <p>
+                <big><em data-p6></em></big>
+              </p>
+            </div>
+          </div>
 
+          <!-- If user is not subscribed: -->
+          <div class="row hide" id="subscription-status-not-subscribed">
+            <div class="col s12">
+              <h5 class="mt-0" data-p7></h5>
+              <p class="hide" id="just-registered" data-p8></p>
+              <p data-p9></p>
+              <p data-p10></p>
+              <p data-p11></p>
+              <button id="subscribeButton" class="btn btn-account" data-p12></button>
+            </div>
+          </div>
+
+        </main>
+
+      </div>
     </div>
 
     <!-- Modal -->
