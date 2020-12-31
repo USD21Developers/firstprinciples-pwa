@@ -8,6 +8,7 @@ function onConfirmed(refreshToken, accessToken) {
 
   localStorage.setItem("refreshToken", refreshToken);
   sessionStorage.setItem("accessToken", accessToken);
+  sessionStorage.setItem("justRegistered", true);
 
   // TODO:  maybe store JWT tokens in indexedDB because of iOS problems with scope
 
