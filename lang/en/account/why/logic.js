@@ -10,10 +10,27 @@ function toggleGoBackLink() {
   if (history.length) goBackLink.classList.remove("hide");
 }
 
+function toggleRegisterButton() {
+  let isRegistered = false;
+  const refreshTokenStored = localStorage.getItem("refreshToken") || "";
+  const registerButtonEl = document.querySelector("#registerButton");
+  const backButtonEl = document.querySelector("#backButton");
+
+  if (refreshTokenStored.length) isRegistered = true;
+
+  // If user is already registered, hide the Register button and style the Back button.
+  if (isRegistered) {
+    registerButtonEl.classList.add("hide");
+    backButtonEl.classList.add("btn");
+    backButtonEl.classList.add("btn-account");
+  }
+}
+
 async function init() {
   await showPhrases();
   toggleSpinner();
   toggleGoBackLink();
+  toggleRegisterButton();
 }
 
 init();
