@@ -64,17 +64,19 @@ function getAccessToken() {
 }
 
 function enforceSubscription() {
-  const storedToken = localStorage.getItem("subscriptionToken") || "";
-  if (!storedToken.length) {
-    return window.location.href = `/lang/${getLangFromPath()}/account/`;
+  const subscriptionToken = localStorage.getItem("subscriptionToken") || "";
+  const accountPage = `/lang/${getLangFromPath()}/account/`;
+
+  if (!subscriptionToken.length) {
+    return window.location.href = accountPage;
   }
 
-  const subscriptionToken = JSON.parse(atob(storedToken.split(".")[1])) || "";  
+  const jwtPayload = JSON.parse(atob(subscriptionToken.split(".")[1]));  
   const now = Date.now().valueOf() / 1000;
-  const expiry = subscriptionToken.exp || now;
-  const subscriptionExpired = (expiry <= now);
+  const expiry = parseInt(jwtPayload.exp) || 0;
+  const isNotSubscribed = (expiry <= now);
 
-  if (subscriptionExpired) {
-    return window.location.href = `/lang/${getLangFromPath()}/account/`;
+  if (isNotSubscribed) {
+    return window.location.href = accountPage;
   };
 }
