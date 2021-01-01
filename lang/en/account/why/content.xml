@@ -66,7 +66,7 @@
 
 	<phrase id="7">
 		<original>
-			Consider the outcome of obeying the following scriptures:
+			Consider the outcomes of obeying the following scriptures:
 		</original>
 		<translated>
 			
@@ -107,8 +107,41 @@
 		</change>
 	</phrase>
 
-	
 	<phrase id="10">
+		<original>
+			In this scripture God commands the Israelites to seek the good of the cities where they will live in exile. But He also expects the same from modern-day Christians, who are likewise called "exiles" in the New Testament (Hebrews 11:13, 1 Peter 2:11). Therefore, God commands that His people seek the good of their secular community. And while this ultimately benefits all of us, it also inspires non-Christians to praise God:
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="https://www.biblegateway.com/passage/?search=Hebrews+11%3A13&amp;version=NIV">
+			<original>
+				Hebrews 11:13
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+		<change bold="true" italic="false" href="https://www.biblegateway.com/passage/?search=1+Peter+2%3A11&amp;version=NIV">
+			<original>
+				1 Peter 2:11
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+		<change bold="false" italic="true" href="">
+			<original>
+				God commands that His people seek the good of their secular community.
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	
+	<phrase id="11">
 		<original>
 			Matthew 5:14-16:
 		</original>
@@ -125,7 +158,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="11">
+	<phrase id="12">
 		<original>
 			"You are the light of the world. A city on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house. In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven."
 		</original>
@@ -150,16 +183,16 @@
 		</change>
 	</phrase>
 
-	<phrase id="12">
+	<phrase id="13">
 		<original>
-			So, do you consider this app, and this outcome, to be worth your financial support? If yes, then please register and subscribe!
+			So... do you consider this app (and these scripturally-promised outcomes) to be worth your financial support? If yes, then please become a subscriber!
 		</original>
 		<translated>
 			
 		</translated>
 	</phrase>
 
-	<phrase id="13">
+	<phrase id="14">
 		<original>
 			Register
 		</original>
@@ -168,7 +201,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="14">
+	<phrase id="15">
 		<original>
 			Back
 		</original>
