@@ -104,7 +104,7 @@
 
 	<phrase id="11">
 		<original>
-			The cost of this annual subscription is $9.99 USD.
+			The cost of this annual subscription is $9.99 USD. Please subscribe today.
 		</original>
 		<translated>
 			
@@ -122,6 +122,33 @@
 	<phrase id="12">
 		<original>
 			Subscribe now
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="13">
+		<original>
+			First Principles App
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			fp-app-subscription
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			Annual Subscription
 		</original>
 		<translated>
 			
