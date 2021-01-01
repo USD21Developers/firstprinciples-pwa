@@ -80,7 +80,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" href="https://www.biblegateway.com/passage/?search=jeremiah+29&amp;version=NIV">
+		<change bold="true" italic="false" href="https://www.biblegateway.com/passage/?search=jeremiah+29%3A7&amp;version=NIV">
 			<original>
 				Jeremiah 29:7
 			</original>
@@ -190,6 +190,14 @@
 		<translated>
 			
 		</translated>
+		<change bold="false" italic="false" href="../">
+			<original>
+				become a subscriber
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="14">
