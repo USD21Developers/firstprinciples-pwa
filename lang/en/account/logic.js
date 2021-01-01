@@ -60,10 +60,19 @@ async function onSubscribeClicked(e) {
   e.preventDefault();
   const accessToken = await getAccessToken();
   const endpoint = `${getAPIHost()}/fp/begin-subscription`;
+  const productName = phrase(13, false);
+  const productSku = phrase(14, false);
+  const productDescription = phrase(15, false);
 
   fetch(endpoint, {
     mode: "cors",
     method: "POST",
+    body: JSON.stringify({
+      productName: productName,
+      productSku: productSku,
+      productDescription: productDescription,
+      lang: getLang()
+    }),
     headers: new Headers({
       "Content-Type": "application/json",
       authorization: `Bearer ${accessToken}`
