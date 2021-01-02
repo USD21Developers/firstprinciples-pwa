@@ -155,6 +155,24 @@
 		</translated>
 	</phrase>
 
+	<phrase id="16">
+		<original>
+			Unable to Subscribe
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="17">
+		<original>
+			There was a technical glitch which prevented you from being forwarded to Paypal. Please make sure that you are connected to the internet, then try again.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
 	<!--
 	<phrase id="">
 		<original>

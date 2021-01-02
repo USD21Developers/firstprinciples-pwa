@@ -79,6 +79,7 @@ function onSubmit(e) {
         case "user authenticated":
           const refreshToken = data.refreshToken;
           const accessToken = data.accessToken;
+          const subscriptionToken = data.subscriptionToken;
           let passwordmustchange = false;
           try {
             passwordmustchange = JSON.parse(atob(accessToken.split(".")[1]))
@@ -91,10 +92,18 @@ function onSubmit(e) {
           }
           localStorage.setItem("refreshToken", refreshToken);
           sessionStorage.setItem("accessToken", accessToken);
+          localStorage.setItem("subscriptionToken", subscriptionToken);
 
-          window.location.href = passwordmustchange
-            ? "../password-must-change/"
-            : "../";
+          const accountPage = "../";
+          const dashboardPage = `/lang/${getLang()}/`;
+          const passwordMustChangePage = "../password-must-change/";
+          const subscriptionIsActive = isSubscriptionActive();
+          let redirectURL = dashboardPage;
+          
+          if (!subscriptionIsActive) redirectURL = accountPage;
+          if (passwordmustchange) redirectURL = passwordMustChangePage;
+
+          window.location.href = redirectURL;
           break;
         default:
           hideSpinner(submitButton, submitButtonProgress);

@@ -63,6 +63,11 @@ async function onSubscribeClicked(e) {
   const productName = phrase(13, false);
   const productSku = phrase(14, false);
   const productDescription = phrase(15, false);
+  const subscribeButtonEl = document.querySelector("#subscribeButton");
+  const subscribeButtonSpinnerEl = document.querySelector("#subscribeButtonSpinner");
+
+  subscribeButtonEl.setAttribute("disabled", true);
+  subscribeButtonSpinnerEl.classList.remove("hide");
 
   fetch(endpoint, {
     mode: "cors",
@@ -80,10 +85,20 @@ async function onSubscribeClicked(e) {
   })
     .then(res => res.json())
     .then(data => {
-      console.log(data);
+      switch(data.msg) {
+        case "paypal payment created":
+          const { paypalURL } = data;
+          window.location.href = paypalURL;
+          break;
+        default:
+          showError(17, 16);
+      }
+      
     })
     .catch(err => {
       console.error(err);
+      subscribeButtonEl.removeAttribute("disabled", true);
+      subscribeButtonSpinnerEl.classList.add("hide");
     });
 }
 
