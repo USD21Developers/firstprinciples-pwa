@@ -92,7 +92,7 @@ function onSubmit(e) {
           }
           localStorage.setItem("refreshToken", refreshToken);
           sessionStorage.setItem("accessToken", accessToken);
-          localStorage.setItem("subscriptionToken", subscriptionToken);
+          localStorage.setItem("subscriptionToken", subscriptionToken); 
 
           const accountPage = "../";
           const dashboardPage = `/lang/${getLang()}/`;
