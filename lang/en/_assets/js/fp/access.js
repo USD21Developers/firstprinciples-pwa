@@ -68,29 +68,23 @@ function isSubscriptionActive() {
 
   if (!subscriptionToken.length) return false;
 
-  const now = Date.now().valueOf() / 1000;
-  const expiry = parseInt(JSON.parse(atob(subscriptionToken.split(".")[1])).exp) || 0;
+  const now = moment().unix();
+  const expiry = moment.unix(parseInt(JSON.parse(atob(subscriptionToken.split(".")[1])).exp)) || 0;
+  const isSubscribed = (now > expiry) || false;
 
-  if (now > expiry) return false;
+  console.log(`now: ${now}`);
+  console.log(`subscription expiry: ${expiry}`);
+
+  if (!isSubscribed) return false;
 
   return true;
 }
 
 function enforceSubscription() {
-  const subscriptionToken = localStorage.getItem("subscriptionToken") || "";
-  const accountPage = `/lang/${getLangFromPath()}/account/`;
+  const isSubscribed = isSubscriptionActive();
 
-  if (!subscriptionToken.length) {
-    console.error("Missing subscription token", subscriptionToken);
-    return window.location.href = accountPage;
-  }
-
-  const jwtPayload = JSON.parse(atob(subscriptionToken.split(".")[1]));  
-  const now = parseInt(Date.now().valueOf() / 1000);
-  const expiry = parseInt(jwtPayload.exp) || 0;
-  const isNotSubscribed = (expiry <= now);
-
-  if (isNotSubscribed) {
+  if (!isSubscribed) {
+    console.error(`Not subscribed. Redirecting to account page...`);
     return window.location.href = accountPage;
   };
 }
