@@ -17,6 +17,7 @@ function onSubmit(e) {
   headlineNotRegistered = 13;
   checkUsernamePassword = 14;
   headlineUnableToSignIn = 15;
+  headlineLoginNotRecognized = 16;
 
   if (username === "")
     return showError(
@@ -45,7 +46,7 @@ function onSubmit(e) {
       "Content-Type": "application/json",
     }),
   })
-    .then((res) => (res.ok ? res.json() : {}))
+    .then((res) => res.json())
     .then((data) => {
       switch (data.msg) {
         case "unable to query for user":
@@ -73,7 +74,7 @@ function onSubmit(e) {
           hideSpinner(submitButton, submitButtonProgress);
           showError(
             checkUsernamePassword,
-            headlineUnableToSignIn
+            headlineLoginNotRecognized
           );
           break;
         case "user authenticated":

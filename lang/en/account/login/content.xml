@@ -129,16 +129,33 @@
 
 	<phrase id="14">
 		<original>
-			Please check your username and/or password for accuracy, then try again.
+			Please check your username and/or password for accuracy, then try again. If you don't have a login yet, you'll need to register.
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="../register/">
+			<original>
+				register
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			Unable to Sign In
 		</original>
 		<translated>
 			
 		</translated>
 	</phrase>
 
-	<phrase id="15">
+	<phrase id="16">
 		<original>
-			Unable to Sign In
+			Login Not Recognized
 		</original>
 		<translated>
 			
