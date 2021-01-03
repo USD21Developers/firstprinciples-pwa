@@ -86,7 +86,7 @@ function enforceSubscription() {
   }
 
   const jwtPayload = JSON.parse(atob(subscriptionToken.split(".")[1]));  
-  const now = Date.now().valueOf() / 1000;
+  const now = parseInt(Date.now().valueOf() / 1000);
   const expiry = parseInt(jwtPayload.exp) || 0;
   const isNotSubscribed = (expiry <= now);
 
