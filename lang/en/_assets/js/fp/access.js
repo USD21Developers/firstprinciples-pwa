@@ -82,6 +82,7 @@ function isSubscriptionActive() {
 
 function enforceSubscription() {
   const isSubscribed = isSubscriptionActive();
+  const accountPage = `/lang/${getLangFromPath()}/account/`;
 
   if (!isSubscribed) {
     console.error(`Not subscribed. Redirecting to account page...`);
