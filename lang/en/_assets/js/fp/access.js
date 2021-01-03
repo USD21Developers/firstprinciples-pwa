@@ -68,12 +68,9 @@ function isSubscriptionActive() {
 
   if (!subscriptionToken.length) return false;
 
-  const now = moment().unix();
-  const expiry = moment.unix(parseInt(JSON.parse(atob(subscriptionToken.split(".")[1])).exp)) || 0;
-  const isSubscribed = (now > expiry) || false;
-
-  console.log(`now: ${now}`);
-  console.log(`subscription expiry: ${expiry}`);
+  const now = moment().utc().unix();
+  const expiry = parseInt(JSON.parse(atob(subscriptionToken.split(".")[1])).exp) || 0;
+  const isSubscribed = (now < expiry) || false;
 
   if (!isSubscribed) return false;
 
