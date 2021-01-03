@@ -81,6 +81,7 @@ function enforceSubscription() {
   const accountPage = `/lang/${getLangFromPath()}/account/`;
 
   if (!subscriptionToken.length) {
+    console.error("Missing subscription token", subscriptionToken);
     return window.location.href = accountPage;
   }
 
