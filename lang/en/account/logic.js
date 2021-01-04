@@ -30,45 +30,12 @@ function isSubscriptionActive() {
   return true;
 }
 
-async function checkSubscription() {
-  let isSubscriptionActive = false;
-  isSubscriptionActive = isSubscriptionActive() || false;
-  if (!isSubscriptionActive) {
+function checkSubscription() {
+  if (!isSubscriptionActive()) {
     askToSubscribe(data);
   } else {
     showSubscriptionInfo(data);
   }
-
-  /* 
-  const accessToken = await getAccessToken();
-  const endpoint = `${getHost()}/fp/check-subscription`;
-  const timeZone = moment.tz.guess();
-
-  fetch(endpoint, {
-    mode: "cors",
-    method: "POST",
-    body: JSON.stringify({
-      timeZone: timeZone
-    }),
-    headers: new Headers({
-      "Content-Type": "application/json",
-      authorization: `Bearer ${accessToken}`
-    })
-  })
-    .then(res => res.json())
-    .then(data => {
-      switch(data.msg) {
-        case "user is not subscribed":
-          askToSubscribe(data);
-          break;
-        case "user is subscribed":
-          showSubscriptionInfo(data);
-          break;
-      }
-    })
-    .catch(err => {
-      console.error(err);
-    }); */
 }
 
 function ifJustRegistered() {
