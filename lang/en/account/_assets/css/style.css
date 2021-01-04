@@ -317,6 +317,6 @@ ul.showdiscs li {
   text-decoration: none !important;
 }
 
-.input-field>select.browser-default + .input-field>label:not(.label-icon).active {
+.input-field > select.browser-default + label:not(.label-icon).active {
   top: -.9em;
 }
