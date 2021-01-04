@@ -316,3 +316,7 @@ ul.showdiscs li {
 .btn-account {
   text-decoration: none !important;
 }
+
+.input-field>select.browser-default + .input-field>label:not(.label-icon).active {
+  top: -.9em;
+}
