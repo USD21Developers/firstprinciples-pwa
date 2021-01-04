@@ -59,6 +59,20 @@ function getAccessToken() {
   });
 }
 
+function isSubscriptionActive() {
+  const subscriptionToken = localStorage.getItem("subscriptionToken") || "";
+
+  if (!subscriptionToken.length) return false;
+
+  const now = moment().utc().unix();
+  const expiry = parseInt(JSON.parse(atob(subscriptionToken.split(".")[1])).exp) || 0;
+  const isSubscribed = (now < expiry) || false;
+
+  if (!isSubscribed) return false;
+
+  return true;
+}
+
 function verifyRefreshToken() {
   const logoutUrl = `/lang/${getLang()}/account/logout/`;
   const refreshToken = localStorage.getItem("refreshToken") || "";
