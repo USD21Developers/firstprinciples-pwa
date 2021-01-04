@@ -161,6 +161,7 @@ function onEmailSent(data) {
   // Selectors
   const registerForm = document.querySelector("#registerForm");
   const emailSent = document.querySelector("#emailSent");
+  const emailSentContent = document.querySelector("#emailSentContent");
   const pagehead = document.querySelector(".fp_pagehead");
 
   // Populate content
@@ -170,7 +171,7 @@ function onEmailSent(data) {
   `;
 
   pagehead.innerHTML = headline;
-  emailSent.innerHTML = content;
+  emailSentContent.innerHTML = content;
 
   registerForm.classList.add("hide");
   emailSent.classList.remove("hide");
