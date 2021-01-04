@@ -320,3 +320,7 @@ ul.showdiscs li {
 .input-field > select.browser-default + label:not(.label-icon).active {
   top: -.9em;
 }
+
+.input-field > select:focus.browser-default {
+  outline: #4CAF50;
+}
