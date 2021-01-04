@@ -37,7 +37,7 @@ function ifJustRegistered() {
 
 async function onSubscribeClicked(e) {
   e.preventDefault();
-  const accessToken = await getAccessToken();
+  const accessToken = await getAccessToken() || "";
   const endpoint = `${getAPIHost()}/fp/begin-subscription`;
   const productName = phrase(13, false);
   const productSku = phrase(14, false);
@@ -47,6 +47,10 @@ async function onSubscribeClicked(e) {
 
   subscribeButtonEl.setAttribute("disabled", true);
   subscribeButtonSpinnerEl.classList.remove("hide");
+
+  if (!accessToken.length) {
+    return window.location.href = "./logout/";
+  }
 
   fetch(endpoint, {
     mode: "cors",
