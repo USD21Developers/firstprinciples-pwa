@@ -5,11 +5,13 @@ function askToSubscribe() {
 
 function showSubscriptionInfo() {
   const lang = getLang() || "en";
-  const expiry = JSON.parse(atob(localStorage.getItem("subscriptionToken").split(".")[1])).exp;
+  const subscriptionToken = JSON.parse(atob(localStorage.getItem("subscriptionToken").split(".")[1]));
+  const expiry = subscriptionToken.exp;
   const dateArgs = moment.unix(expiry).utc().format("YYYY, M, D");
   const dateObj = new Date(dateArgs);
   const expiryLS = new Intl.DateTimeFormat(lang, { dateStyle: 'long' }).format(dateObj);
-  const daysRemaining = data.daysRemaining;
+  const subscribeduntil = moment(subscriptionToken.subscribeduntil).utc();
+  const daysRemaining = Math.abs(moment().utc().diff(subscribeduntil, "days"));
   const expiryStatement = phrase(5, false).replace("${expiryDate}", `<strong>${expiryLS}</strong>`).replace("${daysRemaining}", daysRemaining);
 
   document.querySelector("[data-expiry-statement]").innerHTML = expiryStatement;
