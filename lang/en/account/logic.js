@@ -1,11 +1,12 @@
-function askToSubscribe(data) {
+function askToSubscribe() {
   const pleaseSubscribeEl = document.querySelector("#subscription-status-not-subscribed");
   pleaseSubscribeEl.classList.remove("hide");
 }
 
-function showSubscriptionInfo(data) {
+function showSubscriptionInfo() {
   const lang = getLang() || "en";
-  const dateArgs = moment(data.expiry).format("YYYY, M, D");
+  const expiry = JSON.parse(atob(localStorage.getItem("subscriptionToken").split(".")[1])).exp;
+  const dateArgs = moment.unix(expiry).utc().format("YYYY, M, D");
   const dateObj = new Date(dateArgs);
   const expiryLS = new Intl.DateTimeFormat(lang, { dateStyle: 'long' }).format(dateObj);
   const daysRemaining = data.daysRemaining;
@@ -16,6 +17,14 @@ function showSubscriptionInfo(data) {
 }
 
 async function checkSubscription() {
+  const isSubscriptionActive = isSubscriptionActive() || false;
+  if (!isSubscriptionActive) {
+    askToSubscribe(data);
+  } else {
+    showSubscriptionInfo(data);
+  }
+
+  /* 
   const accessToken = await getAccessToken();
   const endpoint = `${getHost()}/fp/check-subscription`;
   const timeZone = moment.tz.guess();
@@ -44,7 +53,7 @@ async function checkSubscription() {
     })
     .catch(err => {
       console.error(err);
-    });
+    }); */
 }
 
 function ifJustRegistered() {
