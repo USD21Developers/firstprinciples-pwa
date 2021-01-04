@@ -17,7 +17,8 @@ function showSubscriptionInfo() {
 }
 
 async function checkSubscription() {
-  const isSubscriptionActive = isSubscriptionActive() || false;
+  let isSubscriptionActive = false;
+  isSubscriptionActive = isSubscriptionActive() || false;
   if (!isSubscriptionActive) {
     askToSubscribe(data);
   } else {
