@@ -3,9 +3,9 @@ function onSuccess(data) {
   const pageTitleEl = document.querySelector(".fp_pagehead");
   const content = document.querySelector("main");
   const spinner = document.querySelector("#spinner");
-  const subscriptionToken = data.subscriptionToken;
+  const subscriptionToken = data.subscriptionToken || "";
 
-  localStorage.setItem("subscriptionToken", subscriptionToken);
+  subscriptionToken.length && localStorage.setItem("subscriptionToken", subscriptionToken);
 
   document.title = pageTitle;
   pageTitleEl.innerHTML = pageTitle;
@@ -48,6 +48,9 @@ async function executeSubscription() {
       switch(data.msg) {
         case "subscription activated":
           onSuccess(data);
+          break;
+        case "already recorded successful payment":
+          onSuccess();
           break;
         default:
           showError(6, 4)
