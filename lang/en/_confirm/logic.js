@@ -24,7 +24,7 @@ function onConfirmed(refreshToken, accessToken) {
     </p>
 
     <p class="center">
-      <button id="confirmedContinue" class="btn green darken-1 waves-effect waves-light">
+      <button id="confirmedContinue" class="btn darken-1 waves-effect waves-light">
         ${txtContinue}
       </button>
     </p>
