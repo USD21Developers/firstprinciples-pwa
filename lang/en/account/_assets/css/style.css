@@ -321,8 +321,12 @@ ul.showdiscs li {
   top: -.9em;
 }
 
+.input-field > select.browser-default {
+  border: 1px #aaa solid;
+}
+
 .input-field > select:focus.browser-default {
-  outline: #4CAF50;
+  outline: 1px #26a69a solid;
 }
 
 a.btn {
