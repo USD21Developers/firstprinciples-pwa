@@ -324,3 +324,7 @@ ul.showdiscs li {
 .input-field > select:focus.browser-default {
   outline: #4CAF50;
 }
+
+a.btn {
+  text-decoration: none !important;
+}

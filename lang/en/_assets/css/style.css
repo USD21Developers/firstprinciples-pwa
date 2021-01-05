@@ -329,3 +329,7 @@ ul.showdiscs li {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
+
+a.btn {
+  text-decoration: none !important;
+}
