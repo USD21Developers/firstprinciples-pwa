@@ -129,6 +129,7 @@ function attachListeners() {
 }
 
 async function init() {
+  checkIfOffline();
   supportsPromises();
   await showPhrases();
   hideSpinner(loginForm, spinnerDefault);

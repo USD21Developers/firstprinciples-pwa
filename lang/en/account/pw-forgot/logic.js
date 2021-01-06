@@ -89,6 +89,7 @@ function toggleSpinner() {
 }
 
 async function init() {
+  checkIfOffline();
   await showPhrases();
   toggleSpinner();
   attachEventListeners();

@@ -63,6 +63,7 @@ async function executeSubscription() {
 }
 
 async function init() {
+  checkIfOffline();
   await showPhrases();
   executeSubscription();
 }

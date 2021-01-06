@@ -274,3 +274,14 @@ function getAPIHost(forceRemote = false) {
   const host = window.location.hostname === "localhost" ? local : remote;
   return forceRemote ? remote : host;
 }
+
+function checkIfOffline() {
+  let isOffline = false;
+  
+  if (!navigator.onLine) isOffline = true;
+
+  if (isOffline) {
+    const offlineurl = `/lang/${getLang()}/account/offline/`;
+    return window.location.href = offlineurl;
+  }
+}

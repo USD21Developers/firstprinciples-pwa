@@ -221,6 +221,7 @@ function attachListeners() {
 }
 
 async function init() {
+  checkIfOffline();
   await showPhrases();
   loadCountries();
   attachListeners();

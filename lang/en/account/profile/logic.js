@@ -181,6 +181,7 @@ function attachEventListeners() {
 }
 
 async function init() {
+  checkIfOffline();
   await showPhrases();
   loadCountries();
   await retrieveContent()
