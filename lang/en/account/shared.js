@@ -278,7 +278,7 @@ function getAPIHost(forceRemote = false) {
 function checkIfOffline() {
   let isOffline = false;
   
-  if (!navigator.onLine) isOffline = true;
+  if (!window.navigator.onLine) isOffline = true;
 
   if (isOffline) {
     const offlineurl = `/lang/${getLang()}/account/offline/`;
