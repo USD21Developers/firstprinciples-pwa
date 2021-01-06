@@ -63,6 +63,18 @@ function getAccessToken() {
   });
 }
 
+function isSubscriptionActive() {
+  const subscriptionToken = localStorage.getItem("subscriptionToken") || "";
+
+  if (!subscriptionToken.length) return false;
+
+  const expiry = parseInt(JSON.parse(atob(subscriptionToken.split(".")[1])).exp) || 0;
+  const now = moment().utc().unix();
+  const isSubscribed = (expiry > now) || false;
+
+  return isSubscribed;
+}
+
 function enforceSubscription() {
   const isSubscribed = isSubscriptionActive();
   const accountPage = `/lang/${getLangFromPath()}/account/`;
