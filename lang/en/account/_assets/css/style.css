@@ -28,10 +28,22 @@
 .mx-3 {margin-left: 3rem !important; margin-right: 3rem !important}
 
 body,
- #scriptureModal,
- .collection .collection-item {
+#scriptureModal,
+.collection .collection-item {
   background-color: #efefef;
- }
+}
+
+.breadcrumbs {
+  margin: 1rem;
+  margin-bottom: 0;
+}
+
+.breadcrumbs a::after {
+  color: #6c757d;
+  padding-left: .5rem;
+  padding-right: .5rem;
+  content: "/"
+}
 
 .fpmodule {
   margin-top: 2rem;
