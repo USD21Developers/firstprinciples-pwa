@@ -8,9 +8,13 @@ function toggleSpinner() {
 function goBack() {
   const cameFromAnAccountPage = (document.referrer.indexOf("/account/") >= 0) || false;
   if (cameFromAnAccountPage) {
-    window.location.href = document.referrer;
+    if (document.referrer & document.referrer.length) {
+      window.location.href = document.referrer;
+    } else {
+      window.location.href = "../";
+    }
   } else {
-    window.location.href = e.target.href;
+    window.location.href = "../";
   }
 }
 
