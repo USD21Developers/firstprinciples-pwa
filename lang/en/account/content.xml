@@ -36,7 +36,7 @@
 
   <phrase id="5">
 		<original>
-			Your subscription is active until ${expiryDate}, which is in ${daysRemaining} days.
+			Your subscription is current until ${expiryDate}.
 		</original>
 		<translated></translated>
 	</phrase>

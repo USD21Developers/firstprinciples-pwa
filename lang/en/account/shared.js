@@ -211,13 +211,11 @@ function isSubscriptionActive() {
 
   if (!subscriptionToken.length) return false;
 
-  const now = moment().utc().unix();
   const expiry = parseInt(JSON.parse(atob(subscriptionToken.split(".")[1])).exp) || 0;
-  const isSubscribed = (now < expiry) || false;
+  const now = moment().utc().unix();
+  const isSubscribed = (expiry > now) || false;
 
-  if (!isSubscribed) return false;
-
-  return true;
+  return isSubscribed;
 }
 
 function getAccessToken() {

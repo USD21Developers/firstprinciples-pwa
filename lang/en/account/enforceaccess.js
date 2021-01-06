@@ -59,18 +59,33 @@ function getAccessToken() {
   });
 }
 
-function isSubscriptionActive() {
-  const subscriptionToken = localStorage.getItem("subscriptionToken") || "";
+function getPermissions() {
+  return JSON.parse(atob(localStorage.getItem("refreshToken").split(".")[1])).may || [];
+}
 
-  if (!subscriptionToken.length) return false;
+function isSysadmin() {
+  const usertype = JSON.parse(atob(localStorage.getItem("refreshToken").split(".")[1])).usertype || "user";
+  return (usertype === "sysadmin") ? true : false;
+}
 
-  const now = moment().utc().unix();
-  const expiry = parseInt(JSON.parse(atob(subscriptionToken.split(".")[1])).exp) || 0;
-  const isSubscribed = (now < expiry) || false;
+function canCreateCoupons() {
+  const may = getPermissions();
+  return (may.includes("create coupons"));
+}
 
-  if (!isSubscribed) return false;
+function canCreatePreauthorizedUsers() {
+  const may = getPermissions();
+  return (may.includes("create preauthorized users"));
+}
 
-  return true;
+function canAccessAdministration() {
+  let canAccess = false;
+
+  if (isSysadmin()) canAccess = true;
+  if (canCreateCoupons()) canAccess = true;
+  if (canCreatePreauthorizedUsers()) canAccess = true;
+
+  return canAccess;
 }
 
 function verifyRefreshToken() {

@@ -7,12 +7,11 @@ function showSubscriptionInfo() {
   const lang = getLang() || "en";
   const subscriptionToken = JSON.parse(atob(localStorage.getItem("subscriptionToken").split(".")[1]));
   const expiry = subscriptionToken.exp;
-  const dateArgs = moment.unix(expiry).utc().format("YYYY, M, D");
-  const dateObj = new Date(dateArgs);
-  const expiryLS = new Intl.DateTimeFormat(lang, { dateStyle: 'long' }).format(dateObj);
-  const subscribeduntil = moment(subscriptionToken.subscribeduntil).utc();
-  const daysRemaining = Math.abs(moment().utc().diff(subscribeduntil, "days"));
-  const expiryStatement = phrase(5, false).replace("${expiryDate}", `<strong>${expiryLS}</strong>`).replace("${daysRemaining}", daysRemaining);
+  const now = moment.unix(expiry).utc();
+  const lsDateArgs = now.format("YYYY, M, D");
+  const lsDateObj = new Date(lsDateArgs);
+  const lsExpiry = new Intl.DateTimeFormat(lang, { dateStyle: 'long' }).format(lsDateObj);
+  const expiryStatement = phrase(5, false).replace("${expiryDate}", `<strong>${lsExpiry}</strong>`);
 
   document.querySelector("[data-expiry-statement]").innerHTML = expiryStatement;
   document.querySelector("#subscription-status-subscribed").classList.remove("hide");
@@ -98,14 +97,8 @@ function attachEventListeners() {
 
 function toggleAdminLink() {
   const adminLink = document.querySelector("#adminlink");
-  const usertype = JSON.parse(atob(localStorage.getItem("refreshToken").split(".")[1])).usertype || "user";
-  const may = JSON.parse(atob(localStorage.getItem("refreshToken").split(".")[1])).may || [];
-  let showLink = false;
+  const showLink = canAccessAdministration() || false;
   
-  if (usertype === "sysadmin") showLink = true;
-  if (may.includes("create coupons")) showLink = true;
-  if (may.includes("create preauthorized users")) showLink = true;
-
   if (showLink) adminLink.classList.remove("hide");
 }
 
