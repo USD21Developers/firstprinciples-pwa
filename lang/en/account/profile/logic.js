@@ -88,34 +88,34 @@ async function onSubmit(e) {
           window.location.href = "../logout/";
           break;
         case "username is missing":
-          showError(15, 14);
+          showError(15, 14, "#username");
           break;
         case "full name is missing":
-          showError(16, 14);
+          showError(16, 14, "#fullname");
           break;
         case "first name is missing":
-          showError(17, 14);
+          showError(17, 14, "#firstname");
           break;
         case "last name is missing":
-          showError(18, 14);
+          showError(18, 14, "#lastname");
           break;
         case "email is missing":
-          showError(19, 14);
+          showError(19, 14, "#email");
           break;
         case "invalid email":
-          showError(21, 20);
+          showError(21, 20, "#email");
           break;
         case "country is missing":
-          showError(22, 14);
+          showError(22, 14, "#country");
           break;
         case "username already exists":
-          showError(26, 25);
+          showError(26, 25, "#username");
           break;
         case "e-mail already exists":
-          showError(28, 27);
+          showError(28, 27, "#email");
           break;
         case "password not complex enough":
-          showError(30, 29);
+          showError(30, 29, "#password");
           break;
         case "profile updated":
           showError(32, 31);
