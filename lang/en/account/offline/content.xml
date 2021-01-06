@@ -27,7 +27,7 @@
 		<translated>
 			
 		</translated>
-    <change bold="true" italic="false" href="javascript:history.go(-1)">
+    <change bold="true" italic="false" href="javascript:goBack()">
 			<original>
 				try again
 			</original>

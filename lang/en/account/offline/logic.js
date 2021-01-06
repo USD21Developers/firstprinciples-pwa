@@ -5,8 +5,7 @@ function toggleSpinner() {
   hideSpinner(content, spinner);
 }
 
-function goBack(e) {
-  e.preventDefault();
+function goBack() {
   const cameFromAnAccountPage = (document.referrer.indexOf("/account/") >= 0) || false;
   if (cameFromAnAccountPage) {
     window.location.href = document.referrer;
@@ -16,7 +15,9 @@ function goBack(e) {
 }
 
 function attachEventListeners() {
-  document.querySelector("#continuelink").addEventListener("click", goBack);
+  document.querySelectorAll(".continuelink").forEach(item => {
+    item.addEventListener("click", goBack);
+  });
 }
 
 async function init() {
