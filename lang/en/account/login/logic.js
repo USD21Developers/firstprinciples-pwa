@@ -80,7 +80,7 @@ function onSubmit(e) {
         case "user authenticated":
           const refreshToken = data.refreshToken;
           const accessToken = data.accessToken;
-          const subscriptionToken = data.subscriptionToken;
+          const subscriptionToken = data.subscriptionToken || "";
           let passwordmustchange = false;
           try {
             passwordmustchange = JSON.parse(atob(accessToken.split(".")[1]))
@@ -93,7 +93,7 @@ function onSubmit(e) {
           }
           localStorage.setItem("refreshToken", refreshToken);
           sessionStorage.setItem("accessToken", accessToken);
-          localStorage.setItem("subscriptionToken", subscriptionToken); 
+          if (subscriptionToken.length) localStorage.setItem("subscriptionToken", subscriptionToken); 
 
           const accountPage = "../";
           const dashboardPage = `/lang/${getLang()}/`;
