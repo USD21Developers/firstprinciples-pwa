@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="profile" lang-original="en" lang-translated="" last-updated="2020-01-05" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2020-01-05" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated></translated>
+  </phrase>
+
+	<phrase id="2" desc="page title">
+		<original>
+			My Profile
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="3">
+		<original>
+			Username
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			New Password
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="5">
+		<original>
+			First name
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="6">
+		<original>
+			Last name
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			Full name
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			E-mail address
+		</original>
+		<translated></translated>
+	</phrase>
+	
+	<phrase id="9">
+		<original>
+			Country:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			(Select)
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			Update
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			Database is Down
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="13">
+		<original>
+			There was a technical glitch preventing your profile details from being retrieved.  Please wait a moment then reload the page.
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="javascript:window.location.reload()">
+			<original>
+				reload the page
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			Form Incomplete
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			Please input your username.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="16">
+		<original>
+			Please input your full name.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="17">
+		<original>
+			Please input your first name.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="18">
+		<original>
+			Please input your last name.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="19">
+		<original>
+			Please input your e-mail address.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="20">
+		<original>
+			Invalid E-mail
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="21">
+		<original>
+			Please check your e-mail address for accuracy and proper formatting.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="22">
+		<original>
+			Please select the country where you live.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="23">
+		<original>
+			Database is Down
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="24">
+		<original>
+			There was a technical glitch preventing your profile from being updated.  Please wait a moment then try again.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="25">
+		<original>
+			Username Already in Use
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="26">
+		<original>
+			Sorry, but another user is already using that username.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="27">
+		<original>
+			E-mail Already in Use
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="28">
+		<original>
+			Sorry, but another user is already using that e-mail address.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="29">
+		<original>
+			Invalid Password
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="30">
+		<original>
+			<p>
+				Please revise your password.  For your protection, we require that it must have a minimum level of unpredictability in order to prevent potential hackers from guessing it.
+			</p>
+			<p>
+				A minimum length of 8 characters is required.  Using a phrase (rather than a single word) is encouraged, because phrases are less predictable.
+			</p>
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="31">
+		<original>
+			Profile Updated
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="32">
+		<original>
+			Your changes have been saved.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>
