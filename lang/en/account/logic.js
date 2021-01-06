@@ -96,11 +96,25 @@ function attachEventListeners() {
   document.querySelector("#subscribeButton").addEventListener("click", onSubscribeClicked);
 }
 
+function toggleAdminLink() {
+  const adminLink = document.querySelector("#adminlink");
+  const usertype = JSON.parse(atob(localStorage.getItem("refreshToken").split(".")[1])).usertype || "user";
+  const may = JSON.parse(atob(localStorage.getItem("refreshToken").split(".")[1])).may || [];
+  let showLink = false;
+  
+  if (usertype === "sysadmin") showLink = true;
+  if (may.includes("create coupons")) showLink = true;
+  if (may.includes("create preauthorized users")) showLink = true;
+
+  if (showLink) adminLink.classList.remove("hide");
+}
+
 async function init() {
   await showPhrases();
   toggleSpinner();
   ifJustRegistered();
   checkSubscription();
+  toggleAdminLink();
   attachEventListeners();
 }
 
