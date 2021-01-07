@@ -337,3 +337,9 @@ a.btn {
 #myaccountlink {
   text-decoration: underline;
 }
+
+#modal1 .closeButton img {
+  float: right;
+  margin-top: 1em;
+  margin-right: 1em;
+}
