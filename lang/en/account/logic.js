@@ -91,7 +91,12 @@ function toggleSpinner() {
   hideSpinner(content, spinner);
 }
 
+function onCouponApplied(e) {
+  e.preventDefault();
+}
+
 function attachEventListeners() {
+  document.querySelector("#couponform").addEventListener("submit", onCouponApplied);
   document.querySelector("#subscribeButton").addEventListener("click", onSubscribeClicked);
 }
 
