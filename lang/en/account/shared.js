@@ -218,6 +218,11 @@ function isSubscriptionActive() {
   return isSubscribed;
 }
 
+function getLangFromPath() {
+  const lang = window.location.pathname.substring(6, 8) || "en";
+  return lang;
+}
+
 function getAccessToken() {
   let needToRefresh = false;
   const accessToken = sessionStorage.getItem("accessToken") || "";
