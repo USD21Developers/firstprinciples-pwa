@@ -133,6 +133,9 @@ async function onSubmit(e) {
 async function retrieveContent() {
   const accessToken = await getAccessToken();
   const endpoint = `${getAPIHost()}/fp/profile`;
+  const spinner = document.querySelector("#spinner");
+  const content = document.querySelector("main");
+  showSpinner(content, spinner);
 
   fetch(endpoint, {
     mode: "cors",
@@ -144,6 +147,7 @@ async function retrieveContent() {
   })
     .then(res => res.json())
     .then(data => {
+      hideSpinner(content, spinner);
       switch(data.msg) {
         case "user is not authorized for this action":
           window.location.href = "../logout/";
@@ -161,6 +165,7 @@ async function retrieveContent() {
     })
     .catch(err => {
       console.error(err);
+      hideSpinner(content, spinner);
     });
 }
 
