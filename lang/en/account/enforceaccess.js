@@ -69,13 +69,25 @@ function isSysadmin() {
 }
 
 function canCreateCoupons() {
-  const may = getPermissions();
-  return (may.includes("create coupons"));
+  let hasPermission = false;
+  const permissions = getPermissions();
+  const sysadmin = isSysadmin();
+
+  if (sysadmin) hasPermission = true;
+  if (permissions.includes("create coupons")) hasPermission = true;
+
+  return hasPermission;
 }
 
 function canCreatePreauthorizedUsers() {
-  const may = getPermissions();
-  return (may.includes("create preauthorized users"));
+  let hasPermission = false;
+  const permissions = getPermissions();
+  const sysadmin = isSysadmin();
+
+  if (sysadmin) hasPermission = true;
+  if (permissions.includes("create preauthorized users")) hasPermission = true;
+
+  return hasPermission;
 }
 
 function canAccessAdministration() {
