@@ -236,6 +236,132 @@
 		</translated>
 	</phrase>
 
+	<phrase id="25">
+		<original>
+			Coupons
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="26">
+		<original>
+			If you have a coupon code, enter it below.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="27">
+		<original>
+			Coupon code
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="28">
+		<original>
+			Apply
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="29">
+		<original>
+			Coupon not found
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="30">
+		<original>
+			Your coupon code was not found. Please check it for accuracy, and revise if necessary.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="31">
+		<original>
+			Coupon discontinued
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="32">
+		<original>
+			Sorry, but this coupon code has been discontinued and can no longer be used.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="33">
+		<original>
+			Sorry, but this coupon code is now expired.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="34">
+		<original>
+			Coupon applied
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="35">
+		<original>
+			Congratulations.  Your coupon is good for a discount of ${discountpercent} percent.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="36">
+		<original>
+			You do not need to take any further action, as the coupon has covered the full cost.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="37">
+		<original>
+			Sorry, but have already used this coupon code and cannot use it again.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="38">
+		<original>
+			Continue
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
 	<!--
 	<phrase id="">
 		<original>
