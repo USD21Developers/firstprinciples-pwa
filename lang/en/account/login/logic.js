@@ -93,7 +93,11 @@ function onSubmit(e) {
           }
           localStorage.setItem("refreshToken", refreshToken);
           sessionStorage.setItem("accessToken", accessToken);
-          if (subscriptionToken.length) localStorage.setItem("subscriptionToken", subscriptionToken); 
+          if (subscriptionToken.length) {
+            localStorage.setItem("subscriptionToken", subscriptionToken);
+          } else {
+            localStorage.removeItem("subscriptionToken");
+          }
 
           const accountPage = "../";
           const dashboardPage = `/lang/${getLang()}/`;
