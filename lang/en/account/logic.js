@@ -34,6 +34,11 @@ function ifJustRegistered() {
   }
 }
 
+function resetSubmitButton() {
+  subscribeButtonEl.removeAttribute("disabled");
+  subscribeButtonSpinnerEl.classList.add("hide");
+}
+
 async function onSubmit(e) {
   e.preventDefault();
   const accessToken = await getAccessToken() || "";
@@ -44,6 +49,7 @@ async function onSubmit(e) {
   const subscribeButtonEl = document.querySelector("#subscribeButton");
   const subscribeButtonSpinnerEl = document.querySelector("#subscribeButtonSpinner");
   const couponCode = document.querySelector("#couponcode").value.trim() || "";
+  const appName = phrase(1, false) || "First Principles";
 
   subscribeButtonEl.setAttribute("disabled", true);
   subscribeButtonSpinnerEl.classList.remove("hide");
@@ -60,7 +66,8 @@ async function onSubmit(e) {
       productName: productName,
       productSku: productSku,
       productDescription: productDescription,
-      lang: getLang()
+      lang: getLang(),
+      appname: appName
     }),
     headers: new Headers({
       "Content-Type": "application/json",
@@ -69,13 +76,13 @@ async function onSubmit(e) {
   })
     .then(res => res.json())
     .then(data => {
-      subscribeButtonEl.removeAttribute("disabled");
-      subscribeButtonSpinnerEl.classList.add("hide");
       switch(data.msg) {
         case "coupon not found":
+          resetSubmitButton();
           showError(30, 29, "#couponcode");
           break;
         case "coupon expired":
+          resetSubmitButton();
           showError(33, 35, "#couponcode", {
             onOpenStart: () => {
               const timeZone = moment.tz.guess();
@@ -88,9 +95,11 @@ async function onSubmit(e) {
           });
           break;
         case "coupon already used":
+          resetSubmitButton();
           showError(37, 31, "#couponcode");
           break;
         case "coupon discontinued":
+          resetSubmitButton();
           showError(32, 31, "#couponcode");
           break;
         case "total discount applied":
@@ -129,6 +138,7 @@ async function onSubmit(e) {
           }
           break;
         default:
+          resetSubmitButton();
           showError(17, 16);
           break;
       }
