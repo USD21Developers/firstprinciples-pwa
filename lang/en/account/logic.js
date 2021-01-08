@@ -34,7 +34,7 @@ function ifJustRegistered() {
   }
 }
 
-function disableSubmitButtion() {
+function disableSubmitButton() {
   const subscribeButtonEl = document.querySelector("#subscribeButton");
   const subscribeButtonSpinnerEl = document.querySelector("#subscribeButtonSpinner");
   subscribeButtonEl.setAttribute("disabled", true);
@@ -58,7 +58,7 @@ async function onSubmit(e) {
   const couponCode = document.querySelector("#couponcode").value.trim() || "";
   const appName = phrase(1, false) || "First Principles";
 
-  disableSubmitButtion();
+  disableSubmitButton();
 
   if (!accessToken.length) {
     return window.location.href = "./logout/";
