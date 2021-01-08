@@ -69,7 +69,7 @@ async function onSubmit(e) {
   })
     .then(res => res.json())
     .then(data => {
-      subscribeButtonEl.removeAttribute("disabled", true);
+      subscribeButtonEl.removeAttribute("disabled");
       subscribeButtonSpinnerEl.classList.add("hide");
       switch(data.msg) {
         case "coupon not found":
@@ -136,7 +136,7 @@ async function onSubmit(e) {
     })
     .catch(err => {
       console.error(err);
-      subscribeButtonEl.removeAttribute("disabled", true);
+      subscribeButtonEl.removeAttribute("disabled");
       subscribeButtonSpinnerEl.classList.add("hide");
     });
 }
