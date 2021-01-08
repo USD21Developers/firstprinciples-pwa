@@ -89,25 +89,29 @@
               <p data-p10></p>
               <p data-p11></p>
 
-              <section class="container center-align mt-2 mb-3" id="couponsection">
-                <form class="row" id="couponform">
-                  <div class="col s12">
-                    <h5 class="mt-0" data-p25></h5>
-                    <p data-p26></p>
-                  </div>
-                  <div class="col s9 input-field">
-                    <input type="text" id="couponcode">
-                    <label for="couponcode" data-p27></label>
-                  </div>
-                  <div class="col s3 input-field">
-                    <button type="submit" class="btn" data-p28></button>
-                  </div>
-                </form>
-              </section>
+              <form class="mb-2" id="subscribeform">
+                <section class="container center-align mt-3" id="couponsection">
+                    <div class="row">
+                      <div class="col s12 m8 offset-m2">
+                        <p class="center-align" data-p26></p>
+                        <div class="input-field">
+                          <input type="text" id="couponcode">
+                          <label for="couponcode" data-p27></label>
+                        </div>
+                      </div>
+                    </div>
+                </section>
 
-              <div class="center-align my-2">
-                <button id="subscribeButton" class="btn btn-account" data-p12></button>
-              </div>
+                <section class="container">
+                    <div class="row">
+                        <div class="col s12">
+                            <div class="center-align">
+                              <button type="submit" class="btn btn-account" id="subscribeButton" data-p12></button>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+              </form>
 
               <div class="hide" id="subscribeButtonSpinner">
                 <div class="progress">

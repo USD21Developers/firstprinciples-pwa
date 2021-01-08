@@ -247,7 +247,7 @@
 
 	<phrase id="26">
 		<original>
-			If you have a coupon code, enter it below.
+			If you have a coupon code, enter it below:
 		</original>
 		<translated>
 			
@@ -256,7 +256,7 @@
 
 	<phrase id="27">
 		<original>
-			Coupon code
+			Coupon code (optional)
 		</original>
 		<translated>
 			
@@ -274,7 +274,7 @@
 
 	<phrase id="29">
 		<original>
-			Coupon not found
+			Coupon Not Found
 		</original>
 		<translated>
 			
@@ -292,7 +292,7 @@
 
 	<phrase id="31">
 		<original>
-			Coupon discontinued
+			Coupon Cannot be Used
 		</original>
 		<translated>
 			
@@ -310,7 +310,7 @@
 
 	<phrase id="33">
 		<original>
-			Sorry, but this coupon code is now expired.
+			Sorry, but this coupon code expired on ${expiry}.
 		</original>
 		<translated>
 			
@@ -319,7 +319,7 @@
 
 	<phrase id="34">
 		<original>
-			Coupon applied
+			Coupon Applied
 		</original>
 		<translated>
 			
@@ -328,7 +328,7 @@
 
 	<phrase id="35">
 		<original>
-			Congratulations.  Your coupon is good for a discount of ${discountpercent} percent.
+			Coupon is Expired
 		</original>
 		<translated>
 			
@@ -346,7 +346,7 @@
 
 	<phrase id="37">
 		<original>
-			Sorry, but have already used this coupon code and cannot use it again.
+			Sorry, but you already used this coupon and cannot use it again.
 		</original>
 		<translated>
 			
@@ -356,6 +356,24 @@
 	<phrase id="38">
 		<original>
 			Continue
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="39">
+		<original>
+			Discount Applied!
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="40">
+		<original>
+			The new discounted price is now ${newprice}.
 		</original>
 		<translated>
 			

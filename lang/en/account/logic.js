@@ -34,7 +34,7 @@ function ifJustRegistered() {
   }
 }
 
-async function onSubscribeClicked(e) {
+async function onSubmit(e) {
   e.preventDefault();
   const accessToken = await getAccessToken() || "";
   const endpoint = `${getAPIHost()}/fp/begin-subscription`;
@@ -43,6 +43,7 @@ async function onSubscribeClicked(e) {
   const productDescription = phrase(15, false);
   const subscribeButtonEl = document.querySelector("#subscribeButton");
   const subscribeButtonSpinnerEl = document.querySelector("#subscribeButtonSpinner");
+  const couponCode = document.querySelector("#couponcode").value.trim() || "";
 
   subscribeButtonEl.setAttribute("disabled", true);
   subscribeButtonSpinnerEl.classList.remove("hide");
@@ -55,6 +56,7 @@ async function onSubscribeClicked(e) {
     mode: "cors",
     method: "POST",
     body: JSON.stringify({
+      couponCode: couponCode,
       productName: productName,
       productSku: productSku,
       productDescription: productDescription,
@@ -67,13 +69,68 @@ async function onSubscribeClicked(e) {
   })
     .then(res => res.json())
     .then(data => {
+      subscribeButtonEl.removeAttribute("disabled", true);
+      subscribeButtonSpinnerEl.classList.add("hide");
       switch(data.msg) {
+        case "coupon not found":
+          showError(30, 29, "#couponcode");
+          break;
+        case "coupon expired":
+          showError(33, 35, "#couponcode", {
+            onOpenStart: () => {
+              const timeZone = moment.tz.guess();
+              const expiryText = moment(data.couponExpiry).tz(timeZone).format("MMMM D, YYYY");
+              const p = document.querySelector("#modal1 p");
+              const newContent = p.innerHTML.replace("${expiry}", expiryText);
+
+              p.innerHTML = newContent;
+            }
+          });
+          break;
+        case "coupon already used":
+          showError(37, 31, "#couponcode");
+          break;
+        case "coupon discontinued":
+          showError(32, 31, "#couponcode");
+          break;
+        case "total discount applied":
+          showError(36, 34, null, {
+            onOpenStart: () => {
+              subscribeButtonEl.addAttribute("disabled", true);
+              subscribeButtonSpinnerEl.classList.remove("hide");
+              localStorage.setItem("subscriptionToken", data.subscriptionToken);
+            },
+            onCloseEnd: () => {
+              window.location.reload();
+            }
+          });
+          break;
         case "paypal payment created":
-          const { paypalURL } = data;
-          window.location.href = paypalURL;
+          const { paypalURL, paypalpaymentid, price } = data;
+          const isPriceModified = (price == "9.99") ? false : true;
+
+          if (isPriceModified) {
+            showError(40, 39, null, {
+              onOpenStart: () => {
+                const p = document.querySelector("#modal1 p");
+                const formattedPrice = Number(price.replace(/[^0-9.-]+/g,"")).toFixed(2);
+                const newContent = p.innerHTML.replace("${newprice}", `<strong>$${formattedPrice}</strong>`);
+                p.innerHTML = newContent;
+
+                subscribeButtonEl.setAttribute("disabled", true);
+                subscribeButtonSpinnerEl.classList.remove("hide");
+              },
+              onCloseEnd: () => {
+                window.location.href = paypalURL;
+              }
+            });
+          } else {
+            window.location.href = paypalURL;
+          }
           break;
         default:
           showError(17, 16);
+          break;
       }
       
     })
@@ -96,8 +153,7 @@ function onCouponApplied(e) {
 }
 
 function attachEventListeners() {
-  document.querySelector("#couponform").addEventListener("submit", onCouponApplied);
-  document.querySelector("#subscribeButton").addEventListener("click", onSubscribeClicked);
+  document.querySelector("#subscribeform").addEventListener("submit", onSubmit);
 }
 
 function toggleAdminLink() {
@@ -110,6 +166,7 @@ function toggleAdminLink() {
 async function init() {
   await showPhrases();
   toggleSpinner();
+  M.updateTextFields();
   ifJustRegistered();
   checkSubscription();
   toggleAdminLink();

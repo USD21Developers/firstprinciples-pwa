@@ -178,6 +178,9 @@ function focusOnFormField(fieldSelector) {
 function showError(textId, headlineId, fieldSelector, options) {
   const h5 = document.querySelector("#modal1 h5");
   const p = document.querySelector("#modal1 p");
+  
+  document.querySelector(".modal-close").addEventListener("click", (e) => e.preventDefault());
+
   h5.setAttribute(`data-p${headlineId}`, "");
   p.setAttribute(`data-p${textId}`, "");
   phrase(headlineId);
