@@ -34,7 +34,14 @@ function ifJustRegistered() {
   }
 }
 
-function resetSubmitButton() {
+function disableSubmitButtion() {
+  const subscribeButtonEl = document.querySelector("#subscribeButton");
+  subscribeButtonEl.setAttribute("disabled", true);
+  subscribeButtonSpinnerEl.classList.remove("hide");
+}
+
+function enableSubmitButton() {
+  const subscribeButtonEl = document.querySelector("#subscribeButton");
   subscribeButtonEl.removeAttribute("disabled");
   subscribeButtonSpinnerEl.classList.add("hide");
 }
@@ -51,8 +58,7 @@ async function onSubmit(e) {
   const couponCode = document.querySelector("#couponcode").value.trim() || "";
   const appName = phrase(1, false) || "First Principles";
 
-  subscribeButtonEl.setAttribute("disabled", true);
-  subscribeButtonSpinnerEl.classList.remove("hide");
+  disableSubmitButtion();
 
   if (!accessToken.length) {
     return window.location.href = "./logout/";
@@ -78,11 +84,11 @@ async function onSubmit(e) {
     .then(data => {
       switch(data.msg) {
         case "coupon not found":
-          resetSubmitButton();
+          enableSubmitButton();
           showError(30, 29, "#couponcode");
           break;
         case "coupon expired":
-          resetSubmitButton();
+          enableSubmitButton();
           showError(33, 35, "#couponcode", {
             onOpenStart: () => {
               const timeZone = moment.tz.guess();
@@ -95,11 +101,11 @@ async function onSubmit(e) {
           });
           break;
         case "coupon already used":
-          resetSubmitButton();
+          enableSubmitButton();
           showError(37, 31, "#couponcode");
           break;
         case "coupon discontinued":
-          resetSubmitButton();
+          enableSubmitButton();
           showError(32, 31, "#couponcode");
           break;
         case "total discount applied":
@@ -138,7 +144,7 @@ async function onSubmit(e) {
           }
           break;
         default:
-          resetSubmitButton();
+          enableSubmitButton();
           showError(17, 16);
           break;
       }
