@@ -36,12 +36,14 @@ function ifJustRegistered() {
 
 function disableSubmitButtion() {
   const subscribeButtonEl = document.querySelector("#subscribeButton");
+  const subscribeButtonSpinnerEl = document.querySelector("#subscribeButtonSpinner");
   subscribeButtonEl.setAttribute("disabled", true);
   subscribeButtonSpinnerEl.classList.remove("hide");
 }
 
 function enableSubmitButton() {
   const subscribeButtonEl = document.querySelector("#subscribeButton");
+  const subscribeButtonSpinnerEl = document.querySelector("#subscribeButtonSpinner");
   subscribeButtonEl.removeAttribute("disabled");
   subscribeButtonSpinnerEl.classList.add("hide");
 }
@@ -53,8 +55,6 @@ async function onSubmit(e) {
   const productName = phrase(13, false);
   const productSku = phrase(14, false);
   const productDescription = phrase(15, false);
-  const subscribeButtonEl = document.querySelector("#subscribeButton");
-  const subscribeButtonSpinnerEl = document.querySelector("#subscribeButtonSpinner");
   const couponCode = document.querySelector("#couponcode").value.trim() || "";
   const appName = phrase(1, false) || "First Principles";
 
