@@ -96,7 +96,7 @@ async function onSubmit(e) {
         case "total discount applied":
           showError(36, 34, null, {
             onOpenStart: () => {
-              subscribeButtonEl.addAttribute("disabled", true);
+              subscribeButtonEl.setAttribute("disabled", true);
               subscribeButtonSpinnerEl.classList.remove("hide");
               localStorage.setItem("subscriptionToken", data.subscriptionToken);
             },
