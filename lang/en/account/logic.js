@@ -111,8 +111,7 @@ async function onSubmit(e) {
         case "total discount applied":
           showError(36, 34, null, {
             onOpenStart: () => {
-              subscribeButtonEl.setAttribute("disabled", true);
-              subscribeButtonSpinnerEl.classList.remove("hide");
+              disableSubmitButton();
               localStorage.setItem("subscriptionToken", data.subscriptionToken);
             },
             onCloseEnd: () => {
@@ -132,8 +131,7 @@ async function onSubmit(e) {
                 const newContent = p.innerHTML.replace("${newprice}", `<strong>$${formattedPrice}</strong>`);
                 p.innerHTML = newContent;
 
-                subscribeButtonEl.setAttribute("disabled", true);
-                subscribeButtonSpinnerEl.classList.remove("hide");
+                disableSubmitButton();
               },
               onCloseEnd: () => {
                 window.location.href = paypalURL;
@@ -152,8 +150,7 @@ async function onSubmit(e) {
     })
     .catch(err => {
       console.error(err);
-      subscribeButtonEl.removeAttribute("disabled");
-      subscribeButtonSpinnerEl.classList.add("hide");
+      enableSubmitButton();
     });
 }
 
