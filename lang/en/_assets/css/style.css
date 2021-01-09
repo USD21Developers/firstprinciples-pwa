@@ -60,7 +60,8 @@ strong {
   text-overflow: ellipsis;
 }
 
-.fp_pagecontent {
+.fp_pagecontent,
+#myaccountlink {
   font-size: 1rem;
 }
 
