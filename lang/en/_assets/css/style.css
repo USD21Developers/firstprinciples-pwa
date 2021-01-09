@@ -60,13 +60,14 @@ strong {
   text-overflow: ellipsis;
 }
 
-.fp_pagecontent,
-#myaccountlink {
+.fp_pagecontent {
   font-size: 1rem;
 }
 
 @media only screen and (max-width: 991px) {
-  .fp_pagecontent, .modal-content .scripture {
+  .fp_pagecontent,
+  .modal-content .scripture,
+  #myaccountlink {
     font-size: 1.2rem;
   }
 }
