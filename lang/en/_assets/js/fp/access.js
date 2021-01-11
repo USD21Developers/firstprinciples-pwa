@@ -72,10 +72,14 @@ function isSubscriptionActiveInDb() {
   setInterval(async () => {
     if (!navigator.onLine) return;
     const accessToken = await getAccessToken();
+    const controller = new AbortController();
+
     console.info("Checking subscription...");
     fetch(endpoint, {
       mode: "cors",
       method: "POST",
+      signal: controller.signal,
+      timeout: timeInterval,
       headers: new Headers({
         "Content-Type": "application/json",
         authorization: `Bearer ${accessToken}`
