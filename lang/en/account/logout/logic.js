@@ -1,6 +1,7 @@
 function deleteTokens() {
   sessionStorage.removeItem("accessToken");
   localStorage.removeItem("refreshToken");
+  localStorage.removeItem("subscriptionToken");
 }
 
 function redirect() {
