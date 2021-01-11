@@ -31,7 +31,7 @@ function getAccessToken() {
     const refreshToken = localStorage.getItem("refreshToken") || "";
     if (!refreshToken.length) return reject("refresh token missing");
 
-    const endpoint = `${getAPIHost()}/refresh-token`;
+    const endpoint = `${getAPIHost()}/fp/refresh-token`;
 
     fetch(endpoint, {
       mode: "cors",
@@ -63,6 +63,48 @@ function getAccessToken() {
   });
 }
 
+function isSubscriptionActiveInDb() {
+  const numMinutes = 1; // Check subscription as often as this
+  const timeInterval = 1000 * 60 * numMinutes;
+  const endpoint = `${getAPIHost()}/fp/check-subscription`;
+  const logoutUrl = `/lang/${getLangFromPath()}/account/logout/`;
+
+  setInterval(async () => {
+    if (!navigator.onLine) return;
+    const accessToken = await getAccessToken();
+    console.info("Checking subscription...");
+    fetch(endpoint, {
+      mode: "cors",
+      method: "POST",
+      headers: new Headers({
+        "Content-Type": "application/json",
+        authorization: `Bearer ${accessToken}`
+      })
+    })
+      .then(res => res.json())
+      .then(data => {
+        switch(data.msg) {
+          case "user is not authorized for this action":
+            window.location.href = logoutUrl;
+            break;
+          case "user is not subscribed":
+            console.error("Subscription is no longer active. Deleting subscription token...");
+            localStorage.removeItem("subscriptionToken");
+            break;
+          case "user is subscribed":
+            console.info("User is still subscribed.");
+            break;
+          default:
+            console.error("Unable to check database to verify subscription");
+            break;
+        }
+      })
+      .catch(err => {
+        console.error(err);
+      })
+  }, timeInterval);
+}
+
 function isSubscriptionActive() {
   const subscriptionToken = localStorage.getItem("subscriptionToken") || "";
 
@@ -71,6 +113,8 @@ function isSubscriptionActive() {
   const expiry = parseInt(JSON.parse(atob(subscriptionToken.split(".")[1])).exp) || 0;
   const now = moment().utc().unix();
   const isSubscribed = (expiry > now) || false;
+
+  isSubscriptionActiveInDb();
 
   return isSubscribed;
 }
