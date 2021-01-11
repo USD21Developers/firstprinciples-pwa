@@ -63,53 +63,59 @@ function getAccessToken() {
   });
 }
 
+async function qryCheckSubscription(timeout) {
+  const subscriptionToken = localStorage.getItem("subscriptionToken") || "";
+  const isSubscribed = subscriptionToken.length || false;
+  if (!isSubscribed) return;
+  if (!navigator.onLine) return;
+
+  const endpoint = `${getAPIHost()}/fp/check-subscription`;
+  const logoutUrl = `/lang/${getLangFromPath()}/account/logout/`;
+  const accessToken = await getAccessToken();
+  const controller = new AbortController();
+
+  console.warn("Checking subscription...");
+  fetch(endpoint, {
+    mode: "cors",
+    method: "POST",
+    signal: controller.signal,
+    timeout: timeout,
+    headers: new Headers({
+      "Content-Type": "application/json",
+      authorization: `Bearer ${accessToken}`
+    })
+  })
+    .then(res => res.json())
+    .then(data => {
+      switch(data.msg) {
+        case "user is not authorized for this action":
+          window.location.href = logoutUrl;
+          break;
+        case "user is not subscribed":
+          console.error("Subscription is no longer active. Deleting subscription token...");
+          localStorage.removeItem("subscriptionToken");
+          break;
+        case "user is subscribed":
+          console.info("User is still subscribed.");
+          break;
+        default:
+          console.error("Unable to check database to verify subscription");
+          break;
+      }
+    })
+    .catch(err => {
+      console.error(err);
+    })
+}
+
 function isSubscriptionActiveInDb() {
   const numMinutes = 1; // Check subscription as often as this
   const timeInterval = 1000 * 60 * numMinutes;
-  const endpoint = `${getAPIHost()}/fp/check-subscription`;
-  const logoutUrl = `/lang/${getLangFromPath()}/account/logout/`;
 
-  setInterval(async () => {
-    const subscriptionToken = localStorage.getItem("subscriptionToken") || "";
-    const isSubscribed = subscriptionToken.length || false;
-    if (!isSubscribed) return;
-    if (!navigator.onLine) return;
+  qryCheckSubscription(timeInterval);
 
-    const accessToken = await getAccessToken();
-    const controller = new AbortController();
-
-    console.info("Checking subscription...");
-    fetch(endpoint, {
-      mode: "cors",
-      method: "POST",
-      signal: controller.signal,
-      timeout: timeInterval,
-      headers: new Headers({
-        "Content-Type": "application/json",
-        authorization: `Bearer ${accessToken}`
-      })
-    })
-      .then(res => res.json())
-      .then(data => {
-        switch(data.msg) {
-          case "user is not authorized for this action":
-            window.location.href = logoutUrl;
-            break;
-          case "user is not subscribed":
-            console.error("Subscription is no longer active. Deleting subscription token...");
-            localStorage.removeItem("subscriptionToken");
-            break;
-          case "user is subscribed":
-            console.info("User is still subscribed.");
-            break;
-          default:
-            console.error("Unable to check database to verify subscription");
-            break;
-        }
-      })
-      .catch(err => {
-        console.error(err);
-      })
+  setInterval(() => {
+    qryCheckSubscription(timeInterval);
   }, timeInterval);
 }
 
