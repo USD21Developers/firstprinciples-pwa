@@ -1,10 +1,3 @@
-function toggleSpinner() {
-  const content = document.querySelector("main");
-  const spinner = document.querySelector("#spinner");
-
-  hideSpinner(content, spinner);
-}
-
 function loadCountries() {
   const countryEl = document.querySelector("#country");
   const defaultOptionText = phrase(10, false);
@@ -189,8 +182,7 @@ async function init() {
   checkIfOffline();
   await showPhrases();
   loadCountries();
-  await retrieveContent()
-  toggleSpinner();
+  await retrieveContent();
   attachEventListeners();
 }
 
