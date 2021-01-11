@@ -68,7 +68,8 @@ function isSubscriptionActiveInDb() {
   const timeInterval = 1000 * 60 * numMinutes;
   const endpoint = `${getAPIHost()}/fp/check-subscription`;
   const logoutUrl = `/lang/${getLangFromPath()}/account/logout/`;
-  const isSubscribed = isSubscriptionActive() || false;
+  const subscriptionToken = localStorage.getItem("subscriptionToken") || "";
+  const isSubscribed = subscriptionToken.length || false;
 
   setInterval(async () => {
     if (!navigator.onLine) return;
