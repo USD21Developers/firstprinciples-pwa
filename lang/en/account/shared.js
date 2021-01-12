@@ -40,6 +40,22 @@ function getContent() {
   });
 }
 
+function getFooterContent() {
+  return new Promise((resolve, reject) => {
+    const globalContentUrl = `/lang/${getLangFromPath()}/global/footer/content.xml`;
+    fetch(globalContentUrl)
+    .then(res => res.text())
+    .then(data => {
+      const xml = new DOMParser().parseFromString(data, "text/xml");
+      resolve(xml);
+    })
+    .catch(err => {
+      console.error(err);
+      reject(err);
+    });
+  });
+}
+
 function toggleSpinner() {
   const spinner = document.querySelector(".spinner");
   spinner?.classList.toggle("hide");
@@ -91,9 +107,47 @@ function phrase(id, inject = true) {
   return translated;
 }
 
+async function showFooter() {
+  const parsedXML = await getFooterContent();
+  const phrases = parsedXML.querySelectorAll("phrase");
+
+  var copyrightText = "";
+  var copyrightSubtext = "";
+
+  phrases.forEach(item => {
+    const id = item.getAttribute("id");
+    const original = item.querySelector("original").innerHTML.trim();
+    let translated = item.querySelector("translated").innerHTML.trim();
+    translated = (!translated.length) ? original : translated.trim();
+    if (id === "2") copyrightText = translated;
+    if (id === "3") copyrightSubtext = translated;
+  });
+
+  const isFooterReady = (copyrightText.length && copyrightSubtext.length) ? true : false;
+  if (isFooterReady) {
+    const footerContent = `
+      <div align="center">
+        &copy; ${moment().format("YYYY")} ${copyrightText}<br>
+        ${copyrightSubtext}
+      </div>
+    `;
+
+    const footerEl = document.querySelector(".page-footer");
+    footerEl.innerHTML = footerContent;
+    footerEl.style.paddingBottom = "20px";
+    footerEl.classList.remove("hide");
+
+    return new Promise((resolve, reject) => {
+      resolve();
+    });
+  }
+}
+
 async function showPhrases() {
   const parsedXML = await getContent();
   const phrases = parsedXML.querySelectorAll("phrase");
+
+  await showFooter();
 
   retrievedContent = phrases;
 
