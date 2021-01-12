@@ -344,3 +344,21 @@ ul.showdiscs li {
 a.btn {
   text-decoration: none !important;
 }
+
+.collection {
+  border: 1px solid #039be5;
+}
+
+.collection .collection-item {
+  color: #0277bd !important;
+  border-bottom: 1px solid #039be5 !important;
+}
+
+.collection .collection-item:last-child {
+  border-bottom: 0px !important;
+}
+
+.collection a.collection-item:hover {	
+  background-color: #efefef !important;
+  font-weight: 700 !important;
+}
