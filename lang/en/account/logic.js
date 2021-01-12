@@ -11,7 +11,7 @@ function showSubscriptionInfo() {
   const lsDateArgs = now.format("YYYY, M, D");
   const lsDateObj = new Date(lsDateArgs);
   const lsExpiry = new Intl.DateTimeFormat(lang, { dateStyle: 'long' }).format(lsDateObj);
-  const expiryStatement = phrase(5, false).replace("${expiryDate}", `<strong>${lsExpiry}</strong>`);
+  const expiryStatement = phrase(5, false).replace("${expiryDate}", `<strong class="nowrap">${lsExpiry}</strong>`);
 
   document.querySelector("[data-expiry-statement]").innerHTML = expiryStatement;
   document.querySelector("#subscription-status-subscribed").classList.remove("hide");

@@ -362,3 +362,7 @@ a.btn {
   background-color: #efefef !important;
   font-weight: 700 !important;
 }
+
+.nowrap {
+  white-space: nowrap;
+}
