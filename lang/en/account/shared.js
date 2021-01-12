@@ -75,7 +75,11 @@ function phrase(id, inject = true) {
       }
     }
 
-    translated = translated.replace(changeTranslated, change);
+    try {
+      translated = translated.replaceAll(changeTranslated, change);
+    } catch(err) {
+      translated = translated.replace(changeTranslated, change);
+    }
   });
 
   if (inject) {
@@ -126,7 +130,11 @@ async function showPhrases() {
         }
       }
 
-      translated = translated.replace(changeTranslated, change);
+      try {
+        translated = translated.replaceAll(changeTranslated, change);
+      } catch(err) {
+        translated = translated.replace(changeTranslated, change);
+      }
     });
 
     document.querySelectorAll(`[data-p${id}]`).forEach(item => {
