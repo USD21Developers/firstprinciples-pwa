@@ -6,7 +6,7 @@ module.exports = {
     "**/*.{css,js,ico,txt,woff,woff2,png,svg,xml,html,json,pdf}"
   ],
   globIgnores: [
-    '**/_tests/*', 
+    '**/_tests/**', 
     '**/splashscreens/*', 
     '**/webfonts/*.eot', 
     '**/webfonts/*.svg', 
