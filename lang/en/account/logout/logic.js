@@ -1,6 +1,6 @@
 function clearEverything() {
   localStorage.removeItem("refreshToken");
-  localStorage.removeItem("subscribeToken");
+  localStorage.removeItem("subscriptionToken");
   sessionStorage.removeItem("accessToken");
 }
 
