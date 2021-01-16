@@ -8,9 +8,8 @@ function spinner(activate=true) {
   }
 }
 
-async function onSubmit(e) {
+function onSubmit(e) {
   e.preventDefault();
-  await clearEverything();
   const username = e.target["username"].value.trim();
   const password = e.target["password"].value.trim();
   const firstname = e.target["firstname"].value.trim();
