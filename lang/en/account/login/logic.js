@@ -9,6 +9,8 @@ function onSubmit(e) {
   const username = e.target["username"].value.trim();
   const password = e.target["password"].value.trim();
 
+  clearEverything();
+
   inputUsername = 8;
   inputPassword = 9;
   systemCantVerifyLogin = 10;

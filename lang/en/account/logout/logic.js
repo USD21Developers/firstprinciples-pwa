@@ -1,15 +1,26 @@
-function deleteTokens() {
-  sessionStorage.removeItem("accessToken");
-  localStorage.removeItem("refreshToken");
-  localStorage.removeItem("subscriptionToken");
+function clearEverything() {
+  caches.keys().then(function (cacheNames) {
+    localStorage.removeItem("refreshToken");
+    localStorage.removeItem("subscriptionToken");
+    sessionStorage.removeItem("accessToken");
+    return Promise.all(
+      cacheNames
+        .filter(function (cacheName) {
+          return true;
+        })
+        .map(function (cacheName) {
+          return caches.delete(cacheName);
+        })
+    );
+  });
 }
 
 function redirect() {
   window.location.href = "../login/";
 }
 
-function init() {
-  deleteTokens();
+async function init() {
+  await clearEverything();
   redirect();
 }
 
