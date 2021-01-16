@@ -18,6 +18,10 @@ function onSubmit(e) {
   const email = e.target["email"].value.trim();
   const country = e.target["country"].value.trim();
 
+  localStorage.removeItem("refreshToken");
+  localStorage.removeItem("subscriptionToken");
+  sessionStorage.removeItem("accessToken");
+
   // Set phrase IDs
   const formIncompleteHeadline = 13;
   const usernameRequired = 14;

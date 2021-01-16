@@ -6,6 +6,10 @@ function onConfirmed(refreshToken, accessToken) {
   const pageHead = document.querySelector(".fp_pagehead");
   const pageContent = document.querySelector(".fp_pagecontent");
 
+  localStorage.removeItem("refreshToken");
+  localStorage.removeItem("subscriptionToken");
+  sessionStorage.removeItem("accessToken");
+
   localStorage.setItem("refreshToken", refreshToken);
   sessionStorage.setItem("accessToken", accessToken);
   sessionStorage.setItem("justRegistered", true);
