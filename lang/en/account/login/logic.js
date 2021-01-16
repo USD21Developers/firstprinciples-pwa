@@ -4,12 +4,12 @@ const spinnerDefault = document.querySelector("#spinnerDefault");
 const submitButton = document.querySelector("#submitButton");
 const submitButtonProgress = document.querySelector("#submitButtonProgress");
 
-function onSubmit(e) {
+async function onSubmit(e) {
   e.preventDefault();
   const username = e.target["username"].value.trim();
   const password = e.target["password"].value.trim();
 
-  clearEverything();
+  await clearEverything();
 
   inputUsername = 8;
   inputPassword = 9;
