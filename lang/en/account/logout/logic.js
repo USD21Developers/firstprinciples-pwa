@@ -9,6 +9,7 @@ function redirect() {
 }
 
 async function init() {
+  clearEverything();
   redirect();
 }
 
