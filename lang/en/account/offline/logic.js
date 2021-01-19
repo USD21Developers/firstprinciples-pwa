@@ -14,7 +14,7 @@ function goBack() {
       window.location.href = "../";
     }
   } else {
-    window.location.href = "../";
+    history.go(-1);
   }
 }
 

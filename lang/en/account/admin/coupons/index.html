@@ -41,7 +41,7 @@
       <div class="fp_pagecontent">
         <br>
 
-          <div id="spinnerDefault" class="center-align my-1">
+          <div id="spinnerDefault" class="center-align my-1 hide">
             <div class="preloader-wrapper big active">
               <div class="spinner-layer spinner-blue-only">
                 <div class="circle-clipper left">
@@ -55,6 +55,72 @@
             </div>
           </div>
 
+          <div class="row">
+            <div class="row mb-5 mt-1">
+              <article class="col s12 m4 offset-m4 z-depth-2 grey lighten-2">
+                <table>
+                  <caption style="font-size: 1.2rem"><strong>Stats</strong></caption>
+                  <tbody>
+                    <tr>
+                      <td>In current use:</td>
+                      <td class="right-align"><span id="numActive">&mdash;</span></td>
+                    </tr>
+                    <tr>
+                      <td>Expired:</td>
+                      <td class="right-align"><span id="numExpired">&mdash;</span></td>
+                    </tr>
+                    <tr>
+                      <td>Discontinued:</td>
+                      <td class="right-align"><span id="numDiscontinued">&mdash;</span></td>
+                    </tr>
+                    <tr>
+                      <td>Redemptions:</td>
+                      <td class="right-align"><span id="numRedeemed">&mdash;</span></td>
+                    </tr>
+                    <tr>
+                      <td>Value redeemed:</td>
+                      <td class="right-align"><span id="cumulativeAmount">&mdash;</span></td>
+                    </tr>
+                    <tr>
+                      <td style="vertical-align: top;">Last redemption:</td>
+                      <td class="right-align">
+                        <div><span id="mostRecentCouponCode">&mdash;</span></div>
+                        <div><span id="mostRecentRedemptionDate"></span></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                
+              </article>
+            </div>
+          </div>
+
+          <form id="couponsearch" style="margin: 4rem auto">
+            <div class="row">
+              <div class="col s12 m4 offset-m4 center-align">
+                <strong>Find a coupon:</strong>
+                <div class="input-field">
+                  <input name="couponcode" id="couponcode" type="search" class="validate">
+                  <label for="couponcode">Coupon code</label>
+                </div>
+              </div>
+              <p class="col s12 m4 offset-m4 center-align">
+                <button type="submit" class="waves-effect waves-light btn light-blue darken-3">Find</button>
+              </p>
+            </div>
+          </form>
+
+          <div class="row" style="margin: 4rem auto">
+            <div class="col s12 m4 offset-m4 center-align">
+              <a href="add/" class="waves-effect waves-light btn light-blue darken-3">Add a coupon</a>
+            </div>
+          </div>
+
+          <div class="row" style="margin: 4rem auto">
+            <div class="col s12 m4 offset-m4 center-align">
+              <a href="list/" class="waves-effect waves-light btn light-blue darken-3">List coupons</a>
+            </div>
+          </div>
           
       </div>
     </div>
