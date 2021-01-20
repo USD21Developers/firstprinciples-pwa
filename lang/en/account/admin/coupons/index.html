@@ -102,12 +102,12 @@
               </div>
             </div>
   
-            <form id="couponsearch" style="margin: 4rem auto">
+            <form id="couponsearch" style="margin: 4rem auto" autocomplete="off">
               <div class="row">
                 <div class="col s12 m4 offset-m4 center-align">
                   <strong data-p10></strong>
                   <div class="input-field">
-                    <input name="couponcode" id="couponcode" type="search" class="validate">
+                    <input name="couponcode" id="couponcode" type="search" class="validate" autocomplete="off" autocapitalize="off">
                     <label for="couponcode" data-p11></label>
                   </div>
                 </div>
@@ -154,7 +154,7 @@
         <a href="javascript:void()" class="modal-close"><img src="../../_assets/img/icons/x-circle.svg" width="12" height="12"></a>
       </div>
       <div class="modal-content">
-        <form id="editcoupon">
+        <form id="editcoupon" autocomplete="off">
           <input type="hidden" name="editcouponmodal_couponid" id="editcouponmodal_couponid" value="">
 
           <h5 class="mt-0 mb-1 center-align" data-p27></h5>
@@ -172,7 +172,7 @@
           <!-- Coupon code -->
           <div class="row">
             <div class="input-field m4 offset-m4 col s12">
-              <input id="editcouponmodal_couponcode" maxlength="255" type="text" class="validate">
+              <input id="editcouponmodal_couponcode" maxlength="255" type="text" class="validate" autocomplete="off" autocapitalize="off">
               <label for="editcouponmodal_couponcode" class="active" data-p11></label>
             </div>
           </div>
