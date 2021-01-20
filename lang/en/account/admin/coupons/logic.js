@@ -141,10 +141,6 @@ async function showEditCoupon(data) {
   const discontinuedNoEl = document.querySelector("#editcouponmodal_discontinued_no");
   const discontinuedYesEl = document.querySelector("#editcouponmodal_discontinued_yes");
   const timezone = moment.tz.guess();
-  const accessToken = await getAccessToken();
-  // const country = JSON.parse(atob(accessToken.split(".")[1])).country || "us";
-
-  console.log(data);
 
   // Populate
   couponIdEl.value = data.couponid;
@@ -163,9 +159,109 @@ async function showEditCoupon(data) {
   modal.open();
 }
 
-function onEdit(e) {
+async function onEdit(e) {
   e.preventDefault();
-  console.log(e.target);
+  const accessToken = await getAccessToken();
+  const endpoint = `${getAPIHost()}/fp/coupon-edit`;
+  const couponid = parseInt(e.target["editcouponmodal_couponid"].value.trim()) || "";
+  const couponcode = e.target["editcouponmodal_couponcode"].value.trim().toLowerCase() || "";
+  const discountpercent = parseInt(e.target["editcouponmodal_discountpercent"].value.trim());
+  const expiry = e.target["editcouponmodal_expiry"].value.trim();
+  const isdiscontinued = e.target["editcouponmodal_discontinued_yes"].checked ? true : false;
+  const timezone = moment.tz.guess();
+  const submitButton = document.querySelector("#editcouponmodal_submit");
+  const loader = document.querySelector("#editcouponmodal_loader");
+
+  const showLoader = () => {
+    submitButton.setAttribute("disabled", true);
+    loader.classList.remove("hide");
+  }
+
+  const hideLoader = () => {
+    submitButton.removeAttribute("disabled");
+    loader.classList.add("hide");
+  }
+
+  showLoader();
+  fetch(endpoint, {
+    mode: "cors",
+    method: "POST",
+    body: JSON.stringify({
+      couponid: couponid,
+      couponcode: couponcode,
+      discountpercent: discountpercent,
+      expiry: expiry,
+      isdiscontinued: isdiscontinued,
+      timezone: timezone
+    }),
+    headers: new Headers({
+      "Content-Type": "application/json",
+      authorization: `Bearer ${accessToken}`,
+    })
+  })
+    .then(res => res.json())
+    .then(data => {
+      hideLoader();
+      switch(data.msg) {
+        case "user is not authorized for this action":
+          showError(22, 21);
+          break;
+        case "coupon id must not be blank":
+          showError(44, 43);
+          break;
+        case "coupon id must be numeric":
+          showError(44, 43);
+          break;
+        case "coupon code must not be blank":
+          showError(16, 15, "#editcouponmodal_couponcode");
+          break;
+        case "expiry must not be blank":
+          showError(36, 15, "#editcouponmodal_expiry");
+          break;
+        case "invalid expiry date":
+          showError(37, 15, "#editcouponmodal_expiry");
+          break;
+        case "expiry must be in the future":
+          showError(38, 15, "#editcouponmodal_expiry");
+          break;
+        case "discount percent must be numeric":
+          showError(44, 43);
+          break;
+        case "discount must not exceed 100 percent":
+          showError(44, 43);
+          break;
+        case "unable to query for existing coupon":
+          showError(44, 43);
+          break;
+        case "coupon not found":
+          showError(39, 25);
+          break;
+        case "user may not edit another user's coupons":
+          showError(40, 21);
+          break;
+        case "unable to check for duplicate couponcode":
+          showError(44, 43);
+          break;
+        case "coupon code is already in use":
+          showError(42, 41);
+          break;
+        case "unable to update coupon":
+          showError(44, 43);
+          break;
+        case "coupon updated":
+          showError(46, 45, null, {
+            onCloseStart: () => {
+              const modal = M.Modal.getInstance(document.querySelector("#editcouponmodal"));
+              modal.close();
+            }
+          })
+          break;
+      }
+    })
+    .catch(err => {
+      console.error(err);
+      hideLoader();
+    });
 }
 
 function addEventListeners() {

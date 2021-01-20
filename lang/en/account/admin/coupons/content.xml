@@ -221,7 +221,7 @@
 
 	<phrase id="32">
 		<original>
-			Discontinued:
+			Coupon is discontinued:
 		</original>
 		<translated></translated>
 	</phrase>
@@ -243,6 +243,83 @@
 	<phrase id="35">
 		<original>
 			Update
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="36">
+		<original>
+			Please input the expiry.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="37">
+		<original>
+			Please ensure that the expiry is a valid date.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="38">
+		<original>
+			Please input an expiry that is in the future.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="39">
+		<original>
+			This coupon is no longer in the system and therefore cannot be revised.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="40">
+		<original>
+			You may not make changes to coupons created by another user.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="41">
+		<original>
+			Coupon code already in use
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="42">
+		<original>
+			Please choose a different coupon code. The one you typed above is already in use.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="43">
+		<original>
+			Unable to Update
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="44">
+		<original>
+			There was a technical glitch preventing the coupon from being updated.  Please ensure that you are connected to the internet, then try again.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="45">
+		<original>
+			Coupon Updated
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="46">
+		<original>
+			Your changes have been saved.
 		</original>
 		<translated></translated>
 	</phrase>
