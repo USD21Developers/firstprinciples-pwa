@@ -60,7 +60,14 @@ function getAccessToken() {
 }
 
 function getPermissions() {
-  return JSON.parse(atob(localStorage.getItem("refreshToken").split(".")[1])).may || [];
+  const token = JSON.parse(atob(sessionStorage.getItem("accessToken").split(".")[1]));
+  const permissions = [];
+
+  if (token.may_redeem_coupons) permissions.push("redeem coupons");
+  if (token.may_create_coupons) permissions.push("create coupons");
+  if (token.may_create_preauthorized_users) permissions.push("create preauthorized users");
+
+  return permissions;
 }
 
 function isSysadmin() {
