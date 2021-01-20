@@ -268,8 +268,9 @@ async function onEdit(e) {
         case "coupon updated":
           showError(46, 45, null, {
             onCloseStart: () => {
-              const modal = M.Modal.getInstance(document.querySelector("#editcouponmodal"));
-              modal.close();
+              /* const modal = M.Modal.getInstance(document.querySelector("#editcouponmodal"));
+              modal.close(); */
+              window.location.reload();
             }
           });
           break;
@@ -369,8 +370,9 @@ async function onAdd(e) {
         case "coupon added":
           showError(51, 50, null, {
             onCloseStart: () => {
-              const modal = M.Modal.getInstance(document.querySelector("#addcouponmodal"));
-              modal.close();
+              /* const modal = M.Modal.getInstance(document.querySelector("#addcouponmodal"));
+              modal.close(); */
+              window.location.reload();
             }
           });
           break;
