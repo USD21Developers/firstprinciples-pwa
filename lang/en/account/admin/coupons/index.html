@@ -37,11 +37,18 @@
       </div>
     </nav>
 
+    <div class="breadcrumbs hide">
+      <a href="../../../" data-p17></a>
+      <a href="../../" data-p18></a>
+      <a href="../" data-p19></a>
+      <span data-p20></span>
+    </div>
+
     <div class="container main">
       <div class="fp_pagecontent">
         <br>
 
-          <div id="spinnerDefault" class="center-align my-1 hide">
+          <div id="spinnerDefault" class="center-align my-1">
             <div class="preloader-wrapper big active">
               <div class="spinner-layer spinner-blue-only">
                 <div class="circle-clipper left">
@@ -55,72 +62,78 @@
             </div>
           </div>
 
-          <div class="row">
-            <div class="row mb-5 mt-1">
-              <article class="col s12 m4 offset-m4 z-depth-2 grey lighten-2">
-                <table>
-                  <caption style="font-size: 1.2rem"><strong>Stats</strong></caption>
-                  <tbody>
-                    <tr>
-                      <td>In current use:</td>
-                      <td class="right-align"><span id="numActive">&mdash;</span></td>
-                    </tr>
-                    <tr>
-                      <td>Expired:</td>
-                      <td class="right-align"><span id="numExpired">&mdash;</span></td>
-                    </tr>
-                    <tr>
-                      <td>Discontinued:</td>
-                      <td class="right-align"><span id="numDiscontinued">&mdash;</span></td>
-                    </tr>
-                    <tr>
-                      <td>Redemptions:</td>
-                      <td class="right-align"><span id="numRedeemed">&mdash;</span></td>
-                    </tr>
-                    <tr>
-                      <td>Value redeemed:</td>
-                      <td class="right-align"><span id="cumulativeAmount">&mdash;</span></td>
-                    </tr>
-                    <tr>
-                      <td style="vertical-align: top;">Last redemption:</td>
-                      <td class="right-align">
-                        <div><span id="mostRecentCouponCode">&mdash;</span></div>
-                        <div><span id="mostRecentRedemptionDate"></span></div>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-                
-              </article>
-            </div>
-          </div>
-
-          <form id="couponsearch" style="margin: 4rem auto">
+          <main class="hide">
             <div class="row">
-              <div class="col s12 m4 offset-m4 center-align">
-                <strong>Find a coupon:</strong>
-                <div class="input-field">
-                  <input name="couponcode" id="couponcode" type="search" class="validate">
-                  <label for="couponcode">Coupon code</label>
-                </div>
+              <div class="row mb-5 mt-1">
+                <article class="col s12 m4 offset-m4 z-depth-2 grey lighten-2">
+                  <table>
+                    <caption style="font-size: 1.2rem"><strong data-p3></strong></caption>
+                    <tbody>
+                      <tr>
+                        <td data-p4></td>
+                        <td class="right-align"><span id="numActive">&mdash;</span></td>
+                      </tr>
+                      <tr>
+                        <td data-p5></td>
+                        <td class="right-align"><span id="numExpired">&mdash;</span></td>
+                      </tr>
+                      <tr>
+                        <td data-p6></td>
+                        <td class="right-align"><span id="numDiscontinued">&mdash;</span></td>
+                      </tr>
+                      <tr>
+                        <td data-p7></td>
+                        <td class="right-align"><span id="numRedeemed">&mdash;</span></td>
+                      </tr>
+                      <tr>
+                        <td data-p8></td>
+                        <td class="right-align"><span id="cumulativeAmount">&mdash;</span></td>
+                      </tr>
+                      <tr>
+                        <td style="vertical-align: top;" data-p9></td>
+                        <td class="right-align">
+                          <div><span id="mostRecentCouponCode">&mdash;</span></div>
+                          <div><span id="mostRecentRedemptionDate"></span></div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  
+                </article>
               </div>
-              <p class="col s12 m4 offset-m4 center-align">
-                <button type="submit" class="waves-effect waves-light btn light-blue darken-3">Find</button>
-              </p>
             </div>
-          </form>
+  
+            <form id="couponsearch" style="margin: 4rem auto">
+              <div class="row">
+                <div class="col s12 m4 offset-m4 center-align">
+                  <strong data-p10></strong>
+                  <div class="input-field">
+                    <input name="couponcode" id="couponcode" type="search" class="validate">
+                    <label for="couponcode" data-p11></label>
+                  </div>
+                </div>
+                <p class="col s12 m4 offset-m4 center-align">
+                  <button type="submit" class="waves-effect waves-light btn light-blue darken-3" id="couponsearch_submitbutton" data-p12></button>
 
-          <div class="row" style="margin: 4rem auto">
-            <div class="col s12 m4 offset-m4 center-align">
-              <a href="add/" class="waves-effect waves-light btn light-blue darken-3">Add a coupon</a>
+                  <div class="progress hide" id="couponsearch_loader">
+                    <div class="indeterminate"></div>
+                  </div>
+                </p>
+              </div>
+            </form>
+  
+            <div class="row" style="margin: 4rem auto">
+              <div class="col s12 m4 offset-m4 center-align">
+                <a href="add/" class="waves-effect waves-light btn light-blue darken-3" data-p13></a>
+              </div>
             </div>
-          </div>
-
-          <div class="row" style="margin: 4rem auto">
-            <div class="col s12 m4 offset-m4 center-align">
-              <a href="list/" class="waves-effect waves-light btn light-blue darken-3">List coupons</a>
+  
+            <div class="row" style="margin: 4rem auto">
+              <div class="col s12 m4 offset-m4 center-align">
+                <a href="list/" class="waves-effect waves-light btn light-blue darken-3" data-p14></a>
+              </div>
             </div>
-          </div>
+          </main>
           
       </div>
     </div>
@@ -128,11 +141,89 @@
     <!-- Modal -->
     <div id="modal1" class="modal bottom-sheet">
       <div class="closeButton">
-        <a href="#" class="modal-close"><img src="../../_assets/img/icons/x-circle.svg" width="24" height="24"></a>
+        <a href="javascript:void()" class="modal-close"><img src="../../_assets/img/icons/x-circle.svg" width="24" height="24"></a>
       </div>
       <div class="modal-content center">
         <h5 class="mt-0"></h5>
         <p></p>
+      </div>
+    </div>
+
+    <!-- Edit Coupon Modal -->
+    <div id="editcouponmodal" class="modal">
+      <div class="closeButton right-align" style="position: absolute; top: 5px; right: 8px; z-index: 2">
+        <a href="javascript:void()" class="modal-close"><img src="../../_assets/img/icons/x-circle.svg" width="12" height="12"></a>
+      </div>
+      <div class="modal-content">
+        <form id="editcoupon">
+          <input type="hidden" name="editcouponmodal_couponid" id="editcouponmodal_couponid" value="">
+
+          <h5 class="mt-0 mb-1 center-align" data-p27></h5>
+
+          <!-- Issued by -->
+          <div class="row">
+            <div class="col m4 offset-m4 s12">
+              <p class="center-align">
+                <strong data-p31></strong><br>
+                <span id="editcouponmodal_issuedby"></span>
+              </p> 
+            </div>
+          </div>
+
+          <!-- Coupon code -->
+          <div class="row">
+            <div class="input-field m4 offset-m4 col s12">
+              <input id="editcouponmodal_couponcode" maxlength="255" type="text" class="validate">
+              <label for="editcouponmodal_couponcode" class="active" data-p11></label>
+            </div>
+          </div>
+
+          <!-- Discount percent -->
+          <div class="row">
+            <div class="input-field col m4 offset-m4 s12">
+              <select id="editcouponmodal_discountpercent">
+                <option value="50">50%</option>
+                <option value="100">100%</option>
+              </select>
+              <label data-p28></label>
+            </div>
+          </div>
+
+          <!-- Expiry -->
+          <div class="row">
+            <div class="input-field col m4 offset-m4 s12">
+              <input type="date" id="editcouponmodal_expiry">
+              <label class="active" data-p30></label>
+            </div>
+          </div>
+
+          <!-- Discontinued -->
+          <div class="row">
+            <div class="col m4 offset-m4 s12">
+              <label data-p32></label>
+              <p>
+                <label for="editcouponmodal_discontinued_no">
+                  <input class="with-gap" name="editcouponmodal_discontinued" id="editcouponmodal_discontinued_no" value="0" type="radio" />
+                  <span data-p33></span>
+                </label>
+              </p>
+              <p>
+                <label for="editcouponmodal_discontinued_yes">
+                  <input class="with-gap" name="editcouponmodal_discontinued" id="editcouponmodal_discontinued_yes" value="1" type="radio" />
+                  <span data-p34></span>
+                </label>
+              </p>
+            </div>
+          </div>
+
+          <!-- Update -->
+          <div class="row">
+            <div class="col m4 offset-m4 s12 center-align">
+              <button type="submit" class="waves-effect waves-light btn light-blue darken-3" data-p35></button>
+            </div>
+          </div>
+
+        </form>
       </div>
     </div>
     
