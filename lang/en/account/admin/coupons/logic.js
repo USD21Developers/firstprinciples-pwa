@@ -34,8 +34,23 @@ async function getMetadata() {
   })
     .then(res => res.json())
     .then(data => {
-      populateMetaData(data.data, country);
-      return new Promise((resolve, reject) => resolve());
+      switch(data.msg) {
+        case "user is not authorized for this action":
+          showError(22, 21, null, {
+            onCloseStart: () => {
+              return window.location.href = "../";
+            }
+          })
+          break;
+        case "unable to get coupon metadata":
+          showError(24, 25);
+          return new Promise((resolve, reject) => reject());
+        case "no coupon metadata found":
+          return new Promise((resolve, reject) => resolve());
+        case "coupon metadata retrieved":
+          populateMetaData(data.data, country);
+          return new Promise((resolve, reject) => resolve());
+      }
     })
     .catch(err => {
       console.error(err);
