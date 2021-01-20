@@ -15,7 +15,7 @@ function populateMetaData(data, country="us") {
   numRedeemed.innerHTML = (num_redeemed.toString().length) ? num_redeemed : `&mdash;`;
   cumulativeAmount.innerHTML = (country === "us") ? `$${Number(cumulative_amount || 0).toLocaleString(country)} <span style="font-variant:small-caps;">usd</span>` : `$ ${Number(cumulative_amount || 0).toLocaleString(country)} <span style="font-variant:small-caps;">usd</span>`;
   mostRecentRedemptionDate.innerHTML = (most_recent_redemption_date) ? moment.utc("2021-01-19 15:31").format("YYYY-MM-DD") : `&mdash;`;
-  if (most_recent_couponcode.length) {
+  if (most_recent_couponcode && most_recent_couponcode.length) {
     mostRecentRedemptionDate.setAttribute("data-tooltip", most_recent_couponcode);
     mostRecentRedemptionDate.setAttribute("data-position", "bottom");
   }
@@ -186,7 +186,6 @@ async function onEdit(e) {
   const discountpercent = parseInt(e.target["editcouponmodal_discountpercent"].value.trim());
   const expiry = e.target["editcouponmodal_expiry"].value.trim();
   const isdiscontinued = e.target["editcouponmodal_discontinued_yes"].checked ? true : false;
-  const timezone = moment.tz.guess();
   const submitButton = document.querySelector("#editcouponmodal_submit");
   const loader = document.querySelector("#editcouponmodal_loader");
 
@@ -210,7 +209,6 @@ async function onEdit(e) {
       discountpercent: discountpercent,
       expiry: expiry,
       isdiscontinued: isdiscontinued,
-      timezone: timezone
     }),
     headers: new Headers({
       "Content-Type": "application/json",
@@ -261,7 +259,7 @@ async function onEdit(e) {
           showError(44, 43);
           break;
         case "coupon code is already in use":
-          showError(42, 41);
+          showError(42, 41, "#editcouponmodal_couponcode");
           break;
         case "unable to update coupon":
           showError(44, 43);
@@ -272,7 +270,107 @@ async function onEdit(e) {
               const modal = M.Modal.getInstance(document.querySelector("#editcouponmodal"));
               modal.close();
             }
-          })
+          });
+          break;
+      }
+    })
+    .catch(err => {
+      console.error(err);
+      hideLoader();
+    });
+}
+
+function onBtnAddCouponClicked(e) {
+  e.preventDefault();
+  const modal = M.Modal.getInstance(document.querySelector("#addcouponmodal"));
+  const addForm = document.querySelector("#addcoupon");
+  addForm.reset();
+  modal.open();
+}
+
+async function onAdd(e) {
+  e.preventDefault();
+  const discountpercent = parseInt(e.target["addcouponmodal_discountpercent"].value) || 100;
+  const couponcode = e.target["addcouponmodal_couponcode"].value.trim().toLowerCase() || "";
+  const expiry = e.target["addcouponmodal_expiry"].value.trim();
+  const accessToken = await getAccessToken();
+  const endpoint = `${getAPIHost()}/fp/coupon-add`;
+
+  const submitButton = document.querySelector("#addcouponmodal_submit");
+  const loader = document.querySelector("#addcouponmodal_loader");
+
+  const showLoader = () => {
+    submitButton.setAttribute("disabled", true);
+    loader.classList.remove("hide");
+  }
+
+  const hideLoader = () => {
+    submitButton.removeAttribute("disabled");
+    loader.classList.add("hide");
+  }
+
+  showLoader();
+  fetch(endpoint, {
+    mode: "cors",
+    method: "POST",
+    body: JSON.stringify({
+      discountpercent: discountpercent,
+      couponcode: couponcode,
+      expiry: expiry,
+    }),
+    headers: new Headers({
+      "Content-Type": "application/json",
+      authorization: `Bearer ${accessToken}`,
+    })
+  })
+    .then(res => res.json())
+    .then(data => {
+      hideLoader();
+      switch(data.msg) {
+        case "user is not authorized for this action":
+          showError(22, 21, null, {
+            onCloseEnd: () => {
+              window.location.href = "../";
+            }
+          });
+          break;
+        case "coupon code must not be blank":
+          showError(16, 15, "#addcouponmodal_couponcode");
+          break;
+        case "coupon code length must not exceed 255 characters":
+          showError(49, 15, "#addcouponmodal_couponcode");
+          break;
+        case "expiry must not be blank":
+          showError(36, 15, "#addcouponmodal_expiry");
+          break;
+        case "invalid expiry date":
+          showError(37, 15, "#addcouponmodal_expiry");
+          break;
+        case "expiry must be in the future":
+          showError(38, 15, "#addcouponmodal_expiry");
+          break;
+        case "discount percent must be numeric":
+          showError(44, 43);
+          break;
+        case "discount must not exceed 100 percent":
+          showError(44, 43);
+          break;
+        case "unable to query for existing coupon":
+          showError(44, 43);
+          break;
+        case "coupon code already in use":
+          showError(42, 41, "#addcouponmodal_couponcode");
+          break;
+        case "unable to insert coupon":
+          showError(44, 43);
+          break;
+        case "coupon added":
+          showError(51, 50, null, {
+            onCloseStart: () => {
+              const modal = M.Modal.getInstance(document.querySelector("#addcouponmodal"));
+              modal.close();
+            }
+          });
           break;
       }
     })
@@ -285,6 +383,8 @@ async function onEdit(e) {
 function addEventListeners() {
   document.querySelector("#couponsearch").addEventListener("submit", onSubmit);
   document.querySelector("#editcoupon").addEventListener("submit", onEdit);
+  document.querySelector("#btnAddCoupon").addEventListener("click", onBtnAddCouponClicked)
+  document.querySelector("#addcoupon").addEventListener("submit", onAdd);
 }
 
 async function init() {

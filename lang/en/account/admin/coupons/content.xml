@@ -324,6 +324,41 @@
 		<translated></translated>
 	</phrase>
 
+	<phrase id="47" desc="headline">
+		<original>
+			Add a Coupon
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="48" desc="submit button">
+		<original>
+			Add Coupon
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="49">
+		<original>
+			Please input a coupon code that is less than 255 characters.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="50">
+		<original>
+			Coupon Added
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="51">
+		<original>
+			Your coupon has been added successfully.
+		</original>
+		<translated></translated>
+	</phrase>
+
 	<!--
 	<phrase id="">
 		<original>

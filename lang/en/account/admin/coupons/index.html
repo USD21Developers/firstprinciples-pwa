@@ -67,7 +67,7 @@
               <div class="row mb-5 mt-1">
                 <article class="col s12 m4 offset-m4 z-depth-2 grey lighten-2">
                   <table>
-                    <caption style="font-size: 1.2rem"><strong data-p3></strong></caption>
+                    <caption class="mt-1" style="font-size: 1.2rem"><strong data-p3></strong></caption>
                     <tbody>
                       <tr>
                         <td data-p4></td>
@@ -123,7 +123,7 @@
   
             <div class="row" style="margin: 4rem auto">
               <div class="col s12 m4 offset-m4 center-align">
-                <a href="add/" class="waves-effect waves-light btn light-blue darken-3" data-p13></a>
+                <a href="javascript:void()" id="btnAddCoupon" class="waves-effect waves-light btn light-blue darken-3" data-p13></a>
               </div>
             </div>
   
@@ -169,14 +169,6 @@
             </div>
           </div>
 
-          <!-- Coupon code -->
-          <div class="row">
-            <div class="input-field m4 offset-m4 col s12">
-              <input id="editcouponmodal_couponcode" maxlength="255" type="text" class="validate" autocomplete="off" autocapitalize="off">
-              <label for="editcouponmodal_couponcode" class="active" data-p11></label>
-            </div>
-          </div>
-
           <!-- Discount percent -->
           <div class="row">
             <div class="input-field col m4 offset-m4 s12">
@@ -185,6 +177,14 @@
                 <option value="100">100%</option>
               </select>
               <label class="active" data-p28></label>
+            </div>
+          </div>
+
+          <!-- Coupon code -->
+          <div class="row">
+            <div class="input-field m4 offset-m4 col s12">
+              <input id="editcouponmodal_couponcode" maxlength="255" type="text" class="validate" autocomplete="off" autocapitalize="off">
+              <label for="editcouponmodal_couponcode" class="active" data-p11></label>
             </div>
           </div>
 
@@ -220,6 +220,57 @@
             <div class="col m4 offset-m4 s12 center-align">
               <button type="submit" class="waves-effect waves-light btn light-blue darken-3" id="editcouponmodal_submit" data-p35></button>
               <div class="progress my-2 hide" id="editcouponmodal_loader">
+                <div class="indeterminate"></div>
+              </div>
+            </div>
+          </div>
+
+        </form>
+      </div>
+    </div>
+
+    <!-- Add Coupon Modal -->
+    <div id="addcouponmodal" class="modal">
+      <div class="closeButton right-align" style="position: absolute; top: 5px; right: 8px; z-index: 2">
+        <a href="javascript:void()" class="modal-close"><img src="../../_assets/img/icons/x-circle.svg" width="12" height="12"></a>
+      </div>
+      <div class="modal-content">
+        <form id="addcoupon" autocomplete="off">
+          
+          <h5 class="mt-0 mb-3 center-align" data-p47></h5>
+
+          <!-- Discount percent -->
+          <div class="row">
+            <div class="input-field col m4 offset-m4 s12">
+              <select id="addcouponmodal_discountpercent" class="browser-default">
+                <option value="50">50%</option>
+                <option value="100" selected>100%</option>
+              </select>
+              <label class="active" data-p28></label>
+            </div>
+          </div>
+
+          <!-- Coupon code -->
+          <div class="row">
+            <div class="input-field m4 offset-m4 col s12">
+              <input id="addcouponmodal_couponcode" maxlength="255" type="text" class="validate" autocomplete="off" autocapitalize="off">
+              <label for="addcouponmodal_couponcode" class="active" data-p11></label>
+            </div>
+          </div>
+
+          <!-- Expiry -->
+          <div class="row">
+            <div class="input-field col m4 offset-m4 s12">
+              <input type="date" id="addcouponmodal_expiry">
+              <label class="active" data-p30></label>
+            </div>
+          </div>
+
+          <!-- Add -->
+          <div class="row">
+            <div class="col m4 offset-m4 s12 center-align">
+              <button type="submit" class="waves-effect waves-light btn light-blue darken-3" id="addcouponmodal_submit" data-p48></button>
+              <div class="progress my-2 hide" id="addcouponmodal_loader">
                 <div class="indeterminate"></div>
               </div>
             </div>
