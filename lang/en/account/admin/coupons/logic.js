@@ -14,7 +14,7 @@ function populateMetaData(data, country="us") {
   numDiscontinued.innerHTML = (num_discontinued.toString().length) ? num_discontinued : `&mdash;`;
   numRedeemed.innerHTML = (num_redeemed.toString().length) ? num_redeemed : `&mdash;`;
   cumulativeAmount.innerHTML = (country === "us") ? `$${Number(cumulative_amount || 0).toLocaleString(country)} <span style="font-variant:small-caps;">usd</span>` : `$ ${Number(cumulative_amount || 0).toLocaleString(country)} <span style="font-variant:small-caps;">usd</span>`;
-  mostRecentCouponCode.innerHTML = mostRecentCouponCode.length ? `"${most_recent_couponcode}"` : `&mdash;`;
+  mostRecentCouponCode.innerHTML = most_recent_couponcode.length ? `"${most_recent_couponcode}"` : `&mdash;`;
   mostRecentRedemptionDate.innerHTML = (most_recent_redemption_date) ? moment.utc("2021-01-19 15:31").format("YYYY-MM-DD") : "";
 }
 
