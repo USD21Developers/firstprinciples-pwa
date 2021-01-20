@@ -35,27 +35,151 @@ async function getMetadata() {
     .then(res => res.json())
     .then(data => {
       populateMetaData(data.data, country);
+      return new Promise((resolve, reject) => resolve());
     })
     .catch(err => {
       console.error(err);
     });
 }
 
-function onSubmit(e) {
+function toggleSpinner() {
+  const content = document.querySelector("main");
+  const spinner = document.querySelector("#spinnerDefault");
+
+  hideSpinner(content, spinner);
+}
+
+function showBreadcrumbs() {
+  document.querySelector(".breadcrumbs").classList.remove("hide");
+}
+
+function resetSearchForm() {
+  const form = document.querySelector("#couponsearch");
+  const couponcode = document.querySelector("#couponcode");
+
+  couponcode.blur();
+  form.reset();
+}
+
+async function onSubmit(e) {
   e.preventDefault();
   const couponcode = e.target["couponcode"].value.trim() || "";
-  // TODO:  build this out
+  const accessToken = await getAccessToken();
+  const endpoint = `${getAPIHost()}/fp/coupon-search`;
+  const submitButton = document.querySelector("#couponsearch_submitbutton");
+  const loader = document.querySelector("#couponsearch_loader");
+
+  const showLoader = () => {
+    submitButton.setAttribute("disabled", true);
+    loader.classList.remove("hide");
+  }
+
+  const hideLoader = () => {
+    submitButton.removeAttribute("disabled");
+    loader.classList.add("hide");
+  }
+
+  // Validate
+  if (!couponcode.length) {
+    showError(16, 15, "#couponcode");
+  }
+
+  // Fetch
+  showLoader();
+  fetch(endpoint, {
+    mode: "cors",
+    method: "POST",
+    body: JSON.stringify({
+      couponcode: couponcode
+    }),
+    headers: new Headers({
+      "Content-Type": "application/json",
+      authorization: `Bearer ${accessToken}`
+    })
+  })
+    .then(res => res.json())
+    .then(data => {
+      hideLoader();
+      switch(data.msg) {
+        case "user is not authorized for this action":
+          showError(22, 21, null, {
+            onCloseEnd: () => {
+              window.location.href = "../";
+            }
+          })
+          break;
+        case "coupon code must not be blank":
+          showError(16, 15, "#couponcode");
+          break;
+        case "unable to retrieve coupon":
+          showError(24, 23);
+          break;
+        case "coupon not found":
+          showError(26, 25, "#couponcode");
+          break;
+        case "coupon retrieved":
+          resetSearchForm();
+          showEditCoupon(data.data);
+          break;
+      }
+    })
+    .catch(err => {
+      console.error(err);
+      resetSearchForm();
+      hideLoader();
+    });
+}
+
+async function showEditCoupon(data) {
+  const modal = M.Modal.getInstance(document.querySelector("#editcouponmodal"));
+  const form = document.querySelector("#editcoupon");
+  const couponIdEl = document.querySelector("#editcouponmodal_couponid");
+  const issuedByEl = document.querySelector("#editcouponmodal_issuedby")
+  const couponCodeEl = document.querySelector("#editcouponmodal_couponcode");
+  const discountPctEl = document.querySelector("#editcouponmodal_discountpercent");
+  const expiryEl = document.querySelector("#editcouponmodal_expiry");
+  const discontinuedNoEl = document.querySelector("#editcouponmodal_discontinued_no");
+  const discontinuedYesEl = document.querySelector("#editcouponmodal_discontinued_yes");
+  const timezone = moment.tz.guess();
+  const accessToken = await getAccessToken();
+  // const country = JSON.parse(atob(accessToken.split(".")[1])).country || "us";
+
+  console.log(data);
+
+  // Populate
+  couponIdEl.value = data.couponid;
+  issuedByEl.innerHTML = `<a href="../users/id/#${data.issuedby.userid}">${data.issuedby.name}</a>`;
+  couponCodeEl.value = data.couponcode;
+  discountPctEl.value = data.discountpercent;
+  expiryEl.value = moment(data.expiry).tz(timezone).format("YYYY-MM-DD");
+  expiryEl.innerHTML = phrase(30, false);
+  discontinuedNoEl.checked = data.isdiscontinued === 0 ? true : false;
+  discontinuedYesEl.checked = data.isdiscontinued === 1 ? true : false;
+
+  // Initiate
+  M.updateTextFields();
+  M.FormSelect.init(document.querySelectorAll('select'));
+  resetSearchForm();
+  modal.open();
+}
+
+function onEdit(e) {
+  e.preventDefault();
+  console.log(e.target);
 }
 
 function addEventListeners() {
   document.querySelector("#couponsearch").addEventListener("submit", onSubmit);
+  document.querySelector("#editcoupon").addEventListener("submit", onEdit);
 }
 
 async function init() {
   checkIfOffline();
   addEventListeners();
   await showPhrases();
-  getMetadata();
+  await getMetadata();
+  toggleSpinner();
+  showBreadcrumbs();
 }
 
 init();
