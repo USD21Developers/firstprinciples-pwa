@@ -359,6 +359,55 @@
 		<translated></translated>
 	</phrase>
 
+	<phrase id="52">
+		<original>
+			No coupons found
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="53">
+		<original>
+			There coupons were found that match your search criteria.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="54">
+		<original>
+			Exp.:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="55">
+		<original>
+			(Discontinued)
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="56">
+		<original>
+			Issuer:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="57">
+		<original>
+			Discount:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="58">
+		<original>
+			Edit
+		</original>
+		<translated></translated>
+	</phrase>
+
 	<!--
 	<phrase id="">
 		<original>

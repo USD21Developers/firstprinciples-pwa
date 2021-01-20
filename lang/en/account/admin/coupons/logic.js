@@ -79,9 +79,9 @@ function resetSearchForm() {
   form.reset();
 }
 
-async function onCouponSearched(e) {
+async function onCouponSearched(e, couponClicked="") {
   e.preventDefault();
-  const couponcode = e.target["couponcode"].value.trim() || "";
+  let couponcode = (couponClicked.length) ? couponClicked : e.target["couponcode"].value.trim();
   const accessToken = await getAccessToken();
   const endpoint = `${getAPIHost()}/fp/coupon-search`;
   const submitButton = document.querySelector("#couponsearch_submitbutton");
@@ -352,19 +352,19 @@ async function onAdd(e) {
           showError(38, 15, "#addcouponmodal_expiry");
           break;
         case "discount percent must be numeric":
-          showError(44, 43);
+          showError(44, 23);
           break;
         case "discount must not exceed 100 percent":
-          showError(44, 43);
+          showError(44, 23);
           break;
         case "unable to query for existing coupon":
-          showError(44, 43);
+          showError(44, 23);
           break;
         case "coupon code already in use":
           showError(42, 41, "#addcouponmodal_couponcode");
           break;
         case "unable to insert coupon":
-          showError(44, 43);
+          showError(44, 23);
           break;
         case "coupon added":
           showError(51, 50, null, {
@@ -382,11 +382,143 @@ async function onAdd(e) {
     });
 }
 
+function showCouponList(data, country) {
+  const couponlist = document.querySelector("#couponlist");
+  let html = "";
+  
+  data.forEach(item => {
+    const { couponid, couponcode, expiry, discountpercent, isdiscontinued, issuer } = item;
+    const { userid, name } = issuer;
+    const lsDateArgs = moment(expiry).format("YYYY, M, D");
+    const lsDateObj = new Date(lsDateArgs);
+    const lsExpiry = new Intl.DateTimeFormat(country, { dateStyle: 'long' }).format(lsDateObj);
+
+    html += `
+      <li>
+        <div class="collapsible-header">${couponcode}</div>
+        <div class="collapsible-body">
+          <p>
+            <strong>${phrase(11, false)}:</strong><br>
+            <code>${couponcode}</code>
+          </p>
+
+          ${isdiscontinued ? '<p><strong class="red-text">' + phrase(55, false) + '</strong></p>' : ""}
+          
+          <p>
+            <strong>${phrase(57, false)}</strong><br>
+            ${discountpercent}%
+          </p>
+          
+          <p>
+            <strong>${phrase(54, false)}</strong><br>
+            ${lsExpiry}
+          </p>
+
+          <p>
+            <strong>${phrase(56, false)}</strong><br>
+            ${name}
+          </p>
+
+          <p class="mt-2">
+            <a class="btn editFromList" data-couponcode="${couponcode}">${phrase(58, false)}</a>
+          </p>
+        </div>
+      </li>
+    `;
+  });
+
+  html = `
+    <div class="row">
+      <div class="col s12 m4 offset-m4">
+        <p class="center-align">
+          <strong>${phrase(2, null)}</strong>
+        </p>
+        <ul class="collapsible">
+          ${html}
+        </ul>
+      </div>
+    </div>
+  `;
+
+  couponlist.innerHTML = html;
+  $('.collapsible').collapsible();
+  document.querySelectorAll(".editFromList").forEach(item => {
+    item.addEventListener("click", onListItemClicked);
+  });
+}
+
+function onListItemClicked(e) {
+  const couponcode = e.target.dataset.couponcode || "";
+  onCouponSearched(e, couponcode);
+}
+
+async function onBtnListCouponsClicked(e) {
+  e.preventDefault();
+  const accessToken = await getAccessToken();
+  const endpoint = `${getAPIHost()}/fp/coupon-list`;
+  const button = document.querySelector("#btnListCoupons");
+  const buttonContainer = document.querySelector("#btnListCoupons_container");
+  const loader = document.querySelector("#couponlist_loader");
+  const couponlist = document.querySelector("#couponlist");
+  const country = JSON.parse(atob(accessToken.split(".")[1])).country || "us";
+
+  const showLoader = () => {
+    button.setAttribute("disabled", true);
+    loader.classList.remove("hide");
+    couponlist.classList.add("hide");
+  }
+
+  const hideLoader = () => {
+    button.removeAttribute("disabled");
+    loader.classList.add("hide");
+  }
+
+  showLoader();
+  fetch(endpoint, {
+    mode: "cors",
+    method: "POST",
+    headers: new Headers({
+      "Content-Type": "application/json",
+      authorization: `Bearer ${accessToken}`
+    })
+  })
+    .then(res => res.json())
+    .then(data => {
+      hideLoader();
+      switch(data.msg) {
+        case "user is not authorized for this action":
+          showError(22, 21, null, {
+            onCloseEnd: () => {
+              window.location.href = "../";
+            }
+          });
+          break;
+        case "unable to retrieve coupons":
+          showError(44, 23);
+          break;
+        case "no coupons found":
+          showError(53, 52);
+          break;
+        case "coupons retrieved":
+          showCouponList(data.data, country);
+          buttonContainer.classList.add("hide");
+          couponlist.classList.remove("hide");
+          couponlist.scrollIntoView();
+          break;
+      }
+    })
+    .catch(err => {
+      console.error(err);
+      hideLoader();
+    });
+}
+
 function addEventListeners() {
   document.querySelector("#couponsearch").addEventListener("submit", onCouponSearched);
   document.querySelector("#editcoupon").addEventListener("submit", onEdit);
   document.querySelector("#btnAddCoupon").addEventListener("click", onBtnAddCouponClicked)
   document.querySelector("#addcoupon").addEventListener("submit", onAdd);
+  document.querySelector("#btnListCoupons").addEventListener("click", onBtnListCouponsClicked);
 }
 
 async function init() {
