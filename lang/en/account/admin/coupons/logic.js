@@ -79,7 +79,7 @@ function resetSearchForm() {
   form.reset();
 }
 
-async function onSubmit(e) {
+async function onCouponSearched(e) {
   e.preventDefault();
   const couponcode = e.target["couponcode"].value.trim() || "";
   const accessToken = await getAccessToken();
@@ -175,6 +175,7 @@ async function showEditCoupon(data) {
   M.FormSelect.init(document.querySelectorAll('select'));
   resetSearchForm();
   modal.open();
+  document.querySelector(".closeButton").scrollIntoView();
 }
 
 async function onEdit(e) {
@@ -286,6 +287,7 @@ function onBtnAddCouponClicked(e) {
   const addForm = document.querySelector("#addcoupon");
   addForm.reset();
   modal.open();
+  document.querySelector(".closeButton").scrollIntoView();
 }
 
 async function onAdd(e) {
@@ -381,7 +383,7 @@ async function onAdd(e) {
 }
 
 function addEventListeners() {
-  document.querySelector("#couponsearch").addEventListener("submit", onSubmit);
+  document.querySelector("#couponsearch").addEventListener("submit", onCouponSearched);
   document.querySelector("#editcoupon").addEventListener("submit", onEdit);
   document.querySelector("#btnAddCoupon").addEventListener("click", onBtnAddCouponClicked)
   document.querySelector("#addcoupon").addEventListener("submit", onAdd);
