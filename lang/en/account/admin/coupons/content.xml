@@ -16,6 +16,237 @@
 		<translated></translated>
 	</phrase>
 
+	<phrase id="3">
+		<original>
+			Stats
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			In current use:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="5">
+		<original>
+			Expired:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="6">
+		<original>
+			Discontinued:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			Redemptions:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			Value redeemed:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			Last redemption:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			Find a coupon:
+		</original>
+		<translated></translated>
+	</phrase>
+	
+	<phrase id="11">
+		<original>
+			Coupon code
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="12" desc="This is the text of the search button">
+		<original>
+			Find 
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="13">
+		<original>
+			Add a coupon
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			List coupons
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			Form Incomplete
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="16">
+		<original>
+			Please input the coupon code.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="17">
+		<original>
+			Home
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="18">
+		<original>
+			Account
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="19">
+		<original>
+			Administration
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="20">
+		<original>
+			Coupons
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="21">
+		<original>
+			Insufficient Permissions
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="22">
+		<original>
+			You are not authorized to administer coupons.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="23">
+		<original>
+			Unable to Access
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="24">
+		<original>
+			There was a technical glitch preventing the coupon from being retrieved.  Please ensure that you are connected to the internet, then try again.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="25">
+		<original>
+			Coupon not Found
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="26">
+		<original>
+			There is no record of this coupon code.  Please check it for accuracy then try again if necessary.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="27">
+		<original>
+			Coupon
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="28">
+		<original>
+			Discount percentage
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="29">
+		<original>
+			(Select)
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="30">
+		<original>
+			Expiry
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="31">
+		<original>
+			Issued by:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="32">
+		<original>
+			Discontinued:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="33">
+		<original>
+			No
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="34">
+		<original>
+			Yes
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="35">
+		<original>
+			Update
+		</original>
+		<translated></translated>
+	</phrase>
+
 	<!--
 	<phrase id="">
 		<original>
