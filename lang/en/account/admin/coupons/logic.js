@@ -434,6 +434,9 @@ function showCouponList(data, country) {
       <div class="col s12 m4 offset-m4">
         <p class="center-align">
           <strong>${phrase(59, null)}</strong>
+          <div class="my-1">
+            ${phrase(60, null)}
+          </div>
         </p>
         <ul class="collapsible">
           ${html}
