@@ -70,8 +70,9 @@ function getPermissions() {
   return permissions;
 }
 
-function isSysadmin() {
-  const usertype = JSON.parse(atob(localStorage.getItem("refreshToken").split(".")[1])).usertype || "user";
+async function isSysadmin() {
+  const accessToken = await getAccessToken();
+  const usertype = JSON.parse(atob(accessToken.split(".")[1])).usertype || "user";
   return (usertype === "sysadmin") ? true : false;
 }
 
