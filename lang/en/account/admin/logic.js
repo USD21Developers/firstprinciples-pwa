@@ -35,7 +35,7 @@ async function init() {
   await showPhrases();
   hideDefaultSpinner();
   couponLink();
-  preauthUsersLink();
+  // preauthUsersLink();
 }
 
 init();
