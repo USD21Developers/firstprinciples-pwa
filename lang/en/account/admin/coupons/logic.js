@@ -162,7 +162,7 @@ async function showEditCoupon(data) {
 
   // Populate
   couponIdEl.value = data.couponid;
-  issuedByEl.innerHTML = `<a href="../users/id/#${data.issuedby.userid}">${data.issuedby.name}</a>`;
+  issuedByEl.innerHTML = `<a href="mailto:${data.issuedby.email}" data-userid="${data.issuedby.userid}">${data.issuedby.name}</a>`;
   couponCodeEl.value = data.couponcode;
   discountPctEl.value = data.discountpercent;
   expiryEl.value = moment(data.expiry).tz(timezone).format("YYYY-MM-DD");
