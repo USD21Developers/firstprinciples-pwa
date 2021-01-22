@@ -14,8 +14,6 @@ function onConfirmed(refreshToken, accessToken) {
   sessionStorage.setItem("accessToken", accessToken);
   sessionStorage.setItem("justRegistered", true);
 
-  // TODO:  maybe store JWT tokens in indexedDB because of iOS problems with scope
-
   document.title = headlineConfirmationSuccessful;
   pageHead.innerHTML = headlineConfirmationSuccessful;
   pageContent.innerHTML = `
