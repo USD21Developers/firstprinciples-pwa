@@ -76,10 +76,10 @@ async function isSysadmin() {
   return (usertype === "sysadmin") ? true : false;
 }
 
-function canCreateCoupons() {
+async function canCreateCoupons() {
   let hasPermission = false;
-  const permissions = getPermissions();
-  const sysadmin = isSysadmin();
+  const permissions = await getPermissions();
+  const sysadmin = await isSysadmin();
 
   if (sysadmin) hasPermission = true;
   if (permissions.includes("create coupons")) hasPermission = true;
@@ -87,10 +87,10 @@ function canCreateCoupons() {
   return hasPermission;
 }
 
-function canCreatePreauthorizedUsers() {
+async function canCreatePreauthorizedUsers() {
   let hasPermission = false;
   const permissions = getPermissions();
-  const sysadmin = isSysadmin();
+  const sysadmin = await isSysadmin() || false;
 
   if (sysadmin) hasPermission = true;
   if (permissions.includes("create preauthorized users")) hasPermission = true;
@@ -98,12 +98,12 @@ function canCreatePreauthorizedUsers() {
   return hasPermission;
 }
 
-function canAccessAdministration() {
+async function canAccessAdministration() {
   let canAccess = false;
 
-  if (isSysadmin()) canAccess = true;
-  if (canCreateCoupons()) canAccess = true;
-  if (canCreatePreauthorizedUsers()) canAccess = true;
+  if (await isSysadmin()) canAccess = true;
+  if (await canCreateCoupons()) canAccess = true;
+  if (await canCreatePreauthorizedUsers()) canAccess = true;
 
   return canAccess;
 }
