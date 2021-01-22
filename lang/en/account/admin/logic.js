@@ -46,12 +46,9 @@ async function showStats(data, country) {
   
   numCountries.innerHTML = num_countries;
   if (num_countries >= 1) {
-    const countries2 = countries.map(item => {
-      return item.country;
-    }).sort();
     let countryAbbrs = "";
     for (let i = 0; i < num_countries; i++) {
-      const countryAbbr = countries2[i];
+      const countryAbbr = countries[i];
       countryAbbrs += countryAbbr;
       if (i < (num_countries - 1)) {
         countryAbbrs += ", ";
@@ -63,12 +60,9 @@ async function showStats(data, country) {
 
   numLanguages.innerHTML = num_languages;
   if (num_languages >= 1) {
-    const languages2 = languages.map(item => {
-      return item.lang;
-    }).sort();
     let languageAbbrs = "";
     for (let j = 0; j < num_languages; j++) {
-      const languageAbbr = languages2[j];
+      const languageAbbr = languages[j];
       languageAbbrs += languageAbbr;
       if (j < (num_languages - 1)) {
         languageAbbrs += ", ";
