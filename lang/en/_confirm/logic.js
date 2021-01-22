@@ -1,7 +1,7 @@
 function onConfirmed(refreshToken, accessToken) {
-  const headlineConfirmationSuccessful = phrase(3);
-  const loginConfirmed = phrase(8);
-  const txtContinue = phrase(9);
+  const headlineConfirmationSuccessful = phrase(3, false);
+  const loginConfirmed = phrase(8, false);
+  const txtContinue = phrase(9, false);
 
   const pageHead = document.querySelector(".fp_pagehead");
   const pageContent = document.querySelector(".fp_pagecontent");
@@ -39,6 +39,45 @@ function onConfirmed(refreshToken, accessToken) {
   });
 }
 
+async function handleTokenAlreadyClaimed() {
+  const accessToken = await getAccessToken();
+  const endpoint = `${getAPIHost()}/fp/check-subscription`;
+  const timeZone = moment.tz.guess();
+
+  fetch(endpoint, {
+    mode: "cors",
+    method: "POST",
+    body: JSON.stringify({
+      timeZone: timeZone,
+    }),
+    headers: new Headers({
+      "Content-Type": "application/json",
+      authorization: `Bearer ${accessToken}`,
+    })
+  })
+    .then(res => res.json())
+    .then(data => {
+      switch(data.msg) {
+        case "user is not authorized for this action":
+          window.location.href = "../account/logout/";
+          break;
+        case "unable to query for subscription":
+          showError(11, 10);
+          break;
+        case "user is not subscribed":
+          sessionStorage.setItem("justRegistered", true);
+          window.location.href = "../account/login/";
+          break;
+        case "user is subscribed":
+          window.location.href = "../account/login/";
+          break;
+      }
+    })
+    .catch(err => {
+      console.error(err);
+    });
+}
+
 function checkConfirmationToken() {
   const hash = document.location.hash.substring(1, document.location.hash.length) || "";
   const endpoint = `${getHost()}/fp/register-confirm`;
@@ -55,45 +94,39 @@ function checkConfirmationToken() {
   })
     .then(res => res.json())
     .then(data => {
-      const headlineConfirmationFailed = phrase(4);
-      const headlineDatabaseIsDown = phrase(10);
-      const technicalGlitch = phrase(11);
-      const linkExpired = phrase(6);
-      const linkNotRecognized = phrase(7);
-
       switch(data.msg) {
         case "token is missing":
-          showError(linkNotRecognized, headlineConfirmationFailed);
+          showError(7, 4);
           break;
         case "token is invalid":
-          showError(linkNotRecognized, headlineConfirmationFailed);
+          showError(7, 4);
           break;
         case "unable to query for token":
-          showError(technicalGlitch, headlineDatabaseIsDown);
+          showError(11, 10);
           break;
         case "token not found":
-          showError(linkNotRecognized, headlineConfirmationFailed);
+          showError(7, 4);
           break;
         case "token already claimed":
-          window.location.href = "../account/login/";
+          handleTokenAlreadyClaimed();
           break;
         case "token expired":
-          showError(linkExpired, headlineConfirmationFailed);
+          showError(6, 4);
           break;
         case "unable to update token record":
-          showError(technicalGlitch, headlineDatabaseIsDown);
+          showError(11, 10);
           break;
         case "unable to query for user":
-          showError(technicalGlitch, headlineDatabaseIsDown);
+          showError(11, 10);
           break;
         case "user not found":
-          showError(linkNotRecognized, headlineConfirmationFailed);
+          showError(7, 4);
           break;
         case "registration confirmed":
           onConfirmed(data.refreshToken, data.accessToken);
           break;
         default:
-          showError(technicalGlitch, headlineDatabaseIsDown);
+          showError(11, 10);
           break;
       }
     })
