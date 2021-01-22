@@ -99,7 +99,7 @@ async function onCouponSearched(e, couponClicked="") {
 
   // Validate
   if (!couponcode.length) {
-    showError(16, 15, "#couponcode");
+    return showError(16, 15, "#couponcode");
   }
 
   // Fetch
