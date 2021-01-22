@@ -51,6 +51,41 @@
 		<translated></translated>
 	</phrase>
 
+	<phrase id="8">
+		<original>
+			Subscribed:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			Users:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			Raised:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			Countries:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			Languages:
+		</original>
+		<translated></translated>
+	</phrase>
+
 	<!--
 	<phrase id="">
 		<original>

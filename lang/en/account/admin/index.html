@@ -48,16 +48,14 @@
       <div class="fp_pagecontent">
       <br>
 
-        <div class="center-align" id="spinner">
+        <div id="spinnerDefault" class="center-align my-1">
           <div class="preloader-wrapper big active">
             <div class="spinner-layer spinner-blue-only">
               <div class="circle-clipper left">
                 <div class="circle"></div>
-              </div>
-              <div class="gap-patch">
+              </div><div class="gap-patch">
                 <div class="circle"></div>
-              </div>
-              <div class="circle-clipper right">
+              </div><div class="circle-clipper right">
                 <div class="circle"></div>
               </div>
             </div>
@@ -65,6 +63,44 @@
         </div>
 
         <main class="hide">
+
+          <div class="row">
+            <div class="row mb-5 mt-1">
+              <article class="col s12 m4 offset-m4 z-depth-2 grey lighten-2">
+                <table>
+                  <caption class="mt-1" style="font-size: 1.2rem"><strong data-p7></strong></caption>
+                  <tbody>
+                    <tr>
+                      <td data-p9></td>
+                      <td class="right-align"><span id="numTotalUsers">&mdash;</span></td>
+                    </tr>
+                    <tr>
+                      <td data-p8></td>
+                      <td class="right-align"><span id="numActiveSubscribers">&mdash;</span></td>
+                    </tr>
+                    <tr>
+                      <td data-p10></td>
+                      <td class="right-align"><span id="amtRaised">&mdash;</span></td>
+                    </tr>
+                    <tr>
+                      <td data-p11></td>
+                      <td class="right-align">
+                        <div><a href="javascript:void()" class="tooltipped" style="color: rgba(0,0,0,0.87); text-decoration: none;" id="numCountries">&mdash;</a></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td data-p12></td>
+                      <td class="right-align">
+                        <div><a href="javascript:void()" class="tooltipped" style="color: rgba(0,0,0,0.87); text-decoration: none;" id="numLanguages">&mdash;</a></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                
+              </article>
+            </div>
+          </div>
+
           <div class="row">
             <div class="col s10 m4 offset-s1 offset-m4">
               <div class="collection center-align my-1">
