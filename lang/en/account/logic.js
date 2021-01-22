@@ -169,11 +169,11 @@ function attachEventListeners() {
   document.querySelector("#subscribeform").addEventListener("submit", onSubmit);
 }
 
-function toggleAdminLink() {
+async function toggleAdminLink() {
   const adminLink = document.querySelector("#adminlink");
-  const showLink = canAccessAdministration() || false;
+  const showLink = await canAccessAdministration() || false;
   
-  if (showLink) adminLink.classList.remove("hide");
+  if (showLink === true) adminLink.classList.remove("hide");
 }
 
 async function init() {
