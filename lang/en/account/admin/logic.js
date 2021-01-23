@@ -30,6 +30,32 @@ function preauthUsersLink() {
   }
 }
 
+async function getCountryNames(abbreviations=[]) {
+  const endpoint = "../_assets/json/countries.json";
+  return new Promise((resolve, reject) => {
+    fetch(endpoint)
+      .then(res => res.json())
+      .then(data => {
+        const namesArray = data.filter(item => {
+          if (abbreviations.includes(item.alpha2)) {
+            return item.name;
+          }
+          return;
+        }).map(item2 => item2.name).sort();
+        let nameList = "";
+        for (let i = 0; i < namesArray.length; i++) {
+          const name = namesArray[i];
+          nameList += (i < namesArray.length - 1) ? `${name}, ` : `${name}`;
+        }
+        resolve(nameList.trim());
+      })
+      .catch(err => {
+        console.error(err);
+        reject(err);
+      });
+  });
+}
+
 async function showStats(data, country) {
   const { active_subscribers=0, total_users=0, amt_raised=0, countries=[], languages=[] } = data;
   const num_countries = countries.length || 0;
@@ -46,15 +72,9 @@ async function showStats(data, country) {
   
   numCountries.innerHTML = num_countries;
   if (num_countries >= 1) {
-    let countryAbbrs = "";
-    for (let i = 0; i < num_countries; i++) {
-      const countryAbbr = countries[i];
-      countryAbbrs += countryAbbr;
-      if (i < (num_countries - 1)) {
-        countryAbbrs += ", ";
-      }
-    }
-    numCountries.setAttribute("data-tooltip", countryAbbrs);
+    const countryNames = await getCountryNames(countries);
+
+    numCountries.setAttribute("data-tooltip", countryNames);
     numCountries.setAttribute("data-position", "bottom");
   }
 
