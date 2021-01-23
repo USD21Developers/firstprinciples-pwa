@@ -79,17 +79,38 @@ async function showStats(data, country) {
   }
 
   numLanguages.innerHTML = num_languages;
+
+  // Populate tooltip for language names
   if (num_languages >= 1) {
-    let languageAbbrs = "";
-    for (let j = 0; j < num_languages; j++) {
-      const languageAbbr = languages[j];
-      languageAbbrs += languageAbbr;
-      if (j < (num_languages - 1)) {
-        languageAbbrs += ", ";
-      }
-    }
-    numLanguages.setAttribute("data-tooltip", languageAbbrs);
-    numLanguages.setAttribute("data-position", "bottom");
+    const appLanguagesFile = "../../../../languages.json";
+    const thisLang = getLang() || "en";
+
+    fetch(appLanguagesFile)
+      .then(res => res.json())
+      .then(data => {
+        const langArray = data.filter(item => {
+          return languages.includes(item.iso);
+        }).sort();
+        const langNameArray = [];
+        langArray.forEach(item => {
+          if (thisLang === "en") {
+            langNameArray.push(item.name.en);
+          } else {
+            langNameArray.push(item.name.native);
+          }
+        });
+        let languageNames = "";
+        for (let i = 0; i < langNameArray.length; i++) {
+          const langName = langNameArray[i];
+          languageNames += (i < langNameArray.length - 1) ? `${langName}, ` : `${langName}`;
+        }
+
+        numLanguages.setAttribute("data-tooltip", languageNames);
+        numLanguages.setAttribute("data-position", "bottom");
+      })
+      .catch(err => {
+        console.error(err);
+      });
   }
 }
 
@@ -110,21 +131,17 @@ async function populateStats() {
     .then(data => {
       switch(data.msg) {
         case "user is not authorized for this action":
-          break;
-        case "unable to query for admin metadata":
-          break;
-        case "no admin metadata available":
-          break;
-        case "unable to query for user countries":
-          break;
-        case "no user countries found":
-          break;
-        case "unable to query for user languages":
-          break;
-        case "no user languages found":
+          window.location.href = "./logout/";
           break;
         case "admin metadata retrieved":
           showStats(data.data, country);
+          break;
+        default:
+          showError(14, 13, null, {
+            onCloseStart: () => {
+              window.location.reload();
+            }
+          });
           break;
       }
     })
@@ -134,6 +151,7 @@ async function populateStats() {
 }
 
 async function init() {
+  checkIfOffline();
   confirmAccess();
   await showPhrases();
   populateStats();

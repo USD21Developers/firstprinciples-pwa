@@ -86,6 +86,26 @@
 		<translated></translated>
 	</phrase>
 
+	<phrase id="13">
+		<original>
+			Unable to display stats
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			There was a technical glitch preventing stats from being displayed.  Please wait a moment then reload the page.
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="javascript:window.location.reload()">
+			<original>
+				reload the page
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
 	<!--
 	<phrase id="">
 		<original>
