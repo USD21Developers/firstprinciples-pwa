@@ -8,7 +8,8 @@ async function showSubscriptionInfo() {
   const accessToken = await getAccessToken();
   const country = JSON.parse(atob(accessToken.split(".")[1])).country || "us";
   const expiry = moment.unix(subscriptionToken.exp).format("YYYY/MM/DD");
-  const lsExpiry = new Intl.DateTimeFormat(country, { dateStyle: "long" }).format(new Date(expiry));
+  const lsDateOptions = { year: 'numeric', month: 'long', day: 'numeric' };
+  const lsExpiry = new Intl.DateTimeFormat(country, lsDateOptions).format(new Date(expiry));
   const expiryStatement = phrase(5, false).replace("${expiryDate}", `<strong class="nowrap">${lsExpiry}</strong>`);
 
   document.querySelector("[data-expiry-statement]").innerHTML = expiryStatement;
