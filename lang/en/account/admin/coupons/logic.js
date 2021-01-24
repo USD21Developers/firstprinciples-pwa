@@ -16,7 +16,8 @@ function populateMetaData(data, country="us") {
   cumulativeAmount.innerHTML = (country === "us") ? `$${Number(cumulative_amount || 0).toLocaleString(country)} <span style="font-variant:small-caps;">usd</span>` : `$ ${Number(cumulative_amount || 0).toLocaleString(country)} <span style="font-variant:small-caps;">usd</span>`;
 
   const mostRecentRedemptionDateFormatted = (most_recent_redemption_date) ? moment(most_recent_redemption_date).format("YYYY/MM/DD") : null;
-  const mostRecentRedemptionDateLs = (mostRecentRedemptionDateFormatted) ? new Intl.DateTimeFormat(country, { dateStyle: "long" }).format(new Date(mostRecentRedemptionDateFormatted)) : `&mdash;`;
+  const lsDateOptions = { year: 'numeric', month: 'long', day: 'numeric' };
+  const mostRecentRedemptionDateLs = (mostRecentRedemptionDateFormatted) ? new Intl.DateTimeFormat(country, lsDateOptions).format(new Date(mostRecentRedemptionDateFormatted)) : `&mdash;`;
   mostRecentRedemptionDate.innerHTML = (mostRecentRedemptionDateLs.length) ? mostRecentRedemptionDateLs : `&mdash;`;
   if (most_recent_couponcode && most_recent_couponcode.length) {
     mostRecentRedemptionDate.setAttribute("data-tooltip", most_recent_couponcode);
@@ -395,7 +396,8 @@ function showCouponList(data, country="us") {
     const { couponid, couponcode, expiry, discountpercent, isdiscontinued, issuer } = item;
     const { userid, name } = issuer;
     const formattedExpiry = moment(expiry).format("YYYY/MM/DD");
-    const lsExpiry = new Intl.DateTimeFormat(country, { dateStyle: "long" }).format(new Date(formattedExpiry));
+    const lsDateOptions = { year: 'numeric', month: 'long', day: 'numeric' };
+    const lsExpiry = new Intl.DateTimeFormat(country, lsDateOptions).format(new Date(formattedExpiry));
 
     html += `
       <li>
