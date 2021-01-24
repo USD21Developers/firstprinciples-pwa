@@ -3,14 +3,12 @@ function askToSubscribe() {
   pleaseSubscribeEl.classList.remove("hide");
 }
 
-function showSubscriptionInfo() {
-  const lang = getLang() || "en";
+async function showSubscriptionInfo() {
   const subscriptionToken = JSON.parse(atob(localStorage.getItem("subscriptionToken").split(".")[1]));
-  const expiry = subscriptionToken.exp;
-  const now = moment.unix(expiry).utc();
-  const lsDateArgs = moment(expiry).format("YYYY/MM/DD");
-  const lsDateObj = new Date(lsDateArgs);
-  const lsExpiry = new Intl.DateTimeFormat(lang, { dateStyle: 'long' }).format(lsDateObj);
+  const accessToken = await getAccessToken();
+  const country = JSON.parse(atob(accessToken.split(".")[1])).country || "us";
+  const expiry = moment.unix(subscriptionToken.exp).format("YYYY/MM/DD");
+  const lsExpiry = new Intl.DateTimeFormat(country, { dateStyle: "long" }).format(new Date(expiry));
   const expiryStatement = phrase(5, false).replace("${expiryDate}", `<strong class="nowrap">${lsExpiry}</strong>`);
 
   document.querySelector("[data-expiry-statement]").innerHTML = expiryStatement;
