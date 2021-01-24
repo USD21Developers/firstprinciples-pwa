@@ -391,7 +391,7 @@ function showCouponList(data, country) {
   data.forEach(item => {
     const { couponid, couponcode, expiry, discountpercent, isdiscontinued, issuer } = item;
     const { userid, name } = issuer;
-    const lsDateArgs = moment(expiry).format("YYYY, M, D");
+    const lsDateArgs = moment(expiry).format("YYYY/MM/DD");
     const lsDateObj = new Date(lsDateArgs);
     const lsExpiry = new Intl.DateTimeFormat(country, { dateStyle: 'long' }).format(lsDateObj);
 

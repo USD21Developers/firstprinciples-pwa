@@ -8,7 +8,7 @@ function showSubscriptionInfo() {
   const subscriptionToken = JSON.parse(atob(localStorage.getItem("subscriptionToken").split(".")[1]));
   const expiry = subscriptionToken.exp;
   const now = moment.unix(expiry).utc();
-  const lsDateArgs = now.format("YYYY, M, D");
+  const lsDateArgs = moment(expiry).format("YYYY/MM/DD");
   const lsDateObj = new Date(lsDateArgs);
   const lsExpiry = new Intl.DateTimeFormat(lang, { dateStyle: 'long' }).format(lsDateObj);
   const expiryStatement = phrase(5, false).replace("${expiryDate}", `<strong class="nowrap">${lsExpiry}</strong>`);
