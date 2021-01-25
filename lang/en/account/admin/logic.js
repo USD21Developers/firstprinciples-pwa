@@ -68,7 +68,7 @@ async function showStats(data, country) {
 
   numActiveSubscribers.innerHTML = active_subscribers;
   numTotalUsers.innerHTML = total_users;
-  amtRaised.innerHTML = (country === "us") ? `$${Number(amt_raised).toFixed(2) || 0}).toLocaleString(country)} <span style="font-variant:small-caps;">usd</span>` : `$ ${Number(amt_raised).toFixed(2) || 0}).toLocaleString(country)} <span style="font-variant:small-caps;">usd</span>`;
+  amtRaised.innerHTML = (country === "us") ? `$${(Number(amt_raised).toFixed(2) || 0).toLocaleString(country)} <span style="font-variant:small-caps;">usd</span>` : `$ ${(Number(amt_raised).toFixed(2) || 0).toLocaleString(country)} <span style="font-variant:small-caps;">usd</span>`;
   
   numCountries.innerHTML = num_countries;
   if (num_countries >= 1) {
