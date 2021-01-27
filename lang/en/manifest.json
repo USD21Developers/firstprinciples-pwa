@@ -7,18 +7,6 @@
   "start_url": "./",
   "icons": [
     {
-      "src": "_assets/img/icons/launch/maskable/manifest-icon-1200.png",
-      "sizes": "1200x1200",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "_assets/img/icons/launch/maskable/manifest-icon-1024.png",
-      "sizes": "1024x1024",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
       "src": "_assets/img/icons/launch/maskable/manifest-icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
@@ -27,6 +15,12 @@
     {
       "src": "_assets/img/icons/launch/maskable/manifest-icon-384.png",
       "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "_assets/img/icons/launch/maskable/manifest-icon-360.png",
+      "sizes": "360x360",
       "type": "image/png",
       "purpose": "maskable"
     },
@@ -65,18 +59,6 @@
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "maskable"
-    },
-    {
-      "src": "_assets/img/icons/launch/normal/manifest-icon-1200.png",
-      "sizes": "1200x1200",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "_assets/img/icons/launch/normal/manifest-icon-1024.png",
-      "sizes": "1024x1024",
-      "type": "image/png",
-      "purpose": "any"
     },
     {
       "src": "_assets/img/icons/launch/normal/manifest-icon-512.png",
