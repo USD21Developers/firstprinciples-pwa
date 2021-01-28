@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="accountconfirmation" lang-original="en" lang-translated="" last-updated="2020-12-10" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2020-12-10" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated></translated>
+  </phrase>
+
+  <phrase id="2">
+		<original>
+			Verifying...
+		</original>
+		<translated></translated>
+	</phrase>
+
+  <phrase id="3" desc="page title">
+		<original>
+			Login Confirmed
+		</original>
+		<translated></translated>
+	</phrase>
+
+  <phrase id="4" desc="page title">
+		<original>
+			Confirmation Failed
+		</original>
+		<translated></translated>
+	</phrase>
+
+  <phrase id="5">
+		<original>
+			We are verifying your confirmation link.  Please wait...
+		</original>
+		<translated></translated>
+	</phrase>
+
+  <phrase id="6">
+		<original>
+			Your confirmation link has expired.  Please register again.  When you receive the confirmation e-mail, click on the link within 24 hours of registering.
+		</original>
+		<translated></translated>
+    <change bold="true" italic="false" href="../account/register/">
+			<original>
+				register again
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+  <phrase id="7">
+		<original>
+			Your confirmation link was not recognized.  Please either check the link for accuracy, or register again.
+		</original>
+		<translated></translated>
+    <change bold="true" italic="false" href="../account/register/">
+			<original>
+				register again
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+  <phrase id="8">
+		<original>
+			Your login is now confirmed.
+		</original>
+		<translated></translated>
+	</phrase>
+
+  <phrase id="9">
+		<original>
+			Continue
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			Database is Down
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			There was a technical glitch which prevented your login from being verified. Please reload the page.
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="javascript:window.location.reload()">
+			<original>
+				reload the page
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

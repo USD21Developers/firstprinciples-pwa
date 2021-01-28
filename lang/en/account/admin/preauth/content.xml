@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="administration" lang-original="en" lang-translated="" last-updated="2020-01-06" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2020-01-06" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated></translated>
+  </phrase>
+
+	<phrase id="2" desc="page title">
+		<original>
+			Preauthorized Users
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="3">
+		<original>
+			Home
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			My Account
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="5">
+		<original>
+			Administration
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="6">
+		<original>
+			Preauth Users
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			Preauthorized users are users that have not yet registered, but can be given specific types of user permissions in advance.  These user permissions will take effect once that person registers with a matching e-mail address.
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				Preauthorized users
+			</original>
+			<translated></translated>
+		</change>
+		<change bold="false" italic="true" href="">
+			<original>
+				matching e-mail address.
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			Search existing users:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			Name
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			Search
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			Results:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			No users found.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="13">
+		<original>
+			1 user found:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			${searchResultsCount} users found:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			List all users
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="16">
+		<original>
+			Add a user
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="register" lang-original="en" lang-translated="" last-updated="2020-11-22" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2020-11-22" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated></translated>
+  </phrase>
+
+	<phrase id="2" desc="page title">
+		<original>
+			Register
+		</original>
+		<translated></translated>
+	</phrase>
+
+  <phrase id="3">
+		<original>
+			For access to the First Principles App, please register by completing the form below.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			Why register?
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="5">
+		<original>
+			Username
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="6">
+		<original>
+			Password
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			First name
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			Last name
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			Full name
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			E-mail address
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			Register
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			Log In
+		</original>
+		<translated></translated>
+	</phrase>
+	
+	<phrase id="13">
+		<original>
+			Form Incomplete
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			Please choose your username.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			Please input your password.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="16">
+		<original>
+			Please input your first name.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="17">
+		<original>
+			Please input your last name.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="18">
+		<original>
+			Please input your full name.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="19">
+		<original>
+			Please input your e-mail address.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="20">
+		<original>
+			Invalid E-mail
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="21">
+		<original>
+			Please check your e-mail address for accuracy and proper formatting.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="22">
+		<original>
+			Username Already in Use
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="23">
+		<original>
+			Sorry, but another user is already using that username.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="24">
+		<original>
+			E-mail Already in Use
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="25">
+		<original>
+			Sorry, but another user is already using that e-mail address.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="26">
+		<original>
+			Invalid Password
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="27">
+		<original>
+			<p>
+				Please revise your password.  For your protection, we require that it must have a minimum level of unpredictability in order to prevent potential hackers from guessing it.
+			</p>
+			<p>
+				A minimum length of 8 characters is required.  Using a phrase (rather than a single word) is encouraged, because phrases are less predictable.
+			</p>
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="28">
+		<original>
+			Database is Down
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="29">
+		<original>
+			There was a glitch preventing your registration from being processed.  Please wait a moment then try again.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="30" desc="E-mail sender">
+    <original>
+      First Principles
+    </original>
+    <translated></translated>
+  </phrase>
+
+  <phrase id="31" desc="E-mail subject">
+    <original>
+      Confirm your registration
+    </original>
+    <translated></translated>
+  </phrase>
+
+  <phrase id="32">
+    <original>
+      This message is for ${fullname}. In order to complete your registration, please click on the link below:
+    </original>
+    <translated></translated>
+  </phrase>
+
+  <phrase id="33">
+    <original>
+      Confirm my registration
+    </original>
+    <translated></translated>
+  </phrase>
+
+  <phrase id="34">
+    <original>
+      The Cyberministry
+    </original>
+    <translated></translated>
+  </phrase>
+
+	<phrase id="35">
+		<original>
+			Check your e-mail
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="36">
+		<original>
+			Please check your e-mail.  We have sent you a message containing a special link. In order to confirm your registration, you must click on that link.
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				Please check your e-mail.
+			</original>
+			<translated></translated>
+		</change>
+		<change bold="false" italic="true" href="">
+			<original>
+				you must click on that link.
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	<phrase id="37">
+		<original>
+			If you do not see our e-mail in your inbox, check your spam folder.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="38">
+		<original>
+			Country:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="39">
+		<original>
+			(Select)
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="40">
+		<original>
+			Please select the country where you live.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

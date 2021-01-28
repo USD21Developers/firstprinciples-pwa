@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="login" lang-original="en" lang-translated="" last-updated="2020-11-22" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2020-11-22" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated>
+			
+		</translated>
+  </phrase>
+
+	<phrase id="2" desc="page title">
+		<original>
+			Log In
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+  <phrase id="3">
+		<original>
+			Username
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			Password
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="5">
+		<original>
+			Log In
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="6">
+		<original>
+			Forgot Password
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			No Account? Register
+		</original>
+		<translated>
+			
+		</translated>
+		<change href="../register/">
+			<original>
+				Register
+			</original>
+			<translated>
+				Register
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			Please input your username.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			Please input your password.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			The system is unable to verify your login at this time.  Please try again later.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			System is down
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			It appears that you either haven't completed registration, or your registration status was changed.  If you recently registered, you should have received an e-mail with a special link that you must click on in order to complete your registration.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="13">
+		<original>
+			Not Registered
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			Please check your username and/or password for accuracy, then try again. If you don't have a login yet, you'll need to register.
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="../register/">
+			<original>
+				register
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			Unable to Sign In
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="16">
+		<original>
+			Login Not Recognized
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

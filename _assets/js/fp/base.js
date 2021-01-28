@@ -246,8 +246,8 @@ fp.media = mediaObj => {
 fp.onShare = () => {
   let appTitle = document.querySelector('.brand-logo').innerText;
   let appURL = 'https://firstprinciples.mobi/';
-  if (document.location.host === 'firstprinciples-materialdesign.herokuapp.com') {
-    appURL = 'https://firstprinciples-materialdesign.herokuapp.com/';
+  if (document.location.host === 'staging.firstprinciples.mobi') {
+    appURL = 'https://staging.firstprinciples.mobi/';
   }
   let hasHighASCIICharacters = false;
   const appTitleCheck = appTitle.split('').map(character => {

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="offline" lang-original="en" lang-translated="" last-updated="2021-01-04" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2021-01-04" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated>
+			
+		</translated>
+  </phrase>
+
+	<phrase id="2" desc="page title">
+		<original>
+			Offline
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+  <phrase id="3">
+		<original>
+			You appear to be offline.  The page that you were trying to visit requires an internet connection.  Please connect to the internet, then try again.
+		</original>
+		<translated>
+			
+		</translated>
+    <change bold="true" italic="false" href="javascript:goBack()">
+			<original>
+				try again
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			Continue
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

@@ -1,7 +1,7 @@
 {
-  "name": "firstprinciples-materialdesign",
+  "name": "firstprinciples-pwa",
   "license": "SEE LICENSE IN license.txt",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "author": {
     "name": "Jason McNeill",
     "email": "vrtjason@gmail.com"
@@ -12,7 +12,10 @@
     "test:es": "jest lang/es/_tests -b",
     "test:fr": "jest lang/fr/_tests -b",
     "test:pt": "jest lang/pt/_tests -b",
-    "test:zh": "jest lang/zh/_tests -b"
+    "test:zh": "jest lang/zh/_tests -b",
+    "ssh:staging": "ssh stagingfp@staging.firstprinciples.mobi -p 1773 -i ../../../.ssh/usd21/id_rsa",
+    "ssh:prod": "ssh jmcneill@firstprinciples.mobi -p 1773 -i ../../../.ssh/usd21/id_rsa",
+    "deploy:staging": "ssh stagingfp@staging.firstprinciples.mobi -p 1773 -i ../../../.ssh/usd21/id_rsa ./pull.sh"
   },
   "devDependencies": {
     "jest": "^25.1.0",

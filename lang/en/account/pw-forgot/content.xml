@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="pw-forgot" lang-original="en" lang-translated="" last-updated="2020-12-13" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2020-12-13" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated></translated>
+  </phrase>
+
+	<phrase id="2" desc="page title">
+		<original>
+			Forgotten Passwords
+		</original>
+		<translated></translated>
+	</phrase>
+
+  <phrase id="3">
+		<original>
+			Have you forgotten your password? No problem! You can reset it.
+		</original>
+		<translated></translated>
+	</phrase>
+
+  <phrase id="4">
+		<original>
+			Simply input your e-mail address below. We will send you a message containing a special link.  In order to reset your password, you must click on that link.
+		</original>
+		<translated></translated>
+	</phrase>
+
+  <phrase id="5">
+		<original>
+			E-mail address
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="6">
+		<original>
+			Reset Password
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			Log In
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			Please input your e-mail address.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			Form Incomplete
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			First Principles
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			Reset your password
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			This message is for ${fullname}. We just received your request to reset your password.  To do so, please click on the link below within 20 minutes of your request.
+		</original>
+		<translated></translated>
+	</phrase>
+	
+	<phrase id="13">
+		<original>
+			Reset my password
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			The Cyberministry
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			Please check your e-mail address for accuracy and proper formatting.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="16">
+		<original>
+			We have no record of this e-mail address. Did you use a different one when you registered?
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="17">
+		<original>
+			Check Your E-mail
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="18">
+		<original>
+			Please check your e-mail.  We have sent you a message containing a special link.  In order to reset your password, you must click on that link.
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false">
+			<original>
+				Please check your e-mail.
+			</original>
+			<translated></translated>
+		</change>
+		<change bold="false" italic="true">
+			<original>
+				you must click on that link.
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	<phrase id="19">
+		<original>
+			Unable to Reset Password
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="20">
+		<original>
+			There was a technical glitch preventing us from processing your request.  Please make sure that you are connected to the internet, then try again.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="21">
+		<original>
+			Your username is: ${username}
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

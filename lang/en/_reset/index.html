@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <title data-p2></title>
+    <meta name="description" content="Subscription to the First Principles app, a Bible study from the International Christian Churches">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit: cover">
+    <meta name="google" content="notranslate">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <script src="../_assets/js/moment.min.js"></script>
+    <script src="../_assets/js/moment-timezone-with-data-10-year-range.min.js"></script>
+    <link rel="manifest" href="../manifest.json">
+    <link type="text/css" rel="stylesheet" href="../_assets/css/materialize.min.css"  media="screen,projection">
+    <link type="text/css" rel="stylesheet" href="../_assets/css/style.css" media="screen,projection">
+    <link type="text/css" rel="stylesheet" href="../_assets/css/fontawesome-free-5.11.2-web/css/all.min.css">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" sizes="512x512"  href="../_assets/img/icons/launch/normal/manifest-icon-512.png">
+    <link rel="icon" type="image/png" sizes="384x384"  href="../_assets/img/icons/launch/normal/manifest-icon-384.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="../_assets/img/icons/launch/normal/manifest-icon-192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../_assets/img/icons/launch/normal/apple-icon-180.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="../_assets/img/icons/launch/normal/apple-icon-167.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../_assets/img/icons/launch/normal/apple-icon-152.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../_assets/img/icons/launch/normal/apple-icon-120.png">
+  </head>
+  <body>
+
+    <nav>
+      <div class="nav-wrapper blue darken-3">
+        <a href="../" class="homeicon"><i class="fas fa-home show-on-large"></i></a>
+        <span class="brand-logo center" data-p1></span>
+      </div>
+    </nav>
+    <nav class="light-blue darken-1" role="name">
+      <div class="nav-wrapper container">
+        <div class="center flow-text fp_pagehead" data-p2></div>
+      </div>
+    </nav>
+
+    <div class="container main">
+      <div class="fp_pagecontent">
+        <br>
+
+        <div id="spinnerDefault" class="center-align my-1">
+          <div class="preloader-wrapper big active">
+            <div class="spinner-layer spinner-blue-only">
+              <div class="circle-clipper left">
+                <div class="circle"></div>
+              </div><div class="gap-patch">
+                <div class="circle"></div>
+              </div><div class="circle-clipper right">
+                <div class="circle"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="row hide" id="main">
+          <div class="col s12 m4 offset-m4">
+
+            <p class="center-align mt-1 mb-3" data-p3></p>
+
+            <form id="formResetPassword">
+              <div class="input-field">
+                <input id="password" type="password" class="validate">
+                <label for="password" data-p4></label>
+              </div>
+
+              <div id="submit" class="mt-2 center-align">
+                <button type="submit" class="waves-effect waves-light btn light-blue darken-3" data-p5></button>
+              </div>
+            </form>
+            
+            <p class="center-align mt-2">
+              <a href="../account/login/" data-p8></a>
+            </p>
+
+            <div id="spinner" class="hide">
+              <div class="center my-2">
+                <div class="progress">
+                  <div class="indeterminate"></div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal -->
+    <div id="modal1" class="modal bottom-sheet">
+      <div class="closeButton">
+        <a href="javascript:void()" class="modal-close"><img src="../_assets/img/icons/x-circle.svg" width="24" height="24"></a>
+      </div>
+      <div class="modal-content center">
+        <h5 class="mt-0"></h5>
+        <p></p>
+      </div>
+    </div>
+
+    <footer class="page-footer blue darken-3 hide"></footer>
+
+    <!--  Scripts -->
+    <script src="../_assets/js/jquery-2.1.1.min.js"></script>
+    <script src="../_assets/js/localforage.min.js"></script>
+    <script src="../_assets/js/materialize.min.js"></script>
+    <script src="../account/shared.js"></script>
+    <script src="./logic.js"></script>
+
+    <script>
+      M.AutoInit();
+    </script>
+
+  </body>
+</html>

@@ -29,17 +29,26 @@
 		</translated>
 	</phrase>
 
-	<phrase id="4" desc="">
+	<phrase id="4">
 		<original>
 			Share
 		</original>
 		<translated>
 			Share
+		</translated>
+	</phrase>
+
+	<phrase id="5">
+		<original>
+			My Account
+		</original>
+		<translated>
+			
 		</translated>
 	</phrase>
 
 	<!--
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>
@@ -50,7 +59,7 @@
 
 
 
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>

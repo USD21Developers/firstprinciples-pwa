@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="account" lang-original="en" lang-translated="" last-updated="2020-11-22" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2020-11-22" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated></translated>
+  </phrase>
+
+	<phrase id="2" desc="page title">
+		<original>
+			My Account
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="3">
+		<original>
+			Status:
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			subscribed
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+  <phrase id="5">
+		<original>
+			Your subscription is current until ${expiryDate}.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="6">
+		<original>
+			Thank you!
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			Please Subscribe
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			Thank you for registering. We just need one more thing now!
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="false" italic="true" href="">
+			<original>
+				one more thing
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			Starting in 2021, the First Principles app uses a subscription to help fund educational scholarships for children in third-world countries (learn more here).
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="why/">
+			<original>
+				learn more here
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			To make this scholarship fund possible, we are asking all users of the First Principles app to pay for a subscription once a year, billed through PayPal.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			The cost of this annual subscription is $9.99 USD. Please subscribe today.
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				$9.99 USD
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			Subscribe now
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="13">
+		<original>
+			First Principles App
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			fp-app-subscription
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			Annual Subscription
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="16">
+		<original>
+			Unable to Subscribe
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="17">
+		<original>
+			There was a technical glitch which prevented you from being forwarded to Paypal. Please make sure that you are connected to the internet, then try again.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="18">
+		<original>
+			Use the App
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="19">
+		<original>
+			My Profile
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="20">
+		<original>
+			Home
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="21">
+		<original>
+			My Account
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="22">
+		<original>
+			My Profile
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="23">
+		<original>
+			Log Out
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="24">
+		<original>
+			Administration
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="25">
+		<original>
+			Coupons
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="26">
+		<original>
+			If you have a coupon code, enter it below:
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="27">
+		<original>
+			Coupon code (optional)
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="28">
+		<original>
+			Apply
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="29">
+		<original>
+			Coupon Not Found
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="30">
+		<original>
+			Your coupon code was not found. Please check it for accuracy, and revise if necessary.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="31">
+		<original>
+			Coupon Cannot be Used
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="32">
+		<original>
+			Sorry, but this coupon code has been discontinued and can no longer be used.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="33">
+		<original>
+			Sorry, but this coupon code expired on ${expiry}.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="34">
+		<original>
+			Coupon Applied
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="35">
+		<original>
+			Coupon is Expired
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="36">
+		<original>
+			You do not need to take any further action, as the coupon has covered the full cost.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="37">
+		<original>
+			Sorry, but you already used this coupon and cannot use it again.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="38">
+		<original>
+			Continue
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="39">
+		<original>
+			Discount Applied!
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="40">
+		<original>
+			The new discounted price is now ${newprice}.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

@@ -11,7 +11,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="2" desc="">
+	<phrase id="2">
 		<original>
 			Introduction
 		</original>
@@ -20,7 +20,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="3" desc="">
+	<phrase id="3">
 		<original>
 			Discuss:
 		</original>
@@ -29,7 +29,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="4" desc="">
+	<phrase id="4">
 		<original>
 			Did you have daily quiet times this past week?
 		</original>
@@ -38,7 +38,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="5" desc="">
+	<phrase id="5">
 		<original>
 			Who did you share with and invite?
 		</original>
@@ -47,7 +47,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="55" desc="">
+	<phrase id="55">
 		<original>
 		        Did you feel good about your level of sacrifice in time and money?
 		</original>
@@ -56,7 +56,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="6" desc="">
+	<phrase id="6">
 		<original>
 			Discuss the impact of communion on Sunday.
 		</original>
@@ -65,7 +65,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="7" desc="">
+	<phrase id="7">
 		<original>
 			Colossians 3:1-4: Raised to a new life
 		</original>
@@ -82,7 +82,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="8" desc="">
+	<phrase id="8">
 		<original>
 			Discuss "Raised with Christ in baptism" (Colossians 2:11-12).
 		</original>
@@ -99,7 +99,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="9" desc="">
+	<phrase id="9">
 		<original>
 			Discuss setting your mind (thoughts) and setting your heart (emotions) on things above. 
 		</original>
@@ -108,7 +108,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="10" desc="">
+	<phrase id="10">
 		<original>
 			Can you say, "Christ is my life?"
 		</original>
@@ -117,7 +117,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="11" desc="">
+	<phrase id="11">
 		<original>
 			Colossians 3:5-11 Put to death
 		</original>
@@ -134,7 +134,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="12" desc="">
+	<phrase id="12">
 		<original>
 			Be open about your greatest struggles this week.
 		</original>
@@ -143,7 +143,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="13" desc="">
+	<phrase id="13">
 		<original>
 			Discuss practical ways to crucify these temptations and/or sins.
 		</original>
@@ -152,7 +152,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="15" desc="">
+	<phrase id="15">
 		<original>
 			Colossians 3:12-14 Put On — Clothe Yourself
 		</original>
@@ -169,7 +169,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="16" desc="">
+	<phrase id="16">
 		<original>
 			Compassion
 		</original>
@@ -178,7 +178,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="17" desc="">
+	<phrase id="17">
 		<original>
 			Kindness
 		</original>
@@ -187,7 +187,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="18" desc="">
+	<phrase id="18">
 		<original>
 			Humility
 		</original>
@@ -196,7 +196,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="19" desc="">
+	<phrase id="19">
 		<original>
 			Gentleness
 		</original>
@@ -205,7 +205,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="20" desc="">
+	<phrase id="20">
 		<original>
 			Patience
 		</original>
@@ -214,7 +214,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="22" desc="">
+	<phrase id="22">
 		<original>
 			Colossians 3:15-4:1 New attitudes
 		</original>
@@ -231,7 +231,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="23" desc="">
+	<phrase id="23">
 		<original>
 			Peace (v. 15)
 		</original>
@@ -248,7 +248,7 @@
 		</change>		
 	</phrase>
 
-	<phrase id="24" desc="">
+	<phrase id="24">
 		<original>
 			Thankful (v. 15-16)
 		</original>
@@ -265,7 +265,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="25" desc="">
+	<phrase id="25">
 		<original>
 			Wholehearted (v. 17)
 		</original>
@@ -282,7 +282,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="26" desc="">
+	<phrase id="26">
 		<original>
 			Family Interactions (v. 18-21)
 		</original>
@@ -299,7 +299,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="27" desc="">
+	<phrase id="27">
 		<original>
 			Employer/employee relationships (3:22, 4:1)
 		</original>
@@ -324,7 +324,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="28" desc="">
+	<phrase id="28">
 		<original>
 			Teacher/student relationship
 		</original>
@@ -335,7 +335,7 @@
 
 	<!--
 
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>
@@ -352,7 +352,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>

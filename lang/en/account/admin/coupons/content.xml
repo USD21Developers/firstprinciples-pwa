@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="coupons" lang-original="en" lang-translated="" last-updated="2021-01-18" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2021-01-18" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated></translated>
+  </phrase>
+
+	<phrase id="2" desc="page title">
+		<original>
+			Coupons
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="3">
+		<original>
+			Coupon Stats
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			In current use:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="5">
+		<original>
+			Expired:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="6">
+		<original>
+			Discontinued:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			Redemptions:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			Total redeemed:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			Last redemption:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			Find a coupon:
+		</original>
+		<translated></translated>
+	</phrase>
+	
+	<phrase id="11">
+		<original>
+			Coupon code
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="12" desc="This is the text of the search button">
+		<original>
+			Find 
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="13">
+		<original>
+			Add a coupon
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			List coupons
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			Form Incomplete
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="16">
+		<original>
+			Please input the coupon code.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="17">
+		<original>
+			Home
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="18">
+		<original>
+			Account
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="19">
+		<original>
+			Administration
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="20">
+		<original>
+			Coupons
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="21">
+		<original>
+			Insufficient Permissions
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="22">
+		<original>
+			You are not authorized to administer coupons.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="23">
+		<original>
+			Unable to Access
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="24">
+		<original>
+			There was a technical glitch preventing the coupon from being retrieved.  Please ensure that you are connected to the internet, then try again.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="25">
+		<original>
+			Coupon not Found
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="26">
+		<original>
+			There is no record of this coupon code.  Please check it for accuracy then try again if necessary.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="27">
+		<original>
+			Coupon
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="28">
+		<original>
+			Discount percentage
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="29">
+		<original>
+			(Select)
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="30">
+		<original>
+			Expiry
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="31">
+		<original>
+			Issued by:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="32">
+		<original>
+			Coupon is discontinued:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="33">
+		<original>
+			No
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="34">
+		<original>
+			Yes
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="35">
+		<original>
+			Update
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="36">
+		<original>
+			Please input the expiry.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="37">
+		<original>
+			Please ensure that the expiry is a valid date.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="38">
+		<original>
+			Please input an expiry that is in the future.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="39">
+		<original>
+			This coupon is no longer in the system and therefore cannot be revised.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="40">
+		<original>
+			You may not make changes to coupons created by another user.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="41">
+		<original>
+			Coupon code already in use
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="42">
+		<original>
+			Please choose a different coupon code. The one you typed above is already in use.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="43">
+		<original>
+			Unable to Update
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="44">
+		<original>
+			There was a technical glitch preventing the coupon from being updated.  Please ensure that you are connected to the internet, then try again.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="45">
+		<original>
+			Coupon Updated
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="46">
+		<original>
+			Your changes have been saved.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="47" desc="headline">
+		<original>
+			Add a Coupon
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="48" desc="submit button">
+		<original>
+			Add Coupon
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="49">
+		<original>
+			Please input a coupon code that is less than 255 characters.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="50">
+		<original>
+			Coupon Added
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="51">
+		<original>
+			Your coupon has been added successfully.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="52">
+		<original>
+			No coupons found
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="53">
+		<original>
+			There coupons were found that match your search criteria.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="54">
+		<original>
+			Exp.:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="55">
+		<original>
+			(Discontinued)
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="56">
+		<original>
+			Issuer:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="57">
+		<original>
+			Discount:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="58">
+		<original>
+			Edit
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="59">
+		<original>
+			Active Coupons:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="60">
+		<original>
+			(click to expand)
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="61">
+		<original>
+			Administration
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="62">
+		<original>
+			My Account
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="63">
+		<original>
+			My Profile
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="64">
+		<original>
+			Log Out
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

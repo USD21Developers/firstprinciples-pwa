@@ -11,7 +11,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="42" desc="">
+	<phrase id="42">
 		<original>
 			Session 1
 		</original>
@@ -20,7 +20,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="43" desc="">
+	<phrase id="43">
 		<original>
 			Jeremiah 29:11
 		</original>
@@ -37,7 +37,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="44" desc="">
+	<phrase id="44">
 		<original>
 			Matthew 6:33
 		</original>
@@ -54,7 +54,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="45" desc="">
+	<phrase id="45">
 		<original>
 			Session 2
 		</original>
@@ -63,7 +63,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="46" desc="">
+	<phrase id="46">
 		<original>
 			John 8:31-32
 		</original>
@@ -80,7 +80,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="47" desc="">
+	<phrase id="47">
 		<original>
 			Philippians 4:13
 		</original>
@@ -97,7 +97,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="48" desc="">
+	<phrase id="48">
 		<original>
 			Session 3
 		</original>
@@ -106,7 +106,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="49" desc="">
+	<phrase id="49">
 		<original>
 			Mark 1:17
 		</original>
@@ -123,7 +123,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="50" desc="">
+	<phrase id="50">
 		<original>
 			John 13:34-35
 		</original>
@@ -140,7 +140,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="51" desc="">
+	<phrase id="51">
 		<original>
 			Session 4
 		</original>
@@ -149,7 +149,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="52" desc="">
+	<phrase id="52">
 		<original>
 			Acts 2:38
 		</original>
@@ -166,7 +166,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="53" desc="">
+	<phrase id="53">
 		<original>
 			Philippians 4:4
 		</original>
@@ -183,7 +183,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="54" desc="">
+	<phrase id="54">
 		<original>
 			Session 5
 		</original>
@@ -192,7 +192,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="55" desc="">
+	<phrase id="55">
 		<original>
 			Ezekiel 18:20
 		</original>
@@ -209,7 +209,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="56" desc="">
+	<phrase id="56">
 		<original>
 			Galatians 1:8
 		</original>
@@ -226,7 +226,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="57" desc="">
+	<phrase id="57">
 		<original>
 			Session 6
 		</original>
@@ -235,7 +235,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="58" desc="">
+	<phrase id="58">
 		<original>
 			Matthew 22:37-39
 		</original>
@@ -252,7 +252,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="59" desc="">
+	<phrase id="59">
 		<original>
 			John 15:8
 		</original>
@@ -269,7 +269,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="60" desc="">
+	<phrase id="60">
 		<original>
 			Session 7
 		</original>
@@ -278,7 +278,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="61" desc="">
+	<phrase id="61">
 		<original>
 			Matthew 28:18-20
 		</original>
@@ -295,7 +295,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="62" desc="">
+	<phrase id="62">
 		<original>
 			Luke 19:10
 		</original>
@@ -312,7 +312,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="63" desc="">
+	<phrase id="63">
 		<original>
 			Session 8
 		</original>
@@ -321,7 +321,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="64" desc="">
+	<phrase id="64">
 		<original>
 			Hebrews 10:23-25
 		</original>
@@ -338,7 +338,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="65" desc="">
+	<phrase id="65">
 		<original>
 			1 John 1:9
 		</original>
@@ -355,7 +355,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="66" desc="">
+	<phrase id="66">
 		<original>
 			Session 9
 		</original>
@@ -364,7 +364,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="67" desc="">
+	<phrase id="67">
 		<original>
 			Hebrews 12:15
 		</original>
@@ -381,7 +381,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="68" desc="">
+	<phrase id="68">
 		<original>
 			Hebrews 13:17
 		</original>
@@ -400,7 +400,7 @@
 
 	<!--
 
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>
@@ -417,7 +417,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="" desc="">
+	<phrase id="">
 		<original>
 			
 		</original>

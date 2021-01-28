@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="subscribe-success" lang-original="en" lang-translated="" last-updated="2020-01-01" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2020-01-01" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated>
+			
+		</translated>
+  </phrase>
+
+	<phrase id="2" desc="page title while fetching">
+		<original>
+			Activating Subscription...
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="page title if activation successful">
+		<original>
+			Subscription Activated
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+  <phrase id="4" desc="page title if error">
+		<original>
+			Subscription Incomplete
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+  <phrase id="5">
+		<original>
+			Your subscription is activated. You may now use the app as usual. Thank you so much for your support!
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false">
+			<original>
+				Your subscription is activated.
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+  <phrase id="6">
+		<original>
+			Your subscription could not be properly completed.  Please wait a moment, then reload the page.
+		</original>
+		<translated>
+			
+		</translated>
+    <change bold="true" italic="false" href="javascript:window.location.reload()">
+			<original>
+				reload the page
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+  <phrase id="7">
+		<original>
+			Use the App
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+  <phrase id="8">
+		<original>
+			My Account
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

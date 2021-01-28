@@ -27,6 +27,10 @@
             </button>
           </p>
 
+          <p align="center" class="my-3">
+            <a href="/lang/${fp.language.current}/account/" class="white-text" id="myaccountlink">${phrase(5)}</a>
+          </p>
+
           <p align="center">
             &copy; ${new Date().getFullYear()} ${phrase(2)}<br>
             ${phrase(3)}
