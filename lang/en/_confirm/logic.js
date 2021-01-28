@@ -42,10 +42,6 @@ async function handleTokenAlreadyClaimed() {
   const endpoint = `${getAPIHost()}/fp/check-subscription`;
   const timeZone = moment.tz.guess();
 
-  if (typeof accessToken === "undefined") {
-    return window.location.href = "../account/login/";
-  }
-
   fetch(endpoint, {
     mode: "cors",
     method: "POST",
@@ -77,6 +73,7 @@ async function handleTokenAlreadyClaimed() {
     })
     .catch(err => {
       console.error(err);
+      window.location.href = "../account/login/";
     });
 }
 
