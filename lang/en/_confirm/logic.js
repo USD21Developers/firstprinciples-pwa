@@ -38,6 +38,9 @@ function onConfirmed(refreshToken, accessToken) {
 }
 
 async function handleTokenAlreadyClaimed() {
+  const refreshToken = localStorage.getItem("refreshToken") || "";
+  if (!refreshToken.length) window.location.href = "../account/login/";
+  
   const accessToken = await getAccessToken();
   const endpoint = `${getAPIHost()}/fp/check-subscription`;
   const timeZone = moment.tz.guess();
