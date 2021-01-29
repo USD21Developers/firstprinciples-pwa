@@ -451,8 +451,16 @@ function showCouponList(data, country="us") {
 
   couponlist.innerHTML = html;
   $('.collapsible').collapsible();
+  
   const btnListCoupons_container = document.querySelector("#btnListCoupons_container");
-  btnListCoupons_container.scrollIntoView();
+  try {
+    btnListCoupons_container.scrollIntoView({
+      behavior: "smooth"
+    });
+  } catch(err) {
+    btnListCoupons_container.scrollIntoView();
+  }
+  
   document.querySelectorAll(".editFromList").forEach(item => {
     item.addEventListener("click", onListItemClicked);
   });
