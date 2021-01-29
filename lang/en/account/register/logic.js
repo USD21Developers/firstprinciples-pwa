@@ -180,6 +180,9 @@ function onEmailSent(data) {
   registerForm.classList.add("hide");
   emailSent.classList.remove("hide");
   pagehead.scrollIntoView();
+  setTimeout(() => {
+    window.location.href = "../login/";
+  }, 120000);
 }
 
 function prepopulateFullName() {
