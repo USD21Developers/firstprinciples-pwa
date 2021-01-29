@@ -137,8 +137,8 @@ function checkConfirmationToken() {
     });
 }
 
-function init() {
-  showPhrases();
+async function init() {
+  await showPhrases();
   checkConfirmationToken();
 }
 
