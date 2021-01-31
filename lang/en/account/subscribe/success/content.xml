@@ -90,6 +90,23 @@
 		</translated>
 	</phrase>
 
+	<phrase id="9">
+		<original>
+			Please go back to your e-mail and click on the "Confirm my registration" link again. The transaction failed for the following reason:
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false">
+			<original>
+				Confirm my registration
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
 	<!--
 	<phrase id="">
 		<original>

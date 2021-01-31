@@ -52,6 +52,21 @@ async function executeSubscription() {
         case "already recorded successful payment":
           onSuccess();
           break;
+        case "unable to activate subscription":
+          showError(9, 4, null, {
+            onOpenStart: () => {
+              const textElement = document.querySelector(`[data-p9]`);
+              textElement.innerHTML += `
+                <p class="red-text text-darken-1">
+                  <strong>${data.error.response.message}</strong>
+                </p>
+              `;
+            },
+            onCloseEnd: () => {
+              window.location.href = "../../";
+            }
+          });
+          break;
         default:
           showError(6, 4)
           break;
