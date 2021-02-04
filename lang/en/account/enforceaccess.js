@@ -59,20 +59,20 @@ function getAccessToken() {
   });
 }
 
-function getPermissions() {
-  const token = JSON.parse(atob(sessionStorage.getItem("accessToken").split(".")[1]));
+async function getPermissions() {
+  const accessToken = await getAccessToken();
   const permissions = [];
 
-  if (token.may_redeem_coupons) permissions.push("redeem coupons");
-  if (token.may_create_coupons) permissions.push("create coupons");
-  if (token.may_create_preauthorized_users) permissions.push("create preauthorized users");
+  if (accessToken.may_redeem_coupons) permissions.push("redeem coupons");
+  if (accessToken.may_create_coupons) permissions.push("create coupons");
+  if (accessToken.may_create_preauthorized_users) permissions.push("create preauthorized users");
 
   return permissions;
 }
 
 async function isSysadmin() {
   const accessToken = await getAccessToken();
-  const usertype = JSON.parse(atob(accessToken.split(".")[1])).usertype || "user";
+  const usertype = accessToken.usertype || "user";
   return (usertype === "sysadmin") ? true : false;
 }
 
