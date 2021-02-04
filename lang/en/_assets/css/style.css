@@ -27,6 +27,13 @@
 .mx-2 {margin-left: 2rem !important; margin-right: 2rem !important}
 .mx-3 {margin-left: 3rem !important; margin-right: 3rem !important}
 
+@supports(padding:max(0px)) {
+  body, header, footer {
+      padding-left: min(0vmin, env(safe-area-inset-left));
+      padding-right: min(0vmin, env(safe-area-inset-right));
+  }
+}
+
 @media all and (display-mode: standalone) {
   #install-button-container {
     display: none;
