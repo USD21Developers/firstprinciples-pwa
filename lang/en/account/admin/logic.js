@@ -21,8 +21,8 @@ function couponLink() {
   }
 }
 
-function preauthUsersLink() {
-  const canCreate = canCreatePreauthorizedUsers() || false;
+async function preauthUsersLink() {
+  const canCreate = await canCreatePreauthorizedUsers() || false;
   const el = document.querySelector("[href='preauth/']");
 
   if (canCreate) {

@@ -89,7 +89,7 @@ async function canCreateCoupons() {
 
 async function canCreatePreauthorizedUsers() {
   let hasPermission = false;
-  const permissions = getPermissions();
+  const permissions = await getPermissions();
   const sysadmin = await isSysadmin() || false;
 
   if (sysadmin) hasPermission = true;
