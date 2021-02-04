@@ -61,18 +61,20 @@ function getAccessToken() {
 
 async function getPermissions() {
   const accessToken = await getAccessToken();
+  const claims = JSON.parse(atob(accessToken.split(".")[1]));
   const permissions = [];
 
-  if (accessToken.may_redeem_coupons) permissions.push("redeem coupons");
-  if (accessToken.may_create_coupons) permissions.push("create coupons");
-  if (accessToken.may_create_preauthorized_users) permissions.push("create preauthorized users");
+  if (claims.may_redeem_coupons) permissions.push("redeem coupons");
+  if (claims.may_create_coupons) permissions.push("create coupons");
+  if (claims.may_create_preauthorized_users) permissions.push("create preauthorized users");
 
   return permissions;
 }
 
 async function isSysadmin() {
   const accessToken = await getAccessToken();
-  const usertype = accessToken.usertype || "user";
+  const claims = JSON.parse(atob(accessToken.split(".")[1]));
+  const usertype = claims.usertype || "user";
   return (usertype === "sysadmin") ? true : false;
 }
 
