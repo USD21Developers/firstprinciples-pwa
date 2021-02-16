@@ -13,7 +13,7 @@
 
 	<phrase id="2" desc="page title">
 		<original>
-			Subscription Cancelled
+			Subscription Not Activated
 		</original>
 		<translated>
 			
@@ -22,7 +22,7 @@
 
 	<phrase id="3">
 		<original>
-			Your subscription has been cancelled.  You have not been charged.
+			Your subscription was not activated, and you have not been charged.
 		</original>
 		<translated>
 			
