@@ -43,6 +43,75 @@
 		<translated></translated>
 	</phrase>
 
+	<phrase id="7">
+		<original>
+			User Stats
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			Subscribers:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			Users:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			Name or e-mail
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			Find user
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			List all users
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			List all subscribers
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="16">
+		<original>
+			Unable to display stats
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="17">
+		<original>
+			There was a technical glitch preventing stats from being displayed.  Please wait a moment then reload the page.
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="javascript:window.location.reload()">
+			<original>
+				reload the page
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
 	<phrase id="61">
 		<original>
 			Administration
