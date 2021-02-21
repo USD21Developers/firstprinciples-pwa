@@ -9,6 +9,7 @@ function hideDefaultSpinner() {
 function renderUsers(data) {
   const userlist = document.querySelector("#userlist");
   const timezone = moment.tz.guess();
+  const txtSubscribedUntil = phrase(66, false);
   const headline = phrase(67, false);
   let html = "";
 
@@ -50,6 +51,7 @@ function renderUsers(data) {
 function renderSubscribers(data) {
   const userlist = document.querySelector("#userlist");
   const timezone = moment.tz.guess();
+  const txtSubscribedUntil = phrase(66, false);
   const headline = phrase(68, false);
   let html = "";
 
