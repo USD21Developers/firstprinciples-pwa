@@ -7,11 +7,80 @@ function hideDefaultSpinner() {
 }
 
 function renderUsers(data) {
-  console.log(data);
+  const userlist = document.querySelector("#userlist");
+  const timezone = moment.tz.guess();
+  const txtSubscribedUntil = phrase(66, false);
+  let html = "";
+
+  data.forEach(item => {
+    const { userid, subscribeduntil, userstatus, usertype, fullname } = item;
+    const isSysadmin = (usertype === "sysadmin") ? true : false;
+    const isFrozen = (userstatus === "frozen") ? true : false;
+    const isSubscribed = moment(subscribeduntil) > moment.utc() || false;
+    let userhtml = "";
+
+    userhtml += `
+      <li class="collection-item userlist-item ${isSubscribed ? 'white userlist-subscribed' : 'grey lighten-2'} data-userid="${userid}" data-subscribeduntil="${subscribeduntil}" data-userstatus="${userstatus}" data-usertype="${usertype}">
+        <strong>${fullname}</strong>
+    `;
+    if (isSysadmin) {
+      userhtml += `<div><span class="smallcaps green-text"><strong>${usertype.toLowerCase()}</strong></div>`;
+    }
+    if (isFrozen) {
+      userhtml += `<div><span class="smallcaps red-text"><strong>${userstatus.toLowerCase()}</strong></div>`;
+    }
+    if (isSubscribed) {
+      userhtml += `<div>${txtSubscribedUntil} ${moment(subscribeduntil).tz(timezone).format("LL")}</div>`;
+    }
+    userhtml += `</li>`;
+    html += userhtml;
+  });
+  html = `
+    <div class="row">
+      <div class="col s10 m4 offset-m4">
+        <ul class="collection userlist z-depth-1">${html}</ul>
+      </div>
+    </div>
+  `;
+  userlist.innerHTML = html;
+  userlist.classList.remove("hide");
 }
 
 function renderSubscribers(data) {
-  console.log(data);
+  const userlist = document.querySelector("#userlist");
+  const timezone = moment.tz.guess();
+  const txtSubscribedUntil = phrase(66, false);
+  let html = "";
+
+  data.forEach(item => {
+    const { userid, subscribeduntil, userstatus, usertype, fullname } = item;
+    const isSysadmin = (usertype === "sysadmin") ? true : false;
+    const isFrozen = (userstatus === "frozen") ? true : false;
+    let userhtml = "";
+
+    userhtml += `
+      <li class="collection-item userlist-item white userlist-subscribed data-userid="${userid}" data-subscribeduntil="${subscribeduntil}" data-userstatus="${userstatus}" data-usertype="${usertype}">
+        <strong>${fullname}</strong>
+    `;
+    if (isSysadmin) {
+      userhtml += `<div><span class="smallcaps green-text"><strong>${usertype.toLowerCase()}</strong></div>`;
+    }
+    if (isFrozen) {
+      userhtml += `<div><span class="smallcaps red-text"><strong>${userstatus.toLowerCase()}</strong></div>`;
+    }
+    userhtml += `<div>${txtSubscribedUntil} ${moment(subscribeduntil).tz(timezone).format("LL")}</div>`;
+    userhtml += `</li>`;
+    html += userhtml;
+  });
+  html = `
+    <div class="row">
+      <div class="col s10 m4 offset-m4">
+        <ul class="collection userlist z-depth-1">${html}</ul>
+      </div>
+    </div>
+  `;
+  userlist.innerHTML = html;
+  userlist.classList.remove("hide");
 }
 
 async function getUsers() {
@@ -99,7 +168,6 @@ function onEdit(e) {
 function onBtnListUsersClicked(e) {
   e.preventDefault();
   getUsers();
-  console.log("onBtnListUsersClicked");
 }
 
 function onBtnListSubscribersClicked(e) {
