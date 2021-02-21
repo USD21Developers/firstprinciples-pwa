@@ -373,3 +373,11 @@ a.btn {
 .nowrap {
   white-space: nowrap;
 }
+
+.smallcaps {
+  font-variant: small-caps;
+}
+
+.userlist-subscribed {
+  background-color: white;
+}

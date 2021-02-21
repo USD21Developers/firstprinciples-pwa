@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="users" lang-original="en" lang-translated="" last-updated="2021-02-19" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2021-02-19" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated></translated>
+  </phrase>
+
+	<phrase id="2" desc="page title">
+		<original>
+			Users
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="3">
+		<original>
+			Can't retrieve users
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			There was a technical glitch preventing users from being displayed.  Please check your internet connection, then reload the page.
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="javascript:window.location.reload()">
+			<original>
+				reload the page
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	<phrase id="5">
+		<original>
+			${quantity} users found:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			User Stats
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			Subscribers:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			Users:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			Name or e-mail
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			Find user
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			List all users
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			List all subscribers
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="16">
+		<original>
+			Unable to display stats
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="17">
+		<original>
+			There was a technical glitch preventing stats from being displayed.  Please wait a moment then reload the page.
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="javascript:window.location.reload()">
+			<original>
+				reload the page
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	<phrase id="61">
+		<original>
+			Administration
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="62">
+		<original>
+			My Account
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="63">
+		<original>
+			My Profile
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="64">
+		<original>
+			Home
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="65">
+		<original>
+			Log Out
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="66">
+		<original>
+			Subscribed until
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>
