@@ -13,8 +13,6 @@ function renderUsers(data) {
   const headlineUsers = phrase(67, false);
   let html = "";
 
-  console.log(`headlineUsers: ${headlineUsers}`);
-
   data.forEach(item => {
     const { userid, subscribeduntil, userstatus, usertype, fullname } = item;
     const isSysadmin = (usertype === "sysadmin") ? true : false;
@@ -61,8 +59,6 @@ function renderSubscribers(data) {
   const txtSubscribedUntil = phrase(66, false);
   const headlineSubscribers = phrase(68, false);
   let html = "";
-
-  console.log(`headlineSubscribers: ${headlineSubscribers}`);
 
   data.forEach(item => {
     const { userid, subscribeduntil, userstatus, usertype, fullname } = item;
@@ -175,12 +171,10 @@ async function getSubscribers() {
 
 function onUserSearched(e) {
   e.preventDefault();
-  console.log("onUserSearched");
 }
 
 function onEdit(e) {
   e.preventDefault();
-  console.log("onEdit");
 }
 
 function onBtnListUsersClicked(e) {
@@ -191,7 +185,6 @@ function onBtnListUsersClicked(e) {
 function onBtnListSubscribersClicked(e) {
   e.preventDefault();
   getSubscribers();
-  console.log("onBtnListSubscribersClicked");
 }
 
 function showAutomatically() {
