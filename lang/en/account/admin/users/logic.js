@@ -192,15 +192,14 @@ function onBtnListSubscribersClicked(e) {
 
 function showAutomatically() {
   const showusers = sessionStorage.getItem("showusers") || "";
+  sessionStorage.removeItem("showusers");
 
   switch(showusers) {
     case "all":
-      getUsers();
+      document.querySelector("#btnListUsers").click();
     case "subscribers":
-      getSubscribers();
+      document.querySelector("#btnListSubscribers").click();
   }
-
-  sessionStorage.removeItem("showusers");
 }
 
 async function showStats(data) {
