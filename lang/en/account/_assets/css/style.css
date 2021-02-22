@@ -352,22 +352,30 @@ a.btn {
   text-decoration: none !important;
 }
 
-.collection {
+#bottomTextLinks .collection {
   border: 1px solid #039be5;
 }
 
-.collection .collection-item {
+#bottomTextLinks .collection .collection-item {
   color: #0277bd !important;
   border-bottom: 1px solid #039be5 !important;
 }
 
-.collection .collection-item:last-child {
+#bottomTextLinks .collection .collection-item:last-child {
   border-bottom: 0px !important;
 }
 
-.collection a.collection-item:hover {	
+#bottomTextLinks .collection a.collection-item:hover {	
   background-color: #efefef !important;
   font-weight: 700 !important;
+}
+
+#userlist .collection {
+  border: 1px solid #bbb;
+}
+
+#userlist .collection .collection-item {
+  border-bottom: 1px solid #bbb;
 }
 
 .nowrap {

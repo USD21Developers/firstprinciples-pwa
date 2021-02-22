@@ -21,9 +21,12 @@ function renderUsers(data) {
     let userhtml = "";
 
     userhtml += `
-      <li class="collection-item userlist-item ${isSubscribed ? 'white userlist-subscribed' : 'grey lighten-2'} data-userid="${userid}" data-subscribeduntil="${subscribeduntil}" data-userstatus="${userstatus}" data-usertype="${usertype}">
-        <strong>${fullname}</strong>
-    `;
+      <li class="collection-item userlist-item ${isSubscribed ? 'white userlist-subscribed' : 'grey lighten-2'} data-userid="${userid}" data-subscribeduntil="${subscribeduntil}" data-userstatus="${userstatus}" data-usertype="${usertype}">`;
+    if (isSubscribed) {
+      userhtml += `<strong>${fullname}</strong>`;
+    } else {
+      userhtml += `${fullname}`
+    }
     if (isSysadmin) {
       userhtml += `<div><span class="smallcaps green-text"><strong>${usertype.toLowerCase()}</strong></div>`;
     }
