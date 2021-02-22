@@ -10,8 +10,10 @@ function renderUsers(data) {
   const userlist = document.querySelector("#userlist");
   const timezone = moment.tz.guess();
   const txtSubscribedUntil = phrase(66, false);
-  const headline = phrase(67, false);
+  const headlineUsers = phrase(67, false);
   let html = "";
+
+  console.log(`headlineUsers: ${headlineUsers}`);
 
   data.forEach(item => {
     const { userid, subscribeduntil, userstatus, usertype, fullname } = item;
@@ -39,7 +41,7 @@ function renderUsers(data) {
   html = `
     <div class="row">
       <div class="col s10 m4 offset-m4">
-        <h5 class="center-align">${headline}</h5>
+        <h5 class="center-align">${headlineUsers}</h5>
         <ul class="collection userlist z-depth-1">${html}</ul>
       </div>
     </div>
@@ -57,8 +59,10 @@ function renderSubscribers(data) {
   const userlist = document.querySelector("#userlist");
   const timezone = moment.tz.guess();
   const txtSubscribedUntil = phrase(66, false);
-  const headline = phrase(68, false);
+  const headlineSubscribers = phrase(68, false);
   let html = "";
+
+  console.log(`headlineSubscribers: ${headlineSubscribers}`);
 
   data.forEach(item => {
     const { userid, subscribeduntil, userstatus, usertype, fullname } = item;
@@ -83,7 +87,7 @@ function renderSubscribers(data) {
   html = `
     <div class="row">
       <div class="col s12 m4 offset-m4">
-        <h5 class="center-align">${headline}</h5>
+        <h5 class="center-align">${headlineSubscribers}</h5>
         <ul class="collection userlist z-depth-1">${html}</ul>
       </div>
     </div>
