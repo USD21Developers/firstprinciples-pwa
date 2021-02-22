@@ -46,6 +46,11 @@ function renderUsers(data) {
   `;
   userlist.innerHTML = html;
   userlist.classList.remove("hide");
+  try {
+    userlist.scrollIntoView({behavior: "smooth"})
+  } catch(e) {
+    userlist.scrollIntoView();
+  }
 }
 
 function renderSubscribers(data) {
@@ -77,7 +82,7 @@ function renderSubscribers(data) {
   });
   html = `
     <div class="row">
-      <div class="col s10 m4 offset-m4">
+      <div class="col s12 m4 offset-m4">
         <h5 class="center-align">${headline}</h5>
         <ul class="collection userlist z-depth-1">${html}</ul>
       </div>
@@ -85,6 +90,11 @@ function renderSubscribers(data) {
   `;
   userlist.innerHTML = html;
   userlist.classList.remove("hide");
+  try {
+    userlist.scrollIntoView({behavior: "smooth"})
+  } catch(e) {
+    userlist.scrollIntoView();
+  }
 }
 
 async function getUsers() {
@@ -178,6 +188,19 @@ function onBtnListSubscribersClicked(e) {
   e.preventDefault();
   getSubscribers();
   console.log("onBtnListSubscribersClicked");
+}
+
+function showAutomatically() {
+  const showusers = sessionStorage.getItem("showusers") || "";
+
+  switch(showusers) {
+    case "all":
+      getUsers();
+    case "subscribers":
+      getSubscribers();
+  }
+
+  sessionStorage.removeItem("showusers");
 }
 
 async function showStats(data) {

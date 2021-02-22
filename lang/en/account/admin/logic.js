@@ -66,10 +66,18 @@ async function showStats(data, country) {
   const numCountries = document.querySelector("#numCountries");
   const numLanguages = document.querySelector("#numLanguages");
 
-  numActiveSubscribers.innerHTML = active_subscribers;
-  numTotalUsers.innerHTML = total_users;
+  numActiveSubscribers.innerHTML = `<a href="users/" class="showsubscribers">${active_subscribers}</a>`;
+  numTotalUsers.innerHTML = `<a href="users/" class="showallusers">${total_users}</a>`;
   amtRaised.innerHTML = (country === "us") ? `$${(Number(amt_raised).toFixed(2) || 0).toLocaleString(country)} <span style="font-variant:small-caps;">usd</span>` : `$ ${(Number(amt_raised).toFixed(2) || 0).toLocaleString(country)} <span style="font-variant:small-caps;">usd</span>`;
   
+  document.querySelector(".showallusers").addEventListener("click", (e) => {
+    sessionStorage.setItem("showusers", "all");
+  });
+
+  document.querySelector(".showsubscribers").addEventListener("click", (e) => {
+    sessionStorage.setItem("showusers", "subscribers");
+  });
+
   numCountries.innerHTML = num_countries;
   if (num_countries >= 1) {
     const countryNames = await getCountryNames(countries);
