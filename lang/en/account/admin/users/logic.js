@@ -210,6 +210,8 @@ async function showStats(data) {
 
   numActiveSubscribers.innerHTML = active_subscribers;
   numTotalUsers.innerHTML = total_users;
+
+  showAutomatically();
 }
 
 async function populateStats() {
