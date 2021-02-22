@@ -41,7 +41,7 @@ function renderUsers(data) {
   });
   html = `
     <div class="row">
-      <div class="col s10 m4 offset-m4">
+      <div class="col s12 m4 offset-m4">
         <h5 class="center-align">${headlineUsers}</h5>
         <ul class="collection userlist z-depth-1">${html}</ul>
       </div>
