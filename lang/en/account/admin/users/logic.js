@@ -201,8 +201,10 @@ function showAutomatically() {
   switch(showusers) {
     case "all":
       document.querySelector("#btnListUsers").click();
+      break;
     case "subscribers":
       document.querySelector("#btnListSubscribers").click();
+      break;
   }
 }
 
