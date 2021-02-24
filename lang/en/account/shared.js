@@ -147,7 +147,7 @@ async function showPhrases() {
   const parsedXML = await getContent();
   const phrases = parsedXML.querySelectorAll("phrase");
 
-  await showFooter();
+  showFooter();
 
   retrievedContent = phrases;
 
