@@ -109,6 +109,7 @@ async function getUsers() {
   const accessToken = await getAccessToken();
 
   localforage.getItem("users", (err, storedUsers) => {
+    if (err) return console.error(err);
     if (storedUsers && storedUsers.length) {
       localforage.setItem("users", storedUsers);
       renderUsers(storedUsers, "IndexedDB");
@@ -155,6 +156,7 @@ async function getSubscribers() {
   const accessToken = await getAccessToken();
 
   localforage.getItem("subscribers", (err, storedSubscribers) => {
+    if (err) return console.error(err);
     if (storedSubscribers && storedSubscribers.length) {
       localforage.setItem("subscribers", storedSubscribers);
       renderSubscribers(storedSubscribers, "IndexedDB");
