@@ -105,7 +105,11 @@ async function getUsers() {
   const accessToken = await getAccessToken();
 
   localforage.getItem("users", (storedUsers) => {
-    renderUsers(storedUsers);
+    if (storedUsers && storedUsers.length) {
+      renderUsers(storedUsers);
+    } else {
+      localforage.removeItem("users");
+    }
   });
 
   fetch(endpoint, {
@@ -146,7 +150,11 @@ async function getSubscribers() {
   const accessToken = await getAccessToken();
 
   localforage.getItem("subscribers", (storedSubscribers) => {
-    renderUsers(storedSubscribers);
+    if (storedSubscribers && storedSubscribers.length) {
+      renderUsers(storedSubscribers);
+    } else {
+      localforage.removeItem("subscribers");
+    }
   });
 
   fetch(endpoint, {
