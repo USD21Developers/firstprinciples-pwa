@@ -104,6 +104,10 @@ async function getUsers() {
   const endpoint = `${getAPIHost()}/fp/users-list-all`;
   const accessToken = await getAccessToken();
 
+  localforage.getItem("users", (storedUsers) => {
+    renderUsers(storedUsers);
+  });
+
   fetch(endpoint, {
     mode: "cors",
     method: "GET",
@@ -127,6 +131,7 @@ async function getUsers() {
           break;
         case "users retrieved":
           renderUsers(data.data);
+          localforage.setItem("users", data.data);
           break;
       }
     })
@@ -139,6 +144,10 @@ async function getUsers() {
 async function getSubscribers() {
   const endpoint = `${getAPIHost()}/fp/users-list-subscribers`;
   const accessToken = await getAccessToken();
+
+  localforage.getItem("subscribers", (storedSubscribers) => {
+    renderUsers(storedSubscribers);
+  });
 
   fetch(endpoint, {
     mode: "cors",
@@ -163,6 +172,7 @@ async function getSubscribers() {
           break;
         case "subscribers retrieved":
           renderSubscribers(data.data);
+          localforage.setItem("subscribers", data.data);
           break;
       }
     })
