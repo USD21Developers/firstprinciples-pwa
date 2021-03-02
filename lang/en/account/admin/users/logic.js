@@ -56,7 +56,7 @@ function renderUsers(data) {
   }
 }
 
-function renderSubscribers(data, source) {
+function renderSubscribers(data) {
   const userlist = document.querySelector("#userlist");
   const timezone = moment.tz.guess();
   const txtSubscribedUntil = phrase(66, false);
@@ -155,7 +155,7 @@ async function getSubscribers() {
     if (err) return console.error(err);
     if (storedSubscribers && storedSubscribers.length) {
       localforage.setItem("subscribers", storedSubscribers);
-      renderSubscribers(storedSubscribers, "IndexedDB");
+      renderSubscribers(storedSubscribers);
     } else {
       localforage.removeItem("subscribers");
     }
