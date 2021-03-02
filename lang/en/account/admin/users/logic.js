@@ -6,7 +6,7 @@ function hideDefaultSpinner() {
   document.querySelector(".breadcrumbs").classList.remove("hide");
 }
 
-function renderUsers(data, source) {
+function renderUsers(data) {
   const userlist = document.querySelector("#userlist");
   const timezone = moment.tz.guess();
   const txtSubscribedUntil = phrase(66, false);
@@ -112,7 +112,7 @@ async function getUsers() {
     if (err) return console.error(err);
     if (storedUsers && storedUsers.length) {
       localforage.setItem("users", storedUsers);
-      renderUsers(storedUsers, "IndexedDB");
+      renderUsers(storedUsers);
     } else {
       localforage.removeItem("users");
     }
