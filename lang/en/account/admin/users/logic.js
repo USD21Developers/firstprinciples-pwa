@@ -6,12 +6,14 @@ function hideDefaultSpinner() {
   document.querySelector(".breadcrumbs").classList.remove("hide");
 }
 
-function renderUsers(data) {
+function renderUsers(data, source) {
   const userlist = document.querySelector("#userlist");
   const timezone = moment.tz.guess();
   const txtSubscribedUntil = phrase(66, false);
   const headlineUsers = phrase(67, false);
   let html = "";
+
+  if (source) console.log(source);
 
   data.forEach(item => {
     const { userid, subscribeduntil, userstatus, usertype, fullname } = item;
@@ -56,12 +58,14 @@ function renderUsers(data) {
   }
 }
 
-function renderSubscribers(data) {
+function renderSubscribers(data, source) {
   const userlist = document.querySelector("#userlist");
   const timezone = moment.tz.guess();
   const txtSubscribedUntil = phrase(66, false);
   const headlineSubscribers = phrase(68, false);
   let html = "";
+
+  if (source) console.log(source);
 
   data.forEach(item => {
     const { userid, subscribeduntil, userstatus, usertype, fullname } = item;
@@ -107,7 +111,7 @@ async function getUsers() {
   localforage.getItem("users", (storedUsers) => {
     if (storedUsers && storedUsers.length) {
       localforage.setItem("users", storedUsers);
-      renderUsers(storedUsers);
+      renderUsers(storedUsers, "IndexedDB");
     } else {
       localforage.removeItem("users");
     }
@@ -153,7 +157,7 @@ async function getSubscribers() {
   localforage.getItem("subscribers", (storedSubscribers) => {
     if (storedSubscribers && storedSubscribers.length) {
       localforage.setItem("subscribers", storedSubscribers);
-      renderUsers(storedSubscribers);
+      renderSubscribers(storedSubscribers, "IndexedDB");
     } else {
       localforage.removeItem("subscribers");
     }
