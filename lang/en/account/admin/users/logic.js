@@ -108,7 +108,7 @@ async function getUsers() {
   const endpoint = `${getAPIHost()}/fp/users-list-all`;
   const accessToken = await getAccessToken();
 
-  localforage.getItem("users", (storedUsers) => {
+  localforage.getItem("users", (err, storedUsers) => {
     if (storedUsers && storedUsers.length) {
       localforage.setItem("users", storedUsers);
       renderUsers(storedUsers, "IndexedDB");
@@ -154,7 +154,7 @@ async function getSubscribers() {
   const endpoint = `${getAPIHost()}/fp/users-list-subscribers`;
   const accessToken = await getAccessToken();
 
-  localforage.getItem("subscribers", (storedSubscribers) => {
+  localforage.getItem("subscribers", (err, storedSubscribers) => {
     if (storedSubscribers && storedSubscribers.length) {
       localforage.setItem("subscribers", storedSubscribers);
       renderSubscribers(storedSubscribers, "IndexedDB");
