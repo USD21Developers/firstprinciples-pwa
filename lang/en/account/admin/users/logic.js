@@ -106,6 +106,7 @@ async function getUsers() {
 
   localforage.getItem("users", (storedUsers) => {
     if (storedUsers && storedUsers.length) {
+      localforage.setItem("users", storedUsers);
       renderUsers(storedUsers);
     } else {
       localforage.removeItem("users");
@@ -151,6 +152,7 @@ async function getSubscribers() {
 
   localforage.getItem("subscribers", (storedSubscribers) => {
     if (storedSubscribers && storedSubscribers.length) {
+      localforage.setItem("subscribers", storedSubscribers);
       renderUsers(storedSubscribers);
     } else {
       localforage.removeItem("subscribers");
