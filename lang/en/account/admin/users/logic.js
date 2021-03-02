@@ -13,8 +13,6 @@ function renderUsers(data) {
   const headlineUsers = phrase(67, false);
   let html = "";
 
-  if (source) console.log(source);
-
   data.forEach(item => {
     const { userid, subscribeduntil, userstatus, usertype, fullname } = item;
     const isSysadmin = (usertype === "sysadmin") ? true : false;
