@@ -115,7 +115,7 @@ async function getUsers() {
 
   fetch(endpoint, {
     mode: "cors",
-    method: "GET",
+    method: "POST",
     body: JSON.stringify({
       timezone: timezone,
     }),
