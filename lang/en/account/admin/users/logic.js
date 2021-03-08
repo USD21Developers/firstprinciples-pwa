@@ -8,7 +8,6 @@ function hideDefaultSpinner() {
 
 function renderUsers(data) {
   const userlist = document.querySelector("#userlist");
-  const timezone = moment.tz.guess();
   const txtSubscribedUntil = phrase(66, false);
   const headlineUsers = phrase(67, false);
   let html = "";
@@ -21,7 +20,7 @@ function renderUsers(data) {
     let userhtml = "";
 
     userhtml += `
-      <li class="collection-item userlist-item ${isSubscribed ? 'white userlist-subscribed' : 'grey lighten-2'} data-userid="${userid}" data-subscribeduntil="${subscribeduntil}" data-userstatus="${userstatus}" data-usertype="${usertype}">`;
+      <li class="collection-item userlist-item ${isSubscribed ? 'white userlist-subscribed' : 'grey lighten-2'} data-userid="${userid}">`;
     if (isSubscribed) {
       userhtml += `<strong>${fullname}</strong>`;
     } else {
@@ -34,7 +33,7 @@ function renderUsers(data) {
       userhtml += `<div><span class="smallcaps red-text"><strong>${userstatus.toLowerCase()}</strong></div>`;
     }
     if (isSubscribed) {
-      userhtml += `<div>${txtSubscribedUntil} ${moment(subscribeduntil).tz(timezone).format("LL")}</div>`;
+      userhtml += `<div>${txtSubscribedUntil} ${subscribeduntil}</div>`;
     }
     userhtml += `</li>`;
     html += userhtml;
@@ -58,7 +57,6 @@ function renderUsers(data) {
 
 function renderSubscribers(data) {
   const userlist = document.querySelector("#userlist");
-  const timezone = moment.tz.guess();
   const txtSubscribedUntil = phrase(66, false);
   const headlineSubscribers = phrase(68, false);
   let html = "";
@@ -70,7 +68,7 @@ function renderSubscribers(data) {
     let userhtml = "";
 
     userhtml += `
-      <li class="collection-item userlist-item white userlist-subscribed data-userid="${userid}" data-subscribeduntil="${subscribeduntil}" data-userstatus="${userstatus}" data-usertype="${usertype}">
+    <li class="collection-item userlist-item white data-userid=${userid}">
         <strong>${fullname}</strong>
     `;
     if (isSysadmin) {
@@ -79,7 +77,7 @@ function renderSubscribers(data) {
     if (isFrozen) {
       userhtml += `<div><span class="smallcaps red-text"><strong>${userstatus.toLowerCase()}</strong></div>`;
     }
-    userhtml += `<div>${txtSubscribedUntil} ${moment(subscribeduntil).tz(timezone).format("LL")}</div>`;
+    userhtml += `<div>${txtSubscribedUntil} ${subscribeduntil}</div>`;
     userhtml += `</li>`;
     html += userhtml;
   });
@@ -103,6 +101,7 @@ function renderSubscribers(data) {
 async function getUsers() {
   const endpoint = `${getAPIHost()}/fp/users-list-all`;
   const accessToken = await getAccessToken();
+  const timezone = moment.tz.guess();
 
   localforage.getItem("users", (err, storedUsers) => {
     if (err) return console.error(err);
@@ -117,6 +116,9 @@ async function getUsers() {
   fetch(endpoint, {
     mode: "cors",
     method: "GET",
+    body: JSON.stringify({
+      timezone: timezone,
+    }),
     headers: new Headers({
       "Content-Type": "application/json",
       authorization: `Bearer ${accessToken}`
@@ -150,6 +152,7 @@ async function getUsers() {
 async function getSubscribers() {
   const endpoint = `${getAPIHost()}/fp/users-list-subscribers`;
   const accessToken = await getAccessToken();
+  const timezone = moment.tz.guess();
 
   localforage.getItem("subscribers", (err, storedSubscribers) => {
     if (err) return console.error(err);
@@ -164,6 +167,9 @@ async function getSubscribers() {
   fetch(endpoint, {
     mode: "cors",
     method: "GET",
+    body: JSON.stringify({
+      timezone: timezone
+    }),
     headers: new Headers({
       "Content-Type": "application/json",
       authorization: `Bearer ${accessToken}`
