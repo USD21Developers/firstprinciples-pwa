@@ -13,10 +13,10 @@ function renderUsers(data) {
   let html = "";
 
   data.forEach(item => {
-    const { userid, subscribeduntil, userstatus, usertype, fullname } = item;
+    const { userid, expiry, userstatus, usertype, fullname } = item;
     const isSysadmin = (usertype === "sysadmin") ? true : false;
     const isFrozen = (userstatus === "frozen") ? true : false;
-    const isSubscribed = moment(subscribeduntil) > moment.utc() || false;
+    const isSubscribed = moment(expiry) > moment.utc() || false;
     let userhtml = "";
 
     userhtml += `
@@ -33,7 +33,7 @@ function renderUsers(data) {
       userhtml += `<div><span class="smallcaps red-text"><strong>${userstatus.toLowerCase()}</strong></div>`;
     }
     if (isSubscribed) {
-      userhtml += `<div>${txtSubscribedUntil} ${subscribeduntil}</div>`;
+      userhtml += `<div>${txtSubscribedUntil} ${expiry}</div>`;
     }
     userhtml += `</li>`;
     html += userhtml;
@@ -62,7 +62,7 @@ function renderSubscribers(data) {
   let html = "";
 
   data.forEach(item => {
-    const { userid, subscribeduntil, userstatus, usertype, fullname } = item;
+    const { userid, expiry, userstatus, usertype, fullname } = item;
     const isSysadmin = (usertype === "sysadmin") ? true : false;
     const isFrozen = (userstatus === "frozen") ? true : false;
     let userhtml = "";
@@ -77,7 +77,7 @@ function renderSubscribers(data) {
     if (isFrozen) {
       userhtml += `<div><span class="smallcaps red-text"><strong>${userstatus.toLowerCase()}</strong></div>`;
     }
-    userhtml += `<div>${txtSubscribedUntil} ${subscribeduntil}</div>`;
+    userhtml += `<div>${txtSubscribedUntil} ${expiry}</div>`;
     userhtml += `</li>`;
     html += userhtml;
   });
