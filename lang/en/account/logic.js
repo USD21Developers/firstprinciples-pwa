@@ -5,15 +5,26 @@ function askToSubscribe() {
 
 async function showSubscriptionInfo() {
   const subscriptionToken = JSON.parse(atob(localStorage.getItem("subscriptionToken").split(".")[1]));
-  const accessToken = await getAccessToken();
-  const country = JSON.parse(atob(accessToken.split(".")[1])).country || "us";
   const expiry = moment.unix(subscriptionToken.exp).format("YYYY/MM/DD");
   const lsDateOptions = { year: 'numeric', month: 'long', day: 'numeric' };
-  const lsExpiry = new Intl.DateTimeFormat(country, lsDateOptions).format(new Date(expiry));
-  const expiryStatement = phrase(5, false).replace("${expiryDate}", `<strong class="nowrap">${lsExpiry}</strong>`);
+  const countryStored = localStorage.getItem("country") || "";
+  let country = (countryStored.length) ? countryStored : "us";
+  let lsExpiry = new Intl.DateTimeFormat(country, lsDateOptions).format(new Date(expiry));
+  let expiryStatement = phrase(5, false).replace("${expiryDate}", `<strong class="nowrap">${lsExpiry}</strong>`);
 
   document.querySelector("[data-expiry-statement]").innerHTML = expiryStatement;
   document.querySelector("#subscription-status-subscribed").classList.remove("hide");
+
+  if (! countryStored.length) {
+    const accessToken = await getAccessToken();
+    country = JSON.parse(atob(accessToken.split(".")[1])).country || "us";
+    localStorage.setItem("country", country);
+
+    lsExpiry = new Intl.DateTimeFormat(country, lsDateOptions).format(new Date(expiry));
+    expiryStatement = phrase(5, false).replace("${expiryDate}", `<strong class="nowrap">${lsExpiry}</strong>`);
+    document.querySelector("[data-expiry-statement]").innerHTML = expiryStatement;
+    document.querySelector("#subscription-status-subscribed").classList.remove("hide");
+  }
 }
 
 function checkSubscription() {
