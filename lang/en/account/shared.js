@@ -323,6 +323,8 @@ function getAccessToken() {
             const { accessToken, refreshToken } = data;
             localStorage.setItem("refreshToken", refreshToken);
             sessionStorage.setItem("accessToken", accessToken);
+            const country = JSON.parse(atob(accessToken.split(".")[1])).country || "us";
+            setCountry(country);
             resolve(accessToken);
             break;
           default:
@@ -334,6 +336,10 @@ function getAccessToken() {
         console.error(error);
       });
   });
+}
+
+function setCountry(country) {
+  localStorage.setItem("country", country);
 }
 
 function getAPIHost(forceRemote = false) {
