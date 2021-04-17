@@ -124,8 +124,14 @@ function verifyRefreshToken() {
 }
 
 function framebuster() {
-  const hostname = window.parent.location.hostname || "";
-  const pathname = window.parent.location.pathname || "/";
+  let hostname = "";
+  let pathname = "/";
+  try {
+    hostname = window.parent.location.hostname;
+    pathname = window.parent.location.pathname;
+  } catch(err) {
+    console.error(err);
+  }
   const validHostNames = ["localhost", "staging.firstprinciples.mobi", "firstprinciples.mobi"];
 
   if (! validHostNames.includes(hostname)) {
