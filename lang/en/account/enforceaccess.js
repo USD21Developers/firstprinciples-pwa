@@ -123,4 +123,15 @@ function verifyRefreshToken() {
   if (!isAuthorized) window.location.href = logoutUrl;
 }
 
+function framebuster() {
+  const hostname = window.parent.location.hostname;
+  const pathname = window.parent.location.pathname;
+
+  if ((hostname !== "localhost") && (hostname !== "firstprinciples.mobi")) {
+    const newURL = `https://firstprinciples.mobi${pathname}`
+    window.parent.location.href = newURL;
+  }
+}
+
+framebuster();
 verifyRefreshToken();
