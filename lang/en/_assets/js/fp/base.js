@@ -403,8 +403,8 @@ fp.showSplashScreen = (fromKey) => {
 }
 
 fp.framebuster = () => {
-  const hostname = window.parent.location.hostname;
-  const pathname = window.parent.location.pathname;
+  const hostname = window.parent.location.hostname || "";
+  const pathname = window.parent.location.pathname || "/";
   const validHostNames = ["localhost", "staging.firstprinciples.mobi", "firstprinciples.mobi"];
 
   if (! validHostNames.includes(hostname)) {
