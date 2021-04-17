@@ -382,7 +382,6 @@ fp.registerServiceWorker = fromKey => {
 
 fp.framebuster = () => {
   let hostname = "";
-  let pathname = "/";
   try {
     hostname = window.parent.location.hostname;
   } catch(err) {
@@ -391,8 +390,9 @@ fp.framebuster = () => {
   const validHostNames = ["localhost", "staging.firstprinciples.mobi", "firstprinciples.mobi"];
 
   if (! validHostNames.includes(hostname)) {
-    const newURL = `https://firstprinciples.mobi${pathname}`
-    window.parent.location.href = newURL;
+    const lang = window.location.pathname.substring(6, 8) || "en";
+    const newURL = `${window.location.origin}/${lang}/framebuster/`;
+    window.location.href = newURL;
   }
 }
 

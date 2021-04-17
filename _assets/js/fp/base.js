@@ -327,24 +327,22 @@ fp.prePopulateTitles = () => {
 
 fp.framebuster = () => {
   let hostname = "";
-  let pathname = "/";
   try {
     hostname = window.parent.location.hostname;
-    pathname = window.parent.location.pathname;
   } catch(err) {
     console.error(err);
   }
   const validHostNames = ["localhost", "staging.firstprinciples.mobi", "firstprinciples.mobi"];
 
   if (! validHostNames.includes(hostname)) {
-    const newURL = `https://firstprinciples.mobi${pathname}`
-    window.parent.location.href = newURL;
+    const lang = fp.language.current;
+    const newURL = `${window.location.origin}/${lang}/framebuster/`;
+    window.location.href = newURL;
   }
 }
 
 fp.init = async fromKey => {
   window.fp = {};
-  fp.framebuster();
   $.ajaxSetup({
     cache: true
   });
@@ -369,6 +367,7 @@ fp.init = async fromKey => {
     return;
   }
   fp.language.set(fp.language.current);
+  fp.framebuster();
   fp.language.global.setAppTitle(fromKey, fp.language.current);
   fp.language.global.setExpandButton(fromKey, fp.language.current);
   await fp.showContent(fromKey, fp.language.current);

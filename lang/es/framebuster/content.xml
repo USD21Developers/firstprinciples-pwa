@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="framebuster" lang-original="es" lang-translated="" last-updated="2021-04-17" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2021-04-17" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			Redirigir
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+  <phrase id="2">
+		<original>
+			Para que funcione correctamente, este sitio web no debe estar contenido dentro de un marco.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+  <phrase id="3">
+		<original>
+			Continuar
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>
