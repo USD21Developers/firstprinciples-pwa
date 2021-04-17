@@ -335,6 +335,7 @@ fp.framebuster = () => {
 
 fp.init = async fromKey => {
   window.fp = {};
+  fp.framebuster();
   $.ajaxSetup({
     cache: true
   });
@@ -359,7 +360,6 @@ fp.init = async fromKey => {
     return;
   }
   fp.language.set(fp.language.current);
-  fp.framebuster();
   fp.language.global.setAppTitle(fromKey, fp.language.current);
   fp.language.global.setExpandButton(fromKey, fp.language.current);
   await fp.showContent(fromKey, fp.language.current);
