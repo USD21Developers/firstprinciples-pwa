@@ -134,7 +134,7 @@ function framebuster() {
 
   if (! validHostNames.includes(hostname)) {
     const lang = window.location.pathname.substring(6, 8) || "en";
-    const newURL = `${window.location.origin}/${lang}/framebuster/`;
+    const newURL = `${window.location.origin}/lang/${lang}/framebuster/`;
     window.location.href = newURL;
   }
 }

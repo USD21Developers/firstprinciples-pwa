@@ -336,7 +336,7 @@ fp.framebuster = () => {
 
   if (! validHostNames.includes(hostname)) {
     const lang = fp.language.current;
-    const newURL = `${window.location.origin}/${lang}/framebuster/`;
+    const newURL = `${window.location.origin}/lang/${lang}/framebuster/`;
     window.location.href = newURL;
   }
 }
