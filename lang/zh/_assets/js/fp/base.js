@@ -383,8 +383,9 @@ fp.registerServiceWorker = fromKey => {
 fp.framebuster = () => {
   const hostname = window.parent.location.hostname;
   const pathname = window.parent.location.pathname;
+  const validHostNames = ["localhost", "staging.firstprinciples.mobi", "firstprinciples.mobi"];
 
-  if ((hostname !== "localhost") && (hostname !== "firstprinciples.mobi")) {
+  if (! validHostNames.includes(hostname)) {
     const newURL = `https://firstprinciples.mobi${pathname}`
     window.parent.location.href = newURL;
   }
