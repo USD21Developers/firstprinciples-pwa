@@ -380,8 +380,19 @@ fp.registerServiceWorker = fromKey => {
   }  
 }
 
+fp.framebuster = () => {
+  const hostname = window.parent.location.hostname;
+  const pathname = window.parent.location.pathname;
+
+  if ((hostname !== "localhost") && (hostname !== "firstprinciples.mobi")) {
+    const newURL = `https://firstprinciples.mobi${pathname}`
+    window.parent.location.href = newURL;
+  }
+}
+
 fp.init = async fromKey => {
   window.fp = {};
+  fp.framebuster();
   $.ajaxSetup({
     cache: true
   });
