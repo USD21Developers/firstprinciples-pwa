@@ -49,10 +49,10 @@
 
 	<phrase id="6" desc="">
 		<original>
-			Sign up for the Good News Emails at CAICC.net by Session 2.
+			Sign up for the Good News Emails at cityofangelsicc.org by Session 2.
 		</original>
 		<translated>
-			在第二课开始前在 CAICC.NET 网站上注册喜讯邮报。
+			在第二课开始前在 cityofangelsicc.org 网站上注册喜讯邮报。
 		</translated>
 		<change bold="true" italic="false" modal="false" href="http://eepurl.com/iyjz2">
 			<original>
@@ -62,12 +62,12 @@
 				注册
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="http://www.caicc.net/">
+		<change bold="true" italic="false" modal="false" href="http://cityofangelsicc.org/">
 			<original>
-				CAICC.net
+				cityofangelsicc.org
 			</original>
 			<translated>
-				CAICC.NET
+				cityofangelsicc.org
 			</translated>
 		</change>
 	</phrase>
@@ -79,7 +79,7 @@
 		<translated>
 			在第八课前阅读完罗恩· 哈丁所著的 “现代基督教发展历史” （KipMcKean.com)
 		</translated>
-		<change bold="true" italic="false" modal="false" href="http://www.caicc.net/">
+		<change bold="true" italic="false" modal="false" href="http://cityofangelsicc.org/">
 			<original>
 				KipMcKean.com
 			</original>

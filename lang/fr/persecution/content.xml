@@ -636,17 +636,17 @@
 
 	<phrase id="49" desc="">
 		<original>
-			(See caicc.net, usd21.org and KipMcKean.org)
+			(See cityofangelsicc.org, usd21.org and KipMcKean.org)
 		</original>
 		<translated>
-			(Voir caicc.net, usd21.org et kipmckean.org)
+			(Voir cityofangelsicc.org, usd21.org et kipmckean.org)
 		</translated>
-		<change bold="true" italic="false" modal="false" href="http://www.caicc.net/">
+		<change bold="true" italic="false" modal="false" href="http://cityofangelsicc.org/">
 			<original>
-				caicc.net
+				cityofangelsicc.org
 			</original>
 			<translated>
-				caicc.net
+				cityofangelsicc.org
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="false" href="http://www.usd21.org/">

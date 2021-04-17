@@ -49,10 +49,10 @@
 
 	<phrase id="6" desc="">
 		<original>
-			Sign up for the Good News Emails at CAICC.net by Session 2.
+			Sign up for the Good News Emails at cityofangelsicc.org by Session 2.
 		</original>
 		<translated>
-			Inscríbete para recibir “Las buenas noticias por email” en la página www.caicc.net.
+			Inscríbete para recibir “Las buenas noticias por email” en la página cityofangelsicc.org.
 		</translated>
 		<change bold="true" italic="false" modal="false" href="http://eepurl.com/iyjz2">
 			<original>
@@ -62,12 +62,12 @@
 				Inscríbete
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="http://www.caicc.net/">
+		<change bold="true" italic="false" modal="false" href="http://cityofangelsicc.org/">
 			<original>
-				CAICC.net
+				cityofangelsicc.org
 			</original>
 			<translated>
-				www.caicc.net
+				cityofangelsicc.org
 			</translated>
 		</change>
 	</phrase>
