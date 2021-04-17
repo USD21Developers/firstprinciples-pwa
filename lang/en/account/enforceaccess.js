@@ -124,18 +124,10 @@ function verifyRefreshToken() {
 }
 
 function framebuster() {
-  let hostname = "";
-  try {
-    hostname = window.parent.location.hostname;
-  } catch(err) {
-    console.error(err);
-  }
-  const validHostNames = ["localhost", "staging.firstprinciples.mobi", "firstprinciples.mobi"];
+  const isFramed = (top.location === self.location) ? false : true;
 
-  if (! validHostNames.includes(hostname)) {
-    const lang = window.location.pathname.substring(6, 8) || "en";
-    const newURL = `${window.location.origin}/lang/${lang}/framebuster/`;
-    window.location.href = newURL;
+  if (isFramed) {
+    top.location = self.location;
   }
 }
 
