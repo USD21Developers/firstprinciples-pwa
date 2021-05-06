@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="invites" lang-original="en" lang-translated="" last-updated="2021-05-05" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2021-05-05" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated></translated>
+  </phrase>
+
+	<phrase id="2" desc="page title">
+		<original>
+			Virtual Invites
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="3">
+		<original>
+			What is a virtual invite?
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			A virtual invite is an electronic invitation. The invite contains details about an upcoming event, and a way for the recipient to contact you. There is also a way to add the event to their mobile device's calendar.  This is especially useful because it will automatically remind your guest just minutes before the event begins. 
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="5">
+		<original>
+			What types of events can I share? 
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="6">
+		<original>
+			There is no limit to the number or type of events that you can share, but you must configure the details of each event in advance. Typically there should be at least two:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			Bible Talk
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			Sunday Service
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			How can I send a virtual invite?
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			Currently there are two ways that you can send an invite:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			As a text message
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			You can ask the recipient for their mobile phone number and name, then input that information in this app. This will cause our server to send a text message to that person. The text message will contain the event details, your contact information, and a file attachment that when clicked will add the event to their calendar.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="13">
+		<original>
+			As a QR Code
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			Some people prefer not to disclose their phone number.  In such cases we offer a QR Code that they can scan from your screen.  This will add the event to their calendar.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>
