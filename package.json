@@ -21,7 +21,5 @@
     "jest": "^25.1.0",
     "serve": "^11.3.2"
   },
-  "dependencies": {
-    "workbox-cli": "^6.1.5"
-  }
+  "dependencies": {}
 }
