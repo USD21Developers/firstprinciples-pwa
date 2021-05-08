@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="aboutinvites" lang-original="en" lang-translated="" last-updated="2021-05-08" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2021-05-08" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+  <phrase id="1" desc="app title">
+    <original>
+      First Principles
+    </original>
+    <translated></translated>
+  </phrase>
+
+	<phrase id="2" desc="page title">
+		<original>
+			About Virtual Invites
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="3">
+		<original>
+			Home
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			My Account
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="5">
+		<original>
+			Invites
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="6">
+		<original>
+			About
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			What is a virtual invite?
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			A virtual invite is an electronic invitation. The invite contains details about any upcoming event of your choosing, including a way for your guest to contact you. There is also a way to easily add the event to their mobile device's calendar.  Adding events to a guest's calendar is crucial, because their calendar will automatically remind them at a key moment: minutes before the event begins. This could significantly improve the likelihood that they will actually attend.
+		</original>
+		<translated></translated>
+		<change bold="true" italic="true" href="">
+			<original>
+				Adding events to a guest's calendar is crucial,
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	<phrase id="9">
+		<original>
+			What types of events can I share? 
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			There is no limit to the number or type of events that you can share, but you must configure the details of each event in advance. In this way, you can only send an invite for a specific event (because its calendar reminder pertains to the specific date and time for that event). You should configure at least the first two events below, but you have multiple options:
+		</original>
+		<translated></translated>
+		<change bold="false" italic="true" href="">
+			<original>
+				you must configure the details of each event in advance.
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			Bible Talk
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			Sunday Service
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="13">
+		<original>
+			Bring Your Neighbor Day
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			Midweek Service
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="15">
+		<original>
+			Weekly Devotional
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="16">
+		<original>
+			Women's Day
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="17">
+		<original>
+			Marriage Retreat
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="18">
+		<original>
+			Singles Retreat
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="19">
+		<original>
+			Campus Retreat
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="20">
+		<original>
+			Teen Retreat
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="21">
+		<original>
+			An appointment to call or meet with you
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="22">
+		<original>
+			Your own custom event
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="23">
+		<original>
+			How can I send a virtual invite?
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="24">
+		<original>
+			Currently there are two ways that you can send an invite:
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="25">
+		<original>
+			As a text message
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="26">
+		<original>
+			You can ask the recipient for their mobile phone number and name, then input that information in this app. This will cause our server to send a text message to that person. The text message will contain the event details, your contact information, and a file attachment that when clicked will add the event to their calendar.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="27">
+		<original>
+			As a QR Code
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="28">
+		<original>
+			Some people prefer not to disclose their phone number.  In such cases we offer a QR Code that they can scan from your screen.  This will add the event to their calendar.
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated></translated>
+		<change bold="true" italic="false" href="">
+			<original>
+				
+			</original>
+			<translated></translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

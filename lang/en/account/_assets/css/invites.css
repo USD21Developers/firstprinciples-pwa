@@ -1,0 +1,7 @@
+h4 {
+  font-size: 1.75rem;
+}
+
+ol[compact] li {
+  margin-bottom: 0;
+}
