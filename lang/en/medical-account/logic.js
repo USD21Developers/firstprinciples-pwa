@@ -94,8 +94,9 @@
 
         <p>${phrase(37)}</p>
 
-        <p><em>${phrase(38)}</em></p>
+        <p>${phrase(38)}</p>
 
+        <p>${phrase(39)}</p>
       </div>
     </div>
   `;
