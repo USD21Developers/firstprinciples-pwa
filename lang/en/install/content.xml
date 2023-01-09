@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="install" lang-original="en" lang-translated="" last-updated="2023-01-09" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2023-01-09" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			Install
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="2">
+		<original>
+			How to install the First Principles app
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>
