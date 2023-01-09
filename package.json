@@ -7,7 +7,7 @@
     "email": "vrtjason@gmail.com"
   },
   "scripts": {
-    "start": "serve",
+    "start": "serve -p 5000",
     "test:en": "jest lang/en/_tests -b",
     "test:es": "jest lang/es/_tests -b",
     "test:fr": "jest lang/fr/_tests -b",
@@ -18,8 +18,7 @@
     "deploy:staging": "ssh stagingfp@staging.firstprinciples.mobi -p 1773 -i ../../../.ssh/usd21/id_rsa ./pull.sh"
   },
   "devDependencies": {
-    "jest": "^25.1.0",
-    "serve": "^11.3.2"
-  },
-  "dependencies": {}
+    "jest": "^29.3.1",
+    "serve": "^14.1.2"
+  }
 }
