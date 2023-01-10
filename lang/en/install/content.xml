@@ -4,7 +4,7 @@
 	
 	<phrase id="1" desc="title">
 		<original>
-			Install
+			Install This App
 		</original>
 		<translated>
 			
@@ -13,11 +13,175 @@
 
 	<phrase id="2">
 		<original>
-			How to install the First Principles app
+			Why install?
 		</original>
 		<translated>
 			
 		</translated>
+	</phrase>
+
+	<phrase id="3">
+		<original>
+			It is much easier and quicker to open an app by clicking on its icon vs. typing its Web address into your browser.  You can get the icon for First Principles on your device through installation.
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="true" modal="true">
+			<original>
+				installation
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="4">
+		<original>
+			To install this app, you must add it to your home screen. Just follow the instructions below.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="5">
+		<original>
+			Installation Instructions:
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="Chrome on Android, with 'Add to Home Screen' button visible">
+		<original>
+			Scroll to the very bottom of this page.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="7">
+		<original>
+			Click on the "Add to Home Screen" button, and follow the prompts.
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				Add to Home Screen
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="8">
+		<original>
+			Now check your device's home screen for the First Principles app icon.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="9" desc="Chrome on Android, with 'Add to Home Screen' button NOT visible">
+		<original>
+			Open your browser's menu by clicking on the following icon, which looks like three vertical dots:
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="10">
+		<original>
+			Find and click on the menu item that says either "Add to Home Screen" or "Install First Principles," then follow the prompts.
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				Add to Home Screen
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				Install First Principles
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="11">
+		<original>
+			Open your browser's menu by clicking on the following icon at the bottom of this window. It looks like a rectangle containing an upward-pointing arrow:
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="12">
+		<original>
+			Scroll through the menu items and click "Add to Home Screen," then follow the prompts.
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				Add to Home Screen
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="13">
+		<original>
+			In your Web browser, click on the button that opens the browser's menu options.
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="14">
+		<original>
+			In your Web browser, find and click on the menu item that says something like "Add to Home Screen" or "Install First Principles," then follow the prompts.
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				Add to Home Screen
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="true">
+			<original>
+				Install First Principles
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<!--

@@ -25,6 +25,59 @@
           <strong>${phrase(2)}</strong>
         </p>
 
+        <p>
+          ${phrase(3)}
+        </p>
+
+        <p>
+          ${phrase(4)}
+        </p>
+
+        <p>
+          <strong>${phrase(5)}</strong>
+        </p>
+
+        <div class="instructions hide" id="instructions_chrome_android_with_install_button">
+          <ol>
+            <li>${phrase(6)}</li>
+            <li>${phrase(7)}</li>
+            <li>${phrase(8)}</li>
+          </ol>
+        </div>
+
+        <div class="instructions hide" id="instructions_chrome_android_no_install_button">
+          <ol>
+            <li>
+              ${phrase(9)}
+              <div class="center mt-1">
+                <img src="../_assets/img/icons/kebab-dots.svg" width="48" height="48" />
+              </div>
+            </li>
+            <li>${phrase(10)}</li>
+            <li>${phrase(8)}</li>
+          </ol>
+        </div>
+
+        <div class="instructions hide" id="instructions_safari_ios">
+          <ol>
+            <li>
+              ${phrase(11)}
+              <div class="center mt-1">
+                <img src="../_assets/img/icons/ios_safari_share_menu_button.png" width="28" height="34" />
+              </div>
+            </li>
+            <li>${phrase(12)}</li>
+            <li>${phrase(8)}</li>
+          </ol>
+        </div>
+
+        <div class="instructions" id="instructions_other">
+          <ol>
+            <li>${phrase(14)}</li>
+            <li>${phrase(8)}</li>
+          </ol>
+        </div>
+
         <br>
         
       </div>
