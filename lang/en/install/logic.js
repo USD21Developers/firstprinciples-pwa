@@ -73,6 +73,7 @@
 
         <div class="instructions" id="instructions_other">
           <ol>
+            <li>${phrase(13)}</li>
             <li>${phrase(14)}</li>
             <li>${phrase(8)}</li>
           </ol>
