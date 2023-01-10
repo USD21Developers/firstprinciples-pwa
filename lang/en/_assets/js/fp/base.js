@@ -107,7 +107,7 @@ fp.showContent = (key, lang, selector, cb) => {
             fp.enableInstall();
             fp.onInstall();
             fp.enableShare();
-            cb();
+            if (cb) cb();
           });
           if (fp.view.key === 'light-darkness') {
             setTimeout(() => {
