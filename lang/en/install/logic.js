@@ -71,7 +71,7 @@
           </ol>
         </div>
 
-        <div class="instructions" id="instructions_other">
+        <div class="instructions hide" id="instructions_other">
           <ol>
             <li>${phrase(13)}</li>
             <li>${phrase(14)}</li>

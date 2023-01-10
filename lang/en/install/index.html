@@ -134,7 +134,45 @@
     <script src="../_assets/js/fp/language.js"></script>
     <script src="../_assets/js/fp/scripture.js"></script>
     <script>
-      fp.init('install');
+      function onInstallPageReady() {
+        // Set default variables
+        const nav = window.navigator;
+        const ua = nav.userAgent;
+        let isSafariIOS = false;
+        let isChrome = false;
+        const chromeNoButtonEl = document.querySelector("#instructions_chrome_android_no_install_button");
+        const chromeWithButtonEl = document.querySelector("#instructions_chrome_android_with_install_button");
+        const safariIOSEl = document.querySelector("#instructions_safari_ios");
+        const otherBrowserEl = document.querySelector("#instructions_other");
+        
+        // Determine browser and OS
+        if(ua.indexOf("iPhone")!=-1 && ua.indexOf("Safari")!=-1 && ua.indexOf("CriOS")==-1 && ua.indexOf("FxiOS")==-1) {
+          isSafariIOS = true;
+        } else if(ua.match(/chrome|chromium|crios/i)) {
+          isChrome = true;
+        }
+
+        // Hide and show content accordingly
+        if (isSafariIOS) {
+          safariIOSEl.classList.remove("hide");
+        } else if (isChrome) {
+          // Detect if install button is visible
+          const installButtonEl = document.querySelector("#install-button-container");
+          const isInstallButtonHidden = installButtonEl && window.getComputedStyle(installButtonEl).display === "none" ? true : false;
+
+          // Toggle content based on install button visibility
+          if (isInstallButtonHidden) {
+            chromeNoButtonEl?.classList.remove("hide");
+          } else {
+            chromeWithButtonEl?.classList.remove("hide");
+          }
+        } else {
+          // Default, if neither Safari on iOS nor Chrome on Android
+          otherBrowserEl?.classList.remove("hide");
+        }
+      }
+
+      fp.init('install', onInstallPageReady);
       M.AutoInit();
     </script>
 

@@ -75,7 +75,7 @@ fp.showFooter = (key, lang) => {
   });
 };
 
-fp.showContent = (key, lang, selector) => {
+fp.showContent = (key, lang, selector, cb) => {
   if (! selector) selector = '.fp_pagecontent';
   let urlPrefix = fp.getPath(key, lang);
   const urlContent = urlPrefix + key + '/content.xml';
@@ -107,6 +107,7 @@ fp.showContent = (key, lang, selector) => {
             fp.enableInstall();
             fp.onInstall();
             fp.enableShare();
+            cb();
           });
           if (fp.view.key === 'light-darkness') {
             setTimeout(() => {
@@ -411,7 +412,7 @@ fp.framebuster = () => {
 }
 
 
-fp.init = async fromKey => {
+fp.init = async (fromKey, cb) => {
   window.fp = {};
   fp.framebuster();
   fromKey === "dashboard" && fp.showSplashScreen(fromKey);
@@ -428,7 +429,7 @@ fp.init = async fromKey => {
   fp.language.set(fp.keys.lang);
   fp.language.global.setAppTitle(fromKey, fp.language.current);
   fp.language.global.setExpandButton(fromKey, fp.language.current);
-  await fp.showContent(fromKey, fp.language.current);
+  await fp.showContent(fromKey, fp.language.current, null, cb);
   fp.events.listeners.attach();
   fp.registerServiceWorker(fromKey, fp.language.current);
 };

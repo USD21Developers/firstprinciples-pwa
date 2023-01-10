@@ -92,7 +92,7 @@
 
 	<phrase id="9" desc="Chrome on Android, with 'Add to Home Screen' button NOT visible">
 		<original>
-			Open your browser's menu by clicking on the following icon, which looks like three vertical dots:
+			Open your browser's menu.  It's in the corner of this window and looks like the following three dots:
 		</original>
 		<translated>
 			
@@ -101,7 +101,7 @@
 
 	<phrase id="10">
 		<original>
-			Find and click on the menu item that says either "Add to Home Screen" or "Install First Principles," then follow the prompts.
+			Click on the menu item that says either "Add to Home Screen" or "Install First Principles," then follow the prompts.
 		</original>
 		<translated>
 			
