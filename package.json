@@ -18,7 +18,7 @@
     "deploy:staging": "ssh stagingfp@staging.firstprinciples.mobi -p 1773 -i ../../../.ssh/usd21/id_rsa ./pull.sh"
   },
   "devDependencies": {
-    "jest": "^29.3.1",
+    "jest": "25.1.0",
     "serve": "^14.1.2"
   }
 }
