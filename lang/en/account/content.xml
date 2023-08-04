@@ -78,11 +78,27 @@
 
 	<phrase id="9">
 		<original>
-			Starting in 2021, the First Principles app uses a subscription to help fund educational scholarships for children in third-world countries (learn more here).
+			Starting in 2021, the First Principles and Follow Up Studies App sends each subscription payment to help fund the MERCY McKean Scholarship Foundation which provides educational scholarships for children in developing-world countries (learn more here).
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="false" italic="true">
+			<original>
+				First Principles and Follow Up Studies App
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+		<change bold="false" italic="false" href="https://mercyworldwide.org/mckean-scholarship-foundation/">
+			<original>
+				MERCY McKean Scholarship Foundation
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 		<change bold="true" italic="false" href="why/">
 			<original>
 				learn more here
@@ -95,11 +111,19 @@
 
 	<phrase id="10">
 		<original>
-			To make this scholarship fund possible, we are asking all users of the First Principles app to pay for a subscription once a year, billed through PayPal.
+			To make this scholarship fund possible, we are asking all users of the First Principles and Follow Up Studies App to pay for a subscription once a year, billed through PayPal.
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="false" italic="true">
+			<original>
+				First Principles and Follow Up Studies App
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="11">

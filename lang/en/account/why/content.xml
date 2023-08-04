@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="why" lang-original="en" lang-translated="" last-updated="2020-12-30" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2020-12-30" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="why" lang-original="en" lang-translated="" last-updated="2023-08-03" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2020-12-30" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
   <phrase id="1" desc="app title">
     <original>
@@ -22,20 +22,36 @@
 
 	<phrase id="3">
 		<original>
-			Since its creation in 2012, the First Principles App has become a valuable asset for teaching the core principles of the faith. Whenever God's commands are accurately taught and obeyed, hearts are healed and the light of the truth shines brighter. This app is intended to thoroughly equip every disciple of Jesus Christ in that mission. As of January 31, 2021, there will be a small annual charge of $9.99 USD for the privilege of using this powerful tool.
+			Since its creation in 2012, the First Principles and Follow Up Studies App has become a valuable asset for teaching the core principles of the faith. Whenever God's commands are accurately taught and obeyed, hearts are healed and the light of the truth shines brighter. This app is intended to thoroughly equip every disciple of Jesus Christ in that mission. As of January 31, 2021, there will be a small annual charge of $9.99 USD for the privilege of using this powerful tool.
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="false" italic="true">
+			<original>
+				First Principles and Follow Up Studies App
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="4">
 		<original>
-			Ask yourself, "What is the First Principles App worth, both to me and to others?"
+			Ask yourself, "What is the First Principles and Follow Up Studies App worth, both to me and to others?"
 		</original>
 		<translated>
 			
 		</translated>
+		<change bold="false" italic="true">
+			<original>
+				First Principles and Follow Up Studies App
+			</original>
+			<translated>
+
+			</translated>
+		</change>
 	</phrase>
 
 	<phrase id="5">
@@ -49,22 +65,30 @@
 
 	<phrase id="6">
 		<original>
-			The First Principles App will now incorporate a paid subscription to help fund the McKean Scholarship Fund of MERCYworldwide. Your annual subscription will be used exclusively to support educational opportunities for children in third-world countries. (The selection process of these underprivileged students is overseen by Nick &amp; Denise Bordieri, the Global Directors of MERCYworldwide.)
+			The First Principles and Follow Up Studies App will now incorporate a paid subscription to help fund the McKean Scholarship Foundation of MERCYworldwide. Your annual subscription will be used exclusively to support educational opportunities for children in developing-world countries. (The selection process of these underprivileged students is overseen by Nick and Denise Bordieri, the Global Directors of MERCYworldwide.)
 		</original>
 		<translated>
 			
 		</translated>
-		<change italic="true">
+		<change bold="false" italic="true">
 			<original>
-				worldwide
+				First Principles and Follow Up Studies App
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+		<change bold="true" italic="false" href="https://mercyworldwide.org/mckean-scholarship-foundation/">
+			<original>
+				McKean Scholarship Foundation
 			</original>
 			<translated>
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" href="https://mercyworldwide.org/the-mckean-scholarship-fund/">
+		<change bold="false" italic="true">
 			<original>
-				McKean Scholarship Fund
+				worldwide
 			</original>
 			<translated>
 				
@@ -105,7 +129,15 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="true">
+		<change bold="false" italic="true">
+			<original>
+				"Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the Lord for it, because if it prospers, you too will prosper."
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+		<change bold="false" italic="true">
 			<original>
 				seek the peace and prosperity of the city to which I have carried you into exile.
 			</original>
@@ -173,7 +205,7 @@
 		<translated>
 			
 		</translated>
-		<change jesuswords="true">
+		<change bold="false" italic="true" jesuswords="true">
 			<original>
 				"You are the light of the world. A city on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl. Instead, they put it on its stand, and it gives light to everyone in the house. In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven."
 			</original>
