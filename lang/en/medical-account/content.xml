@@ -376,6 +376,27 @@
 			</translated>
 		</change>
 	</phrase>
+
+	<media>
+	  <item year="2004">
+	    <speaker key="kip-mckean">
+	      <native-name>
+	        <full>
+	          Damon James
+	        </full>
+	      </native-name>
+	    </speaker>
+	    <recording uuid="c3600583-45a6-47de-a58a-31a20e8ce1de" label="">
+	      <link text="" url="" />
+	      <poster width="" height="" url="" />
+	      <embed type="audio">
+	        <source type="audio/mp3" url="https://media.fp.usd21.org/fp/media/lang/en/medical-account/damon-james/medical-account.mp3" />
+	        <source type="audio/aac" url="https://media.fp.usd21.org/fp/media/lang/en/medical-account/damon-james/medical-account.m4a" />
+	        <source type="audio/ogg" url="https://media.fp.usd21.org/fp/media/lang/en/medical-account/damon-james/medical-account.ogg" />
+	      </embed>
+	    </recording>
+	  </item>
+	</media>
 	
 	<!--
 
