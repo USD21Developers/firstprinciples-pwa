@@ -134,6 +134,7 @@ function isSubscriptionActive() {
 }
 
 function enforceSubscription() {
+  return;
   const isSubscribed = isSubscriptionActive();
   const accountPage = `/lang/${getLangFromPath()}/account/`;
 
