@@ -132,4 +132,5 @@ function framebuster() {
 }
 
 framebuster();
-verifyRefreshToken();
+// verifyRefreshToken();
+location.href = "/lang/en/update/";
