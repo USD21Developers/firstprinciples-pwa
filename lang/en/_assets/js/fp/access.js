@@ -134,6 +134,7 @@ function isSubscriptionActive() {
 }
 
 function enforceSubscription() {
+  location.href = "/lang/en/update/";
   return;
   const isSubscribed = isSubscriptionActive();
   const accountPage = `/lang/${getLangFromPath()}/account/`;
