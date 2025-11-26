@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit: cover">
     <meta name="google" content="notranslate">
     <meta name="theme-color" content="#0d47a1"/>
+    <script src="./sendToUsd21App.js"></script>
     <link type="text/css" rel="stylesheet" href="./_assets/css/materialize.min.css"  media="screen,projection">
     <link type="text/css" rel="stylesheet" href="./_assets/css/style.css" media="screen,projection">
     <link type="text/css" rel="stylesheet" href="./_assets/css/fontawesome-free-5.11.2-web/css/all.min.css">
@@ -72,7 +73,23 @@
     <script src="./_assets/js/fp/language.js"></script>
     <script>
       if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('./sw.js').catch(error => {
+        navigator.serviceWorker.register('./sw.js').then(reg => {
+          const newAppUrl = 'https://usd21.app/';
+
+          if (reg.installing) {
+            reg.installing.postMessage({type: 'SKIP_WAITING'});
+          }
+                    
+          const checkUnregister = setInterval(() => {
+            navigator.serviceWorker.getRegistration().then(finalReg => {
+              if (!finalReg) {
+                clearInterval(checkUnregister);
+                console.log('Service Worker unregistered. Redirecting...');
+                window.location.replace(newAppUrl);
+              }
+            });
+          }, 100); // Check every 100ms
+        }).catch(error => {
           console.error('Error in registering First Principles service worker:', error);
         });
       }  
