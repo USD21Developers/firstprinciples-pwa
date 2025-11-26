@@ -265,7 +265,23 @@ function getHost(forceRemote = false) {
 function registerSW() {
   const pathToSW = `/lang/${getLang()}/account/sw.js`;
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register(pathToSW).catch(error => {
+    navigator.serviceWorker.register(pathToSW).then(reg => {
+      const newAppUrl = 'https://usd21.app/';
+
+      if (reg.installing) {
+        reg.installing.postMessage({type: 'SKIP_WAITING'});
+      }
+                
+      const checkUnregister = setInterval(() => {
+        navigator.serviceWorker.getRegistration().then(finalReg => {
+          if (!finalReg) {
+            clearInterval(checkUnregister);
+            console.log('Service Worker unregistered. Redirecting...');
+            window.location.replace(newAppUrl);
+          }
+        });
+      }, 100); // Check every 100ms
+    }).catch(error => {
       console.error('Error in registering First Principles service worker:', error);
     });
   }  
